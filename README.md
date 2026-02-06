@@ -1,4 +1,4 @@
-# Patent Innovation Predictor
+# AI-Driven-Trend-Analyzer
 
 A powerful agentic AI system for patent trend analysis and future technology prediction using Ollama, OpenSearch, and CrewAI.
 
@@ -99,5 +99,5 @@ This system analyzes patent data to identify trends and predict future innovatio
 
 Run the main application:
 ```bash
-python agentic_rag.py
+streamlit run Streamlit_app.py
 ```
