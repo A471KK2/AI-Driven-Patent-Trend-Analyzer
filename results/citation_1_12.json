@@ -1,0 +1,848 @@
+{
+  "search_metadata": {
+    "id": "697a39eaf73581e17dda3534",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2950047db51d1529/697a39eaf73581e17dda3534.json",
+    "created_at": "2026-01-28 16:31:38 UTC",
+    "processed_at": "2026-01-28 16:31:38 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20070020217A1/en",
+    "raw_html_file": "https://serpapi.com/searches/2950047db51d1529/697a39eaf73581e17dda3534.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20070020217A1/en"
+  },
+  "title": "Cosmetic composition comprising at least two emulsifying silicone elastomers",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/06/8a/1b/a54e7a62672f6a/US20070020217A1.pdf",
+  "publication_number": "US20070020217A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "composition",
+    "weight",
+    "composition according",
+    "relative",
+    "total weight"
+  ],
+  "prior_art_date": "2005-07-04",
+  "application_number": "US11/480,391",
+  "inventors": [
+    {
+      "name": "Agnes Themens",
+      "link": "https://patents.google.com/?inventor=Agnes+Themens",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Agnes+Themens"
+    }
+  ],
+  "assignees": [
+    "LOreal SA"
+  ],
+  "priority_date": "2005-07-04",
+  "filing_date": "2006-07-05",
+  "publication_date": "2007-01-25",
+  "worldwide_applications": {
+    "2006": [
+      {
+        "filing_date": "2006-07-05",
+        "country_code": "US",
+        "application_number": "US11/480,391",
+        "document_id": "patent/US8900608B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-07-04",
+      "title": "Priority claimed from FR0552022A",
+      "type": "external-priority",
+      "document_id": "patent/FR2887766B1/en"
+    },
+    {
+      "date": "2006-07-05",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2006-07-05",
+      "title": "Priority to US11/480,391",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US8900608B2/en"
+    },
+    {
+      "date": "2006-10-02",
+      "title": "Assigned to L'OREAL S.A.",
+      "type": "reassignment",
+      "assignee_search": "L'OREAL S.A.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: THEMENS, AGNES"
+      ]
+    },
+    {
+      "date": "2007-01-25",
+      "title": "Publication of US20070020217A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20070020217A1/en"
+    },
+    {
+      "date": "2014-12-02",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2014-12-02",
+      "title": "Publication of US8900608B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US8900608B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2026-07-05",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20070020217.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11480391"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20070020217"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2007020217A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11480391/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20070020217"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A61K8/894",
+      "description": "Polysiloxanes saturated, e.g. dimethicone, phenyl trimethicone, C24-C28 methicone or stearyl dimethicone modified by a polyoxyalkylene group, e.g. cetyl dimethicone copolyol",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61K8/345",
+      "description": "Alcohols containing more than one hydroxy group",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61K8/585",
+      "description": "Organosilicon compounds",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61K8/891",
+      "description": "Polysiloxanes saturated, e.g. dimethicone, phenyl trimethicone, C24-C28 methicone or stearyl dimethicone",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61Q1/02",
+      "description": "Preparations containing skin colorants, e.g. pigments",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The disclosure relates to a cosmetic composition in the form of a water-in-oil emulsion comprising at least two different emulsifying silicone elastomers, the emulsifying elastomers being present in an amount of at least 3% by weight relative to the total weight of the composition. The disclosure also relates to the use of such a composition to obtain makeup that is comfortable and/or that has no tacky feel and/or that spreads easily.",
+  "description_link": "https://serpapi.com/searches/697a39eaf73581e17dda3534/google_patents_details/description.html",
+  "claims": [
+    "1. A cosmetic composition in the form of a water-in-oil emulsion comprising at least two different emulsifying silicone elastomers, wherein the at least two different emulsifying silicone elastomers are present in the composition in an amount of at least 3% by weight relative to the total weight of the composition.",
+    "2. The composition according to claim 1, wherein the at least two different emulsifying silicone elastomers are present in an amount ranging from 3% to 15% by weight, relative to the total weight of the composition.",
+    "3. The composition according to claim 2, wherein the at least two different emulsifying silicone elastomers are present in an amount ranging from 4% to 7% by weight, relative to the total weight of the composition.",
+    "4. The composition according to claim 1, wherein each emulsifying silicone elastomer is present in the composition in an amount greater than 1.5% by weight, relative to the total weight of the composition.",
+    "5. The composition according to claim 1, wherein the at least two different emulsifying silicone elastomers are independently chosen from polyoxyalkylenated silicone elastomers and polyglycerolated silicone elastomers.",
+    "6. The composition according to claim 5, wherein the polyoxyalkylenated silicone elastomers are obtained by a crosslinking addition reaction of a diorganosiloxane comprising at least one hydrogen bonded to silicon and a polyoxyalkylene comprising at least two ethylenically unsaturated groups.",
+    "7. The composition according to claim 5, wherein the polyglycerolated silicone elastomers are obtained by a crosslinking addition reaction of a diorganosiloxane comprising at least one hydrogen bonded to silicon and a polyglycerolated compound comprising ethylenically unsaturated groups.",
+    "8. The composition according to claim 7, wherein the crosslinking addition reaction takes place in the presence of a platinum catalyst.",
+    "9. The composition according to claim 1, wherein said composition comprises at least one polyglycerolated silicone elastomer and at least one polyoxyalkylenated silicone elastomer.",
+    "10. The composition according to claim 5, wherein the polyglycerolated silicone elastomer(s) are present in an amount of at least 1.5% by weight, relative to the total weight of the composition.",
+    "11. The composition according to claim 10, wherein the polyglycerolated silicone elastomer(s) are present in an amount ranging from 1.5% to 5% by weight, relative to the total weight of the composition",
+    "12. The composition according to claim 5, wherein the polyoxyalkylenated silicone elastomer(s) are present in an amount of at least 1.5% by weight, relative to the total weight of the composition.",
+    "13. The composition according to claim 12, wherein the polyoxyalkylenated silicone elastomer(s) are present in an amount ranging from 1.5% to 5% by weight, relative to the total weight of the composition.",
+    "14. The composition according to claim 1, further comprising at least one oil chosen from hydrocarbon-based oils and silicone oils.",
+    "15. The composition according to claim 1, further comprising at least one volatile oil.",
+    "16. The composition according to claim 15, wherein the at least one volatile oil is chosen from hydrocarbon-based volatile oils, silicone volatile oils and fluoro volatile oils.",
+    "17. The composition according to claim 15, wherein the at least one volatile oil is present in an amount ranging from 1% to 50% by weight, relative to the total weight of the composition.",
+    "18. The composition according to claim 17, wherein the at least one volatile oil is present in an amount ranging from 7% to 20% by weight, relative to the total weight of the composition.",
+    "19. The composition according to claim 1, further comprising at least one non-volatile oil.",
+    "20. The composition according to claim 19, wherein the at least one non-volatile oil is present in an amount ranging from 1% to 50% by weight, relative to the total weight of the composition.",
+    "21. The composition according to claim 20, wherein the at least one non-volatile oil is present in an amount ranging from 10% to 30% by weight, relative to the total weight of the composition",
+    "22. The composition according to claim 1, further comprising at least one oil chosen from volatile oils and non-volatile oils, wherein the at least one oil is present in an amount ranging from 5% to 70% by weight, relative to the total weight of the composition.",
+    "23. The composition according to claim 22, wherein the at least one oil is present in an amount ranging from 20% to 50% by weight, relative to the total weight of the composition.",
+    "24. The composition according to claim 1, further comprising an aqueous phase present in an amount ranging from 25% to 50% by weight, relative to the total weight of the composition.",
+    "25. The composition according to claim 24, wherein the aqueous phase is present in an amount ranging from 30% to 50% by weight, relative to the total weight of the composition.",
+    "26. The composition according to claim 1, further comprising at least one water-miscible organic solvent.",
+    "27. The composition according to claim 26, wherein the at least one water-miscible organic solvent is chosen from polyols and glycol esters.",
+    "28. The composition according to claim 26, wherein the at least one water-miscible organic solvent is present in an amount of at least 3% by weight, relative to the total weight of the composition.",
+    "29. The composition according to claim 26, wherein the at least one water-miscible organic solvent is present in an amount ranging from 5% to 12% by weight, relative to the total weight of the composition.",
+    "30. The composition according to claim 1, wherein the composition comprises an oily phase and an aqueous phase, wherein the weight ratio of the oily phase to the aqueous phase ranges from 0.5 to 2.5.",
+    "31. The composition according to claim 30, wherein the weight ratio of the oily phase to the aqueous phase ranges from 1 to 2.",
+    "32. The composition according to claim 1, further comprising at least one filler.",
+    "33. The composition according to claim 32, wherein the at least one filler is chosen from mineral and organic fillers, in platelet, spherical or oblong form.",
+    "34. The composition according to claim 33, wherein the at least one filler is chosen from spherical fillers.",
+    "35. The composition according to claim 32, wherein the at least one filler is present in an amount ranging from 0.5% to 20% by weight, relative to the total weight of the composition.",
+    "36. The composition according to claim 35, wherein the at least one filler is present in an amount ranging from 2% to 10% by weight, relative to the total weight of the composition.",
+    "37. The composition according to claim 1, further comprising at least one dyestuff chosen from pigments, nacres, flakes, liposoluble dyes and water-soluble dyes.",
+    "38. The composition according to claim 37, wherein said at least one dyestuff is chosen from at least one pigment.",
+    "39. The composition according to claim 38, wherein the at least one pigment is chosen from coated pigments.",
+    "40. The composition according to claim 39, wherein the at least one coated pigment is chosen from iron oxide and titanium dioxide pigments.",
+    "41. The composition according to claim 37, wherein the at least one dyestuff is present in an amount ranging from 0.01% to 40% by weight, relative to the total weight of the composition.",
+    "42. The composition according to claim 41, wherein the at least one dyestuff is present in an amount ranging from 5% to 20% by weight, relative to the total weight of the composition.",
+    "43. The composition according to claim 1, further comprising at least one non-emulsifying elastomer.",
+    "44. The composition according to claim 43, wherein the at least one non-emulsifying elastomer is present in an amount ranging from 0.01% to 10% by weight, relative to the total weight of the composition.",
+    "45. The composition according to claim 44, wherein the at least one non-emulsifying elastomer is present in an amount ranging from 1% to 3% by weight, relative to the total weight of the composition.",
+    "46. The composition according to claim 1, wherein the composition has a viscosity ranging from 10 Pa.s to 300 Pa.s for a shear of 1 s\u22121.",
+    "47. The composition according to claim 46, wherein the composition has a viscosity ranging from 15 to 200 Pa.s for a shear of 1 s\u22121.",
+    "48. The composition according to claim 1, further comprising at least one cosmetic ingredient chosen from non-elastomeric surfactants, hydrophilic or lipophilic gelling agents and/or thickeners, antioxidants, fragrances, preserving agents, neutralizers, sunscreens, vitamins, moisturizers, self-tanning compounds, anti-wrinkle active agents, emollients, hydrophilic or lipophilic active agents, anti-pollution agents or free-radical scavengers, sequestrants, film-forming agents, dermo-relaxing active agents, calmatives, agents for stimulating the synthesis and/or for preventing the degradation of dermal or epidermal macromolecules, anti-glycation agents, anti-irritant agents, desquamating agents, depigmenting agents, anti-pigmenting or pro-pigmenting agents, NO-synthase inhibitors, agents for stimulating fibroblast or keratinocyte proliferation and/or keratinocyte differentiation, agents acting on the capillary circulation, agents acting on the energy metabolism of cells, and cicatrizing agents.",
+    "49. A cosmetic composition in the form of a water-in-oil emulsion comprising: \ni) at least 1.5% by weight, relative to the total weight of the composition, of a polyoxyalkylenated emulsifying silicone elastomer;  ii) at least 1.5% by weight, relative to the total weight of the composition, of a polyglycerolated emulsifying silicone elastomer;  iii) at least 20% by weight, relative to the total weight of the composition, of water;  iv) at least one volatile oil;  v) at least 5% by weight, relative to the total weight of the composition, of at least one water-miscible organic solvent chosen from glycols and polyols; and  vi) at least 5% by weight, relative to the total weight of the composition, of at least one dyestuff,  wherein the composition has a viscosity ranging from 10 Pa.s to 300 Pa.s for a shear of 1 s\u22121.",
+    "50. A process for making up or caring for keratin materials, comprising: \napplying to the keratin materials a cosmetic composition in the form of a water-in-oil emulsion comprising at least two different emulsifying silicone elastomers, wherein the at least two different emulsifying silicone elastomers are present in the composition in an amount of at least 3% by weight relative to the total weight of the composition.",
+    "51. A process for obtaining a makeup composition that is comfortable to wear, has no tacky feel, and/or spreads easily, said process comprising: \nincluding in said composition at least two different emulsifying silicone elastomers, wherein the at least two different emulsifying silicone elastomers are present in the composition in an amount of at least 3% by weight relative to the total weight of the composition, and wherein said composition is in the form of a water-in-oil emulsion."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/480,391",
+      "representative_publication": "US8900608B2",
+      "primary_language": "en",
+      "priority_date": "2005-07-04",
+      "filing_date": "2006-07-05",
+      "title": "Cosmetic composition comprising at least two emulsifying silicone elastomers"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "FR0552022",
+      "filing_date": "2005-07-04"
+    },
+    {
+      "application_number": "FR0552022A",
+      "representative_publication": "FR2887766B1",
+      "primary_language": "en",
+      "priority_date": "2005-07-04",
+      "filing_date": "2005-07-04",
+      "title": "COSMETIC COMPOSITION COMPRISING ELASTOMERS"
+    },
+    {
+      "application_number": "US71282805P",
+      "priority_date": "2005-09-01",
+      "filing_date": "2005-09-01"
+    },
+    {
+      "application_number": "US11/480,391",
+      "representative_publication": "US8900608B2",
+      "primary_language": "en",
+      "priority_date": "2005-07-04",
+      "filing_date": "2006-07-05",
+      "title": "Cosmetic composition comprising at least two emulsifying silicone elastomers"
+    }
+  ],
+  "family_id": "37679276",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5236986A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-02-27",
+        "publication_date": "1993-08-17",
+        "assignee_original": "Shin-Etsu Chemical Co., Ltd.",
+        "title": "Silicone polymers and water-dispersable, pasty silicone oil compositions comprising the same",
+        "patent_id": "patent/US5236986A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5236986A%2Fen"
+      },
+      {
+        "publication_number": "US5412004A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-11-21",
+        "publication_date": "1995-05-02",
+        "assignee_original": "Kose Corporation",
+        "title": "Silicone polymer, paste-like silicone composition, and w/o-type cosmetic composition comprising the same",
+        "patent_id": "patent/US5412004A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5412004A%2Fen"
+      },
+      {
+        "publication_number": "US5811487A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-12-16",
+        "publication_date": "1998-09-22",
+        "assignee_original": "Dow Corning Corporation",
+        "title": "Thickening silicones with elastomeric silicone polyethers",
+        "patent_id": "patent/US5811487A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5811487A%2Fen"
+      },
+      {
+        "publication_number": "US5837793A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-03-22",
+        "publication_date": "1998-11-17",
+        "assignee_original": "Dow Corning Toray Silicone Co., Ltd.",
+        "title": "Silicone rubber powder and method for the preparation thereof",
+        "patent_id": "patent/US5837793A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5837793A%2Fen"
+      },
+      {
+        "publication_number": "US6103250A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-06",
+        "publication_date": "2000-08-15",
+        "assignee_original": "Revlon Consumer Products Corporation",
+        "title": "Anhydrous cosmetic compositions containing emulsifying siloxane elastomer",
+        "patent_id": "patent/US6103250A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6103250A%2Fen"
+      },
+      {
+        "publication_number": "US6171581B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-18",
+        "publication_date": "2001-01-09",
+        "assignee_original": "Revlon Consumer Products Corporation",
+        "title": "Water and oil emulsion solid antiperspirant/deodorant compositions",
+        "patent_id": "patent/US6171581B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6171581B1%2Fen"
+      },
+      {
+        "publication_number": "US20020022040A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-07-10",
+        "publication_date": "2002-02-21",
+        "assignee_original": "The Proctor & Gamble Company",
+        "title": "Methods of enhancing delivery of oil-soluble skin care actives",
+        "patent_id": "patent/US20020022040A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020022040A1%2Fen"
+      },
+      {
+        "publication_number": "US20020058054A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-30",
+        "publication_date": "2002-05-16",
+        "assignee_original": "L'oreal",
+        "title": "Transfer-resistant cosmetic compositions comprising a non-volatile silicone compound, a non-volatile hydrocarbon-based oil, and an inert particular phase",
+        "patent_id": "patent/US20020058054A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020058054A1%2Fen"
+      },
+      {
+        "publication_number": "US20050220728A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-22",
+        "publication_date": "2005-10-06",
+        "assignee_original": "Mohamed Kanji",
+        "title": "Cosmetic composition comprising a polyglycerolated silicone elastomer",
+        "patent_id": "patent/US20050220728A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050220728A1%2Fen"
+      },
+      {
+        "publication_number": "US20060034875A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-12",
+        "publication_date": "2006-02-16",
+        "assignee_original": "Tetsuo Nakanishi",
+        "title": "Novel organopolysiloxane polymer, pasty composition, and cosmetic preparation containing the composition",
+        "patent_id": "patent/US20060034875A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060034875A1%2Fen"
+      },
+      {
+        "publication_number": "US20060263310A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-24",
+        "publication_date": "2006-11-23",
+        "assignee_original": "Elliott Russell P",
+        "title": "Foundation",
+        "patent_id": "patent/US20060263310A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060263310A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPH0651614B2",
+        "primary_language": "en",
+        "priority_date": "1987-05-29",
+        "publication_date": "1994-07-06",
+        "assignee_original": "\u6771\u829d\u30b7\u30ea\u30b3\u2212\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Makeup cosmetics",
+        "patent_id": "patent/JPH0651614B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0651614B2%2Fen"
+      },
+      {
+        "publication_number": "JPS63313710A",
+        "primary_language": "en",
+        "priority_date": "1987-06-16",
+        "publication_date": "1988-12-21",
+        "assignee_original": "Toray Silicone Co Ltd",
+        "title": "Face cleaning cosmetic",
+        "patent_id": "patent/JPS63313710A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS63313710A%2Fen"
+      },
+      {
+        "publication_number": "US5599533A",
+        "primary_language": "en",
+        "priority_date": "1994-12-15",
+        "publication_date": "1997-02-04",
+        "assignee_original": "Estee Lauder, Inc.",
+        "title": "Stable water-in-oil emulsion system",
+        "patent_id": "patent/US5599533A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5599533A%2Fen"
+      },
+      {
+        "publication_number": "JP3631927B2",
+        "primary_language": "en",
+        "priority_date": "1999-09-22",
+        "publication_date": "2005-03-23",
+        "assignee_original": "\u30ed\u30ec\u30a2\u30eb",
+        "title": "Gel composition and its use in cosmetics, etc.",
+        "patent_id": "patent/JP3631927B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3631927B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080194705A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-09",
+        "publication_date": "2008-08-14",
+        "assignee_original": "Nawaz Ahmad",
+        "title": "Lotion composition for personal use",
+        "patent_id": "patent/US20080194705A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080194705A1%2Fen"
+      },
+      {
+        "publication_number": "US20080199421A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-21",
+        "publication_date": "2008-08-21",
+        "assignee_original": "L'oreal",
+        "title": "W/o emulsion",
+        "patent_id": "patent/US20080199421A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080199421A1%2Fen"
+      },
+      {
+        "publication_number": "US20080275137A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-09",
+        "publication_date": "2008-11-06",
+        "assignee_original": "Nawaz Ahmad",
+        "title": "Lotion composition for personal use",
+        "patent_id": "patent/US20080275137A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080275137A1%2Fen"
+      },
+      {
+        "publication_number": "US20080311058A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-18",
+        "publication_date": "2008-12-18",
+        "assignee_original": "Connopco, Inc., D/B/A Unilever",
+        "title": "Stable high internal phase emulsions and compositions comprising the same",
+        "patent_id": "patent/US20080311058A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080311058A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009004516A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-03",
+        "publication_date": "2009-01-08",
+        "assignee_original": "The Procter & Gamble Company",
+        "title": "Personal care composition",
+        "patent_id": "patent/WO2009004516A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009004516A1%2Fen"
+      },
+      {
+        "publication_number": "US20090247445A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-01",
+        "publication_date": "2009-10-01",
+        "assignee_original": "Conopco, Inc., D/B/A Unilever",
+        "title": "In-Shower and Bath Compositions",
+        "patent_id": "patent/US20090247445A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090247445A1%2Fen"
+      },
+      {
+        "publication_number": "US20100234474A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-11",
+        "publication_date": "2010-09-16",
+        "assignee_original": "Conopco, Inc., D/B/A Unilever",
+        "title": "Method and Composition for Evenly Applying Water Soluble Actives",
+        "patent_id": "patent/US20100234474A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100234474A1%2Fen"
+      },
+      {
+        "publication_number": "US8398959B2",
+        "primary_language": "en",
+        "priority_date": "2010-12-06",
+        "publication_date": "2013-03-19",
+        "assignee_original": "Conopco, Inc.",
+        "title": "Compositions and methods for imparting a sunless tan with functionalized adjuvants",
+        "patent_id": "patent/US8398959B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8398959B2%2Fen"
+      },
+      {
+        "publication_number": "US20140044659A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-03",
+        "publication_date": "2014-02-13",
+        "assignee_original": "Avon Products, Inc.",
+        "title": "Compositions Having a Plurality of Discrete Emulsions",
+        "patent_id": "patent/US20140044659A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140044659A1%2Fen"
+      },
+      {
+        "publication_number": "US8821839B2",
+        "primary_language": "en",
+        "priority_date": "2010-10-22",
+        "publication_date": "2014-09-02",
+        "assignee_original": "Conopco, Inc.",
+        "title": "Compositions and methods for imparting a sunless tan with a vicinal diamine",
+        "patent_id": "patent/US8821839B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8821839B2%2Fen"
+      },
+      {
+        "publication_number": "US8961942B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-13",
+        "publication_date": "2015-02-24",
+        "assignee_original": "Conopco, Inc.",
+        "title": "Sunless tanning compositions with adjuvants comprising sulfur comprising moieties",
+        "patent_id": "patent/US8961942B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8961942B2%2Fen"
+      },
+      {
+        "publication_number": "US20170209484A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-09",
+        "publication_date": "2017-07-27",
+        "assignee_original": "Klox Technologies Inc.",
+        "title": "Silicone-based biophotonic compositions and uses thereof",
+        "patent_id": "patent/US20170209484A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170209484A1%2Fen"
+      },
+      {
+        "publication_number": "CN110225741A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-02",
+        "publication_date": "2019-09-10",
+        "assignee_original": "\u9999\u5948\u513f\u9999\u6c34\u7f8e\u5986\u54c1\u516c\u53f8",
+        "title": "Solid water-in-oil cosmetic emulsions",
+        "patent_id": "patent/CN110225741A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110225741A%2Fen"
+      },
+      {
+        "publication_number": "US10975213B2",
+        "primary_language": "en",
+        "priority_date": "2018-08-13",
+        "publication_date": "2021-04-13",
+        "assignee_original": "Erthos Inc.",
+        "title": "Composition and method of making biodegradable pellets",
+        "patent_id": "patent/US10975213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10975213B2%2Fen"
+      },
+      {
+        "publication_number": "US12291636B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/US12291636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11806424B2",
+      "primary_language": "en",
+      "publication_date": "2023-11-07",
+      "title": "Pore hiding cosmetic composition comprising a plate type filler, a silicon elastomer and an oil absorbing filler",
+      "patent_id": "patent/US11806424B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11806424B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102300305B1",
+      "primary_language": "en",
+      "publication_date": "2021-09-08",
+      "title": "Solid water-in-oil cosmetic emulsion",
+      "patent_id": "patent/KR102300305B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102300305B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9023328B2",
+      "primary_language": "en",
+      "publication_date": "2015-05-05",
+      "title": "W/O emulsion with emulsifying silicone elastomer and volatile linear alkane",
+      "patent_id": "patent/US9023328B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9023328B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8932611B2",
+      "primary_language": "en",
+      "publication_date": "2015-01-13",
+      "title": "Cosmetic composition containing elastomers",
+      "patent_id": "patent/US8932611B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8932611B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9675532B2",
+      "primary_language": "en",
+      "publication_date": "2017-06-13",
+      "title": "Fluid cosmetic composition comprising a monoalcohol",
+      "patent_id": "patent/US9675532B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9675532B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8900608B2",
+      "primary_language": "en",
+      "publication_date": "2014-12-02",
+      "title": "Cosmetic composition comprising at least two emulsifying silicone elastomers",
+      "patent_id": "patent/US8900608B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8900608B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060013792A1",
+      "primary_language": "en",
+      "publication_date": "2006-01-19",
+      "title": "Solid water-in-oil cosmetic emulsion",
+      "patent_id": "patent/US20060013792A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060013792A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ES2316003T3",
+      "primary_language": "en",
+      "publication_date": "2009-04-01",
+      "title": "COSMETIC COMPOSITION CONTAINING ORGANOSILICONED HOLLOW SPHERE PROTIONS.",
+      "patent_id": "patent/ES2316003T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2316003T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5442926B2",
+      "primary_language": "en",
+      "publication_date": "2014-03-19",
+      "title": "Cosmetic composition comprising elastomers",
+      "patent_id": "patent/JP5442926B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5442926B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8440763B2",
+      "primary_language": "en",
+      "publication_date": "2013-05-14",
+      "title": "Cosmetic composition comprising silicone particles",
+      "patent_id": "patent/US8440763B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8440763B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070224141A1",
+      "primary_language": "en",
+      "publication_date": "2007-09-27",
+      "title": "Kit containing two compositions",
+      "patent_id": "patent/US20070224141A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070224141A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2007091741A",
+      "primary_language": "en",
+      "publication_date": "2007-04-12",
+      "title": "Kit containing two cosmetic compositions",
+      "patent_id": "patent/JP2007091741A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007091741A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FR2916630A1",
+      "primary_language": "en",
+      "publication_date": "2008-12-05",
+      "title": "Composition, useful for make up of skin, to provide gaining effect in single application and to obtain day-long comfort sensation, comprises volatile oil, wax and non-spherical non emulsifying silicone elastomer",
+      "patent_id": "patent/FR2916630A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2916630A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FR2862534A1",
+      "primary_language": "en",
+      "publication_date": "2005-05-27",
+      "title": "COSMETIC COMPOSITION COMPRISING PARTICLES OF DIFFERENT HARDNESS",
+      "patent_id": "patent/FR2862534A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2862534A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FR2873019A1",
+      "primary_language": "en",
+      "publication_date": "2006-01-20",
+      "title": "SOLID WATER-IN-OIL COSMETIC EMULSION",
+      "patent_id": "patent/FR2873019A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2873019A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FR2873018A1",
+      "primary_language": "en",
+      "publication_date": "2006-01-20",
+      "title": "SOLID WATER-IN-OIL COSMETIC EMULSION",
+      "patent_id": "patent/FR2873018A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2873018A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FR2891144A1",
+      "primary_language": "en",
+      "publication_date": "2007-03-30",
+      "title": "KIT COMPRISING TWO COSMETIC COMPOSITIONS",
+      "patent_id": "patent/FR2891144A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2891144A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2009037303A1",
+      "primary_language": "en",
+      "publication_date": "2009-03-26",
+      "title": "Composition comprising a continuous fatty phase and a specific ester",
+      "patent_id": "patent/WO2009037303A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009037303A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FR2891139A1",
+      "primary_language": "en",
+      "publication_date": "2007-03-30",
+      "title": "KIT COMPRISING TWO COSMETIC COMPOSITIONS",
+      "patent_id": "patent/FR2891139A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2891139A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2022227002A1",
+      "primary_language": "en",
+      "publication_date": "2022-11-03",
+      "title": "Anhydrous composition for caring for and/or making up keratin materials",
+      "patent_id": "patent/WO2022227002A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022227002A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-10-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "L'OREAL S.A., FRANCE"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:THEMENS, AGNES;REEL/FRAME:018360/0391"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060907"
+        }
+      ]
+    },
+    {
+      "date": "2014-11-12",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-17",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551)"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-18",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    }
+  ]
+}

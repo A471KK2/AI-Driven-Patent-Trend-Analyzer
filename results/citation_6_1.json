@@ -1,0 +1,653 @@
+{
+  "search_metadata": {
+    "id": "697a3a839a1f2c8e8257f03c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2b522f3ba10b0697/697a3a839a1f2c8e8257f03c.json",
+    "created_at": "2026-01-28 16:34:11 UTC",
+    "processed_at": "2026-01-28 16:34:11 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6262226B1/en",
+    "raw_html_file": "https://serpapi.com/searches/2b522f3ba10b0697/697a3a839a1f2c8e8257f03c.html",
+    "total_time_taken": 1.17
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6262226B1/en"
+  },
+  "title": "Process for producing a high molecular weight condensation polymer",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b5/f7/f8/da3a66f046fbf3/US6262226.pdf",
+  "publication_number": "US6262226B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "product",
+    "reaction mixture",
+    "equilibrium reaction",
+    "polycondensation equilibrium",
+    "condensation polymer"
+  ],
+  "prior_art_date": "1999-05-07",
+  "application_number": "US09/549,323",
+  "inventors": [
+    {
+      "name": "Eugene R. Moore",
+      "link": "https://patents.google.com/?inventor=Eugene+R.+Moore",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Eugene+R.+Moore"
+    },
+    {
+      "name": "George J. Quarderer, Jr.",
+      "link": "https://patents.google.com/?inventor=George+J.+Quarderer%2C+Jr.",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=George+J.+Quarderer%2C+Jr."
+    },
+    {
+      "name": "Clark J. Cummings",
+      "link": "https://patents.google.com/?inventor=Clark+J.+Cummings",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Clark+J.+Cummings"
+    },
+    {
+      "name": "Danil Tirtowidjojo",
+      "link": "https://patents.google.com/?inventor=Danil+Tirtowidjojo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Danil+Tirtowidjojo"
+    }
+  ],
+  "assignees": [
+    "Dow Chemical Co"
+  ],
+  "priority_date": "1999-05-07",
+  "filing_date": "2000-04-13",
+  "publication_date": "2001-07-17",
+  "worldwide_applications": {
+    "2000": [
+      {
+        "filing_date": "2000-04-13",
+        "country_code": "US",
+        "application_number": "US09/549,323",
+        "document_id": "patent/US6262226B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      },
+      {
+        "filing_date": "2000-04-13",
+        "country_code": "EP",
+        "application_number": "EP00923321A",
+        "document_id": "patent/EP1177039A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2000-04-13",
+        "country_code": "AU",
+        "application_number": "AU43467/00A",
+        "document_id": "patent/AU4346700A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2000-04-13",
+        "country_code": "JP",
+        "application_number": "JP2000616915A",
+        "document_id": "patent/JP2002544328A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2000-04-13",
+        "country_code": "WO",
+        "application_number": "PCT/US2000/009946",
+        "document_id": "patent/WO2000067896A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2000-04-13",
+      "title": "Application filed by Dow Chemical Co",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Dow Chemical Co"
+    },
+    {
+      "date": "2000-04-13",
+      "title": "Priority to US09/549,323",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US6262226B1/en"
+    },
+    {
+      "date": "2001-03-15",
+      "title": "Assigned to DOW CHEMICAL COMPANY, THE",
+      "type": "reassignment",
+      "assignee_search": "DOW CHEMICAL COMPANY, THE",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MOORE, EUGENE, QUARDERER, GEORGE J., CUMMINGS, CLARK J., TIRTOWIDJOJO, DAN"
+      ]
+    },
+    {
+      "date": "2001-07-17",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2001-07-17",
+      "title": "Publication of US6262226B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6262226B1/en"
+    },
+    {
+      "date": "2020-04-13",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6262226.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09549323"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6262226"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6262226B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09549323/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6262226"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "B01J19/1887",
+      "description": "Stationary reactors having moving elements inside forming a thin film",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B01J19/28",
+      "description": "Moving reactors, e.g. rotary drums",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08G63/78",
+      "description": "Preparation processes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08G63/785",
+      "description": "Preparation processes characterised by the apparatus used",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B01J2219/00051",
+      "description": "Controlling the temperature",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention is directed to a process for producing a high molecular weight condensation polymer by removing unwanted by-product(s) from a polycondensation equilibrium reaction mixture using a centrifugal force device equipped with a vacuum.",
+  "description_link": "https://serpapi.com/searches/697a3a839a1f2c8e8257f03c/google_patents_details/description.html",
+  "claims": [
+    "1. A process for producing a condensation polymer from a polycondensation equilibrium reaction, wherein the polycondensation equilibrium reaction produces a polycondensation equilibrium reaction mixture which comprises a condensation polymer having at least one reactive chain end and at least one unwanted by-product, and wherein such by-product inhibits the completion of the polymerization reaction due to an equilibrium state, comprising:\n      removing the unwanted by-product from the polycondensation equilibrium reaction mixture using a centrifugal force device equipped with a vacuum, wherein the centrifugal force device is rotated at a sufficient angular velocity such that the polycondensation equilibrium reaction mixture forms thin films, rapid diffusion of unwanted by-product from the polycondensation equilibrium reaction mixture to the vapor phase is achieved, and the unwanted by-product(s) is substantially removed via the vacuum, causing the further reaction of the condensation polymer chain end(s).",
+    "2. The process of claim 1 wherein the angular velocity is from 50 to 10,000 times the normal gravitational pull.",
+    "3. The process of claim 1 wherein at least 1,000 ppm, based on the total weight of the polycondensation equilibrium reaction mixture, of by-product(s) is removed from the polycondensation equilibrium reaction mixture.",
+    "4. The process of claim 1 wherein at least 6,000 ppm, based on the total weight of the polycondensation equilibrium reaction mixture, of by-product(s) is removed from the polycondensation equilibrium reaction mixture.",
+    "5. The process of claim 1 wherein at least 10,000 ppm, based on the total weight of the polycondensation equilibrium reaction mixture, of by-product(s) is removed from the polycondensation equilibrium reaction mixture.",
+    "6. A process for producing a condensation polymer comprising:\n      a) feeding a stream comprising one or more monomers capable of producing a condensation polymer in a polycondensation equilibrium reaction, into a reaction zone; \n      b) polymerizing the monomer(s) to form a polycondensation equilibrium reaction mixture comprising a condensation polymer having at least one reactive chain end, unreacted monomer(s) and at least one unwanted by-product; \n      c) feeding the polycondensation equilibrium reaction mixture of b) to a centrifugal device equipped with a vacuum; and \n      d) rotating the centrifugal force device at a sufficient angular velocity such that the polycondensation equilibrium reaction mixture forms thin films, rapid diffusion of unwanted by-product from the polycondensation equilibrium reaction mixture to the vapor phase is achieved, and the unwanted by-product(s) is substantially removed via the vacuum, causing further reaction of the reactive condensation polymer chain end(s).",
+    "7. A process of producing a condensation polymer comprising:\n      a) feeding a stream comprising one or more monomers capable of producing a condensation polymer in a polycondensation equilibrium reaction, into a reaction zone within a centrifugal device equipped with a vacuum; \n      b) polymerizing the monomer(s) to form a polycondensation equilibrium reaction mixture comprising a condensation polymer having at least one reactive chain end, unreacted monomer(s) and at least one unwanted by-product; and \n      c) rotating the centrifugal force device at a sufficient angular velocity such that the polycondensation equilibrium reaction mixture forms thin films, rapid diffusion of unwanted by-product from the polycondensation equilibrium reaction mixture to the vapor phase is achieved, and the unwanted by-product(s) is substantially removed via the vacuum, causing further reaction of the reactive condensation polymer chain ends."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US09/549,323",
+      "representative_publication": "US6262226B1",
+      "primary_language": "en",
+      "priority_date": "1999-05-07",
+      "filing_date": "2000-04-13",
+      "title": "Process for producing a high molecular weight condensation polymer"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US13297399P",
+      "priority_date": "1999-05-07",
+      "filing_date": "1999-05-07"
+    },
+    {
+      "application_number": "US09/549,323",
+      "representative_publication": "US6262226B1",
+      "primary_language": "en",
+      "priority_date": "1999-05-07",
+      "filing_date": "2000-04-13",
+      "title": "Process for producing a high molecular weight condensation polymer"
+    }
+  ],
+  "family_id": "22456449",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3329410A",
+        "primary_language": "en",
+        "priority_date": "1965-12-20",
+        "publication_date": "1967-07-04",
+        "assignee_original": "Chatillon Italiana Fibre",
+        "title": "Apparatus for continuously polycondensing or polymerizing monomers",
+        "patent_id": "patent/US3329410A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3329410A%2Fen"
+      },
+      {
+        "publication_number": "JPS6424424A",
+        "primary_language": "en",
+        "priority_date": "1987-07-21",
+        "publication_date": "1989-01-26",
+        "assignee_original": "New Japan Radio Co Ltd",
+        "title": "Manufacture of semiconductor device",
+        "patent_id": "patent/JPS6424424A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS6424424A%2Fen"
+      },
+      {
+        "publication_number": "US4940472A",
+        "primary_language": "en",
+        "priority_date": "1989-01-17",
+        "publication_date": "1990-07-10",
+        "assignee_original": "The Dow Chemical Company",
+        "title": "Centrifugal devolatilizer",
+        "patent_id": "patent/US4940472A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4940472A%2Fen"
+      },
+      {
+        "publication_number": "US4952672A",
+        "primary_language": "en",
+        "priority_date": "1988-08-11",
+        "publication_date": "1990-08-28",
+        "assignee_original": "The Dow Chemical Company",
+        "title": "Method for the devolatilization of thermoplastic materials",
+        "patent_id": "patent/US4952672A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4952672A%2Fen"
+      },
+      {
+        "publication_number": "US5635589A",
+        "primary_language": "en",
+        "priority_date": "1995-03-06",
+        "publication_date": "1997-06-03",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Process for production of condensation polymers",
+        "patent_id": "patent/US5635589A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5635589A%2Fen"
+      },
+      {
+        "publication_number": "WO1999064477A1",
+        "primary_language": "en",
+        "priority_date": "1998-06-12",
+        "publication_date": "1999-12-16",
+        "assignee_original": "The Dow Chemical Company",
+        "title": "Centrifugal method and apparatus for devolatilizing polymers",
+        "patent_id": "patent/WO1999064477A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999064477A1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Chemical Abstract AN 110:24424, Analysis of the Rotating Drum Polycondensation Reactor for PET Synthesis, Kwan Han Yoon et al, Chemistry of Synthetic High Polymers."
+    },
+    {
+      "title": "Haw, Jimkuo; Mass Transfer of Centrifugally Enhanced Polymer Devolatilization by Using Foam Metal Packed Bed; Jan. 1995; Case Western Reserve University."
+    },
+    {
+      "title": "Melt Polycondensation of Poly(Ethylene Terephthalate) in a Rotatingdisk Reactor, S. I. Cheong et al, Journal of Applied Polymer Science, vol. 58, No. 9, pp. 1473-1483, 1995, John Wiley and Sons Inc., New York."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US6881372B2",
+        "primary_language": "en",
+        "priority_date": "2002-08-20",
+        "publication_date": "2005-04-19",
+        "assignee_original": "Boston Scientific Scimed, Inc.",
+        "title": "Solid state polymerized medical services",
+        "patent_id": "patent/US6881372B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6881372B2%2Fen"
+      },
+      {
+        "publication_number": "WO2014176509A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-26",
+        "publication_date": "2014-10-30",
+        "assignee_original": "Xyleco, Inc.",
+        "title": "Processing hydroxy-carboxylic acids to polymers",
+        "patent_id": "patent/WO2014176509A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014176509A1%2Fen"
+      },
+      {
+        "publication_number": "US10501761B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-26",
+        "publication_date": "2019-12-10",
+        "assignee_original": "Xyleco, Inc.",
+        "title": "Processing biomass to obtain hydroxylcarboxylic acids",
+        "patent_id": "patent/US10501761B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10501761B2%2Fen"
+      },
+      {
+        "publication_number": "US11193212B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-25",
+        "publication_date": "2021-12-07",
+        "assignee_original": "Sekisui Chemical Co., Ltd.",
+        "title": "Synthetic method and synthetic system",
+        "patent_id": "patent/US11193212B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11193212B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5635589A",
+      "primary_language": "en",
+      "publication_date": "1997-06-03",
+      "title": "Process for production of condensation polymers",
+      "patent_id": "patent/US5635589A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5635589A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7674877B2",
+      "primary_language": "en",
+      "publication_date": "2010-03-09",
+      "title": "Thermal crystallization of polyester pellets in liquid",
+      "patent_id": "patent/US7674877B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7674877B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8039581B2",
+      "primary_language": "en",
+      "publication_date": "2011-10-18",
+      "title": "Thermal crystallization of a molten polyester polymer in a fluid",
+      "patent_id": "patent/US8039581B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8039581B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4739523B2",
+      "primary_language": "en",
+      "publication_date": "2011-08-03",
+      "title": "Method for producing a polycondensation polymer",
+      "patent_id": "patent/JP4739523B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4739523B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101448872B",
+      "primary_language": "en",
+      "publication_date": "2011-06-15",
+      "title": "Continuous production method and production apparatus of aromatic polycarbonate",
+      "patent_id": "patent/CN101448872B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101448872B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN100349952C",
+      "primary_language": "en",
+      "publication_date": "2007-11-21",
+      "title": "Method for producing polycarbonate",
+      "patent_id": "patent/CN100349952C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100349952C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100856652B1",
+      "primary_language": "en",
+      "publication_date": "2008-09-04",
+      "title": "Polycarbonate Continuous Production Process According to Melt Transesterification Method",
+      "patent_id": "patent/KR100856652B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100856652B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5384389A",
+      "primary_language": "en",
+      "publication_date": "1995-01-24",
+      "title": "Process for the production of polycarbonates",
+      "patent_id": "patent/US5384389A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5384389A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101873891B",
+      "primary_language": "en",
+      "publication_date": "2013-12-18",
+      "title": "Method of producing polycarbonate in flash devolatilization system",
+      "patent_id": "patent/CN101873891B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101873891B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2157686C",
+      "primary_language": "en",
+      "publication_date": "1997-11-04",
+      "title": "Method for producing an aromatic polycarbonate",
+      "patent_id": "patent/CA2157686C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2157686C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101489749B",
+      "primary_language": "en",
+      "publication_date": "2013-01-30",
+      "title": "Method for producing aromatic polycarbonate",
+      "patent_id": "patent/CN101489749B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101489749B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6262226B1",
+      "primary_language": "en",
+      "publication_date": "2001-07-17",
+      "title": "Process for producing a high molecular weight condensation polymer",
+      "patent_id": "patent/US6262226B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6262226B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101421329A",
+      "primary_language": "en",
+      "publication_date": "2009-04-29",
+      "title": "Process for producing aromatic polycarbonate",
+      "patent_id": "patent/CN101421329A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101421329A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001021303A1",
+      "primary_language": "en",
+      "publication_date": "2001-03-29",
+      "title": "An improved method and apparatus for devolatilization",
+      "patent_id": "patent/WO2001021303A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001021303A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060194934A1",
+      "primary_language": "en",
+      "publication_date": "2006-08-31",
+      "title": "Improvements relating to polymerisation reactions",
+      "patent_id": "patent/US20060194934A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060194934A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH11199666A",
+      "primary_language": "en",
+      "publication_date": "1999-07-27",
+      "title": "Redistribution of polycarbonate accompanying catalytic decomposition",
+      "patent_id": "patent/JPH11199666A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH11199666A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1310997C",
+      "primary_language": "en",
+      "publication_date": "2007-04-18",
+      "title": "Method for preparation of polycarbonates",
+      "patent_id": "patent/CN1310997C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1310997C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101668792A",
+      "primary_language": "en",
+      "publication_date": "2010-03-10",
+      "title": "Process for producing aromatic polycarbonate resin composition",
+      "patent_id": "patent/CN101668792A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101668792A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003506542A",
+      "primary_language": "en",
+      "publication_date": "2003-02-18",
+      "title": "Crystallization method of polycarbonate prepolymer",
+      "patent_id": "patent/JP2003506542A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003506542A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EA010118B1",
+      "primary_language": "en",
+      "publication_date": "2008-06-30",
+      "title": "Industrial evaporation apparatus",
+      "patent_id": "patent/EA010118B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA010118B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000072868A",
+      "primary_language": "en",
+      "publication_date": "2000-03-07",
+      "title": "Production of aromatic polycarbonate resin",
+      "patent_id": "patent/JP2000072868A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000072868A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH03281505A",
+      "primary_language": "en",
+      "publication_date": "1991-12-12",
+      "title": "Removal of volatile component from polystyrene solution",
+      "patent_id": "patent/JPH03281505A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH03281505A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "TH13244B",
+      "primary_language": "en",
+      "publication_date": "2002-07-29",
+      "title": "Aromatic production method Polycarbonate",
+      "patent_id": "patent/TH13244B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTH13244B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2001-03-15",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "DOW CHEMICAL COMPANY, THE, MICHIGAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MOORE, EUGENE;QUARDERER, GEORGE J.;CUMMINGS, CLARK J.;AND OTHERS;REEL/FRAME:011650/0046;SIGNING DATES FROM 19990514 TO 19990604"
+        }
+      ]
+    },
+    {
+      "date": "2004-12-01",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2009-01-26",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2009-07-17",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2009-08-17",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2009-08-17",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2009-09-08",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20090717"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1290 @@
+{
+  "search_metadata": {
+    "id": "697a3990d355cc6a37436cc6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a4c3225fe7d71610/697a3990d355cc6a37436cc6.json",
+    "created_at": "2026-01-28 16:30:08 UTC",
+    "processed_at": "2026-01-28 16:30:08 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US12291636B2/en",
+    "raw_html_file": "https://serpapi.com/searches/a4c3225fe7d71610/697a3990d355cc6a37436cc6.html",
+    "total_time_taken": 1.83
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US12291636B2/en"
+  },
+  "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/72/2f/f1/9ae65d197bccc3/US12291636B2.pdf",
+  "publication_number": "US12291636B2",
+  "country": "United States",
+  "prior_art_keywords": [
+    "biodegradable",
+    "composition",
+    "biodegradable composition",
+    "starch",
+    "materials"
+  ],
+  "prior_art_date": "2021-01-29",
+  "application_number": "US17/561,279",
+  "inventors": [
+    {
+      "name": "Chang Dong",
+      "link": "https://patents.google.com/?inventor=Chang+Dong",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Chang+Dong"
+    },
+    {
+      "name": "Kritika Tyagi",
+      "link": "https://patents.google.com/?inventor=Kritika+Tyagi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kritika+Tyagi"
+    },
+    {
+      "name": "Nima ZARRINBAKHSH",
+      "link": "https://patents.google.com/?inventor=Nima+ZARRINBAKHSH",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Nima+ZARRINBAKHSH"
+    },
+    {
+      "name": "Hossein ABDOLI",
+      "link": "https://patents.google.com/?inventor=Hossein+ABDOLI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hossein+ABDOLI"
+    },
+    {
+      "name": "Jiahui WEN",
+      "link": "https://patents.google.com/?inventor=Jiahui+WEN",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jiahui+WEN"
+    }
+  ],
+  "assignees": [
+    "Erthos Inc Canada"
+  ],
+  "priority_date": "2021-01-29",
+  "filing_date": "2021-12-23",
+  "publication_date": "2025-05-06",
+  "worldwide_applications": {
+    "2021": [
+      {
+        "filing_date": "2021-01-29",
+        "country_code": "CN",
+        "application_number": "CN202110129521.7A",
+        "document_id": "patent/CN112940471A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2021-12-23",
+        "country_code": "US",
+        "application_number": "US17/561,279",
+        "document_id": "patent/US12291636B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2021-12-23",
+        "country_code": "CA",
+        "application_number": "CA3143851A",
+        "document_id": "patent/CA3143851A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2021-12-23",
+        "country_code": "CN",
+        "application_number": "CN202180096668.9A",
+        "document_id": "patent/CN117480215A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2021-12-23",
+        "country_code": "MX",
+        "application_number": "MX2023008969A",
+        "document_id": "patent/MX2023008969A/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2021-12-23",
+        "country_code": "WO",
+        "application_number": "PCT/CA2021/051886",
+        "document_id": "patent/WO2022160032A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2021-12-23",
+      "title": "Application filed by Erthos Inc Canada",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Erthos Inc Canada"
+    },
+    {
+      "date": "2022-03-01",
+      "title": "Assigned to ERTHOS, INC.",
+      "type": "reassignment",
+      "assignee_search": "ERTHOS, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ABDOLI, HOSSEIN, TYAGI, KRITIKA, WEN, JIAHUI, ZARRINBAKHSH, Nima, DONG, CHANG"
+      ]
+    },
+    {
+      "date": "2022-09-01",
+      "title": "Publication of US20220275201A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20220275201A1/en"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2025-05-06",
+      "title": "Publication of US12291636B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US12291636B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2043-11-03",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=12291636.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/17561279"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=12291636"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=12291636B2&KC=B2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/17561279/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US12291636"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "C08L67/02",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/04",
+      "description": "Polyesters derived from hydroxycarboxylic acids, e.g. lactones",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2201/06",
+      "description": "Biodegradable",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2205/02",
+      "description": "Polymer mixtures characterised by other features containing two or more polymers of the same C08L -group",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2205/025",
+      "description": "Polymer mixtures characterised by other features containing two or more polymers of the same C08L -group containing two or more polymers of the same hierarchy C08L, and differing only in parameters such as density, comonomer content, molecular weight, structure",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2205/03",
+      "description": "Polymer mixtures characterised by other features containing three or more polymers in a blend",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2205/035",
+      "description": "Polymer mixtures characterised by other features containing three or more polymers in a blend containing four or more polymers in a blend",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2205/16",
+      "description": "Fibres; Fibrils",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02W90/10",
+      "description": "Bio-packaging, e.g. packing containers made from renewable resources or bio-plastics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention encompasses biodegradable compositions (e.g., biodegradable plastics) and methods of preparation and use thereof, and disposable products made from the claimed compositions. Raw materials for preparing the biodegradable plastic include one or more polymers, fiber, starch, a plasticizer, and a coupling agent. The biodegradable composition has the advantages of short degradation cycle, good mechanical properties, and a low manufacturing cost.",
+  "description_link": "https://serpapi.com/searches/697a3990d355cc6a37436cc6/google_patents_details/description.html",
+  "claims": [
+    "1. A biodegradable composition comprising:\n(i) about 50-60% (w/w) of a polymer comprising one or more of biodegradable polyesters;\n(ii) about 5-15% (w/w) of starch;\n(iii) about 20-40% (w/w) of one or more of inorganic filler; and\n(iv) about 0.1-10% (w/w) of fiber comprising one or more of biomass,\n\n      wherein the composition exhibits a 90% disintegration completion within about 180 to about 365 days in soil.",
+    "2. The biodegradable composition of claim 1, further comprising one or more of the following additives: (i) a plasticizer in an amount of from about 0.1 to about 5% (w/w); (ii) a coupling agent in an amount of from about 0.1 to about 10% (w/w); (iii) a compatibilizer in an amount of from about 0.1 to about 10% (w/w); (iv) an impact modifier in an amount of about 0.1 to about 30% (w/w), (v) a chain extender in an amount of about 0.1 to about 10% (w/w), (vi) lubricant in an amount of about 0.1 to about 10% (w/w), (vii) a stabilizer in an amount of about 0.1 to about 10% (w/w), (viii) toner in an amount of about 0.1 to about 10% (w/w), or (ix) pigment in an amount of about 0.1 to about 10% (w/w), or combinations thereof.",
+    "3. The biodegradable composition of claim 1, wherein composition exhibits a disintegration onset within 7 days, on average.",
+    "4. The biodegradable composition of claim 1, wherein composition exhibits a bio-based carbon content of more than 50%.",
+    "5. The biodegradable composition of claim 1, wherein composition exhibits a 1% secant flexural modulus of greater than 1000 MPa.",
+    "6. The biodegradable composition of claim 1, wherein composition exhibits a flexural stress of greater than 30 MPa.",
+    "7. The biodegradable composition of claim 1, wherein composition exhibits a notched Izod energy of more than 30 J/m.",
+    "8. The biodegradable composition of claim 1, wherein composition exhibits a melt flow index or melt flow rate of greater than 10 g/10 min.",
+    "9. The biodegradable composition of claim 2, wherein composition exhibits a melt flow index or melt flow rate of less than 10 g/10 min.",
+    "10. The biodegradable composition of claim 1, wherein the polymer is one or more of biodegradable polyester is polylactic acid, polycaprolactone, polybutylene succinate, polybutylene succinate adipate, polybutylene succinate terephthalate, polybutylene adipate terephthalate, or polyhydroxyalkanoates.",
+    "11. The biodegradable composition of claim 1, wherein the starch is in native form or modified form including but not limited to thermoplastic starch.",
+    "12. The biodegradable composition of claim 1, wherein the biomass comprises vinasse, vinegar residues, wood fiber, agricultural cellulosic matter from including straw, stalk, shive, hurd, bast, leaf, seed, fruit, and perennial grass, all in a non-continuous non-woven form including chopped pieces, particulates, dust or flour.",
+    "13. The biodegradable composition of claim 1, wherein the inorganic filler includes, but is not limited to, wollastonite, mica, clay, calcium carbonate, glass fiber, talc, aluminum silicate, zirconium oxide, and gypsum.",
+    "14. The biodegradable composition of claim 2, wherein the plasticizer includes, but is not limited to, glycerin, ethylene glycol, xylitol, virgin or epoxidized vegetable oils and natural waxes.",
+    "15. The biodegradable composition of claim 2, wherein the coupling agent or compatibilizer includes, but is not limited to, titanate, aluminate, \u03b3-aminopropyltriethoxysilane, \u03b3-(2,3)epoxy (propoxy)propyltrimethoxysilane and \u03b3-methacryloxypropyltrimethoxysilane.",
+    "16. The biodegradable composition of claim 2, wherein the toner or pigment is fluorescent brightener or titanium dioxide.",
+    "17. A method for preparing the biodegradable composition of claim 2 comprising the following steps:\na) plasticizing the starch with a plasticizer;\nb) mixing uniformly with other raw materials of the biodegradable composition to prepare a premix;\nc) mixing the premix thoroughly at higher than ambient temperatures to prepare the biodegradable composition.",
+    "18. A method for preparing the biodegradable composition of claim 1 comprising the following steps:\na) mixing uniformly all materials of the biodegradable composition to prepare a premix, and then\nb) mixing the premix thoroughly at higher than ambient temperatures to prepare the biodegradable composition.",
+    "19. A method for preparing the biodegradable composition of claim 2 comprising the following steps:\na) feeding all materials of the biodegradable composition, individually or premixed with some other materials of the biodegradable composition, simultaneously into a mixer through more than one feeder\nb) mixing all materials of the biodegradable composition thoroughly at higher than ambient temperatures to prepare the biodegradable composition.",
+    "20. The method of claim 19, further comprising forming rigid parts using conventional polymer processing techniques comprising injection molding, compression molding, blow molding and extrusion molding.",
+    "21. The method of claim 19, further comprising forming thin sheets or films using conventional polymer processing techniques comprising hot press, vacuum forming, cast extrusion, film blowing, or compression molding.",
+    "22. A disposable product, comprising the biodegradable composition of claim 1, wherein the disposable product is packing material or a consumer product."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN202110129521.7A",
+      "representative_publication": "CN112940471A",
+      "primary_language": "en",
+      "priority_date": "2021-01-29",
+      "filing_date": "2021-01-29",
+      "title": "Degradable plastic, preparation method thereof and disposable product"
+    },
+    {
+      "application_number": "CN202110129521.7",
+      "filing_date": "2021-01-29"
+    }
+  ],
+  "family_id": "76240099",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5288318A",
+        "primary_language": "en",
+        "priority_date": "1993-07-01",
+        "publication_date": "1994-02-22",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of The Army",
+        "title": "Cellulose acetate and starch based biodegradable injection molded plastics compositions and methods of manufacture",
+        "patent_id": "patent/US5288318A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5288318A%2Fen"
+      },
+      {
+        "publication_number": "US5362777A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-11-03",
+        "publication_date": "1994-11-08",
+        "assignee_original": "Ivan Tomka",
+        "title": "Thermoplastically processable starch and a method of making it",
+        "patent_id": "patent/US5362777A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5362777A%2Fen"
+      },
+      {
+        "publication_number": "US5393804A",
+        "primary_language": "en",
+        "priority_date": "1992-11-24",
+        "publication_date": "1995-02-28",
+        "assignee_original": "Parke, Davis & Company",
+        "title": "Biodegradable compositions comprising starch and alkenol polymers",
+        "patent_id": "patent/US5393804A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5393804A%2Fen"
+      },
+      {
+        "publication_number": "CA2142134A1",
+        "primary_language": "en",
+        "priority_date": "1994-02-09",
+        "publication_date": "1995-08-10",
+        "assignee_original": "Catia Bastioli",
+        "title": "Expanded articles of biodegradable plastic material and a process for the preparation thereof",
+        "patent_id": "patent/CA2142134A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2142134A1%2Fen"
+      },
+      {
+        "publication_number": "US5500465A",
+        "primary_language": "en",
+        "priority_date": "1994-03-10",
+        "publication_date": "1996-03-19",
+        "assignee_original": "Board Of Trustees Operating Michigan State University",
+        "title": "Biodegradable multi-component polymeric materials based on unmodified starch-like polysaccharides",
+        "patent_id": "patent/US5500465A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5500465A%2Fen"
+      },
+      {
+        "publication_number": "US6013116A",
+        "primary_language": "en",
+        "priority_date": "1998-02-02",
+        "publication_date": "2000-01-11",
+        "assignee_original": "Major; Billy Joseph",
+        "title": "Briquette binder composition",
+        "patent_id": "patent/US6013116A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6013116A%2Fen"
+      },
+      {
+        "publication_number": "CA2476799A1",
+        "primary_language": "en",
+        "priority_date": "2002-02-21",
+        "publication_date": "2003-08-28",
+        "assignee_original": "Nissei Kabushiki Kaisha",
+        "title": "Biodegradable molded articles coated to impart hydrophobicity",
+        "patent_id": "patent/CA2476799A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2476799A1%2Fen"
+      },
+      {
+        "publication_number": "US6730724B1",
+        "primary_language": "en",
+        "priority_date": "1998-09-01",
+        "publication_date": "2004-05-04",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "Biodegradable compositions comprising starch and polysaccharide esters",
+        "patent_id": "patent/US6730724B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6730724B1%2Fen"
+      },
+      {
+        "publication_number": "CA2205071C",
+        "primary_language": "en",
+        "priority_date": "1994-11-15",
+        "publication_date": "2005-01-11",
+        "assignee_original": "Volker Warzelhan",
+        "title": "Biodegradable polymers, preparation thereof and use thereof for producing biodegradable moldings",
+        "patent_id": "patent/CA2205071C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2205071C%2Fen"
+      },
+      {
+        "publication_number": "CA2582948A1",
+        "primary_language": "en",
+        "priority_date": "2004-10-05",
+        "publication_date": "2006-04-13",
+        "assignee_original": "Plantic Technologies Ltd",
+        "title": "Mouldable biodegradable polymer",
+        "patent_id": "patent/CA2582948A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2582948A1%2Fen"
+      },
+      {
+        "publication_number": "US20060199881A1",
+        "primary_language": "en",
+        "priority_date": "2000-11-23",
+        "publication_date": "2006-09-07",
+        "assignee_original": "Hao Xu",
+        "title": "Biodegradable composition for the preparation of tableware, drink container, mulching film and package and method for preparing the same",
+        "patent_id": "patent/US20060199881A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060199881A1%2Fen"
+      },
+      {
+        "publication_number": "CA2601181A1",
+        "primary_language": "en",
+        "priority_date": "2005-03-18",
+        "publication_date": "2006-09-21",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "Biodegradable aliphatic-aromatic polyesters",
+        "patent_id": "patent/CA2601181A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2601181A1%2Fen"
+      },
+      {
+        "publication_number": "US20070020217A1",
+        "primary_language": "en",
+        "priority_date": "2005-07-04",
+        "publication_date": "2007-01-25",
+        "assignee_original": "Agnes Themens",
+        "title": "Cosmetic composition comprising at least two emulsifying silicone elastomers",
+        "patent_id": "patent/US20070020217A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070020217A1%2Fen"
+      },
+      {
+        "publication_number": "US7241832B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-01",
+        "publication_date": "2007-07-10",
+        "assignee_original": "bio-tec Biologische Naturverpackungen GmbH & Co., KG",
+        "title": "Biodegradable polymer blends for use in making films, sheets and other articles of manufacture",
+        "patent_id": "patent/US7241832B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7241832B2%2Fen"
+      },
+      {
+        "publication_number": "US20080203606A1",
+        "primary_language": "en",
+        "priority_date": "2000-11-23",
+        "publication_date": "2008-08-28",
+        "assignee_original": "Hao Xu",
+        "title": "Biodegradable composition for the preparation of tableware, drink container, mulching film and package and method for preparing the same",
+        "patent_id": "patent/US20080203606A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080203606A1%2Fen"
+      },
+      {
+        "publication_number": "CN101506291A",
+        "primary_language": "en",
+        "priority_date": "2006-08-04",
+        "publication_date": "2009-08-12",
+        "assignee_original": "\u666e\u6717\u8482\u514b\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Mouldable biodegradable polymer",
+        "patent_id": "patent/CN101506291A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101506291A%2Fen"
+      },
+      {
+        "publication_number": "US20090311455A1",
+        "primary_language": "en",
+        "priority_date": "2006-09-27",
+        "publication_date": "2009-12-17",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "Biodegradable compositions based on nanoparticulate starch",
+        "patent_id": "patent/US20090311455A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090311455A1%2Fen"
+      },
+      {
+        "publication_number": "US20100003434A1",
+        "primary_language": "en",
+        "priority_date": "2006-09-27",
+        "publication_date": "2010-01-07",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "Biodegradable multiphase compositions based on starch",
+        "patent_id": "patent/US20100003434A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100003434A1%2Fen"
+      },
+      {
+        "publication_number": "CN101712775A",
+        "primary_language": "en",
+        "priority_date": "2009-11-24",
+        "publication_date": "2010-05-26",
+        "assignee_original": "\u6210\u90fd\u65b0\u67ef\u529b\u5316\u5de5\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of starch-base biodegradation material",
+        "patent_id": "patent/CN101712775A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101712775A%2Fen"
+      },
+      {
+        "publication_number": "CA2889039A1",
+        "primary_language": "en",
+        "priority_date": "2012-11-15",
+        "publication_date": "2014-05-22",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polyester mixture",
+        "patent_id": "patent/CA2889039A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2889039A1%2Fen"
+      },
+      {
+        "publication_number": "WO2016109196A1",
+        "primary_language": "en",
+        "priority_date": "2014-12-29",
+        "publication_date": "2016-07-07",
+        "assignee_original": "Dow Global Technologies Llc",
+        "title": "Multilayer films, methods of manufacture thereof and articles comprising the same",
+        "patent_id": "patent/WO2016109196A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016109196A1%2Fen"
+      },
+      {
+        "publication_number": "US20170058109A1",
+        "primary_language": "en",
+        "priority_date": "2015-08-27",
+        "publication_date": "2017-03-02",
+        "assignee_original": "Crayola Llc",
+        "title": "Moldable compositions and methods of using the same",
+        "patent_id": "patent/US20170058109A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170058109A1%2Fen"
+      },
+      {
+        "publication_number": "CN106881929A",
+        "primary_language": "en",
+        "priority_date": "2017-01-20",
+        "publication_date": "2017-06-23",
+        "assignee_original": "\u5c71\u4e1c\u519c\u4e1a\u5927\u5b66",
+        "title": "A kind of polyadipate butylene terephthalate/starch high-barrier composite membrane and preparation method thereof",
+        "patent_id": "patent/CN106881929A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106881929A%2Fen"
+      },
+      {
+        "publication_number": "CN107522904A",
+        "primary_language": "en",
+        "priority_date": "2016-06-21",
+        "publication_date": "2017-12-29",
+        "assignee_original": "\u56db\u5ddd\u946b\u8fbe\u4f01\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+        "title": "A kind of Starch Based Biodegradable Plastics applied to packaging for foodstuff",
+        "patent_id": "patent/CN107522904A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107522904A%2Fen"
+      },
+      {
+        "publication_number": "US20180127554A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-05",
+        "publication_date": "2018-05-10",
+        "assignee_original": "University Of Guelph",
+        "title": "Biodegradable polymer-based biocomposites with tailored properties and method of making those",
+        "patent_id": "patent/US20180127554A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180127554A1%2Fen"
+      },
+      {
+        "publication_number": "WO2020034029A1",
+        "primary_language": "en",
+        "priority_date": "2018-08-13",
+        "publication_date": "2020-02-20",
+        "assignee_original": "EcoPackers Inc.",
+        "title": "Composition and method of making biodegradable pellets",
+        "patent_id": "patent/WO2020034029A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020034029A1%2Fen"
+      },
+      {
+        "publication_number": "CN110845830A",
+        "primary_language": "en",
+        "priority_date": "2019-11-13",
+        "publication_date": "2020-02-28",
+        "assignee_original": "\u9752\u5c9b\u6da6\u5174\u5851\u6599\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Starch filled PLA/PBAT full-biodegradable composite material and preparation method thereof",
+        "patent_id": "patent/CN110845830A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110845830A%2Fen"
+      },
+      {
+        "publication_number": "KR102087007B1",
+        "primary_language": "en",
+        "priority_date": "2019-07-31",
+        "publication_date": "2020-03-11",
+        "assignee_original": "\ubc30\ubcd1\uc625",
+        "title": "Biodegradable resin composition and menufacturing method thereof",
+        "patent_id": "patent/KR102087007B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102087007B1%2Fen"
+      },
+      {
+        "publication_number": "CA3143851A1",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2022-07-29",
+        "assignee_original": "Erthos Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/CA3143851A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3143851A1%2Fen"
+      },
+      {
+        "publication_number": "US20240093023A1",
+        "primary_language": "en",
+        "priority_date": "2022-09-16",
+        "publication_date": "2024-03-21",
+        "assignee_original": "Erthos Inc.",
+        "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use thereof",
+        "patent_id": "patent/US20240093023A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240093023A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN105001603A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-25",
+        "publication_date": "2015-10-28",
+        "assignee_original": "\u6c5f\u82cf\u5929\u4ec1\u751f\u7269\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Fully biodegradable material with polylactic acid/polyterephthalic dibutyl adipate used as base materials and preparation method thereof",
+        "patent_id": "patent/CN105001603A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105001603A%2Fen"
+      },
+      {
+        "publication_number": "CN109897230A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-01",
+        "publication_date": "2019-06-18",
+        "assignee_original": "\u5c71\u4e1c\u5929\u4e00\u751f\u7269\u964d\u89e3\u5851\u4e1a\u6709\u9650\u516c\u53f8",
+        "title": "A kind of environment biological degradation plastics masterbatch and preparation method thereof",
+        "patent_id": "patent/CN109897230A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109897230A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Co-pending U.S. Appl. No. 18/404,468, inventors Abdoli; Hossein et al., filed on Jan. 4, 2024."
+    },
+    {
+      "title": "Co-pending U.S. Appl. No. 18/404,476, inventors Ogunsona; Emmanuel Olusegun et al., filed on Jan. 4, 2024."
+    },
+    {
+      "title": "Co-pending U.S. Appl. No. 18/404,492, inventors Ogunsona; Emmanuel Olusegun et al., filed on Jan. 4, 2024."
+    },
+    {
+      "title": "Co-pending U.S. Appl. No. 18/404,500, inventors Ogunsona; Emmanuel Olusegun et al., filed on Jan. 4, 2024."
+    },
+    {
+      "title": "Co-pending U.S. Appl. No. 18/404,507, inventors Abdoli; Hossein et al., filed on Jan. 4, 2024."
+    },
+    {
+      "title": "Co-pending U.S. Appl. No. 18/468,261, inventor Zarrinbakhsh; Nima , filed on Sep. 15, 2023."
+    },
+    {
+      "title": "Da Silva M N, et al., \"PBAT/TPS Composite Films Reinforced with Starch Nanoparticles Produced by Ultrasound\", International Journal of Polymer Science, Dec. 2017, pp. 1-10."
+    },
+    {
+      "title": "International Preliminary Report on Patentability for International Application No. PCT/CA2021/051886 dated Aug. 10, 2023, 8 pages."
+    },
+    {
+      "title": "International Search Report and Written Opinion for Application No. PCT/CA2019/051101, mailed Oct. 29, 2019, 9 pages."
+    },
+    {
+      "title": "International Search Report and Written Opinion for Application No. PCT/CA2021/051886, mailed Mar. 29, 2022, 12 pages."
+    },
+    {
+      "title": "International Search Report and Written Opinion for PCT Application No. PCT/IB2023/059203 dated Nov. 23, 2023, 10 pages."
+    },
+    {
+      "title": "Office Action for Canadian Application No. CA20213143851 mailed Sep. 20, 2023, 5 pages."
+    },
+    {
+      "title": "Office Action for Chinese Application No. 201980054172.8 dated Oct. 21, 2022, 8 pages."
+    },
+    {
+      "title": "Office Action for Chinese Application No. 201980054172.8, dated Mar. 15, 2023, 13 pages (with full English translation)."
+    },
+    {
+      "title": "Office Action for Chinese Application No. 202110129521.7, mailed Aug. 1, 2022, 13 pages."
+    },
+    {
+      "title": "Office Action for Chinese Application No. 202110129521.7, mailed May 27, 2023, and English translation, 14 pages."
+    },
+    {
+      "title": "Office Action for Chinese Application No. CN20198054172 dated Jun. 14, 2023, and English translation, 11 pages."
+    },
+    {
+      "title": "Office Action for Chinese Application No. CN20198054172 dated Mar. 15, 2023, 8 pages."
+    },
+    {
+      "title": "Office Action for Chinese Application No. CN202110129521 dated Mar. 5, 2023, 9 pages."
+    }
+  ],
+  "cited_by": {
+    "family_to_family": [
+      {
+        "publication_number": "US12163288B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-19",
+        "publication_date": "2024-12-10",
+        "assignee_original": "Solenis Technologies, L.P.",
+        "title": "Treated substrates and methods of producing the same",
+        "patent_id": "patent/US12163288B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12163288B2%2Fen"
+      },
+      {
+        "publication_number": "CN112940471A",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2021-06-11",
+        "assignee_original": "\u58f9\u79d1\u73af\u5851\u65b0\u6750\u6599\u79d1\u6280(\u6df1\u5733)\u6709\u9650\u516c\u53f8",
+        "title": "Degradable plastic, preparation method thereof and disposable product",
+        "patent_id": "patent/CN112940471A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112940471A%2Fen"
+      },
+      {
+        "publication_number": "CN114015208A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-26",
+        "publication_date": "2022-02-08",
+        "assignee_original": "\u4e2d\u5e7f\u6838\u62d3\u666e\uff08\u56db\u5ddd\uff09\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Environment-friendly bumper shell, preparation method thereof and bumper with shell",
+        "patent_id": "patent/CN114015208A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114015208A%2Fen"
+      },
+      {
+        "publication_number": "CN114292445A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-30",
+        "publication_date": "2022-04-08",
+        "assignee_original": "\u82cf\u5dde\u9526\u62d3\u65b0\u6750\u6599\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Degradable disposable tableware and injection mold thereof",
+        "patent_id": "patent/CN114292445A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114292445A%2Fen"
+      },
+      {
+        "publication_number": "CN114479376A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-24",
+        "publication_date": "2022-05-13",
+        "assignee_original": "\u4eca\u79be\u65b9\u541f\u79d1\u6280(\u6df1\u5733)\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Degradable plastic and preparation method and application thereof",
+        "patent_id": "patent/CN114479376A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114479376A%2Fen"
+      },
+      {
+        "publication_number": "WO2024044604A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-22",
+        "publication_date": "2024-02-29",
+        "assignee_original": "Titan Bioplastics, Llc",
+        "title": "A novel enhanced recyclable and biodegradable dog toy formulation",
+        "patent_id": "patent/WO2024044604A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024044604A2%2Fen"
+      },
+      {
+        "publication_number": "WO2024054265A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-07",
+        "publication_date": "2024-03-14",
+        "assignee_original": "Graham John D",
+        "title": "System and method of coextruding a hemp composite board using hemp feedstocks",
+        "patent_id": "patent/WO2024054265A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024054265A1%2Fen"
+      },
+      {
+        "publication_number": "US20240093023A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-16",
+        "publication_date": "2024-03-21",
+        "assignee_original": "Erthos Inc.",
+        "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use thereof",
+        "patent_id": "patent/US20240093023A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240093023A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024064894A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-28",
+        "assignee_original": "Double Double D, Llc",
+        "title": "Biopolymer and material composite containments",
+        "patent_id": "patent/WO2024064894A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024064894A1%2Fen"
+      },
+      {
+        "publication_number": "CN115594871A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-10-18",
+        "publication_date": "2023-01-13",
+        "assignee_original": "\u6e56\u5357\u79d1\u6280\u5927\u5b66\uff08Cn\uff09",
+        "title": "Preparation method of full-biodegradable wood-plastic composite light high-strength material",
+        "patent_id": "patent/CN115594871A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115594871A%2Fen"
+      },
+      {
+        "publication_number": "CN116082809A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-11",
+        "publication_date": "2023-05-09",
+        "assignee_original": "\u6e56\u5317\u7287\u661f\u751f\u7269\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of degradable plastic",
+        "patent_id": "patent/CN116082809A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116082809A%2Fen"
+      },
+      {
+        "publication_number": "CN115678221B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-19",
+        "publication_date": "2024-01-26",
+        "assignee_original": "\u5b89\u5fbd\u7701\u57e0\u8d85\u73af\u4fdd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Full-biodegradable bone strip material and preparation method thereof",
+        "patent_id": "patent/CN115678221B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115678221B%2Fen"
+      },
+      {
+        "publication_number": "CN115975273B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-26",
+        "publication_date": "2023-10-20",
+        "assignee_original": "\u6c5f\u82cf\u6052\u8f89\u5b89\u9632\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable latex composite material and preparation method thereof",
+        "patent_id": "patent/CN115975273B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115975273B%2Fen"
+      },
+      {
+        "publication_number": "CN116285260B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-08",
+        "publication_date": "2025-07-15",
+        "assignee_original": "\u73e0\u6d77\u683c\u83b1\u5229\u6469\u64e6\u6750\u6599\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable friction particle master batch, friction material, preparation method and application thereof",
+        "patent_id": "patent/CN116285260B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116285260B%2Fen"
+      },
+      {
+        "publication_number": "CN116285008A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-27",
+        "publication_date": "2023-06-23",
+        "assignee_original": "\u6c5f\u82cf\u6052\u987a\u918b\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Edible preservative film taking vinegar residues as base material and preparation method and application thereof",
+        "patent_id": "patent/CN116285008A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116285008A%2Fen"
+      },
+      {
+        "publication_number": "CN116410606B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-03-21",
+        "publication_date": "2024-11-19",
+        "assignee_original": "\u676d\u5dde\u9761\u7279\u6d1b\u65b0\u6750\u6599\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method and application of high-performance, water-soluble and controllable biomass-based thermoplastic film",
+        "patent_id": "patent/CN116410606B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116410606B%2Fen"
+      },
+      {
+        "publication_number": "PL444695A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-04-28",
+        "publication_date": "2024-11-04",
+        "assignee_original": "Instytut W\u0142\u00f3kien Naturalnych I Ro\u015blin Zielarskich Pa\u0144stwowy Instytut Badawczy",
+        "title": "Composite of a blend of poly(lactic acid) and thermoplastic starch with a natural filler and a method of producing the composite",
+        "patent_id": "patent/PL444695A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL444695A1%2Fen"
+      },
+      {
+        "publication_number": "FR3151683A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-28",
+        "publication_date": "2025-01-31",
+        "assignee_original": "Idemia France",
+        "title": "Microcircuit card",
+        "patent_id": "patent/FR3151683A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3151683A1%2Fen"
+      },
+      {
+        "publication_number": "CN116925510B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-09-12",
+        "publication_date": "2023-12-29",
+        "assignee_original": "\u5bff\u5149\u91d1\u8fdc\u4e1c\u53d8\u6027\u6dc0\u7c89\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of fully-degradable starch-based material for membrane bags",
+        "patent_id": "patent/CN116925510B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116925510B%2Fen"
+      },
+      {
+        "publication_number": "KR102683275B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-17",
+        "publication_date": "2024-07-10",
+        "assignee_original": "(\uc8fc)\uc5d0\ubc84\ucf10\ud14d",
+        "title": "Biodegradable Thermal Adhesive Coating Composition and Method of Preparation Thereof",
+        "patent_id": "patent/KR102683275B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102683275B1%2Fen"
+      },
+      {
+        "publication_number": "US12297718B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-18",
+        "publication_date": "2025-05-13",
+        "assignee_original": "Saudi Arabian Oil Company",
+        "title": "Methods of hydrolyzing nitrogen-containing waste plastics downgole to form a solid barrier",
+        "patent_id": "patent/US12297718B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12297718B2%2Fen"
+      },
+      {
+        "publication_number": "WO2025085795A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-19",
+        "publication_date": "2025-04-24",
+        "assignee_original": "Cruz Foam, Inc.",
+        "title": "Foam precursor and foam with biodegradable copolymer and methods thereof",
+        "patent_id": "patent/WO2025085795A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025085795A1%2Fen"
+      },
+      {
+        "publication_number": "CN117209970B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-11-10",
+        "publication_date": "2024-12-27",
+        "assignee_original": "\u6d59\u6c5f\u5927\u664b\u65b0\u6750\u6599\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A method for preparing biodegradable plastic",
+        "patent_id": "patent/CN117209970B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117209970B%2Fen"
+      },
+      {
+        "publication_number": "CN117603567B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-18",
+        "publication_date": "2024-04-05",
+        "assignee_original": "\u5e7f\u5dde\u6d1b\u6c11\u5851\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Novel degradable plastic folding basket and manufacturing method thereof",
+        "patent_id": "patent/CN117603567B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117603567B%2Fen"
+      },
+      {
+        "publication_number": "WO2025147185A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-01-02",
+        "publication_date": "2025-07-10",
+        "assignee_original": "Snow Recycle, Sia",
+        "title": "A biodegradable composite, a method for manufacture thereof, and articles made of said composite",
+        "patent_id": "patent/WO2025147185A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025147185A1%2Fen"
+      },
+      {
+        "publication_number": "DE102024101819A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-01-23",
+        "publication_date": "2025-07-24",
+        "assignee_original": "Nadja Amann",
+        "title": "can",
+        "patent_id": "patent/DE102024101819A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102024101819A1%2Fen"
+      },
+      {
+        "publication_number": "US20250320370A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-04-10",
+        "publication_date": "2025-10-16",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Methods of forming biodegradable polymeric films and the biodegradable polymeric films formed through the methods",
+        "patent_id": "patent/US20250320370A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250320370A1%2Fen"
+      },
+      {
+        "publication_number": "US12098285B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-04-26",
+        "publication_date": "2024-09-24",
+        "assignee_original": "Imam Mohammad Ibn Saud Islamic University",
+        "title": "Bio-based wearable films and method of preparation thereof",
+        "patent_id": "patent/US12098285B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12098285B1%2Fen"
+      },
+      {
+        "publication_number": "CN118307873B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-04-28",
+        "publication_date": "2024-10-25",
+        "assignee_original": "\u676d\u5dde\u9f99\u9a89\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Functional material for building heat preservation and preparation process thereof",
+        "patent_id": "patent/CN118307873B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118307873B%2Fen"
+      },
+      {
+        "publication_number": "TWM663084U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-05-17",
+        "publication_date": "2024-11-21",
+        "assignee_original": "\u8a31\u4f51\u6b63",
+        "title": "Environmentally friendly screws",
+        "patent_id": "patent/TWM663084U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWM663084U%2Fen"
+      },
+      {
+        "publication_number": "CN118667314B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-06-20",
+        "publication_date": "2025-04-25",
+        "assignee_original": "\u5e7f\u4e1c\u660e\u805a\u65b0\u6750\u6599\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Degradable plastic master batch and preparation and application thereof",
+        "patent_id": "patent/CN118667314B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118667314B%2Fen"
+      },
+      {
+        "publication_number": "CN120158059B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-06-24",
+        "publication_date": "2025-09-09",
+        "assignee_original": "\u6f4d\u574a\u6da6\u5b89\u518d\u751f\u8d44\u6e90\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of flame-retardant degradable polyester plastic",
+        "patent_id": "patent/CN120158059B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN120158059B%2Fen"
+      },
+      {
+        "publication_number": "CN118496566B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-07-18",
+        "publication_date": "2025-01-24",
+        "assignee_original": "\u6cf0\u5dde\u6cfd\u94b0\u65b0\u6750\u6599\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A starch-polyhydroxyalkanoate-based degradable composite material and preparation method thereof",
+        "patent_id": "patent/CN118496566B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118496566B%2Fen"
+      },
+      {
+        "publication_number": "US12479979B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-11-25",
+        "publication_date": "2025-11-25",
+        "assignee_original": "Loliware, Inc.",
+        "title": "Biobased, biodegradable compositions for making articles",
+        "patent_id": "patent/US12479979B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12479979B1%2Fen"
+      },
+      {
+        "publication_number": "CN119615655B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-12-30",
+        "publication_date": "2025-11-07",
+        "assignee_original": "\u5e7f\u4e1c\u5de8\u6c22\u73af\u4fdd\u80fd\u6e90\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of environment-friendly plant fiber for tableware and product thereof",
+        "patent_id": "patent/CN119615655B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119615655B%2Fen"
+      },
+      {
+        "publication_number": "CN120699404B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2025-08-26",
+        "publication_date": "2025-11-11",
+        "assignee_original": "\u6e56\u5317\u7f8e\u9014\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Environment-friendly degradable plastic material and preparation method thereof",
+        "patent_id": "patent/CN120699404B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN120699404B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US12291636B2",
+      "primary_language": "en",
+      "publication_date": "2025-05-06",
+      "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+      "patent_id": "patent/US12291636B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7967904B2",
+      "primary_language": "en",
+      "publication_date": "2011-06-28",
+      "title": "Biodegradable or compostable containers",
+      "patent_id": "patent/US7967904B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7967904B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240093023A1",
+      "primary_language": "en",
+      "publication_date": "2024-03-21",
+      "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use thereof",
+      "patent_id": "patent/US20240093023A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240093023A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070148384A1",
+      "primary_language": "en",
+      "publication_date": "2007-06-28",
+      "title": "Processes for filming biodegradable or compostable containers",
+      "patent_id": "patent/US20070148384A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070148384A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2009103052A1",
+      "primary_language": "en",
+      "publication_date": "2009-08-20",
+      "title": "Flash-gel method for forming biodegradable or compostable containers",
+      "patent_id": "patent/WO2009103052A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009103052A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110172326A1",
+      "primary_language": "en",
+      "publication_date": "2011-07-14",
+      "title": "Biodegradable polymer composition with calcium carbonate and methods and products using same",
+      "patent_id": "patent/US20110172326A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110172326A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "TW201833236A",
+      "primary_language": "en",
+      "publication_date": "2018-09-16",
+      "title": "Carbohydrate-based polymer material",
+      "patent_id": "patent/TW201833236A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW201833236A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220275202A1",
+      "primary_language": "en",
+      "publication_date": "2022-09-01",
+      "title": "Flexible wood composite material",
+      "patent_id": "patent/US20220275202A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220275202A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16397754981386809808",
+      "scholar_authors": "Imam et al.",
+      "publication_date": "2012",
+      "title": "Utilization of biobased polymers in food packaging: assessment of materials, production and commercialization",
+      "patent_id": "scholar/16397754981386809808",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16397754981386809808"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14462715789534573840",
+      "scholar_authors": "Imam et al.",
+      "publication_date": "2008",
+      "title": "Types, production and assessment of biobased food packaging materials",
+      "patent_id": "scholar/14462715789534573840",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14462715789534573840"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK40105777A",
+      "primary_language": "en",
+      "publication_date": "2024-08-23",
+      "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+      "patent_id": "patent/HK40105777A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK40105777A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1059426B",
+      "primary_language": "en",
+      "publication_date": "2009-07-03",
+      "title": "Biodegradable or compostable containers",
+      "patent_id": "patent/HK1059426B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1059426B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2021-12-23",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-06",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-03-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ERTHOS, INC., CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DONG, CHANG;TYAGI, KRITIKA;ZARRINBAKHSH, NIMA;AND OTHERS;SIGNING DATES FROM 20220123 TO 20220124;REEL/FRAME:059136/0013"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-04",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-04",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-09",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2025-04-16",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    }
+  ]
+}

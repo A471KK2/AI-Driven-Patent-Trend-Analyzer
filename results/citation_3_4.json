@@ -1,0 +1,549 @@
+{
+  "search_metadata": {
+    "id": "697a336dccb1e965b8d0a75c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9c9bd532cd47cbe3/697a336dccb1e965b8d0a75c.json",
+    "created_at": "2026-01-28 16:03:57 UTC",
+    "processed_at": "2026-01-28 16:03:57 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2016136880A1/en",
+    "raw_html_file": "https://serpapi.com/searches/9c9bd532cd47cbe3/697a336dccb1e965b8d0a75c.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2016136880A1/en"
+  },
+  "title": "Flight vehicle and high-speed traffic system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/e0/50/8c/c5bb1641db5c0e/WO2016136880A1.pdf",
+  "publication_number": "WO2016136880A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "flying object",
+    "airframe",
+    "fuselage",
+    "flying",
+    "aircraft"
+  ],
+  "prior_art_date": "2015-02-26",
+  "application_number": "PCT/JP2016/055641",
+  "inventors": [
+    {
+      "name": "\u4e00\u8ce2 \u4e09\u597d",
+      "link": "https://patents.google.com/?inventor=%E4%B8%80%E8%B3%A2+%E4%B8%89%E5%A5%BD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%B8%80%E8%B3%A2+%E4%B8%89%E5%A5%BD"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2015-02-26",
+  "filing_date": "2016-02-25",
+  "publication_date": "2016-09-01",
+  "worldwide_applications": {
+    "2015": [
+      {
+        "filing_date": "2015-02-26",
+        "country_code": "JP",
+        "application_number": "JP2015036543A",
+        "document_id": "patent/JP6436571B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2016": [
+      {
+        "filing_date": "2016-02-25",
+        "country_code": "WO",
+        "application_number": "PCT/JP2016/055641",
+        "document_id": "patent/WO2016136880A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-02-25",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2016-09-01",
+      "title": "Publication of WO2016136880A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2016136880A1/en"
+    },
+    {
+      "date": "2017-08-26",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2016136880A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTJP2016055641/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2016136880"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2016136880A1"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/41/fe/e2/48f85e215d3eb7/JPOXMLDOC01-appb-D000001.png"
+  ],
+  "classifications": [
+    {
+      "code": "B60V1/08",
+      "description": "Air-cushion wherein the cushion is created during forward movement of the vehicle by ram effect",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60V3/08",
+      "description": "Aircraft, e.g. air-cushion alighting-gear therefor",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61B13/00",
+      "description": "Other railway systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61B13/08",
+      "description": "Sliding or levitation systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61F3/00",
+      "description": "Types of bogies",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Provided are: a flight vehicle 1 with which it is possible to efficiently lift an airframe 8 having a small aspect ratio and no wings, and to stably fly at low altitudes, using aerodynamic lift and the ground effect even at comparatively low speeds; and a high-speed traffic system that uses this flight vehicle. The flight vehicle 1, which travels in flight by means of aerodynamic lift and the ground effect over a travel road 2 having a road surface 3 and side walls 4, has a propulsion device 16 provided to a fuselage 5 having an upwardly convex top surface 5a along the direction of travel, depressurization members 11 extending from the sides of the airframe 8 toward the travel road 2 are provided so as to restrict the upward flow of air from the bottom of the airframe 8 having a vertical tail assembly 6 and a horizontal tail assembly 7 provided in the rear, the rising air flow from the sides of the airframe 8 is restricted to maintain the pressure difference between the top and bottom of the airframe 8, and the airframe 8 is flown using aerodynamic lift and the ground effect even at comparatively low speeds.",
+  "description_link": "https://serpapi.com/searches/697a336dccb1e965b8d0a75c/google_patents_details/description.html",
+  "claims": [
+    "\u3000\u8d70\u884c\u8def\u306b\u305d\u3063\u3066\u63da\u529b\u304a\u3088\u3073\u5730\u9762\u52b9\u679c\u306b\u3088\u308a\u98db\u884c\u3057\u3066\u8d70\u884c\u3059\u308b\u98db\u884c\u4f53\u3067\u3042\u3063\u3066\u3001\n\u3000\u8d70\u884c\u65b9\u5411\u306b\u305d\u3063\u3066\u4e0a\u306b\u51f8\u306e\u5f62\u72b6\u306e\u4e0a\u9762\u3092\u6709\u3059\u308b\u80f4\u4f53\u3092\u5099\u3048\u305f\u6a5f\u4f53\u3068\u3001\n\u3000\u6a5f\u4f53\u3092\u8d70\u884c\u65b9\u5411\u306b\u63a8\u9032\u3059\u308b\u63a8\u9032\u88c5\u7f6e\u3068\u3001\n\u3000\u6a5f\u4f53\u304c\u8d70\u884c\u65b9\u5411\u306b\u305d\u3063\u3066\u8d70\u884c\u3059\u308b\u3088\u3046\u306b\u5236\u5fa1\u3059\u308b\u5236\u5fa1\u88c5\u7f6e\u3068\u3001\n\u3000\u6a5f\u4f53\u306e\u4e0b\u90e8\u304b\u3089\u4e0a\u90e8\u65b9\u5411\u306b\u6d41\u308c\u308b\u6c17\u6d41\u3092\u5236\u9650\u3059\u308b\u3088\u3046\u306b\u3001\u6a5f\u4f53\u306e\u5074\u90e8\u304c\u308f\u304b\u3089\u8d70\u884c\u8def\u304c\u308f\u306b\u4f38\u3073\u308b\u6e1b\u5727\u90e8\u6750\u3068\n\u3000\u3092\u6709\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u98db\u884c\u4f53\u3002\nAn aircraft that flies along the travel path and travels by lift and ground effects,  A fuselage having a fuselage having a convex upper surface along the traveling direction;  A propulsion device that propels the aircraft in the direction of travel;  A control device for controlling the airframe to travel along the traveling direction;  A flying body comprising: a decompression member that extends from the side of the airframe to the side of the airframe so as to limit the airflow flowing from the lower portion of the airframe to the upper direction.",
+    "\u3000\u6e1b\u5727\u90e8\u6750\u304c\u30d6\u30e9\u30b7\u3067\u3042\u308b\u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u98db\u884c\u4f53\u3002\n\nThe flying object according to claim 1, wherein the decompression member is a brush.",
+    "\u3000\u30a2\u30b9\u30da\u30af\u30c8\u6bd4\u304c\uff11\u4ee5\u4e0b\u3067\u3042\u308b\u8acb\u6c42\u9805\uff11\u307e\u305f\u306f\uff12\u8a18\u8f09\u306e\u98db\u884c\u4f53\u3002\n\nThe flying object according to claim 1 or 2, wherein the aspect ratio is 1 or less.",
+    "\u3000\u8d70\u884c\u8def\u304c\u8def\u9762\u304a\u3088\u3073\u5074\u58c1\u3092\u6709\u3057\u3001\u6e1b\u5727\u90e8\u6750\u304c\u6a5f\u4f53\u306e\u5074\u90e8\u304c\u308f\u304b\u3089\u3001\u8d70\u884c\u8def\u306e\u8def\u9762\u307e\u305f\u306f\u5074\u58c1\u304c\u308f\u306b\u4f38\u3073\u308b\u3082\u306e\u3067\u3042\u308b\u8acb\u6c42\u9805\uff11\u306a\u3044\u3057\uff13\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u98db\u884c\u4f53\u3002\n\nThe flying object according to any one of claims 1 to 3, wherein the traveling road has a road surface and a side wall, and the decompression member extends from the side of the fuselage to the road surface or the side wall of the traveling road.",
+    "\u3000\u8d70\u884c\u8def\u3068\u3001\n\u3000\u8acb\u6c42\u9805\uff11\u306a\u3044\u3057\uff14\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u98db\u884c\u4f53\u3068\n\u3000\u3092\u6709\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u9ad8\u901f\u4ea4\u901a\u30b7\u30b9\u30c6\u30e0\u3002\nThe roadway,  A high-speed traffic system comprising: the flying object according to claim 1.",
+    "\u3000\u8d70\u884c\u8def\u304c\u8def\u9762\u304a\u3088\u3073\u5074\u58c1\u3092\u6709\u3059\u308b\u8acb\u6c42\u9805\uff15\u8a18\u8f09\u306e\u9ad8\u901f\u4ea4\u901a\u30b7\u30b9\u30c6\u30e0\u3002\n\n6. The high-speed traffic system according to claim 5, wherein the traveling road has a road surface and a side wall.",
+    "\u3000\u8d70\u884c\u8def\u304b\u3089\u98db\u884c\u4f53\u306b\u96fb\u529b\u3092\u4f9b\u7d66\u3059\u308b\u7d66\u96fb\u88c5\u7f6e\n\u3000\u3092\u542b\u3080\u8acb\u6c42\u9805\uff15\u307e\u305f\u306f\uff16\u8a18\u8f09\u306e\u9ad8\u901f\u4ea4\u901a\u30b7\u30b9\u30c6\u30e0\u3002\nThe high-speed traffic system according to claim 5, further comprising a power feeding device that supplies power to the flying object from the traveling path."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2015036543A",
+      "representative_publication": "JP6436571B2",
+      "primary_language": "en",
+      "priority_date": "2015-02-26",
+      "filing_date": "2015-02-26",
+      "title": "Aircraft and high-speed traffic systems"
+    },
+    {
+      "application_number": "JP2015-036543",
+      "filing_date": "2015-02-26"
+    }
+  ],
+  "family_id": "56788705",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "JPS4851015U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1971-10-14",
+        "publication_date": "1973-07-03",
+        "patent_id": "patent/JPS4851015U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS4851015U%2Fen"
+      },
+      {
+        "publication_number": "JPS63242765A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-03-31",
+        "publication_date": "1988-10-07",
+        "assignee_original": "Yasuaki Kohama",
+        "title": "Flying vehicle device",
+        "patent_id": "patent/JPS63242765A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS63242765A%2Fen"
+      },
+      {
+        "publication_number": "JP2000052974A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-08-04",
+        "publication_date": "2000-02-22",
+        "assignee_original": "Honda Kogyo Kk",
+        "title": "Flying body in tunnel and high speed transportation system using it",
+        "patent_id": "patent/JP2000052974A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000052974A%2Fen"
+      },
+      {
+        "publication_number": "JP2004142880A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-24",
+        "publication_date": "2004-05-20",
+        "assignee_original": "Mitsubishi Heavy Ind Ltd",
+        "title": "Air pallet",
+        "patent_id": "patent/JP2004142880A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004142880A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "RU2664091C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-02",
+        "publication_date": "2018-08-15",
+        "assignee_original": "\u0411\u043e\u0440\u0438\u0441 \u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0438\u0447 \u0411\u0430\u0431\u0438\u0446\u043a\u0438\u0439",
+        "title": "Air train and its travel tracks",
+        "patent_id": "patent/RU2664091C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2664091C1%2Fen"
+      },
+      {
+        "publication_number": "WO2025147444A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-31",
+        "publication_date": "2025-07-10",
+        "assignee_original": "Galen Suppes",
+        "title": "Ground effect machine system",
+        "patent_id": "patent/WO2025147444A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025147444A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN111247021A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-06",
+        "publication_date": "2020-06-05",
+        "assignee_original": "\u5929\u94c1\u516c\u53f8",
+        "title": "Path correction of a vehicle relative to a planned magnetic flight path",
+        "patent_id": "patent/CN111247021A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111247021A%2Fen"
+      },
+      {
+        "publication_number": "US12291186B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-08",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Eric Jason Crews",
+        "title": "Lift mechanism hydraulic fluid propulsion with magnetic lift assistance",
+        "patent_id": "patent/US12291186B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291186B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10589838B1",
+      "primary_language": "en",
+      "publication_date": "2020-03-17",
+      "title": "Multicopter with passively-adjusting tiltwing",
+      "patent_id": "patent/US10589838B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10589838B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190291863A1",
+      "primary_language": "en",
+      "publication_date": "2019-09-26",
+      "title": "Vertical takeoff and landing aircraft with tilted-wing configurations",
+      "patent_id": "patent/US20190291863A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190291863A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120074264A1",
+      "primary_language": "en",
+      "publication_date": "2012-03-29",
+      "title": "Airplane wing",
+      "patent_id": "patent/US20120074264A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120074264A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7988088B2",
+      "primary_language": "en",
+      "publication_date": "2011-08-02",
+      "title": "Tubular air transport vehicle",
+      "patent_id": "patent/US7988088B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7988088B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6436571B2",
+      "primary_language": "en",
+      "publication_date": "2018-12-12",
+      "title": "Aircraft and high-speed traffic systems",
+      "patent_id": "patent/JP6436571B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6436571B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109515674A",
+      "primary_language": "en",
+      "publication_date": "2019-03-26",
+      "title": "Hybrid power VTOL delivery vehicle",
+      "patent_id": "patent/CN109515674A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109515674A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3675582A",
+      "primary_language": "en",
+      "publication_date": "1972-07-11",
+      "title": "Mass transportation system",
+      "patent_id": "patent/US3675582A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3675582A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2010121384A1",
+      "primary_language": "en",
+      "publication_date": "2010-10-28",
+      "title": "Splitter plate for hybrid airship control",
+      "patent_id": "patent/WO2010121384A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010121384A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ES2227095T3",
+      "primary_language": "en",
+      "publication_date": "2005-04-01",
+      "title": "SYSTEM TO AUTOMATICALLY OPERATE HYPERSUSTENT DIPSOSITIVES OF AN AIRCRAFT DURING DISPATCH.",
+      "patent_id": "patent/ES2227095T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2227095T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110626504B",
+      "primary_language": "en",
+      "publication_date": "2024-03-19",
+      "title": "Wing body fusion aircraft",
+      "patent_id": "patent/CN110626504B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110626504B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6824109B2",
+      "primary_language": "en",
+      "publication_date": "2004-11-30",
+      "title": "Lift adjusting device for aircraft",
+      "patent_id": "patent/US6824109B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6824109B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7418175B2",
+      "primary_language": "en",
+      "publication_date": "2024-01-19",
+      "title": "flying object",
+      "patent_id": "patent/JP7418175B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7418175B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4085716B2",
+      "primary_language": "en",
+      "publication_date": "2008-05-14",
+      "title": "Vertical take-off and landing aircraft",
+      "patent_id": "patent/JP4085716B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4085716B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7112141B2",
+      "primary_language": "en",
+      "publication_date": "2022-08-03",
+      "title": "3rd generation aircraft with adjustable lift wings",
+      "patent_id": "patent/JP7112141B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7112141B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20180052280A",
+      "primary_language": "en",
+      "publication_date": "2018-05-18",
+      "title": "a transfer angle type lift power control system of the wings to the third generation aircraft",
+      "patent_id": "patent/KR20180052280A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20180052280A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2386547C1",
+      "primary_language": "en",
+      "publication_date": "2010-04-20",
+      "title": "Method to produce system of propulsion of universal aircraft and universal aicraft to this end",
+      "patent_id": "patent/RU2386547C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2386547C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2673512B2",
+      "primary_language": "en",
+      "publication_date": "1997-11-05",
+      "title": "Flying vehicle equipment",
+      "patent_id": "patent/JP2673512B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2673512B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250010980A1",
+      "primary_language": "en",
+      "publication_date": "2025-01-09",
+      "title": "Autonomous electric, weight-shift control unmanned aerial vehicle",
+      "patent_id": "patent/US20250010980A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250010980A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20020047072A1",
+      "primary_language": "en",
+      "publication_date": "2002-04-25",
+      "title": "Lift multiplying device for aircraft",
+      "patent_id": "patent/US20020047072A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020047072A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2423971A",
+      "primary_language": "en",
+      "publication_date": "2006-09-13",
+      "title": "Autogyro hovercraft",
+      "patent_id": "patent/GB2423971A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2423971A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8424797B1",
+      "primary_language": "en",
+      "publication_date": "2013-04-23",
+      "title": "Air-ground vehicle",
+      "patent_id": "patent/US8424797B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8424797B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2021049960A",
+      "primary_language": "en",
+      "publication_date": "2021-04-01",
+      "title": "Flight body",
+      "patent_id": "patent/JP2021049960A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2021049960A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2022028578A",
+      "primary_language": "en",
+      "publication_date": "2022-02-16",
+      "title": "Flight vehicle",
+      "patent_id": "patent/JP2022028578A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2022028578A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20180052568A",
+      "primary_language": "en",
+      "publication_date": "2018-05-18",
+      "title": "a transfer angle type lift power control system of the wings to the third generation transportation",
+      "patent_id": "patent/KR20180052568A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20180052568A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2481235C2",
+      "primary_language": "en",
+      "publication_date": "2013-05-10",
+      "title": "Airship with moving wing",
+      "patent_id": "patent/RU2481235C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2481235C2%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2016-10-12",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "16755624"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    },
+    {
+      "date": "2017-08-29",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-21",
+      "code": "122",
+      "title": "Ep: pct application non-entry in european phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "16755624"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    }
+  ]
+}

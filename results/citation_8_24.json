@@ -1,0 +1,1480 @@
+{
+  "search_metadata": {
+    "id": "697a347dfdfbab6a35cbb837",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b898cad3bb6b901d/697a347dfdfbab6a35cbb837.json",
+    "created_at": "2026-01-28 16:08:29 UTC",
+    "processed_at": "2026-01-28 16:08:29 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US9950801B2/en",
+    "raw_html_file": "https://serpapi.com/searches/b898cad3bb6b901d/697a347dfdfbab6a35cbb837.html",
+    "total_time_taken": 0.69
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US9950801B2/en"
+  },
+  "title": "Aircraft with electric propulsion means",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/6e/f9/28/749cdfbf40faac/US9950801.pdf",
+  "publication_number": "US9950801B2",
+  "country": "United States",
+  "prior_art_keywords": [
+    "fuselage",
+    "electrical energy",
+    "aircraft",
+    "energy generator",
+    "aircraft according"
+  ],
+  "prior_art_date": "2013-06-14",
+  "application_number": "US14/304,864",
+  "inventors": [
+    {
+      "name": "St\u00e9phane Viala",
+      "link": "https://patents.google.com/?inventor=St%C3%A9phane+Viala",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=St%C3%A9phane+Viala"
+    },
+    {
+      "name": "Jason Zaneboni",
+      "link": "https://patents.google.com/?inventor=Jason+Zaneboni",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jason+Zaneboni"
+    },
+    {
+      "name": "Bruno Saint-Jalmes",
+      "link": "https://patents.google.com/?inventor=Bruno+Saint-Jalmes",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Bruno+Saint-Jalmes"
+    }
+  ],
+  "assignees": [
+    "Airbus SAS"
+  ],
+  "priority_date": "2013-06-14",
+  "filing_date": "2014-06-13",
+  "publication_date": "2018-04-24",
+  "worldwide_applications": {
+    "2013": [
+      {
+        "filing_date": "2013-06-14",
+        "country_code": "FR",
+        "application_number": "FR1355610A",
+        "document_id": "patent/FR3006997B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2014": [
+      {
+        "filing_date": "2014-06-13",
+        "country_code": "CN",
+        "application_number": "CN201410317268.8A",
+        "document_id": "patent/CN104229144B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2014-06-13",
+        "country_code": "US",
+        "application_number": "US14/304,864",
+        "document_id": "patent/US9950801B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2014-06-13",
+      "title": "Application filed by Airbus SAS",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Airbus SAS"
+    },
+    {
+      "date": "2014-12-18",
+      "title": "Publication of US20140367510A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20140367510A1/en"
+    },
+    {
+      "date": "2015-06-26",
+      "title": "Assigned to AIRBUS SAS",
+      "type": "reassignment",
+      "assignee_search": "AIRBUS SAS",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SAINT-JALMES, BRUNO, ZANEBONI, JASON, VIALA, STEPHANE"
+      ]
+    },
+    {
+      "date": "2018-04-24",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2018-04-24",
+      "title": "Publication of US9950801B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US9950801B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2034-06-13",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=9950801.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/14304864"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=9950801"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=9950801B2&KC=B2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/14304864/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US9950801"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/69/d3/bc/a1278e6853b0c6/US09950801-20180424-D00000.png",
+    "https://patentimages.storage.googleapis.com/c1/63/39/83991601a7438a/US09950801-20180424-D00001.png",
+    "https://patentimages.storage.googleapis.com/fa/d6/b6/2504c35c676590/US09950801-20180424-D00002.png",
+    "https://patentimages.storage.googleapis.com/e2/eb/01/b4ea35d22af185/US09950801-20180424-D00003.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64D27/24",
+      "description": "Aircraft characterised by the type or position of power plants using steam or spring force",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C1/26",
+      "description": "Attaching the wing or tail units or stabilising surfaces",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/02",
+      "description": "Aircraft characterised by the type or position of power plants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/32",
+      "description": "Aircraft characterised by electric power plants within, or attached to, fuselages",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/33",
+      "description": "Hybrid electric aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/357",
+      "description": "Arrangements for on-board electric energy production, distribution, recovery or storage using batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D29/04",
+      "description": "Power-plant nacelles, fairings or cowlings associated with fuselages",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D2027/026",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/026",
+      "description": "Aircraft characterised by the type or position of power plants comprising different types of power plants, e.g. combination of a piston engine and a gas-turbine",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/60",
+      "description": "Efficient propulsion technologies, e.g. for aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/64",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An aircraft with an electric propulsion arrangement which includes a fuselage, a wing system attached to the fuselage, and a tail unit attached to a rear part of the fuselage. The electric propulsion arrangement is arranged on each side of the fuselage, an electrical energy generator and electricity storage and supply devices are arranged substantially along a longitudinal axis of symmetry of the fuselage. The aircraft thus incorporates a hybrid motorization.",
+  "description_link": "https://serpapi.com/searches/697a347dfdfbab6a35cbb837/google_patents_details/description.html",
+  "claims": [
+    "1. An aircraft comprising:\na fuselage,\na wing system attached to the fuselage,\na tail unit attached to a rear part of the fuselage,\nelectric propulsion means arranged on each side of the fuselage,\na single electrical energy generator, wherein the single electrical energy generator is dedicated to the production of electricity and produces no useful thrust for the aircraft, and\nelectricity storage and supply means, wherein the electricity storage and supply means is configured and arranged for storing the electrical energy originating from the single electrical energy generator and for supplying all of the electric current to the electric propulsion means, wherein the single electrical energy generator is the only electrical energy generator for supplying electric current to the electricity storage and supply means,\nwherein the single electrical energy generator and the electricity storage and supply means are arranged substantially along a longitudinal axis of symmetry of the fuselage, and\nwherein the single electrical energy generator is positioned in the rear part of the fuselage, and\nfurther wherein the electricity storage and supply means are arranged in front of the electric propulsion means.",
+    "2. The aircraft according to claim 1, wherein the electric propulsion means comprise at least two electric motors with fans arranged on the wing system on each side of the fuselage, respectively.",
+    "3. The aircraft according to claim 1,\nwherein a front edge of a wing root of the wing system is arranged at the rear of the fuselage, at a distance from a front end of the fuselage substantially comprised between 60 and 70% of the length of the fuselage.",
+    "4. The aircraft according to claim 3, wherein the wing system comprises two wings each extending symmetrically from one side of the fuselage, and further wherein the wings are swept backwardly.",
+    "5. The aircraft according to claim 1,\nwherein the tail unit comprises a profile extended on each side by upwardly extending stabilizing surfaces, and wherein the single electrical energy generator is incorporated in the rear part of the fuselage.",
+    "6. The aircraft according to claim 1, wherein the fuselage comprises on its upper surface an air guide for the single electrical energy generator.",
+    "7. The aircraft according to claim 1,\nfurther comprising a fairing extending from an upper surface of the fuselage above said electric propulsion means, wherein the fairing extends to a rear end of the fuselage, and further wherein the electric propulsion means is housed between the fairing, the fuselage and the wing system.",
+    "8. The aircraft according to claim 7, wherein the fairing comprises a central portion extending from an upper surface of the fuselage, above the electric propulsion means arranged on the wing system, said central portion of fairing comprising on each side of the fuselage respectively a lateral edge that is substantially vertical and firmly fixed to the wing system.",
+    "9. The aircraft according to claim 7, wherein the fairing comprises a rear portion extending in a direction of a rear end of the fuselage, a width of said rear portion of the fairing decreasing from a central portion of the fairing to the rear end of the fuselage.",
+    "10. The aircraft according to claim 1, wherein the single electrical energy generator cooperates with an exhaust gas duct, an internal surface of said exhaust gas duct having an active exhaust gas treatment surface.",
+    "11. The aircraft according to claim 10, wherein the exhaust gas duct has a shape widening from a gas outlet of the single electrical energy generator towards the rear end of the fuselage, whereby a distance between interior side edges of the exhaust gas duct increases toward the rear end of the fuselage.",
+    "12. The aircraft according to claim 1, further comprising on each side of the fuselage, a joining surface projecting from the fuselage extending between a rear edge of a wing root of the wing system and the tail unit.",
+    "13. The aircraft according to claim 12, wherein said joining surface extends substantially in a same plane as the wing system.",
+    "14. The aircraft according to claim 1, wherein the electricity storage and supply means are arranged close to a center of gravity of the aircraft equipped with the electric propulsion means and the single electrical energy generator.",
+    "15. The aircraft according to claim 1, wherein the electricity storage and supply means fit an internal shape of the fuselage.",
+    "16. The aircraft according to claim 1, further comprising several electric motors with fans arranged symmetrically on the wing system on each side of the fuselage.",
+    "17. The aircraft according to claim 1, wherein the fuselage comprises a front part having a width measured along a pitch axis, and a height measured along a yaw axis, and further wherein both the width and the height, in the front part, increase in the longitudinal direction of the aircraft starting from a front end of the fuselage.",
+    "18. The aircraft according to claim 17, wherein the fuselage comprises a central part arranged to receive a payload and a rear part in which the single electrical energy generator is arranged, a width of said fuselage decreasing in the central part and the rear part to the rear end of the fuselage.",
+    "19. The aircraft according to claim 1, wherein the single electrical energy generator is arranged substantially along an axis that is oblique with respect to an axis X that extends along the longitudinal direction of the fuselage.",
+    "20. The aircraft according to claim 1, wherein the single electrical energy generator is positioned in the tail unit.",
+    "21. The aircraft according to claim 1, wherein the rear part of the fuselage decreases in width toward the rear end of the fuselage.",
+    "22. The aircraft according to claim 1, wherein the single electrical energy generator comprises a gas turbine."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "FR1355610",
+      "filing_date": "2013-06-14"
+    },
+    {
+      "application_number": "FR1355610A",
+      "representative_publication": "FR3006997B1",
+      "primary_language": "en",
+      "priority_date": "2013-06-14",
+      "filing_date": "2013-06-14",
+      "title": "AIRCRAFT WITH ELECTRICAL PROPULSION MEANS"
+    }
+  ],
+  "family_id": "49111412",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US1851857A",
+        "primary_language": "en",
+        "priority_date": "1931-04-04",
+        "publication_date": "1932-03-29",
+        "assignee_original": "Marney Arthur",
+        "title": "Aeroplane",
+        "patent_id": "patent/US1851857A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1851857A%2Fen"
+      },
+      {
+        "publication_number": "US2462201A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1943-02-02",
+        "publication_date": "1949-02-22",
+        "assignee_original": "Westinghouse Electric Corp",
+        "title": "Electrical airplane propulsion",
+        "patent_id": "patent/US2462201A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2462201A%2Fen"
+      },
+      {
+        "publication_number": "US3397854A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1963-09-12",
+        "publication_date": "1968-08-20",
+        "assignee_original": "Reyle Walter",
+        "title": "Aircraft of large wing span",
+        "patent_id": "patent/US3397854A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3397854A%2Fen"
+      },
+      {
+        "publication_number": "US3447761A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1967-06-12",
+        "publication_date": "1969-06-03",
+        "assignee_original": "Boeing Co",
+        "title": "Supersonic airplane variable-sweep integrated airfoil system",
+        "patent_id": "patent/US3447761A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3447761A%2Fen"
+      },
+      {
+        "publication_number": "US3936017A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1973-07-30",
+        "publication_date": "1976-02-03",
+        "assignee_original": "Hawker Siddeley Aviation Limited",
+        "title": "Combined noise shield and thrust reverser",
+        "patent_id": "patent/US3936017A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3936017A%2Fen"
+      },
+      {
+        "publication_number": "US4605185A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-10-17",
+        "publication_date": "1986-08-12",
+        "assignee_original": "Daniel Reyes",
+        "title": "Airplane powered by vehicular motor",
+        "patent_id": "patent/US4605185A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4605185A%2Fen"
+      },
+      {
+        "publication_number": "US5355668A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-01-29",
+        "publication_date": "1994-10-18",
+        "assignee_original": "General Electric Company",
+        "title": "Catalyst-bearing component of gas turbine engine",
+        "patent_id": "patent/US5355668A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5355668A%2Fen"
+      },
+      {
+        "publication_number": "US7555893B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-25",
+        "publication_date": "2009-07-07",
+        "assignee_original": "Japan Aerospace Exploration Agency",
+        "title": "Aircraft propulsion system",
+        "patent_id": "patent/US7555893B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7555893B2%2Fen"
+      },
+      {
+        "publication_number": "US7578369B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-25",
+        "publication_date": "2009-08-25",
+        "assignee_original": "Hamilton Sundstrand Corporation",
+        "title": "Mixed-flow exhaust silencer assembly",
+        "patent_id": "patent/US7578369B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7578369B2%2Fen"
+      },
+      {
+        "publication_number": "FR2943039A1",
+        "primary_language": "en",
+        "priority_date": "2009-03-12",
+        "publication_date": "2010-09-17",
+        "assignee_original": "Airbus France",
+        "title": "PLANE TANK-TAIL AND REVERSE ENGINE.",
+        "patent_id": "patent/FR2943039A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2943039A1%2Fen"
+      },
+      {
+        "publication_number": "US7926760B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-05",
+        "publication_date": "2011-04-19",
+        "assignee_original": "Airbus France",
+        "title": "Method for producing an aircraft with reduced environmental impact and the aircraft thus obtained",
+        "patent_id": "patent/US7926760B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7926760B2%2Fen"
+      },
+      {
+        "publication_number": "US20130062455A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-20",
+        "publication_date": "2013-03-14",
+        "assignee_original": "Richard H. Lugg",
+        "title": "Hybrid jet/electric vtol aircraft",
+        "patent_id": "patent/US20130062455A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130062455A1%2Fen"
+      },
+      {
+        "publication_number": "EP2581308A2",
+        "primary_language": "en",
+        "priority_date": "2011-10-13",
+        "publication_date": "2013-04-17",
+        "assignee_original": "Rolls-Royce plc",
+        "title": "A distributed propulsion system and method of control",
+        "patent_id": "patent/EP2581308A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2581308A2%2Fen"
+      },
+      {
+        "publication_number": "US20130099065A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-19",
+        "publication_date": "2013-04-25",
+        "assignee_original": "Eads Deutschland Gmbh",
+        "title": "Tilt-wing aircraft",
+        "patent_id": "patent/US20130099065A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130099065A1%2Fen"
+      },
+      {
+        "publication_number": "US20140038770A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-07",
+        "publication_date": "2014-02-06",
+        "assignee_original": "Kawasaki Jukogyo Kabushiki Kaisha",
+        "title": "Generating device for aircraft",
+        "patent_id": "patent/US20140038770A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140038770A1%2Fen"
+      },
+      {
+        "publication_number": "US20140179535A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-14",
+        "publication_date": "2014-06-26",
+        "assignee_original": "Eads Deutschland Gmbh",
+        "title": "Electric drive device for an aircraft",
+        "patent_id": "patent/US20140179535A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140179535A1%2Fen"
+      },
+      {
+        "publication_number": "US9096312B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-28",
+        "publication_date": "2015-08-04",
+        "assignee_original": "Rolls-Royce Plc",
+        "title": "Aircraft",
+        "patent_id": "patent/US9096312B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9096312B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN101592081B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-05",
+        "publication_date": "2011-06-15",
+        "assignee_original": "\u4e2d\u56fd\u822a\u7a7a\u52a8\u529b\u673a\u68b0\u7814\u7a76\u6240",
+        "title": "Gas turbine generating engine",
+        "patent_id": "patent/CN101592081B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101592081B%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "French Search Report dated Feb. 24, 2014."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US10518863B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-22",
+        "publication_date": "2019-12-31",
+        "assignee_original": "Rolls-Royce Plc",
+        "title": "Aircraft electrical network",
+        "patent_id": "patent/US10518863B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10518863B2%2Fen"
+      },
+      {
+        "publication_number": "US10926874B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-15",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Hybrid propulsion vertical take-off and landing aircraft",
+        "patent_id": "patent/US10926874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926874B2%2Fen"
+      },
+      {
+        "publication_number": "US11465763B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-19",
+        "publication_date": "2022-10-11",
+        "assignee_original": "Zunum Aero, Inc.",
+        "title": "Hybrid-electric aircraft, and methods, apparatus and systems for facilitating same",
+        "patent_id": "patent/US11465763B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11465763B2%2Fen"
+      },
+      {
+        "publication_number": "US11492099B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-19",
+        "publication_date": "2022-11-08",
+        "assignee_original": "Wright Electric, Inc.",
+        "title": "Aircraft nacelle having electric motor and thrust reversing air exhaust flaps",
+        "patent_id": "patent/US11492099B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11492099B2%2Fen"
+      },
+      {
+        "publication_number": "US11897622B2",
+        "primary_language": "en",
+        "priority_date": "2018-03-30",
+        "publication_date": "2024-02-13",
+        "assignee_original": "Airbus Operations Sas",
+        "title": "Propeller propulsion unit comprising a heat engine and an electric motor and aircraft comprising such a propeller propulsion unit",
+        "patent_id": "patent/US11897622B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11897622B2%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102012018499A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-18",
+        "publication_date": "2014-03-20",
+        "assignee_original": "Innovative Dragon Ltd.",
+        "title": "Drive system for and resulting overall design of aircraft",
+        "patent_id": "patent/DE102012018499A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012018499A1%2Fen"
+      },
+      {
+        "publication_number": "EP3657468A1",
+        "primary_language": "en",
+        "priority_date": "2014-08-29",
+        "publication_date": "2020-05-27",
+        "assignee_original": "Zunum Aero, Inc.",
+        "title": "System and methods for implementing regional air transit network using hybrid-electric aircraft",
+        "patent_id": "patent/EP3657468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3657468A1%2Fen"
+      },
+      {
+        "publication_number": "US10000293B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-23",
+        "publication_date": "2018-06-19",
+        "assignee_original": "General Electric Company",
+        "title": "Gas-electric propulsion system for an aircraft",
+        "patent_id": "patent/US10000293B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10000293B2%2Fen"
+      },
+      {
+        "publication_number": "JP6437347B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-27",
+        "publication_date": "2018-12-12",
+        "assignee_original": "\u4e09\u83f1\u91cd\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Thrust generator and aircraft",
+        "patent_id": "patent/JP6437347B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6437347B2%2Fen"
+      },
+      {
+        "publication_number": "GB201508138D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-13",
+        "publication_date": "2015-06-24",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Aircraft",
+        "patent_id": "patent/GB201508138D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201508138D0%2Fen"
+      },
+      {
+        "publication_number": "DE102015209672A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-27",
+        "publication_date": "2016-12-01",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Airplane and method of operating a hydrofoil",
+        "patent_id": "patent/DE102015209672A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102015209672A1%2Fen"
+      },
+      {
+        "publication_number": "US9884687B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-21",
+        "publication_date": "2018-02-06",
+        "assignee_original": "General Electric Company",
+        "title": "Non-axis symmetric aft engine",
+        "patent_id": "patent/US9884687B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9884687B2%2Fen"
+      },
+      {
+        "publication_number": "US9815560B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-21",
+        "publication_date": "2017-11-14",
+        "assignee_original": "General Electric Company",
+        "title": "AFT engine nacelle shape for an aircraft",
+        "patent_id": "patent/US9815560B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9815560B2%2Fen"
+      },
+      {
+        "publication_number": "US9637217B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-21",
+        "publication_date": "2017-05-02",
+        "assignee_original": "General Electric Company",
+        "title": "Aircraft having an aft engine",
+        "patent_id": "patent/US9637217B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9637217B2%2Fen"
+      },
+      {
+        "publication_number": "US9821917B2",
+        "primary_language": "en",
+        "priority_date": "2015-09-21",
+        "publication_date": "2017-11-21",
+        "assignee_original": "General Electric Company",
+        "title": "Aft engine for an aircraft",
+        "patent_id": "patent/US9821917B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9821917B2%2Fen"
+      },
+      {
+        "publication_number": "US10017270B2",
+        "primary_language": "en",
+        "priority_date": "2015-10-09",
+        "publication_date": "2018-07-10",
+        "assignee_original": "General Electric Company",
+        "title": "Aft engine for an aircraft",
+        "patent_id": "patent/US10017270B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10017270B2%2Fen"
+      },
+      {
+        "publication_number": "US10814991B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-09",
+        "publication_date": "2020-10-27",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion system and methods of use thereof",
+        "patent_id": "patent/US10814991B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10814991B2%2Fen"
+      },
+      {
+        "publication_number": "US9764848B1",
+        "primary_language": "en",
+        "priority_date": "2016-03-07",
+        "publication_date": "2017-09-19",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion system for an aircraft",
+        "patent_id": "patent/US9764848B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9764848B1%2Fen"
+      },
+      {
+        "publication_number": "US10227137B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-22",
+        "publication_date": "2019-03-12",
+        "assignee_original": "Ge Aviation Systems Llc",
+        "title": "Hybrid power system for an aircraft",
+        "patent_id": "patent/US10227137B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10227137B2%2Fen"
+      },
+      {
+        "publication_number": "US10392119B2",
+        "primary_language": "en",
+        "priority_date": "2016-04-11",
+        "publication_date": "2019-08-27",
+        "assignee_original": "General Electric Company",
+        "title": "Electric propulsion engine for an aircraft",
+        "patent_id": "patent/US10392119B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10392119B2%2Fen"
+      },
+      {
+        "publication_number": "US10252810B2",
+        "primary_language": "en",
+        "priority_date": "2016-04-19",
+        "publication_date": "2019-04-09",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion engine for an aircraft",
+        "patent_id": "patent/US10252810B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10252810B2%2Fen"
+      },
+      {
+        "publication_number": "US10392120B2",
+        "primary_language": "en",
+        "priority_date": "2016-04-19",
+        "publication_date": "2019-08-27",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion engine for an aircraft",
+        "patent_id": "patent/US10392120B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10392120B2%2Fen"
+      },
+      {
+        "publication_number": "US10676205B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-19",
+        "publication_date": "2020-06-09",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion engine for an aircraft",
+        "patent_id": "patent/US10676205B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10676205B2%2Fen"
+      },
+      {
+        "publication_number": "US11105340B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-19",
+        "publication_date": "2021-08-31",
+        "assignee_original": "General Electric Company",
+        "title": "Thermal management system for an electric propulsion engine",
+        "patent_id": "patent/US11105340B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11105340B2%2Fen"
+      },
+      {
+        "publication_number": "US10800539B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-19",
+        "publication_date": "2020-10-13",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion engine for an aircraft",
+        "patent_id": "patent/US10800539B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10800539B2%2Fen"
+      },
+      {
+        "publication_number": "US10308366B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-22",
+        "publication_date": "2019-06-04",
+        "assignee_original": "General Electric Company",
+        "title": "Embedded electric machine",
+        "patent_id": "patent/US10308366B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10308366B2%2Fen"
+      },
+      {
+        "publication_number": "US10093428B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-22",
+        "publication_date": "2018-10-09",
+        "assignee_original": "General Electric Company",
+        "title": "Electric propulsion system",
+        "patent_id": "patent/US10093428B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093428B2%2Fen"
+      },
+      {
+        "publication_number": "US10071811B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-22",
+        "publication_date": "2018-09-11",
+        "assignee_original": "General Electric Company",
+        "title": "Embedded electric machine",
+        "patent_id": "patent/US10071811B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10071811B2%2Fen"
+      },
+      {
+        "publication_number": "US10487839B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-22",
+        "publication_date": "2019-11-26",
+        "assignee_original": "General Electric Company",
+        "title": "Embedded electric machine",
+        "patent_id": "patent/US10487839B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10487839B2%2Fen"
+      },
+      {
+        "publication_number": "RU171939U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-17",
+        "publication_date": "2017-06-21",
+        "assignee_original": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0443\u043d\u0438\u0442\u0430\u0440\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0435 \"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u044d\u0440\u043e\u0433\u0438\u0434\u0440\u043e\u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u0438\u043c\u0435\u043d\u0438 \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u043e\u0440\u0430 \u041d.\u0415. \u0416\u0443\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e\" (\u0424\u0413\u0423\u041f \"\u0426\u0410\u0413\u0418\")",
+        "title": "Short takeoff and landing airplane",
+        "patent_id": "patent/RU171939U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU171939U1%2Fen"
+      },
+      {
+        "publication_number": "DE112017000168T5",
+        "primary_language": "en",
+        "priority_date": "2017-01-06",
+        "publication_date": "2018-08-16",
+        "assignee_original": "Northwestern Polytechnical University",
+        "title": "Distribution drive system",
+        "patent_id": "patent/DE112017000168T5/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE112017000168T5%2Fen"
+      },
+      {
+        "publication_number": "CN106742075B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-06",
+        "publication_date": "2023-03-03",
+        "assignee_original": "\u897f\u5b89\u89c9\u5929\u52a8\u529b\u79d1\u6280\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Distributed propulsion system",
+        "patent_id": "patent/CN106742075B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106742075B%2Fen"
+      },
+      {
+        "publication_number": "US10793281B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-10",
+        "publication_date": "2020-10-06",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion system for an aircraft",
+        "patent_id": "patent/US10793281B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10793281B2%2Fen"
+      },
+      {
+        "publication_number": "US10822103B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-10",
+        "publication_date": "2020-11-03",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsor assembly for an aircraft",
+        "patent_id": "patent/US10822103B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10822103B2%2Fen"
+      },
+      {
+        "publication_number": "DE102017102657A1",
+        "primary_language": "en",
+        "priority_date": "2017-02-10",
+        "publication_date": "2018-08-16",
+        "assignee_original": "Airbus Defence and Space GmbH",
+        "title": "Energy supply system for electrical consumers of an aircraft",
+        "patent_id": "patent/DE102017102657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102017102657A1%2Fen"
+      },
+      {
+        "publication_number": "US11149578B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-10",
+        "publication_date": "2021-10-19",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion system for an aircraft",
+        "patent_id": "patent/US11149578B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11149578B2%2Fen"
+      },
+      {
+        "publication_number": "US10137981B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-31",
+        "publication_date": "2018-11-27",
+        "assignee_original": "General Electric Company",
+        "title": "Electric propulsion system for an aircraft",
+        "patent_id": "patent/US10137981B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10137981B2%2Fen"
+      },
+      {
+        "publication_number": "US10762726B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-13",
+        "publication_date": "2020-09-01",
+        "assignee_original": "General Electric Company",
+        "title": "Hybrid-electric propulsion system for an aircraft",
+        "patent_id": "patent/US10762726B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10762726B2%2Fen"
+      },
+      {
+        "publication_number": "US20190002117A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-30",
+        "publication_date": "2019-01-03",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion system for an aircraft",
+        "patent_id": "patent/US20190002117A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190002117A1%2Fen"
+      },
+      {
+        "publication_number": "US10822101B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-21",
+        "publication_date": "2020-11-03",
+        "assignee_original": "General Electric Company",
+        "title": "Vertical takeoff and landing aircraft having a forward thrust propulsor",
+        "patent_id": "patent/US10822101B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10822101B2%2Fen"
+      },
+      {
+        "publication_number": "DE102018102525A1",
+        "primary_language": "en",
+        "priority_date": "2018-02-05",
+        "publication_date": "2019-08-08",
+        "assignee_original": "Airbus Defence and Space GmbH",
+        "title": "An aircraft propulsion system and method for providing propulsion power to an aircraft",
+        "patent_id": "patent/DE102018102525A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018102525A1%2Fen"
+      },
+      {
+        "publication_number": "CN108275273B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-08",
+        "publication_date": "2024-04-02",
+        "assignee_original": "\u4e1c\u839e\u7406\u5de5\u5b66\u9662",
+        "title": "Unmanned plane",
+        "patent_id": "patent/CN108275273B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108275273B%2Fen"
+      },
+      {
+        "publication_number": "FR3082827B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-21",
+        "publication_date": "2021-09-10",
+        "assignee_original": "Safran",
+        "title": "REAR PROPULSION SYSTEM FOR AIRCRAFT",
+        "patent_id": "patent/FR3082827B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3082827B1%2Fen"
+      },
+      {
+        "publication_number": "GB201813674D0",
+        "primary_language": "en",
+        "priority_date": "2018-08-22",
+        "publication_date": "2018-10-03",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Turbomachine",
+        "patent_id": "patent/GB201813674D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201813674D0%2Fen"
+      },
+      {
+        "publication_number": "GB201813672D0",
+        "primary_language": "en",
+        "priority_date": "2018-08-22",
+        "publication_date": "2018-10-03",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Turbomachine",
+        "patent_id": "patent/GB201813672D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201813672D0%2Fen"
+      },
+      {
+        "publication_number": "GB201813675D0",
+        "primary_language": "en",
+        "priority_date": "2018-08-22",
+        "publication_date": "2018-10-03",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Turbomachine",
+        "patent_id": "patent/GB201813675D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201813675D0%2Fen"
+      },
+      {
+        "publication_number": "GB201813671D0",
+        "primary_language": "en",
+        "priority_date": "2018-08-22",
+        "publication_date": "2018-10-03",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Turbomachine",
+        "patent_id": "patent/GB201813671D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201813671D0%2Fen"
+      },
+      {
+        "publication_number": "US11156128B2",
+        "primary_language": "en",
+        "priority_date": "2018-08-22",
+        "publication_date": "2021-10-26",
+        "assignee_original": "General Electric Company",
+        "title": "Embedded electric machine",
+        "patent_id": "patent/US11156128B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11156128B2%2Fen"
+      },
+      {
+        "publication_number": "GB201813670D0",
+        "primary_language": "en",
+        "priority_date": "2018-08-22",
+        "publication_date": "2018-10-03",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Turbomachine",
+        "patent_id": "patent/GB201813670D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201813670D0%2Fen"
+      },
+      {
+        "publication_number": "US11097849B2",
+        "primary_language": "en",
+        "priority_date": "2018-09-10",
+        "publication_date": "2021-08-24",
+        "assignee_original": "General Electric Company",
+        "title": "Aircraft having an aft engine",
+        "patent_id": "patent/US11097849B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11097849B2%2Fen"
+      },
+      {
+        "publication_number": "EP3666645B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-14",
+        "publication_date": "2021-11-17",
+        "assignee_original": "Bombardier Inc.",
+        "title": "Forward swept wing aircraft with boundary layer ingestion and distributed electrical propulsion system",
+        "patent_id": "patent/EP3666645B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3666645B1%2Fen"
+      },
+      {
+        "publication_number": "CN110056451A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-17",
+        "publication_date": "2019-07-26",
+        "assignee_original": "\u4e2d\u56fd\u822a\u53d1\u6e56\u5357\u52a8\u529b\u673a\u68b0\u7814\u7a76\u6240",
+        "title": "External fan turbogenerator arranged side by side and its application in flying wing type airplane field",
+        "patent_id": "patent/CN110056451A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110056451A%2Fen"
+      },
+      {
+        "publication_number": "DE102019208354A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-07",
+        "publication_date": "2020-12-10",
+        "assignee_original": "e.SAT Management GmbH",
+        "title": "Aircraft",
+        "patent_id": "patent/DE102019208354A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019208354A1%2Fen"
+      },
+      {
+        "publication_number": "DE102019208353A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-07",
+        "publication_date": "2020-12-10",
+        "assignee_original": "e.SAT Management GmbH",
+        "title": "plane",
+        "patent_id": "patent/DE102019208353A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019208353A1%2Fen"
+      },
+      {
+        "publication_number": "DE102019115578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-07",
+        "publication_date": "2020-12-10",
+        "assignee_original": "e.SAT Management GmbH",
+        "title": "Aircraft with ducted propeller drive",
+        "patent_id": "patent/DE102019115578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019115578A1%2Fen"
+      },
+      {
+        "publication_number": "CN111284714A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-30",
+        "publication_date": "2020-06-16",
+        "assignee_original": "\u4e2d\u7535\u79d1\u829c\u6e56\u94bb\u77f3\u98de\u673a\u5236\u9020\u6709\u9650\u516c\u53f8",
+        "title": "Commuting type electric airplane system",
+        "patent_id": "patent/CN111284714A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111284714A%2Fen"
+      },
+      {
+        "publication_number": "GB202001971D0",
+        "primary_language": "en",
+        "priority_date": "2020-02-13",
+        "publication_date": "2020-04-01",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Nacelle for gas turbine engine and aircraft comprising the same",
+        "patent_id": "patent/GB202001971D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB202001971D0%2Fen"
+      },
+      {
+        "publication_number": "US12187443B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-14",
+        "publication_date": "2025-01-07",
+        "assignee_original": "Bombardier Inc.",
+        "title": "Excess thrust control for an aircraft",
+        "patent_id": "patent/US12187443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12187443B2%2Fen"
+      },
+      {
+        "publication_number": "EP3904202B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-29",
+        "publication_date": "2023-06-07",
+        "assignee_original": "Airbus Operations, S.L.",
+        "title": "A rear end section for an aircraft",
+        "patent_id": "patent/EP3904202B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3904202B1%2Fen"
+      },
+      {
+        "publication_number": "NL1043733B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-16",
+        "publication_date": "2022-03-21",
+        "assignee_original": "Merien BV",
+        "title": "Hybrid aircraft propulsion",
+        "patent_id": "patent/NL1043733B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL1043733B1%2Fen"
+      },
+      {
+        "publication_number": "US11566533B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-08",
+        "publication_date": "2023-01-31",
+        "assignee_original": "General Electric Company",
+        "title": "Electrical machines for integration into a propulsion engine",
+        "patent_id": "patent/US11566533B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11566533B2%2Fen"
+      },
+      {
+        "publication_number": "US12149154B2",
+        "primary_language": "en",
+        "priority_date": "2021-07-22",
+        "publication_date": "2024-11-19",
+        "assignee_original": "General Electric Company",
+        "title": "Electric machine having a hybrid insulative-conductive manifold",
+        "patent_id": "patent/US12149154B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12149154B2%2Fen"
+      },
+      {
+        "publication_number": "JP7774420B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-05",
+        "publication_date": "2025-11-21",
+        "assignee_original": "\u4e09\u83f1\u91cd\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "aircraft",
+        "patent_id": "patent/JP7774420B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7774420B2%2Fen"
+      },
+      {
+        "publication_number": "CN114215658A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-29",
+        "publication_date": "2022-03-22",
+        "assignee_original": "\u4e2d\u56fd\u822a\u53d1\u6c88\u9633\u53d1\u52a8\u673a\u7814\u7a76\u6240",
+        "title": "Propulsion system with large-range bypass ratio adjusting capacity",
+        "patent_id": "patent/CN114215658A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114215658A%2Fen"
+      },
+      {
+        "publication_number": "EP4463377A1",
+        "primary_language": "en",
+        "priority_date": "2022-01-14",
+        "publication_date": "2024-11-20",
+        "assignee_original": "Merien BV",
+        "title": "Hybrid aircraft propulsion",
+        "patent_id": "patent/EP4463377A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4463377A1%2Fen"
+      },
+      {
+        "publication_number": "US20250206447A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-26",
+        "publication_date": "2025-06-26",
+        "assignee_original": "North American Wave Engine Corporation",
+        "title": "Hybrid aircraft using wave engine and electric propulsion",
+        "patent_id": "patent/US20250206447A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250206447A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US9950801B2",
+      "primary_language": "en",
+      "publication_date": "2018-04-24",
+      "title": "Aircraft with electric propulsion means",
+      "patent_id": "patent/US9950801B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9950801B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104670503B",
+      "primary_language": "en",
+      "publication_date": "2018-03-30",
+      "title": "Aircraft",
+      "patent_id": "patent/CN104670503B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104670503B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8262031B2",
+      "primary_language": "en",
+      "publication_date": "2012-09-11",
+      "title": "Co-flow jet aircraft",
+      "patent_id": "patent/US8262031B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8262031B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8152095B2",
+      "primary_language": "en",
+      "publication_date": "2012-04-10",
+      "title": "Aircraft having a reduced acoustic signature",
+      "patent_id": "patent/US8152095B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8152095B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8196861B2",
+      "primary_language": "en",
+      "publication_date": "2012-06-12",
+      "title": "Rear propulsion system with lateral air inlets for an aircraft with such system",
+      "patent_id": "patent/US8196861B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8196861B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150232180A1",
+      "primary_language": "en",
+      "publication_date": "2015-08-20",
+      "title": "Dual channel wing for an aerocar",
+      "patent_id": "patent/US20150232180A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150232180A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111792042A",
+      "primary_language": "en",
+      "publication_date": "2020-10-20",
+      "title": "Aircraft with embedded engine and method of operating the same",
+      "patent_id": "patent/CN111792042A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111792042A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110210211A1",
+      "primary_language": "en",
+      "publication_date": "2011-09-01",
+      "title": "DISCRETE CO-FLOW JET (dCFJ) AIRFOIL",
+      "patent_id": "patent/US20110210211A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110210211A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210078702A1",
+      "primary_language": "en",
+      "publication_date": "2021-03-18",
+      "title": "Aircraft having support stays for wings in which hydrogen pipes or electrical conductors are arranged",
+      "patent_id": "patent/US20210078702A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210078702A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2034310904531344806",
+      "scholar_authors": "Dhara et al.",
+      "publication_date": "2021",
+      "title": "Sustainable technology on aircraft design: a review",
+      "patent_id": "scholar/2034310904531344806",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2034310904531344806"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1984812A",
+      "primary_language": "en",
+      "publication_date": "2007-06-20",
+      "title": "multi-engine aircraft",
+      "patent_id": "patent/CN1984812A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1984812A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11897622B2",
+      "primary_language": "en",
+      "publication_date": "2024-02-13",
+      "title": "Propeller propulsion unit comprising a heat engine and an electric motor and aircraft comprising such a propeller propulsion unit",
+      "patent_id": "patent/US11897622B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11897622B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103921931A",
+      "primary_language": "en",
+      "publication_date": "2014-07-16",
+      "title": "Duct wing system and aircraft using same",
+      "patent_id": "patent/CN103921931A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103921931A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119013190A",
+      "primary_language": "en",
+      "publication_date": "2024-11-22",
+      "title": "Hydrogen optimized aircraft architecture and operation",
+      "patent_id": "patent/CN119013190A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119013190A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2591102C1",
+      "primary_language": "en",
+      "publication_date": "2016-07-10",
+      "title": "Supersonic aircraft with closed structure wings",
+      "patent_id": "patent/RU2591102C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2591102C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104276273B",
+      "primary_language": "en",
+      "publication_date": "2016-04-20",
+      "title": "A kind of Large freight aircraft",
+      "patent_id": "patent/CN104276273B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104276273B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10207208426573921033",
+      "scholar_authors": "Petrov",
+      "publication_date": "2012",
+      "title": "Aerodynamics of STOL airplanes with powered high-lift systems",
+      "patent_id": "scholar/10207208426573921033",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10207208426573921033"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107697269A",
+      "primary_language": "en",
+      "publication_date": "2018-02-16",
+      "title": "A kind of propeller aeroplane",
+      "patent_id": "patent/CN107697269A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107697269A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2432299C2",
+      "primary_language": "en",
+      "publication_date": "2011-10-27",
+      "title": "Supersonic convertible aircraft",
+      "patent_id": "patent/RU2432299C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2432299C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119460123A",
+      "primary_language": "en",
+      "publication_date": "2025-02-18",
+      "title": "A segmented hybrid supersonic commercial airliner",
+      "patent_id": "patent/CN119460123A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119460123A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2007104940A1",
+      "primary_language": "en",
+      "publication_date": "2007-09-20",
+      "title": "Aircraft",
+      "patent_id": "patent/WO2007104940A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007104940A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230107062A1",
+      "primary_language": "en",
+      "publication_date": "2023-04-06",
+      "title": "Exhausting of hot gases from within an aircraft",
+      "patent_id": "patent/US20230107062A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230107062A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3285537A",
+      "primary_language": "en",
+      "publication_date": "1966-11-15",
+      "title": "Vertical take off and landing aircraft",
+      "patent_id": "patent/US3285537A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3285537A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU196109U1",
+      "primary_language": "en",
+      "publication_date": "2020-02-17",
+      "title": "Supersonic Civil Aircraft",
+      "patent_id": "patent/RU196109U1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU196109U1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9697900583402385715",
+      "scholar_authors": "Sun et al.",
+      "publication_date": "2025",
+      "title": "Civil Aircraft: History, Progress",
+      "patent_id": "scholar/9697900583402385715",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9697900583402385715"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2015-06-26",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "AIRBUS SAS, FRANCE"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:VIALA, STEPHANE;ZANEBONI, JASON;SAINT-JALMES, BRUNO;SIGNING DATES FROM 20140905 TO 20150402;REEL/FRAME:035912/0159"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-04",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-13",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-16",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    }
+  ]
+}

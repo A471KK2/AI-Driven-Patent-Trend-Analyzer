@@ -1,0 +1,1433 @@
+{
+  "search_metadata": {
+    "id": "697a3a874a0898c0a95b718a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5bf9bf5450135357/697a3a874a0898c0a95b718a.json",
+    "created_at": "2026-01-28 16:34:15 UTC",
+    "processed_at": "2026-01-28 16:34:15 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20090315349A1/en",
+    "raw_html_file": "https://serpapi.com/searches/5bf9bf5450135357/697a3a874a0898c0a95b718a.html",
+    "total_time_taken": 0.56
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20090315349A1/en"
+  },
+  "title": "Animal Waste Disposal System",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/17/4d/b8/f7c63ba1cba562/US20090315349A1.pdf",
+  "publication_number": "US20090315349A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "disposal system",
+    "animal waste",
+    "waste disposal",
+    "removal tool",
+    "opposing"
+  ],
+  "prior_art_date": "2008-06-23",
+  "application_number": "US12/144,143",
+  "inventors": [
+    {
+      "name": "Joseph D. Black",
+      "link": "https://patents.google.com/?inventor=Joseph+D.+Black",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joseph+D.+Black"
+    },
+    {
+      "name": "Andrew J. Mistler, III",
+      "link": "https://patents.google.com/?inventor=Andrew+J.+Mistler%2C+III",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Andrew+J.+Mistler%2C+III"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2008-06-23",
+  "filing_date": "2008-06-23",
+  "publication_date": "2009-12-24",
+  "worldwide_applications": {
+    "2008": [
+      {
+        "filing_date": "2008-06-23",
+        "country_code": "US",
+        "application_number": "US12/144,143",
+        "document_id": "patent/US7976083B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2008-06-23",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2008-06-23",
+      "title": "Priority to US12/144,143",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7976083B2/en"
+    },
+    {
+      "date": "2009-12-24",
+      "title": "Publication of US20090315349A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20090315349A1/en"
+    },
+    {
+      "date": "2011-07-12",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2011-07-12",
+      "title": "Publication of US7976083B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7976083B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2028-06-23",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20090315349.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/12144143"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20090315349"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2009315349A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/12144143/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20090315349"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/d1/fa/cd/00732dd6d8c108/US20090315349A1-20091224-D00000.png",
+    "https://patentimages.storage.googleapis.com/9d/57/ee/8501326e73b3e9/US20090315349A1-20091224-D00001.png",
+    "https://patentimages.storage.googleapis.com/f2/60/94/b9fedf1f21e972/US20090315349A1-20091224-D00002.png"
+  ],
+  "classifications": [
+    {
+      "code": "E01H1/1206",
+      "description": "Hand implements, e.g. litter pickers for picking up excrements",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "E01H2001/124",
+      "description": "Glove-like means",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "E01H2001/126",
+      "description": "Details characterised by way of removing material the implement being for single use but not glove-like",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An animal waste disposal system, comprising a collection bag having an open end and a closed bottom. A waste removal tool is attached to the closed bottom of the collection bag. The waste removal tool including opposing jaws, with each jaw terminating in a blade portion. The opposing jaws are movable from an open position where the opposing jaws are separated from one another to a closed position where the blade portion of one opposing jaw is in close proximity to the blade portion the other opposing jaw.",
+  "description_link": "https://serpapi.com/searches/697a3a874a0898c0a95b718a/google_patents_details/description.html",
+  "claims": [
+    "1. An animal waste disposal system, comprising:\na collection bag having an open end and a closed bottom joined by a sidewall to define an interior side and exterior side of the collection bag; a waste removal tool attached to the interior side of the closed bottom of the collection bag, the waste removal tool including a pair of thin opposing jaws joined at one end and having no sidewalls, each jaw including a gripping portion extending from the end, an intermediate portion extending from the gripping portion, and terminating in a blade portion extending from the intermediate portion and angled inward toward the blade portion of the opposing jaw, the opposing jaws being movable from an open position where the opposing jaws are separated from one another to a closed position where the blade portion of one opposing jaw is in close proximity to the blade portion the other opposing jaw.",
+    "2. The animal waste disposal system according to claim 1, wherein the waste removal tool is substantially V-shaped.",
+    "3. The animal waste disposal system according to claim 1, further comprising a first handle on one of the opposing jaws for receiving a user's fingers and a second handle on the other opposing jaw for receiving the user's thumb.",
+    "4. The animal waste disposal system according to claim 1, wherein the waste removal tool is made from a single sheet of flexible material that is folded to permit movement of the opposing jaws relative to one another.",
+    "5. The animal waste disposal system according to claim 4, wherein the waste removal tool is made from cardboard.",
+    "6. The animal waste disposal system according to claim 1, wherein the waste removal tool is made from heavy paper.",
+    "7. The animal waste disposal system according to claim 1, wherein the waste removal tool is made from plastic.",
+    "8. The animal waste disposal system according to claim 1, wherein the bag is made from plastic.",
+    "9. The animal waste disposal system according to claim 8, wherein the bag is biodegradable.",
+    "10. An animal waste disposal system, comprising:\na waste removal tool having a pair of opposing jaws separated by a generally straight intermediate portion, each jaw pivotally connected to an opposing end of the intermediate portion and terminating in a blade portion, the waste removal tool dimensioned to fit within the palm of a user's hand with the user's fingers extending over one of the jaws and the user's thumb extending over the other jaw; the opposing jaws being movable in response to movement of the user's fingers and thumb from an open position where the jaws are separated from one another to a closed position where the blade portion of one opposing jaw is in close proximity to the blade portion the other opposing jaw.",
+    "11. The animal waste disposal system according to claim 10, further comprising a collection bag having an open end and a closed bottom.",
+    "12. The animal waste disposal system according to claim 11, wherein the closed bottom of the collection bag is positioned within the opposing jaws.",
+    "13. The animal waste disposal system according to claim 11, wherein the waste removal tool is attached to the closed bottom of the collection bag.",
+    "14. The animal waste disposal system according to claim 10, further comprising a first handle on one of the opposing jaws for receiving a user's fingers and a second handle on the other opposing jaw for receiving the user's thumb.",
+    "15. The animal waste disposal system according to claim 10, wherein each jaw includes opposing upstanding sidewalls that are each contiguous with an edge of the blade portion.",
+    "16. The animal waste disposal system according to claim 13, wherein the waste removal tool is substantially V-shaped.",
+    "17. The animal waste disposal system according to claim 10, wherein the waste removal tool is made from a single sheet of flexible material that is folded to permit movement of the opposing jaws relative to one another.",
+    "18. The animal waste disposal system according to claim 10, wherein the waste removal tool is made from cardboard.",
+    "19. The animal waste disposal system according to claim 10, wherein the waste removal tool is made from heavy paper.",
+    "20. The animal waste disposal system according to claim 10, wherein the waste removal tool is made from plastic.",
+    "21. The animal waste disposal system according to claim 11, wherein the bag is made from plastic.",
+    "22. The animal waste disposal system according to claim 21, wherein the bag is biodegradable."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US12/144,143",
+      "representative_publication": "US7976083B2",
+      "primary_language": "en",
+      "priority_date": "2008-06-23",
+      "filing_date": "2008-06-23",
+      "title": "Animal waste disposal system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US12/144,143",
+      "representative_publication": "US7976083B2",
+      "primary_language": "en",
+      "priority_date": "2008-06-23",
+      "filing_date": "2008-06-23",
+      "title": "Animal waste disposal system"
+    }
+  ],
+  "family_id": "41430460",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3178092A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1964-06-15",
+        "publication_date": "1965-04-13",
+        "assignee_original": "Int Paper Co",
+        "title": "Box",
+        "patent_id": "patent/US3178092A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3178092A%2Fen"
+      },
+      {
+        "publication_number": "US3703158A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1971-09-16",
+        "publication_date": "1972-11-21",
+        "assignee_original": "Seymour A Lemler",
+        "title": "Scoop for animal waste",
+        "patent_id": "patent/US3703158A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3703158A%2Fen"
+      },
+      {
+        "publication_number": "US3813121A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-10-12",
+        "publication_date": "1974-05-28",
+        "assignee_original": "S Marvin",
+        "title": "Article collecting device",
+        "patent_id": "patent/US3813121A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3813121A%2Fen"
+      },
+      {
+        "publication_number": "US3841684A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-12-26",
+        "publication_date": "1974-10-15",
+        "assignee_original": "S Fleishman",
+        "title": "Disposable tongs",
+        "patent_id": "patent/US3841684A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3841684A%2Fen"
+      },
+      {
+        "publication_number": "US3917333A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1973-03-15",
+        "publication_date": "1975-11-04",
+        "assignee_original": "Donald J Grattan",
+        "title": "Sanitary scoop",
+        "patent_id": "patent/US3917333A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3917333A%2Fen"
+      },
+      {
+        "publication_number": "US3978540A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-03-24",
+        "publication_date": "1976-09-07",
+        "assignee_original": "Peck Bernard W",
+        "title": "Disposable pick-up container for animal litter",
+        "patent_id": "patent/US3978540A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3978540A%2Fen"
+      },
+      {
+        "publication_number": "US4002288A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-04-21",
+        "publication_date": "1977-01-11",
+        "assignee_original": "Klupt Carle D",
+        "title": "Food container",
+        "patent_id": "patent/US4002288A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4002288A%2Fen"
+      },
+      {
+        "publication_number": "US4103952A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-05-09",
+        "publication_date": "1978-08-01",
+        "assignee_original": "John Douglas Thompson",
+        "title": "Combination bag and scoop",
+        "patent_id": "patent/US4103952A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4103952A%2Fen"
+      },
+      {
+        "publication_number": "US4188055A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-09-22",
+        "publication_date": "1980-02-12",
+        "assignee_original": "Martin Green",
+        "title": "Disposable shovel tongs",
+        "patent_id": "patent/US4188055A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4188055A%2Fen"
+      },
+      {
+        "publication_number": "US4245771A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-07-03",
+        "publication_date": "1981-01-20",
+        "assignee_original": "Container Corporation Of America",
+        "title": "Container having trapezoidal cross-section",
+        "patent_id": "patent/US4245771A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4245771A%2Fen"
+      },
+      {
+        "publication_number": "US4458932A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-04-26",
+        "publication_date": "1984-07-10",
+        "assignee_original": "Jamie Resch",
+        "title": "Disposable container for animal waste",
+        "patent_id": "patent/US4458932A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4458932A%2Fen"
+      },
+      {
+        "publication_number": "US4747633A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-06-03",
+        "publication_date": "1988-05-31",
+        "assignee_original": "Stacy Thomas M",
+        "title": "Disposable scoop and container",
+        "patent_id": "patent/US4747633A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4747633A%2Fen"
+      },
+      {
+        "publication_number": "US5222777A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-07-29",
+        "publication_date": "1993-06-29",
+        "assignee_original": "Clonch Danny G",
+        "title": "Apparatus and method for picking up and removing objects",
+        "patent_id": "patent/US5222777A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5222777A%2Fen"
+      },
+      {
+        "publication_number": "US5358295A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-06-07",
+        "publication_date": "1994-10-25",
+        "assignee_original": "Campbell Donald G",
+        "title": "Tong/disposable bag combination",
+        "patent_id": "patent/US5358295A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5358295A%2Fen"
+      },
+      {
+        "publication_number": "US5400572A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-23",
+        "publication_date": "1995-03-28",
+        "assignee_original": "Peck; Joel S.",
+        "title": "Poop scooping and packaging assembly",
+        "patent_id": "patent/US5400572A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5400572A%2Fen"
+      },
+      {
+        "publication_number": "US5441017A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-12-09",
+        "publication_date": "1995-08-15",
+        "assignee_original": "Lindsay; Joseph M.",
+        "title": "Pet leash with integral waste bag dispenser",
+        "patent_id": "patent/US5441017A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5441017A%2Fen"
+      },
+      {
+        "publication_number": "US5725268A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-17",
+        "publication_date": "1998-03-10",
+        "assignee_original": "Besasie; Joseph C.",
+        "title": "Pet waste retrieval and disposal device",
+        "patent_id": "patent/US5725268A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5725268A%2Fen"
+      },
+      {
+        "publication_number": "US6059333A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-03-18",
+        "publication_date": "2000-05-09",
+        "assignee_original": "De Toma; Michele",
+        "title": "Device for the picking up of canine excrement",
+        "patent_id": "patent/US6059333A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6059333A%2Fen"
+      },
+      {
+        "publication_number": "US6086123A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-06",
+        "publication_date": "2000-07-11",
+        "assignee_original": "Sowinski; Thomas J.",
+        "title": "Animal waste removal system",
+        "patent_id": "patent/US6086123A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6086123A%2Fen"
+      },
+      {
+        "publication_number": "US20050194799A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-16",
+        "publication_date": "2005-09-08",
+        "assignee_original": "Jamshid Karimi",
+        "title": "Pet refuse cartridge",
+        "patent_id": "patent/US20050194799A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050194799A1%2Fen"
+      },
+      {
+        "publication_number": "US7216905B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-05",
+        "publication_date": "2007-05-15",
+        "assignee_original": "Armes Jr Andrew",
+        "title": "Refuse removal system and method for removing refuse",
+        "patent_id": "patent/US7216905B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7216905B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "GB9015242D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-07-11",
+        "publication_date": "1990-08-29",
+        "assignee_original": "White Thomas",
+        "title": "A device for picking up objects",
+        "patent_id": "patent/GB9015242D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB9015242D0%2Fen"
+      },
+      {
+        "publication_number": "GB2250677A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-08",
+        "publication_date": "1992-06-17",
+        "assignee_original": "John Wagstaffe",
+        "title": "Disposable container with protective sleeve",
+        "patent_id": "patent/GB2250677A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2250677A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20110254297A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-20",
+        "publication_date": "2011-10-20",
+        "assignee_original": "Hoffman Craig A",
+        "title": "Collection Device for Pet Waste Material",
+        "patent_id": "patent/US20110254297A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110254297A1%2Fen"
+      },
+      {
+        "publication_number": "US8292338B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-04",
+        "publication_date": "2012-10-23",
+        "assignee_original": "Hovhannes Hovik Baghdasaryan",
+        "title": "Hand operable scooper",
+        "patent_id": "patent/US8292338B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8292338B1%2Fen"
+      },
+      {
+        "publication_number": "ITBO20110613A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-31",
+        "publication_date": "2013-05-01",
+        "assignee_original": "Luigi Rossini",
+        "title": "'FOLDABLE LAMINA IN CLAMP WITH ANNEXED BAG FOR THE COLLECTION OF FECI'. LA LAMINA IS AN INSTRUMENT FOR THE COLLECTION OF FECS OF DOGS IN PUBLIC AND PRIVATE PLACES. FUNDAMENTAL CHARACTERISTIC OF LAMINA IS IN FACT THE ITS FLEXIBILITY OBTAINED G",
+        "patent_id": "patent/ITBO20110613A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITBO20110613A1%2Fen"
+      },
+      {
+        "publication_number": "US8833816B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-20",
+        "publication_date": "2014-09-16",
+        "assignee_original": "Craig A. Hoffman",
+        "title": "Collection device for pet waste material",
+        "patent_id": "patent/US8833816B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8833816B2%2Fen"
+      },
+      {
+        "publication_number": "US9103083B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-21",
+        "publication_date": "2015-08-11",
+        "assignee_original": "David Roland",
+        "title": "Handi scoop system",
+        "patent_id": "patent/US9103083B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9103083B1%2Fen"
+      },
+      {
+        "publication_number": "US9181667B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-27",
+        "publication_date": "2015-11-10",
+        "assignee_original": "Steven Kaufman",
+        "title": "Waste collection device",
+        "patent_id": "patent/US9181667B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9181667B2%2Fen"
+      },
+      {
+        "publication_number": "USD756572S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-10",
+        "publication_date": "2016-05-17",
+        "assignee_original": "Cheryl Davidson Baker",
+        "title": "Waste collection device",
+        "patent_id": "patent/USD756572S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD756572S1%2Fen"
+      },
+      {
+        "publication_number": "WO2017044891A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-10",
+        "publication_date": "2017-03-16",
+        "assignee_original": "Patel Vijay C",
+        "title": "Biodegradable containers",
+        "patent_id": "patent/WO2017044891A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017044891A1%2Fen"
+      },
+      {
+        "publication_number": "US9624631B2",
+        "primary_language": "en",
+        "priority_date": "2015-04-10",
+        "publication_date": "2017-04-18",
+        "assignee_original": "Cheryl Davidson Baker",
+        "title": "Touchless disposable pet feces device",
+        "patent_id": "patent/US9624631B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9624631B2%2Fen"
+      },
+      {
+        "publication_number": "US9657449B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-22",
+        "publication_date": "2017-05-23",
+        "assignee_original": "Rowena Swetish",
+        "title": "Pet waste receptacle",
+        "patent_id": "patent/US9657449B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9657449B2%2Fen"
+      },
+      {
+        "publication_number": "USD808090S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-23",
+        "publication_date": "2018-01-16",
+        "assignee_original": "Russel Diehl",
+        "title": "Pet waste scooping tool",
+        "patent_id": "patent/USD808090S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD808090S1%2Fen"
+      },
+      {
+        "publication_number": "GB2556087A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-18",
+        "publication_date": "2018-05-23",
+        "assignee_original": "Hugh Orourke",
+        "title": "Pooper scooper device",
+        "patent_id": "patent/GB2556087A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2556087A%2Fen"
+      },
+      {
+        "publication_number": "US10022281B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-21",
+        "publication_date": "2018-07-17",
+        "assignee_original": "Shallan Alaura Ramsey",
+        "title": "Sanitary product disposal containers and methods",
+        "patent_id": "patent/US10022281B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10022281B1%2Fen"
+      },
+      {
+        "publication_number": "US10441114B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-11",
+        "publication_date": "2019-10-15",
+        "assignee_original": "Kenrick Rampersad",
+        "title": "Disposable finger tongs for handling a food product",
+        "patent_id": "patent/US10441114B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10441114B2%2Fen"
+      },
+      {
+        "publication_number": "USD897612S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-07",
+        "publication_date": "2020-09-29",
+        "assignee_original": "Patricia Brown",
+        "title": "Waste disposal bag",
+        "patent_id": "patent/USD897612S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD897612S1%2Fen"
+      },
+      {
+        "publication_number": "US20220022579A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-16",
+        "publication_date": "2022-01-27",
+        "assignee_original": "Sonderia Oy",
+        "title": "Hand cover system",
+        "patent_id": "patent/US20220022579A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220022579A1%2Fen"
+      },
+      {
+        "publication_number": "USD945089S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-23",
+        "publication_date": "2022-03-01",
+        "assignee_original": "Stephen Dolliver",
+        "title": "Grasping device",
+        "patent_id": "patent/USD945089S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD945089S1%2Fen"
+      },
+      {
+        "publication_number": "US20220312740A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-17",
+        "publication_date": "2022-10-06",
+        "assignee_original": "Peigen Jiang",
+        "title": "Dog Waste Removal Apparatus",
+        "patent_id": "patent/US20220312740A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220312740A1%2Fen"
+      },
+      {
+        "publication_number": "KR20230064257A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-03",
+        "publication_date": "2023-05-10",
+        "assignee_original": "\uc2ec\ubbfc\uc218",
+        "title": "Pet toilet bags with recycled milk packs and methods of generating and using them.",
+        "patent_id": "patent/KR20230064257A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230064257A%2Fen"
+      },
+      {
+        "publication_number": "USD1013296S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-16",
+        "publication_date": "2024-01-30",
+        "assignee_original": "Argonaut Trading Company",
+        "title": "Poop scooper",
+        "patent_id": "patent/USD1013296S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD1013296S1%2Fen"
+      },
+      {
+        "publication_number": "WO2024023339A1",
+        "primary_language": "en",
+        "priority_date": "2022-07-28",
+        "publication_date": "2024-02-01",
+        "assignee_original": "Orourke Hugh",
+        "title": "Pooper scooper device",
+        "patent_id": "patent/WO2024023339A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024023339A1%2Fen"
+      },
+      {
+        "publication_number": "USD1013982S1",
+        "primary_language": "en",
+        "priority_date": "2020-12-18",
+        "publication_date": "2024-02-06",
+        "assignee_original": "Hugh O'Rourke",
+        "title": "Pooper scooper",
+        "patent_id": "patent/USD1013982S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD1013982S1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "WO2011106714A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-02-26",
+        "publication_date": "2011-09-01",
+        "assignee_original": "Gabriel Dan",
+        "title": "Reinforced blown film bag",
+        "patent_id": "patent/WO2011106714A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011106714A2%2Fen"
+      },
+      {
+        "publication_number": "US8708381B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-24",
+        "publication_date": "2014-04-29",
+        "assignee_original": "Vangyi Chongtoua",
+        "title": "Multifunctional packaging container and methods of use thereof",
+        "patent_id": "patent/US8708381B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8708381B2%2Fen"
+      },
+      {
+        "publication_number": "JP6103422B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-23",
+        "publication_date": "2017-03-29",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\uff29\uff50\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u682a\u5f0f\u4f1a\u793e",
+        "title": "Information processing device",
+        "patent_id": "patent/JP6103422B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6103422B2%2Fen"
+      },
+      {
+        "publication_number": "USD722408S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-05",
+        "publication_date": "2015-02-10",
+        "assignee_original": "Yoshinobu Nakai",
+        "title": "Tool for picking up animal waste",
+        "patent_id": "patent/USD722408S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD722408S1%2Fen"
+      },
+      {
+        "publication_number": "US8919836B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-14",
+        "publication_date": "2014-12-30",
+        "assignee_original": "Poopooh Llc",
+        "title": "Waste pick-up and storage device",
+        "patent_id": "patent/US8919836B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8919836B2%2Fen"
+      },
+      {
+        "publication_number": "US8925984B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-14",
+        "publication_date": "2015-01-06",
+        "assignee_original": "Poopooh Llc",
+        "title": "Waste pick-up and storage device",
+        "patent_id": "patent/US8925984B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8925984B2%2Fen"
+      },
+      {
+        "publication_number": "US9565836B2",
+        "primary_language": "en",
+        "priority_date": "2014-11-06",
+        "publication_date": "2017-02-14",
+        "assignee_original": "Christine H Conley",
+        "title": "Universally attachable leash bag for the sanitary collection and transport of pet waste and personal items",
+        "patent_id": "patent/US9565836B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9565836B2%2Fen"
+      },
+      {
+        "publication_number": "US9463924B1",
+        "primary_language": "en",
+        "priority_date": "2015-03-25",
+        "publication_date": "2016-10-11",
+        "assignee_original": "Dee Volin",
+        "title": "Unique biodegradable eight-stacked-reinforced-handle bag, having eight stacked-reinforced handles, multiple triple-locking latches, multiple triple-locking braces, multiple quadruple-locking walls, and multiple double-locking doors",
+        "patent_id": "patent/US9463924B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9463924B1%2Fen"
+      },
+      {
+        "publication_number": "US10041219B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-17",
+        "publication_date": "2018-08-07",
+        "assignee_original": "Helen E. Salemi",
+        "title": "Reusable hand scrapers for waste removal",
+        "patent_id": "patent/US10041219B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10041219B2%2Fen"
+      },
+      {
+        "publication_number": "US9611602B1",
+        "primary_language": "en",
+        "priority_date": "2016-01-19",
+        "publication_date": "2017-04-04",
+        "assignee_original": "Joseph D. Black",
+        "title": "Method and apparatus for animal waste disposal",
+        "patent_id": "patent/US9611602B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9611602B1%2Fen"
+      },
+      {
+        "publication_number": "US10267001B1",
+        "primary_language": "en",
+        "priority_date": "2018-08-08",
+        "publication_date": "2019-04-23",
+        "assignee_original": "Gregory Scott Douglas",
+        "title": "Device and methods for pet waste collection and disposal",
+        "patent_id": "patent/US10267001B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10267001B1%2Fen"
+      },
+      {
+        "publication_number": "WO2020056075A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-13",
+        "publication_date": "2020-03-19",
+        "assignee_original": "Rosensteel Patricia Anne",
+        "title": "Biodegradable and compostable dog waste materials and method for using same",
+        "patent_id": "patent/WO2020056075A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020056075A1%2Fen"
+      },
+      {
+        "publication_number": "USD1062106S1",
+        "primary_language": "en",
+        "priority_date": "2022-01-14",
+        "publication_date": "2025-02-11",
+        "assignee_original": "Tanjman Innovations, Llc",
+        "title": "Collapsible container for animal waste",
+        "patent_id": "patent/USD1062106S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD1062106S1%2Fen"
+      },
+      {
+        "publication_number": "US20240191445A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-07",
+        "publication_date": "2024-06-13",
+        "assignee_original": "April Jefferson",
+        "title": "Pet Waste Bag and Wipe-Carrying Device",
+        "patent_id": "patent/US20240191445A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240191445A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7976083B2",
+      "primary_language": "en",
+      "publication_date": "2011-07-12",
+      "title": "Animal waste disposal system",
+      "patent_id": "patent/US7976083B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7976083B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4458932A",
+      "primary_language": "en",
+      "publication_date": "1984-07-10",
+      "title": "Disposable container for animal waste",
+      "patent_id": "patent/US4458932A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4458932A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3978540A",
+      "primary_language": "en",
+      "publication_date": "1976-09-07",
+      "title": "Disposable pick-up container for animal litter",
+      "patent_id": "patent/US3978540A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3978540A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8292338B1",
+      "primary_language": "en",
+      "publication_date": "2012-10-23",
+      "title": "Hand operable scooper",
+      "patent_id": "patent/US8292338B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8292338B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5564763A",
+      "primary_language": "en",
+      "publication_date": "1996-10-15",
+      "title": "Device for picking up and removing dog droppings",
+      "patent_id": "patent/US5564763A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5564763A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6086123A",
+      "primary_language": "en",
+      "publication_date": "2000-07-11",
+      "title": "Animal waste removal system",
+      "patent_id": "patent/US6086123A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6086123A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7216905B1",
+      "primary_language": "en",
+      "publication_date": "2007-05-15",
+      "title": "Refuse removal system and method for removing refuse",
+      "patent_id": "patent/US7216905B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7216905B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6527320B1",
+      "primary_language": "en",
+      "publication_date": "2003-03-04",
+      "title": "Animal droppings collector",
+      "patent_id": "patent/US6527320B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6527320B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110042978A1",
+      "primary_language": "en",
+      "publication_date": "2011-02-24",
+      "title": "Disposable pet waste removal device",
+      "patent_id": "patent/US20110042978A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110042978A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102563444B1",
+      "primary_language": "en",
+      "publication_date": "2023-08-03",
+      "title": "Apparatus For Collecting Excreta Of Pet",
+      "patent_id": "patent/KR102563444B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102563444B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050006914A1",
+      "primary_language": "en",
+      "publication_date": "2005-01-13",
+      "title": "Disposable animal waste cleaning device and method of making",
+      "patent_id": "patent/US20050006914A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050006914A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070181593A1",
+      "primary_language": "en",
+      "publication_date": "2007-08-09",
+      "title": "Manual material collection bag kit with internally attached cleansing towelette",
+      "patent_id": "patent/US20070181593A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070181593A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3168297U",
+      "primary_language": "en",
+      "publication_date": "2011-06-09",
+      "title": "Folding pack for small foldable animals",
+      "patent_id": "patent/JP3168297U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3168297U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7353945B2",
+      "primary_language": "en",
+      "publication_date": "2023-10-02",
+      "title": "dog feces disposal tool",
+      "patent_id": "patent/JP7353945B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7353945B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3059137U",
+      "primary_language": "en",
+      "publication_date": "1999-07-02",
+      "title": "Pet disposable droppings collection tool",
+      "patent_id": "patent/JP3059137U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3059137U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3092658U",
+      "primary_language": "en",
+      "publication_date": "2003-03-20",
+      "title": "Dog defecation treatment equipment",
+      "patent_id": "patent/JP3092658U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3092658U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3169622U",
+      "primary_language": "en",
+      "publication_date": "2011-08-11",
+      "title": "Small animal solid excrement collection container",
+      "patent_id": "patent/JP3169622U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3169622U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3205380U",
+      "primary_language": "en",
+      "publication_date": "2016-07-21",
+      "title": "Pet waste collection tool",
+      "patent_id": "patent/JP3205380U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3205380U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2021083367A",
+      "primary_language": "en",
+      "publication_date": "2021-06-03",
+      "title": "Dog feces disposal tool",
+      "patent_id": "patent/JP2021083367A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2021083367A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR200331637Y1",
+      "primary_language": "en",
+      "publication_date": "2003-11-01",
+      "title": "Hygiene envelope for pet&#39;s excrement processing",
+      "patent_id": "patent/KR200331637Y1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR200331637Y1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA1082251A",
+      "primary_language": "en",
+      "publication_date": "1980-07-22",
+      "title": "Disposable litter container",
+      "patent_id": "patent/CA1082251A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA1082251A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3108111U",
+      "primary_language": "en",
+      "publication_date": "2005-04-07",
+      "title": "PET waste disposal bag",
+      "patent_id": "patent/JP3108111U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3108111U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3080573U",
+      "primary_language": "en",
+      "publication_date": "2001-09-28",
+      "title": "Pet dropping tool",
+      "patent_id": "patent/JP3080573U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3080573U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3067145U",
+      "primary_language": "en",
+      "publication_date": "2000-03-21",
+      "title": "Pet animal droppings",
+      "patent_id": "patent/JP3067145U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3067145U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2021112793A1",
+      "primary_language": "en",
+      "publication_date": "2021-06-10",
+      "title": "Fecal collector apparatus for domestic animals",
+      "patent_id": "patent/WO2021112793A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021112793A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2011-06-22",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2014-12-02",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-04",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-19",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-19",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-10",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20190712"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000010828",
+        "name": "animal waste",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 69
+      },
+      {
+        "id": "239000002699",
+        "name": "waste material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 53
+      },
+      {
+        "id": "210000003811",
+        "name": "finger",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "210000003813",
+        "name": "thumb",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000011111",
+        "name": "cardboard",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000123",
+        "name": "paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "210000003608",
+        "name": "fece",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000704",
+        "name": "biodegradable plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000035807",
+        "name": "sensation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000894006",
+        "name": "Bacteria",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000015541",
+        "name": "sensory perception of touch",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012815",
+        "name": "thermoplastic material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241001465754",
+        "name": "Metazoa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004140",
+        "name": "cleaning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000987",
+        "name": "immune system",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012544",
+        "name": "monitoring process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

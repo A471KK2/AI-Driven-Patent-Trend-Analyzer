@@ -1,0 +1,996 @@
+{
+  "search_metadata": {
+    "id": "697a34b31dcfe240680a4eca",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/298e7b06c884ec67/697a34b31dcfe240680a4eca.json",
+    "created_at": "2026-01-28 16:09:23 UTC",
+    "processed_at": "2026-01-28 16:09:23 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20190329857A1/en",
+    "raw_html_file": "https://serpapi.com/searches/298e7b06c884ec67/697a34b31dcfe240680a4eca.html",
+    "total_time_taken": 0.95
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20190329857A1/en"
+  },
+  "title": "Uav with frangible airframe structures",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/34/7e/82/544c8892585735/US20190329857A1.pdf",
+  "publication_number": "US20190329857A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "boom",
+    "joiner",
+    "cap",
+    "spar",
+    "mechanical"
+  ],
+  "prior_art_date": "2018-04-27",
+  "application_number": "US15/964,733",
+  "inventors": [
+    {
+      "name": "Stephen Benson",
+      "link": "https://patents.google.com/?inventor=Stephen+Benson",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Stephen+Benson"
+    },
+    {
+      "name": "Christian Nielsen",
+      "link": "https://patents.google.com/?inventor=Christian+Nielsen",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Christian+Nielsen"
+    },
+    {
+      "name": "Adam Woodworth",
+      "link": "https://patents.google.com/?inventor=Adam+Woodworth",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Adam+Woodworth"
+    }
+  ],
+  "assignees": [
+    "Wing Aviation LLC"
+  ],
+  "priority_date": "2018-04-27",
+  "filing_date": "2018-04-27",
+  "publication_date": "2019-10-31",
+  "worldwide_applications": {
+    "2018": [
+      {
+        "filing_date": "2018-04-27",
+        "country_code": "US",
+        "application_number": "US15/964,733",
+        "document_id": "patent/US10894593B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2019": [
+      {
+        "filing_date": "2019-04-24",
+        "country_code": "AU",
+        "application_number": "AU2019257692A",
+        "document_id": "patent/AU2019257692B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2019-04-24",
+        "country_code": "WO",
+        "application_number": "PCT/US2019/029008",
+        "document_id": "patent/WO2019210011A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2019-04-24",
+        "country_code": "EP",
+        "application_number": "EP19792921.9A",
+        "document_id": "patent/EP3784565A4/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2019-04-24",
+        "country_code": "CN",
+        "application_number": "CN201980028327.0A",
+        "document_id": "patent/CN112105555B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2019-04-24",
+        "country_code": "SG",
+        "application_number": "SG11202009516PA",
+        "document_id": "patent/SG11202009516PA/en",
+        "legal_status_cat": "unknown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2018-04-27",
+      "title": "Application filed by Wing Aviation LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Wing Aviation LLC"
+    },
+    {
+      "date": "2018-04-27",
+      "title": "Priority to US15/964,733",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US10894593B2/en"
+    },
+    {
+      "date": "2018-04-30",
+      "title": "Assigned to X DEVELOPMENT LLC",
+      "type": "reassignment",
+      "assignee_search": "X DEVELOPMENT LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BENSON, STEPHEN, WOODWORTH, ADAM, Nielson, Christian"
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "title": "Assigned to WING AVIATION LLC",
+      "type": "reassignment",
+      "assignee_search": "WING AVIATION LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: X DEVELOPMENT LLC"
+      ]
+    },
+    {
+      "date": "2018-10-02",
+      "title": "Assigned to WING AVIATION LLC",
+      "type": "reassignment",
+      "assignee_search": "WING AVIATION LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: X DEVELOPMENT LLC"
+      ]
+    },
+    {
+      "date": "2019-04-24",
+      "title": "Priority to PCT/US2019/029008",
+      "type": "priority",
+      "document_id": "patent/WO2019210011A1/en"
+    },
+    {
+      "date": "2019-04-24",
+      "title": "Priority to SG11202009516PA",
+      "type": "priority",
+      "document_id": "patent/SG11202009516PA/en"
+    },
+    {
+      "date": "2019-04-24",
+      "title": "Priority to CN201980028327.0A",
+      "type": "priority",
+      "document_id": "patent/CN112105555B/en"
+    },
+    {
+      "date": "2019-04-24",
+      "title": "Priority to AU2019257692A",
+      "type": "priority",
+      "document_id": "patent/AU2019257692B2/en"
+    },
+    {
+      "date": "2019-04-24",
+      "title": "Priority to EP19792921.9A",
+      "type": "priority",
+      "document_id": "patent/EP3784565A4/en"
+    },
+    {
+      "date": "2019-10-31",
+      "title": "Publication of US20190329857A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20190329857A1/en"
+    },
+    {
+      "date": "2021-01-19",
+      "title": "Publication of US10894593B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10894593B2/en"
+    },
+    {
+      "date": "2021-01-19",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-06-18",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20190329857.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15964733"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20190329857"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2019329857A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15964733/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20190329857"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/cd/bc/13/41cffbb2fa5cfa/US20190329857A1-20191031-D00000.png",
+    "https://patentimages.storage.googleapis.com/16/12/8f/9596a3661384ac/US20190329857A1-20191031-D00001.png",
+    "https://patentimages.storage.googleapis.com/e5/d4/e1/eb159413deb5af/US20190329857A1-20191031-D00002.png",
+    "https://patentimages.storage.googleapis.com/39/b7/6e/c042c1f22584c7/US20190329857A1-20191031-D00003.png",
+    "https://patentimages.storage.googleapis.com/88/9c/1d/0120e1271300df/US20190329857A1-20191031-D00004.png",
+    "https://patentimages.storage.googleapis.com/8a/1f/5f/64e649390f8b79/US20190329857A1-20191031-D00005.png",
+    "https://patentimages.storage.googleapis.com/d9/89/99/44037a1eee3b48/US20190329857A1-20191031-D00006.png",
+    "https://patentimages.storage.googleapis.com/5c/4a/6b/25bbdc64b9540a/US20190329857A1-20191031-D00007.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64C1/26",
+      "description": "Attaching the wing or tail units or stabilising surfaces",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C1/061",
+      "description": "Frames",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C29/0025",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft having its flight directional axis horizontal when grounded the lift during taking-off being created by free or ducted propellers or by blowers the propellers being fixed relative to the fuselage",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/25",
+      "description": "Fixed-wing aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U20/30",
+      "description": "Constructional aspects of UAVs for safety, e.g. with frangible components",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/10",
+      "description": "Wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/20",
+      "description": "Rotors; Rotor supports",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/13",
+      "description": "Propulsion using external fans or propellers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F16B2/065",
+      "description": "Clamps, i.e. with gripping action effected by positive means other than the inherent resistance to deformation of the material of the fastening external, i.e. with contracting action using screw-thread elements",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F16B7/0493",
+      "description": "Clamping or clipping connections for rods or tubes being in angled relationship for rods or for tubes without using the innerside thereof forming a crossed-over connection",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/104",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/108",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/165",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F16B11/006",
+      "description": "Connecting constructional elements or machine parts by sticking or pressing them together, e.g. cold pressure welding by gluing",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F16B33/006",
+      "description": "Non-metallic fasteners using screw-thread",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A mechanical joiner for an airframe includes a joiner core and first and second caps. The joiner core has a first side with a first cradle shaped to hold a first structural member and a second side with a second cradle shaped to hold a second structural member. The first cap is shaped to mate to the first side and clamp the first structural member into the first cradle. The joiner core includes a first hole for a first mechanical fastener to extend through and across the first cradle and secure the first cap to the joiner core. The second cap is shaped to mate to the second side and clamp the first structural member into the second cradle. The second cap includes second holes for second mechanical fasteners, distinct from the first mechanical fastener, to secure the second cap to the joiner core.",
+  "description_link": "https://serpapi.com/searches/697a34b31dcfe240680a4eca/google_patents_details/description.html",
+  "claims": [
+    "1. A mechanical joiner for an airframe, comprising:\na joiner core having a first side with a first cradle shaped to hold a first structural member and a second side with a second cradle shaped to hold a second structural member; a first cap shaped to mate to the first side of the joiner core and clamp the first structural member into the first cradle, wherein the joiner core includes a first hole for a first mechanical fastener to extend through and across the first cradle to secure the first cap to the joiner core; and a second cap shaped to mate to the second side of the joiner core and clamp the first structural member into the second cradle, wherein the second cap includes second holes for second mechanical fasteners, distinct from the first mechanical fastener, to secure the second cap to the joiner core.",
+    "2. The mechanical joiner of claim 1, wherein the first mechanical fastener does not extend through the second cap.",
+    "3. The mechanical joiner of claim 2, wherein a head of the first mechanical fastener is recessed into the second cradle of the joiner core so as not to physically interfere with seating the second structural member into the second cradle.",
+    "4. The mechanical joiner of claim 1, wherein the second mechanical fasteners that secure the second cap each have less shear or tensile strength than the first mechanical fastener that passes through and across the first cradle.",
+    "5. The mechanical joiner of claim 4, wherein the second mechanical fasteners comprise four plastic screws that thread into the second side of the joiner core.",
+    "6. The mechanical joiner of claim 4, wherein the first mechanical fastener comprises a metal mechanical fastener and the metal mechanical fastener comprises a nut and a bolt.",
+    "7. The mechanical joiner of claim 1, further comprising:\nan anti-rotation pin that extends through the second cap into the second structural member to prevent rotation of the second structural member within the second cradle.",
+    "8. The mechanical joiner of claim 7, wherein the anti-rotation pin comprises a nylon screw.",
+    "9. The mechanical joiner of claim 7, further comprising:\na layer of adhesive applied to an inside surface of the second cap that conforms with and mates to the second structural member to adhere the second structural member to the second cap.",
+    "10. The mechanical joiner of claim 1, wherein the joiner core, the first cap, and the second cap are fabricated of glass filled nylon and the first structural member and the second structural member each comprise a hollow tubular rod.",
+    "11. An unmanned aerial vehicle (UAV), comprising:\na wing assembly including a wing spar; a boom assembly including a boom and a plurality of motor mounts secured to the boom; and a spar-boom joiner for mechanically securing the wing spar to the boom, the spar-boom joiner including:\na joiner core having a first side with a spar cradle shaped to hold the wing spar and a second side with a boom cradle shaped to hold the boom;\na spar cap shaped to mate to the first side of the joiner core and clamp the wing spar into the spar cradle, wherein a spar fastener extends through the wing spar and secures the spar cap to the joiner core; and\na boom cap shaped to mate to the second side of the joiner core and clamp the boom into the boom cradle, wherein second mechanical fasteners, distinct from the spar fastener, secure the boom cap to the joiner core.",
+    "12. The UAV of claim 11, wherein the spar fastener is a mechanical fastener that does not extend through the boom cap.",
+    "13. The UAV of claim 12, wherein a head of the spar fastener is recessed into the boom cradle of the joiner core so as not to physically interfere with seating the boom into the boom cradle.",
+    "14. The UAV of claim 11, wherein the second mechanical fasteners each have less shear or tensile strength than the spar fastener.",
+    "15. The UAV of claim 14, wherein the second mechanical fasteners comprise four plastic screws that thread into the second side of the joiner core.",
+    "16. The UAV of claim 14, wherein the spar fastener comprises a metal mechanical fastener and the metal mechanical fastener comprises a nut and a bolt.",
+    "17. The UAV of claim 11, further comprising:\nan anti-rotation pin extending through the boom cap into the boom to prevent rotation of the boom within the boom cradle.",
+    "18. The UAV of claim 17, wherein the anti-rotation pin comprises a nylon screw.",
+    "19. The UAV of claim 17, further comprising:\na layer of adhesive applied to an inside surface of the boom cap that conforms with and mates to the boom to adhere the boom to the boom cap.",
+    "20. The UAV of claim 11, wherein the joiner core, the spar cap, and the boom cap are fabricated of glass filled nylon and the wing spar and the boom each comprise a hollow tubular rod.",
+    "21. The UAV of claim 11, further comprising a modular fuselage secured to the wing spar, the modular fuselage including:\na first section secured to the wing spar with a second joiner that clamps onto the wing spar, wherein the second joiner is clamped with first plastic screws selected to fail upon a collision impact of the modular fuselage; and one or more other sections connected to the first section, wherein the one or more other sections are secured to the first section at connection points secured together with second plastic screws selected to fail upon the collision impact of the modular fuselage."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/964,733",
+      "representative_publication": "US10894593B2",
+      "primary_language": "en",
+      "priority_date": "2018-04-27",
+      "filing_date": "2018-04-27",
+      "title": "UAV with frangible airframe structures"
+    },
+    {
+      "application_number": "EP19792921.9A",
+      "representative_publication": "EP3784565A4",
+      "primary_language": "en",
+      "priority_date": "2018-04-27",
+      "filing_date": "2019-04-24",
+      "title": "UAV WITH BREAKABLE CELL STRUCTURES"
+    },
+    {
+      "application_number": "AU2019257692A",
+      "representative_publication": "AU2019257692B2",
+      "primary_language": "en",
+      "priority_date": "2018-04-27",
+      "filing_date": "2019-04-24",
+      "title": "UAV with frangible airframe structures"
+    },
+    {
+      "application_number": "SG11202009516PA",
+      "representative_publication": "SG11202009516PA",
+      "primary_language": "en",
+      "priority_date": "2018-04-27",
+      "filing_date": "2019-04-24",
+      "title": "Uav with frangible airframe structures"
+    },
+    {
+      "application_number": "PCT/US2019/029008",
+      "representative_publication": "WO2019210011A1",
+      "primary_language": "en",
+      "priority_date": "2018-04-27",
+      "filing_date": "2019-04-24",
+      "title": "Uav with frangible airframe structures"
+    },
+    {
+      "application_number": "CN201980028327.0A",
+      "representative_publication": "CN112105555B",
+      "primary_language": "en",
+      "priority_date": "2018-04-27",
+      "filing_date": "2019-04-24",
+      "title": "Mechanical adapter for a frame and unmanned aerial vehicle having a fragile frame structure"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US15/964,733",
+      "representative_publication": "US10894593B2",
+      "primary_language": "en",
+      "priority_date": "2018-04-27",
+      "filing_date": "2018-04-27",
+      "title": "UAV with frangible airframe structures"
+    }
+  ],
+  "family_id": "68292071",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "GB413230A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1934-02-07",
+        "publication_date": "1934-07-12",
+        "assignee_original": "Sidney Frank Burton",
+        "title": "Improvements in scaffolding clamps",
+        "patent_id": "patent/GB413230A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB413230A%2Fen"
+      },
+      {
+        "publication_number": "US2825591A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1953-08-18",
+        "publication_date": "1958-03-04",
+        "assignee_original": "Elly Estie",
+        "title": "Clamps for use in scaffolding and like structures",
+        "patent_id": "patent/US2825591A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2825591A%2Fen"
+      },
+      {
+        "publication_number": "US2843337A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1953-09-29",
+        "publication_date": "1958-07-15",
+        "assignee_original": "Hiiler Helicopters",
+        "title": "Composite aircraft system and method of flight",
+        "patent_id": "patent/US2843337A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2843337A%2Fen"
+      },
+      {
+        "publication_number": "US4032245A",
+        "primary_language": "en",
+        "priority_date": "1976-07-09",
+        "publication_date": "1977-06-28",
+        "assignee_original": "Gramor Machine Company",
+        "title": "Agricultural equipment clamp",
+        "patent_id": "patent/US4032245A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4032245A%2Fen"
+      },
+      {
+        "publication_number": "IT211213Z2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-03-18",
+        "publication_date": "1989-02-13",
+        "assignee_original": "Guzzini Illuminazione",
+        "title": "JUNCTION GROUP FOR THE COMPOSITION OF TUBULAR STRUCTURES TO SUPPORT ILLUMINTA GROUPS.",
+        "patent_id": "patent/IT211213Z2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT211213Z2%2Fen"
+      },
+      {
+        "publication_number": "US6425794B1",
+        "primary_language": "en",
+        "priority_date": "1999-10-05",
+        "publication_date": "2002-07-30",
+        "assignee_original": "Alejandro Velasco Levy",
+        "title": "Impact-absorbing wing connection system for model aircraft",
+        "patent_id": "patent/US6425794B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6425794B1%2Fen"
+      },
+      {
+        "publication_number": "JP2003056524A",
+        "primary_language": "en",
+        "priority_date": "2001-08-20",
+        "publication_date": "2003-02-26",
+        "assignee_original": "Iwata Seisakusho:Kk",
+        "title": "Pole-connecting device",
+        "patent_id": "patent/JP2003056524A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003056524A%2Fen"
+      },
+      {
+        "publication_number": "JP2003294016A",
+        "primary_language": "en",
+        "priority_date": "2002-03-29",
+        "publication_date": "2003-10-15",
+        "assignee_original": "Ube Nitto Kasei Co Ltd",
+        "title": "Cross-connecting device for fiber reinforced resin pipes",
+        "patent_id": "patent/JP2003294016A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003294016A%2Fen"
+      },
+      {
+        "publication_number": "DE10323569B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-26",
+        "publication_date": "2009-08-27",
+        "assignee_original": "T\u00fcnkers Maschinenbau Gmbh",
+        "title": "Scaffolding system for use in the bodywork of the automotive industry",
+        "patent_id": "patent/DE10323569B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10323569B4%2Fen"
+      },
+      {
+        "publication_number": "US7182290B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-03",
+        "publication_date": "2007-02-27",
+        "assignee_original": "The Insitu Group, Inc.",
+        "title": "Methods and systems for starting propeller-driven devices",
+        "patent_id": "patent/US7182290B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7182290B2%2Fen"
+      },
+      {
+        "publication_number": "ATE430523T1",
+        "primary_language": "en",
+        "priority_date": "2004-08-20",
+        "publication_date": "2009-05-15",
+        "assignee_original": "Stryker Trauma Sa",
+        "title": "CLAMPING ELEMENT AND JOINT ELEMENT",
+        "patent_id": "patent/ATE430523T1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FATE430523T1%2Fen"
+      },
+      {
+        "publication_number": "US7237750B2",
+        "primary_language": "en",
+        "priority_date": "2004-10-29",
+        "publication_date": "2007-07-03",
+        "assignee_original": "L3 Communications",
+        "title": "Autonomous, back-packable computer-controlled breakaway unmanned aerial vehicle (UAV)",
+        "patent_id": "patent/US7237750B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7237750B2%2Fen"
+      },
+      {
+        "publication_number": "FR2895775B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-03",
+        "publication_date": "2008-02-29",
+        "assignee_original": "Alcatel Sa",
+        "title": "DEVICE FOR ACTIVE DAMPING OF VIBRATIONS SUBJECTED BY A FRAGILE ELEMENT OF A MOVING, SELF-POWERED EQUIPMENT",
+        "patent_id": "patent/FR2895775B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2895775B1%2Fen"
+      },
+      {
+        "publication_number": "US7896573B2",
+        "primary_language": "en",
+        "priority_date": "2007-03-15",
+        "publication_date": "2011-03-01",
+        "assignee_original": "James Zaguroli",
+        "title": "Clamping assembly for making connections to elongated members",
+        "patent_id": "patent/US7896573B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7896573B2%2Fen"
+      },
+      {
+        "publication_number": "US8136766B2",
+        "primary_language": "en",
+        "priority_date": "2008-02-01",
+        "publication_date": "2012-03-20",
+        "assignee_original": "Insitu, Inc.",
+        "title": "Frangible fasteners for aircraft components and associated systems and methods",
+        "patent_id": "patent/US8136766B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8136766B2%2Fen"
+      },
+      {
+        "publication_number": "US10569868B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-02",
+        "publication_date": "2020-02-25",
+        "assignee_original": "Hood Technology Corporation",
+        "title": "Multicopter-assisted system and method for launching and retrieving a fixed-wing aircraft",
+        "patent_id": "patent/US10569868B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10569868B2%2Fen"
+      },
+      {
+        "publication_number": "US9809305B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-02",
+        "publication_date": "2017-11-07",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Landing of unmanned aerial vehicles on transportation vehicles for transport",
+        "patent_id": "patent/US9809305B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9809305B2%2Fen"
+      },
+      {
+        "publication_number": "EP3337728B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-17",
+        "publication_date": "2022-04-13",
+        "assignee_original": "Wing Aviation LLC",
+        "title": "Aerodynamic tote package and method for forming the same",
+        "patent_id": "patent/EP3337728B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3337728B1%2Fen"
+      },
+      {
+        "publication_number": "DE102016005961A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-13",
+        "publication_date": "2017-11-16",
+        "assignee_original": "Man Truck & Bus Ag",
+        "title": "Connecting element for connecting handrails in a bus",
+        "patent_id": "patent/DE102016005961A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102016005961A1%2Fen"
+      },
+      {
+        "publication_number": "US9828097B1",
+        "primary_language": "en",
+        "priority_date": "2016-06-10",
+        "publication_date": "2017-11-28",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Directed fragmentation for unmanned airborne vehicles",
+        "patent_id": "patent/US9828097B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9828097B1%2Fen"
+      },
+      {
+        "publication_number": "US10479471B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-30",
+        "publication_date": "2019-11-19",
+        "assignee_original": "The Boeing Company",
+        "title": "Fuselage skin panel connection system and method for connecting skin panels",
+        "patent_id": "patent/US10479471B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10479471B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US11891164B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-02-06",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "UAV with distributed propulsion for short takeoffs and landings",
+        "patent_id": "patent/US11891164B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11891164B1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024086404A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-30",
+        "publication_date": "2024-05-30",
+        "assignee_original": "Supernal, Llc",
+        "title": "Breakaway aircraft structures",
+        "patent_id": "patent/WO2024086404A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024086404A3%2Fen"
+      },
+      {
+        "publication_number": "US12037125B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-01-13",
+        "publication_date": "2024-07-16",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Structure of an electric aircraft including a boom joint with an airfoil-shaped hole, and method of manufacturing the same",
+        "patent_id": "patent/US12037125B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12037125B1%2Fen"
+      },
+      {
+        "publication_number": "WO2025147578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-01-05",
+        "publication_date": "2025-07-10",
+        "assignee_original": "Supernal, Llc",
+        "title": "Methods, systems, and devices for detachable vehicle structures",
+        "patent_id": "patent/WO2025147578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025147578A1%2Fen"
+      },
+      {
+        "publication_number": "US12459679B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-07-19",
+        "publication_date": "2025-11-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Impact-attenuating tip for a structural member of an aircraft",
+        "patent_id": "patent/US12459679B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12459679B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "TWI753635B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-03",
+        "publication_date": "2022-01-21",
+        "assignee_original": "\u9999\u6e2f\u5546\u51a0\u6377\u6295\u8cc7\u6709\u9650\u516c\u53f8",
+        "title": "connection device",
+        "patent_id": "patent/TWI753635B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI753635B%2Fen"
+      },
+      {
+        "publication_number": "US11702200B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-29",
+        "publication_date": "2023-07-18",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System for a vertical takeoff and landing aircraft with an in-boom lift propulsor",
+        "patent_id": "patent/US11702200B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11702200B1%2Fen"
+      },
+      {
+        "publication_number": "US11964782B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-11",
+        "publication_date": "2024-04-23",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Formed-metal sheet airframe for UAVS",
+        "patent_id": "patent/US11964782B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11964782B2%2Fen"
+      },
+      {
+        "publication_number": "US20250304197A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-03-28",
+        "publication_date": "2025-10-02",
+        "assignee_original": "RCR Enterprises, LLC",
+        "title": "Offroad vehicle with modular frame",
+        "patent_id": "patent/US20250304197A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250304197A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "AU2019257692B2",
+      "primary_language": "en",
+      "publication_date": "2021-09-09",
+      "title": "UAV with frangible airframe structures",
+      "patent_id": "patent/AU2019257692B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2019257692B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3694777B1",
+      "primary_language": "en",
+      "publication_date": "2021-11-03",
+      "title": "Modular fuselage for unmanned aerial vehicle",
+      "patent_id": "patent/EP3694777B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3694777B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2022200292B2",
+      "primary_language": "en",
+      "publication_date": "2023-07-06",
+      "title": "Clip-on propeller mount",
+      "patent_id": "patent/AU2022200292B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2022200292B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10780974B2",
+      "primary_language": "en",
+      "publication_date": "2020-09-22",
+      "title": "Passively folding propeller blades for drag reduction",
+      "patent_id": "patent/US10780974B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10780974B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10843795B2",
+      "primary_language": "en",
+      "publication_date": "2020-11-24",
+      "title": "Folding concentrically mounted propeller blades for drag reduction",
+      "patent_id": "patent/US10843795B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10843795B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9272784B2",
+      "primary_language": "en",
+      "publication_date": "2016-03-01",
+      "title": "Vertical takeoff winged multicopter",
+      "patent_id": "patent/US9272784B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9272784B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10625843B2",
+      "primary_language": "en",
+      "publication_date": "2020-04-21",
+      "title": "Energy dispersion plug for UAV",
+      "patent_id": "patent/US10625843B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10625843B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20180354603A1",
+      "primary_language": "en",
+      "publication_date": "2018-12-13",
+      "title": "Aircraft wing structure",
+      "patent_id": "patent/US20180354603A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180354603A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205293058U",
+      "primary_language": "en",
+      "publication_date": "2016-06-08",
+      "title": "Conveniently carry on fixed wing uavs of jumbo size loading device",
+      "patent_id": "patent/CN205293058U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205293058U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025188261A1",
+      "primary_language": "en",
+      "publication_date": "2025-09-12",
+      "title": "Parafoil winged autonomous aircraft with vertical takeoff capability",
+      "patent_id": "patent/WO2025188261A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025188261A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230192290A1",
+      "primary_language": "en",
+      "publication_date": "2023-06-22",
+      "title": "Uav with augmented lift rotors",
+      "patent_id": "patent/US20230192290A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230192290A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2018-04-27",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "X DEVELOPMENT LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BENSON, STEPHEN;NIELSON, CHRISTIAN;WOODWORTH, ADAM;SIGNING DATES FROM 20180418 TO 20180430;REEL/FRAME:045669/0134"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WING AVIATION LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:X DEVELOPMENT LLC;REEL/FRAME:047567/0433"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180627"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WING AVIATION LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:X DEVELOPMENT LLC;REEL/FRAME:047036/0355"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180701"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-06",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-11",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-29",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-09",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

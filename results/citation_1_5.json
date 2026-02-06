@@ -1,0 +1,1247 @@
+{
+  "search_metadata": {
+    "id": "697a39c3a3ce8418fa5fb1bf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/28b2ac91040c5f0b/697a39c3a3ce8418fa5fb1bf.json",
+    "created_at": "2026-01-28 16:30:59 UTC",
+    "processed_at": "2026-01-28 16:30:59 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US6013116A/en",
+    "raw_html_file": "https://serpapi.com/searches/28b2ac91040c5f0b/697a39c3a3ce8418fa5fb1bf.html",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US6013116A/en"
+  },
+  "title": "Briquette binder composition",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/69/c2/7f/0076b6f5ccf192/US6013116.pdf",
+  "publication_number": "US6013116A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "weight",
+    "briquette",
+    "binder composition",
+    "composition according",
+    "binder"
+  ],
+  "prior_art_date": "1998-02-02",
+  "application_number": "US09/132,506",
+  "inventors": [
+    {
+      "name": "Billy Joseph Major",
+      "link": "https://patents.google.com/?inventor=Billy+Joseph+Major",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Billy+Joseph+Major"
+    },
+    {
+      "name": "George Radu",
+      "link": "https://patents.google.com/?inventor=George+Radu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=George+Radu"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "1998-02-02",
+  "filing_date": "1998-08-11",
+  "publication_date": "2000-01-11",
+  "worldwide_applications": {
+    "1998": [
+      {
+        "filing_date": "1998-02-02",
+        "country_code": "CA",
+        "application_number": "CA002222190A",
+        "document_id": "patent/CA2222190A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1998-08-11",
+        "country_code": "US",
+        "application_number": "US09/132,506",
+        "document_id": "patent/US6013116A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1998-08-11",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2000-01-11",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2000-01-11",
+      "title": "Publication of US6013116A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US6013116A/en"
+    },
+    {
+      "date": "2018-08-11",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=6013116.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/09132506"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=6013116"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=6013116A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/09132506/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US6013116"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/8c/08/4b/f44221a97d5c48/US6013116-drawings-page-3.png",
+    "https://patentimages.storage.googleapis.com/5f/ea/6b/ab53f0a1e4b76c/US6013116-drawings-page-4.png",
+    "https://patentimages.storage.googleapis.com/ac/27/4c/7dc95983514b58/US6013116-drawings-page-5.png",
+    "https://patentimages.storage.googleapis.com/79/d9/81/225dd3ec700664/US6013116-drawings-page-6.png",
+    "https://patentimages.storage.googleapis.com/12/7f/37/01f6f68c277dd1/US6013116-drawings-page-7.png",
+    "https://patentimages.storage.googleapis.com/49/11/b6/36f78c756067bf/US6013116-drawings-page-8.png"
+  ],
+  "classifications": [
+    {
+      "code": "C10L5/10",
+      "description": "Methods of shaping, e.g. pelletizing or briquetting with the aid of binders, e.g. pretreated binders",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C10L5/40",
+      "description": "Solid fuels essentially based on materials of non-mineral origin",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C22B1/242",
+      "description": "Binding; Briquetting ; Granulating with binders",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E50/30",
+      "description": "Fuel from waste, e.g. synthetic alcohol or diesel",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A binder composition for use in forming briquettes is disclosed. The composition comprises from about 5 to about 95% asphalt base and about 5 to about 95% sodium carbonate pulping liquor by weight. The binder composition may contain up to about 3% by weight of a surfactant, such as nonyl phenol ethoxylate, to increase homogeneity of briquette formation. Strength increasing additives such as latex, vinyl derivatives, cellulose, cellulose derivatives, peat moss, starch, starch derivatives, pulp from the pulp and paper industry, paper, cardboad, acrylic copolymers and combinations thereof, may be added to the binder composition in a total amount of up to about 10% by weight. Lignosulfonate may be added to the composition in an amount of up to about 30% by weight. An inorganic component such as cement or bentonite clay may be added in an amount of up to about 70% by weight, and up to about 30% by weight of a plasticizer such as rubber or plastic may be added. The binder composition may be used to agglomerate a briquette filler such as metal fines, coal fines, miniers, fly ash or other suitable briquette components.",
+  "description_link": "https://serpapi.com/searches/697a39c3a3ce8418fa5fb1bf/google_patents_details/description.html",
+  "claims": [
+    "1. A binder composition comprising up from about 1% to about 99% sodium carbonate pulping liquor by weight and from about 1% to about 99% asphalt base by weight.",
+    "2. The binder composition according to claim 1, additionally comprising lignosulfonate in an amount of up to about 30% by weight.",
+    "3. The binder composition according to claim 2, wherein the lignosulfonate is selected from the group comprising sodium lignosulfonate, ammonium lignosulfonate, calcium lignosulfonate and combinations thereof.",
+    "4. The binder composition according to claim 1, additionally comprising a surfactant.",
+    "5. The binder composition according to claim 4, wherein the surfactant is nonyl phenol ethoxylate.",
+    "6. The binder composition according to claim 1, additionally comprising a strength increasing additive selected from the group comprising latex, vinyl derivatives, cellulose, cellulose derivatives, peat moss, starch, starch derivatives, pulp from the pulp and paper industry, paper, cardboard, acrylic copolymers, and combinations thereof, in an amount of up to about 10% by weight.",
+    "7. The binder composition according to claim 6, wherein the vinyl derivatives are selected from the group consisting of polyvinyl acetate and polyvinyl alcohol.",
+    "8. The binder composition according to claim 6, wherein the cellulose derivatives are selected from the group consisting of carboxymethyl cellulose and hydroxy ethyl cellulosed.",
+    "9. A binder composition according to claim 1, comprising up to about 30% by weight of a plasticizer selected from the group comprising plastic and rubber.",
+    "10. A binder composition according to claim 1, comprising up to about 70% by weight of an inorganic component selected from the group comprising bentonite and cement.",
+    "11. A binder composition according to claim 1, comprising about 50% asphalt base and about 50% sodium carbonate pulping liquor by weight.",
+    "12. A binder composition according to claim 1, comprising about 35% asphalt base and about 65% sodium carbonate pulping liquor by weight.",
+    "13. A binder composition according to claim 1, wherein the solids content of the pulping liquor is from about 25 to about 100% by weight.",
+    "14. A binder composition comprising from about 1 to about 99% pulping liquor by weight, from about 1 to about 99% asphalt base by weight, up to about 30% lignosulfonate by weight, up to about 3% surfactant by weight, up to about 10% of a strength increasing additive by weight, up to about 30% of a plasticizer by weight, and up to about 70% of an inorganic component by weight.",
+    "15. A briquette comprising briquette filler and the binder composition according to claim 1.",
+    "16. The briquette according to claim 15, wherein the binder composition is present in an amount of from about 1 to about 30% by weight of the briquette.",
+    "17. The briquette according to claim 15, wherein the binder composition is present in an amount of from about 2 to about 20% by weight of the briquette.",
+    "18. The briquette according to claim 15, wherein said binder composition comprises sodium carbonate pulping liquor having a solids content of from about 25% to about 100% by weight.",
+    "19. The briquette according to claim 15, additionally comprising up to about 3% of an acidifying agent by weight.",
+    "20. The briquette according to claim 15, additionally comprising a homopolymer.",
+    "21. A briquette comprising about 1% to about 30% by weight of a binder composition according to claim 14, up to about 3% by weight of an acidifying agent, up to about 15% by weight of a homopolymer, and the balance being briquette filler.",
+    "22. A process for preparing a briquette comprising the steps of:(i) combining briquette filler with about 1 to about 30% by weight of the binder composition of claim 1, and (ii) compressing the product of step (i) into a briquette.",
+    "23. The process as defined in claim 22 further comprising a step of heat curing the briquette.",
+    "24. A briquette prepared by the process of claim 23.",
+    "25. A binder composition according to claim 1, comprising from about 20% to about 60% asphalt and from about 40% to about 80% sodium carbonate pulping liquor.",
+    "26. A briquette comprising briquette filler and from about 4% to about 10% of the binder composition according to claim 25."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CA002222190A",
+      "representative_publication": "CA2222190A1",
+      "primary_language": "en",
+      "priority_date": "1998-02-02",
+      "filing_date": "1998-02-02",
+      "title": "New synergistic binder composition"
+    },
+    {
+      "application_number": "CA2222190",
+      "filing_date": "1998-02-02"
+    }
+  ],
+  "family_id": "4161803",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3725034A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1971-11-01",
+        "publication_date": "1973-04-03",
+        "assignee_original": "Fmc Corp",
+        "title": "Method of producing carbon and iron-containing briquettes",
+        "patent_id": "patent/US3725034A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3725034A%2Fen"
+      },
+      {
+        "publication_number": "US3898076A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-10-19",
+        "publication_date": "1975-08-05",
+        "assignee_original": "Robert L Ranke",
+        "title": "Sealing and briquetting finely divided material with vinyl copolymer and wax",
+        "patent_id": "patent/US3898076A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3898076A%2Fen"
+      },
+      {
+        "publication_number": "US3954553A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-05-15",
+        "publication_date": "1976-05-04",
+        "assignee_original": "Owens-Illinois, Inc.",
+        "title": "Non-sulfur pulping process for corrugating medium using sodium carbonate and sodium hydroxide",
+        "patent_id": "patent/US3954553A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3954553A%2Fen"
+      },
+      {
+        "publication_number": "CA1042159A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-12-09",
+        "publication_date": "1978-11-14",
+        "assignee_original": "Domtar Inc.",
+        "title": "High yield pulping process",
+        "patent_id": "patent/CA1042159A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA1042159A%2Fen"
+      },
+      {
+        "publication_number": "US4152119A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-08-01",
+        "publication_date": "1979-05-01",
+        "assignee_original": "Dynecology Incorporated",
+        "title": "Briquette comprising caking coal and municipal solid waste",
+        "patent_id": "patent/US4152119A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4152119A%2Fen"
+      },
+      {
+        "publication_number": "US4507172A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-09-16",
+        "publication_date": "1985-03-26",
+        "assignee_original": "St. Regis Paper Company",
+        "title": "Kraft pulping process",
+        "patent_id": "patent/US4507172A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4507172A%2Fen"
+      },
+      {
+        "publication_number": "US4589887A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-05-04",
+        "publication_date": "1986-05-20",
+        "assignee_original": "Kryolitselskabet Oresund A/S",
+        "title": "Fuel briquettes and method of making",
+        "patent_id": "patent/US4589887A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4589887A%2Fen"
+      },
+      {
+        "publication_number": "US4597790A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-05-30",
+        "publication_date": "1986-07-01",
+        "assignee_original": "Nippon Kokan Kabushiki Kaisha",
+        "title": "Method of producing unbaked agglomerates",
+        "patent_id": "patent/US4597790A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4597790A%2Fen"
+      },
+      {
+        "publication_number": "US4659374A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-06-14",
+        "publication_date": "1987-04-21",
+        "assignee_original": "Dow Corning Corporation",
+        "title": "Mixed binder systems for agglomerates",
+        "patent_id": "patent/US4659374A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4659374A%2Fen"
+      },
+      {
+        "publication_number": "US4698067A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-06-24",
+        "publication_date": "1987-10-06",
+        "assignee_original": "Fmc Corporation",
+        "title": "Formcoke having modified bituminous binder",
+        "patent_id": "patent/US4698067A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4698067A%2Fen"
+      },
+      {
+        "publication_number": "US4741376A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-03-30",
+        "publication_date": "1988-05-03",
+        "assignee_original": "Korsnas Aktiebolag",
+        "title": "Manufacturing of kraft paper",
+        "patent_id": "patent/US4741376A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4741376A%2Fen"
+      },
+      {
+        "publication_number": "US5034094A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-11-06",
+        "publication_date": "1991-07-23",
+        "assignee_original": "Kurple Kenneth R",
+        "title": "Method of converting inorganic materials from kraft pulping liquor into pulping chemicals without passing them through a recovery furnace",
+        "patent_id": "patent/US5034094A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5034094A%2Fen"
+      },
+      {
+        "publication_number": "US5080756A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-07-10",
+        "publication_date": "1992-01-14",
+        "assignee_original": "Marsulex Inc.",
+        "title": "Kraft pulping process with spent sulphuric acid addition to strong black liquor",
+        "patent_id": "patent/US5080756A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5080756A%2Fen"
+      },
+      {
+        "publication_number": "US5221290A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-02-04",
+        "publication_date": "1993-06-22",
+        "assignee_original": "American Colloid Company",
+        "title": "Charcoal briquettes bound with an organic binder and a water-swellable clay and method",
+        "patent_id": "patent/US5221290A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5221290A%2Fen"
+      },
+      {
+        "publication_number": "US5264007A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-07-15",
+        "publication_date": "1993-11-23",
+        "assignee_original": "Applied Industrial Materials Corporation - Aimcor",
+        "title": "Method of making fuel briquettes and the briquettes so made",
+        "patent_id": "patent/US5264007A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5264007A%2Fen"
+      },
+      {
+        "publication_number": "US5302341A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-10-29",
+        "publication_date": "1994-04-12",
+        "assignee_original": "Palsat International, Inc.",
+        "title": "Continuous method for formation of briquettes contains less than 1% binder by weight of the briquette",
+        "patent_id": "patent/US5302341A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5302341A%2Fen"
+      },
+      {
+        "publication_number": "US5431702A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-03-25",
+        "publication_date": "1995-07-11",
+        "assignee_original": "Dynecology, Inc.",
+        "title": "Waste conversion process and products",
+        "patent_id": "patent/US5431702A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5431702A%2Fen"
+      },
+      {
+        "publication_number": "US5522958A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-07-18",
+        "publication_date": "1996-06-04",
+        "assignee_original": "Pulp And Paper Research Institute Of Canada",
+        "title": "Two-stage kraft cooking",
+        "patent_id": "patent/US5522958A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5522958A%2Fen"
+      },
+      {
+        "publication_number": "US5714184A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-01-16",
+        "publication_date": "1998-02-03",
+        "assignee_original": "1081107 Ontario Inc.",
+        "title": "Binder for animal feed and process of making",
+        "patent_id": "patent/US5714184A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5714184A%2Fen"
+      },
+      {
+        "publication_number": "US5797972A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-03-25",
+        "publication_date": "1998-08-25",
+        "assignee_original": "Dynecology, Inc.",
+        "title": "Sewage sludge disposal process and product",
+        "patent_id": "patent/US5797972A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5797972A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20020050094A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-25",
+        "publication_date": "2002-05-02",
+        "assignee_original": "Taulbee Darrell M.",
+        "title": "Synthetic fuel and methods for producing synthetic fuel",
+        "patent_id": "patent/US20020050094A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020050094A1%2Fen"
+      },
+      {
+        "publication_number": "US6451084B1",
+        "primary_language": "en",
+        "priority_date": "2000-04-06",
+        "publication_date": "2002-09-17",
+        "assignee_original": "Ernest Q. Petrey, Jr.",
+        "title": "Iron oxide waste agglomerates and method of assisting a steel-making operation",
+        "patent_id": "patent/US6451084B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6451084B1%2Fen"
+      },
+      {
+        "publication_number": "US20020160174A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-06",
+        "publication_date": "2002-10-31",
+        "assignee_original": "Hiroki Nanko",
+        "title": "Fiber reinforced mineral-based materials and methods of making the same",
+        "patent_id": "patent/US20020160174A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020160174A1%2Fen"
+      },
+      {
+        "publication_number": "US6530966B1",
+        "primary_language": "en",
+        "priority_date": "2000-06-16",
+        "publication_date": "2003-03-11",
+        "assignee_original": "Anthony J. Kriech",
+        "title": "Coal binder compositions and methods",
+        "patent_id": "patent/US6530966B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6530966B1%2Fen"
+      },
+      {
+        "publication_number": "US6558442B2",
+        "primary_language": "en",
+        "priority_date": "2000-08-30",
+        "publication_date": "2003-05-06",
+        "assignee_original": "Entac, Inc.",
+        "title": "Synthetic fuel production method",
+        "patent_id": "patent/US6558442B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6558442B2%2Fen"
+      },
+      {
+        "publication_number": "US6626966B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-08-30",
+        "publication_date": "2003-09-30",
+        "assignee_original": "Kabushiki Kaisha Kobe Seiko Sho",
+        "title": "Coal briquette and production thereof",
+        "patent_id": "patent/US6626966B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6626966B2%2Fen"
+      },
+      {
+        "publication_number": "US6709472B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-03-10",
+        "publication_date": "2004-03-23",
+        "assignee_original": "Arthur Ferretti",
+        "title": "Insolubly bound particulate products",
+        "patent_id": "patent/US6709472B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6709472B1%2Fen"
+      },
+      {
+        "publication_number": "US20040055510A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-25",
+        "publication_date": "2004-03-25",
+        "assignee_original": "Kurple Karl Vincent",
+        "title": "Binder for aggregate, foundry cores, and other products",
+        "patent_id": "patent/US20040055510A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040055510A1%2Fen"
+      },
+      {
+        "publication_number": "US20040148851A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-30",
+        "publication_date": "2004-08-05",
+        "assignee_original": "George Montgomery",
+        "title": "Method for converting coal to coke",
+        "patent_id": "patent/US20040148851A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040148851A1%2Fen"
+      },
+      {
+        "publication_number": "US20040194578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-07",
+        "publication_date": "2004-10-07",
+        "assignee_original": "Mitsuma Matsuda",
+        "title": "Briquette for raw material for iron manufacture and briquette for introduction into slag generating apparatus",
+        "patent_id": "patent/US20040194578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040194578A1%2Fen"
+      },
+      {
+        "publication_number": "US20050132643A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-17",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Kele Energy, Llc",
+        "title": "Methods for binding particulate solids",
+        "patent_id": "patent/US20050132643A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050132643A1%2Fen"
+      },
+      {
+        "publication_number": "WO2005093018A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-02-27",
+        "publication_date": "2005-10-06",
+        "assignee_original": "WILT, Louise, C.",
+        "title": "Insolubly bound particulate products",
+        "patent_id": "patent/WO2005093018A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005093018A1%2Fen"
+      },
+      {
+        "publication_number": "US20070251143A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-26",
+        "publication_date": "2007-11-01",
+        "assignee_original": "Slane Energy, Llc",
+        "title": "Synthetic fuel pellet and methods",
+        "patent_id": "patent/US20070251143A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070251143A1%2Fen"
+      },
+      {
+        "publication_number": "US20080022586A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-07",
+        "publication_date": "2008-01-31",
+        "assignee_original": "Applied Silicate Technologies Limited",
+        "title": "Fuel Product and Process",
+        "patent_id": "patent/US20080022586A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080022586A1%2Fen"
+      },
+      {
+        "publication_number": "US20080295387A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-01",
+        "publication_date": "2008-12-04",
+        "assignee_original": "Kap Sok Yi",
+        "title": "Method for solidifying solid fossil fuels and solidified materials prepared thereby",
+        "patent_id": "patent/US20080295387A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080295387A1%2Fen"
+      },
+      {
+        "publication_number": "US20080307700A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-30",
+        "publication_date": "2008-12-18",
+        "assignee_original": "George Montgomery",
+        "title": "Method for converting coal to coke",
+        "patent_id": "patent/US20080307700A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080307700A1%2Fen"
+      },
+      {
+        "publication_number": "US20090235577A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-17",
+        "publication_date": "2009-09-24",
+        "assignee_original": "Kela Energy, Llc",
+        "title": "Methods For Binding Particulate Solids And Particulate Solid Compositions",
+        "patent_id": "patent/US20090235577A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090235577A1%2Fen"
+      },
+      {
+        "publication_number": "WO2010070328A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-20",
+        "publication_date": "2010-06-24",
+        "assignee_original": "Solsys Limited",
+        "title": "Fuel product and process",
+        "patent_id": "patent/WO2010070328A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010070328A1%2Fen"
+      },
+      {
+        "publication_number": "US20100206499A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-13",
+        "publication_date": "2010-08-19",
+        "assignee_original": "Zilkha Biomass Acquisitions Company L.L.C.",
+        "title": "Methods for Producing Biomass-Based Fuel With Pulp Processing Equipment",
+        "patent_id": "patent/US20100206499A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100206499A1%2Fen"
+      },
+      {
+        "publication_number": "US20110119997A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-29",
+        "publication_date": "2011-05-26",
+        "assignee_original": "Enginuity Worldwide, LLC",
+        "title": "Biomass fuel compact processing method",
+        "patent_id": "patent/US20110119997A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110119997A1%2Fen"
+      },
+      {
+        "publication_number": "US20110162265A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-11",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Bruce Krupp",
+        "title": "Biomass Fuel Pellet Using Recycled Rubber and Bitumen",
+        "patent_id": "patent/US20110162265A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110162265A1%2Fen"
+      },
+      {
+        "publication_number": "US20120311924A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-10",
+        "publication_date": "2012-12-13",
+        "assignee_original": "Richardson Melvin A",
+        "title": "Methods of improving combustion of solid fuels",
+        "patent_id": "patent/US20120311924A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120311924A1%2Fen"
+      },
+      {
+        "publication_number": "CN103710537A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-18",
+        "publication_date": "2014-04-09",
+        "assignee_original": "\u95f5\u654f",
+        "title": "High-strength adhesive for powder cold press molding",
+        "patent_id": "patent/CN103710537A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103710537A%2Fen"
+      },
+      {
+        "publication_number": "WO2014107914A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-11",
+        "publication_date": "2014-07-17",
+        "assignee_original": "Cai Jingpeng",
+        "title": "Water-blocking binder for coal",
+        "patent_id": "patent/WO2014107914A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014107914A1%2Fen"
+      },
+      {
+        "publication_number": "KR20150079281A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-31",
+        "publication_date": "2015-07-08",
+        "assignee_original": "\uc0bc\uc131\uc815\ubc00\ud654\ud559 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Composition for coating steel dust briquette and electric arc furnace dust briquette",
+        "patent_id": "patent/KR20150079281A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150079281A%2Fen"
+      },
+      {
+        "publication_number": "US9102887B2",
+        "primary_language": "en",
+        "priority_date": "2010-02-01",
+        "publication_date": "2015-08-11",
+        "assignee_original": "Silform Technologies Ltd.",
+        "title": "Pellets and processes therefor",
+        "patent_id": "patent/US9102887B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9102887B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016010243A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-17",
+        "publication_date": "2016-01-21",
+        "assignee_original": "\uc0bc\uc131\uc815\ubc00\ud654\ud559(\uc8fc)",
+        "title": "Composition for forming mill scale briquette, and mill scale briquette",
+        "patent_id": "patent/WO2016010243A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016010243A1%2Fen"
+      },
+      {
+        "publication_number": "WO2016010212A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-17",
+        "publication_date": "2016-01-21",
+        "assignee_original": "\uc0bc\uc131\uc815\ubc00\ud654\ud559(\uc8fc)",
+        "title": "Composition for forming electric arc furnace dust briquette, and electric arc furnace dust briquette",
+        "patent_id": "patent/WO2016010212A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016010212A1%2Fen"
+      },
+      {
+        "publication_number": "KR20160010316A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-17",
+        "publication_date": "2016-01-27",
+        "assignee_original": "\uc0bc\uc131\uc815\ubc00\ud654\ud559 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Binder for coal briquette",
+        "patent_id": "patent/KR20160010316A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20160010316A%2Fen"
+      },
+      {
+        "publication_number": "CN106010720A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-21",
+        "publication_date": "2016-10-12",
+        "assignee_original": "\u5317\u4eac\u795e\u96fe\u73af\u5883\u80fd\u6e90\u79d1\u6280\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Method for forming semi coke",
+        "patent_id": "patent/CN106010720A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106010720A%2Fen"
+      },
+      {
+        "publication_number": "CN106047433A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-27",
+        "publication_date": "2016-10-26",
+        "assignee_original": "\u5317\u4eac\u5965\u6d01\u9f0e\u68ee\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Briquette coal for food service industry and method for producing briquette coal",
+        "patent_id": "patent/CN106047433A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106047433A%2Fen"
+      },
+      {
+        "publication_number": "CN106085538A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-28",
+        "publication_date": "2016-11-09",
+        "assignee_original": "\u5929\u6d25\u5927\u4e58\u5e38\u76db\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Environment-protecting civil clean moulded coal and preparation method thereof",
+        "patent_id": "patent/CN106085538A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106085538A%2Fen"
+      },
+      {
+        "publication_number": "WO2017111260A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-24",
+        "publication_date": "2017-06-29",
+        "assignee_original": "\ub86f\ub370\uc815\ubc00\ud654\ud559 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Method for preparing steelmaking dust briquettes",
+        "patent_id": "patent/WO2017111260A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017111260A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018088747A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-08",
+        "publication_date": "2018-08-09",
+        "assignee_original": "\ub86f\ub370\uc815\ubc00\ud654\ud559 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Composition for forming steelmaking dust briquet, and steelmaking dust briquet produced therefrom",
+        "patent_id": "patent/WO2018088747A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018088747A3%2Fen"
+      },
+      {
+        "publication_number": "US10697041B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-25",
+        "publication_date": "2020-06-30",
+        "assignee_original": "Sungeel Himetal",
+        "title": "Manufacturing method of crude copper from low-grade copper sludge",
+        "patent_id": "patent/US10697041B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10697041B2%2Fen"
+      },
+      {
+        "publication_number": "CN112011379A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-05-30",
+        "publication_date": "2020-12-01",
+        "assignee_original": "\u592a\u539f\u7406\u5de5\u5927\u5b66",
+        "title": "Method for producing clean coke based on lignin transition state binder",
+        "patent_id": "patent/CN112011379A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112011379A%2Fen"
+      },
+      {
+        "publication_number": "CN112553461A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-04",
+        "publication_date": "2021-03-26",
+        "assignee_original": "\u978d\u94a2\u96c6\u56e2\u77ff\u4e1a\u6709\u9650\u516c\u53f8",
+        "title": "Composite binder for coal-based pellets and use method thereof",
+        "patent_id": "patent/CN112553461A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112553461A%2Fen"
+      },
+      {
+        "publication_number": "US10975213B2",
+        "primary_language": "en",
+        "priority_date": "2018-08-13",
+        "publication_date": "2021-04-13",
+        "assignee_original": "Erthos Inc.",
+        "title": "Composition and method of making biodegradable pellets",
+        "patent_id": "patent/US10975213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10975213B2%2Fen"
+      },
+      {
+        "publication_number": "US11033867B2",
+        "primary_language": "en",
+        "priority_date": "2017-09-27",
+        "publication_date": "2021-06-15",
+        "assignee_original": "Sustainable Fiber Technologies, LLC",
+        "title": "Aqueous lignin and hemicellulose dispersion",
+        "patent_id": "patent/US11033867B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11033867B2%2Fen"
+      },
+      {
+        "publication_number": "US11066588B2",
+        "primary_language": "en",
+        "priority_date": "2017-11-21",
+        "publication_date": "2021-07-20",
+        "assignee_original": "Sustainable Fiber Technologies, LLC",
+        "title": "Deicing composition comprising lignocellulosic byproducts",
+        "patent_id": "patent/US11066588B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11066588B2%2Fen"
+      },
+      {
+        "publication_number": "US11091697B2",
+        "primary_language": "en",
+        "priority_date": "2017-11-29",
+        "publication_date": "2021-08-17",
+        "assignee_original": "Sustainable Fiber Technologies, LLC",
+        "title": "Dust suppressant and soil stabilization composition comprising lignocellulosic byproducts",
+        "patent_id": "patent/US11091697B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11091697B2%2Fen"
+      },
+      {
+        "publication_number": "CN114381310A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-27",
+        "publication_date": "2022-04-22",
+        "assignee_original": "\u798f\u5efa\u9f99\u5174\u4e5d\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biomass wood chip pellet fuel and preparation method thereof",
+        "patent_id": "patent/CN114381310A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114381310A%2Fen"
+      },
+      {
+        "publication_number": "US11572474B2",
+        "primary_language": "en",
+        "priority_date": "2020-05-22",
+        "publication_date": "2023-02-07",
+        "assignee_original": "Sustainable Fiber Technologies, LLC",
+        "title": "Compositions comprising lignocellulosic byproducts for tire ballasts and associated methods",
+        "patent_id": "patent/US11572474B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11572474B2%2Fen"
+      },
+      {
+        "publication_number": "US20230287216A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-11",
+        "publication_date": "2023-09-14",
+        "assignee_original": "Central South Universtiy",
+        "title": "Composite organic binder and methods of preparing and using the same",
+        "patent_id": "patent/US20230287216A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230287216A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024161378A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-03",
+        "publication_date": "2024-08-08",
+        "assignee_original": "Sylvania South Africa (Pty) Ltd",
+        "title": "A method for producing agglomerated pellets",
+        "patent_id": "patent/WO2024161378A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024161378A1%2Fen"
+      },
+      {
+        "publication_number": "US12291636B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/US12291636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "RU2479623C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-20",
+        "publication_date": "2013-04-20",
+        "assignee_original": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0431\u044e\u0434\u0436\u0435\u0442\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435 \u0432\u044b\u0441\u0448\u0435\u0433\u043e \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \"\u0421\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0438\u043d\u0434\u0443\u0441\u0442\u0440\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\"",
+        "title": "Method to produce oxide-fuel briquettes",
+        "patent_id": "patent/RU2479623C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2479623C1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US6013116A",
+      "primary_language": "en",
+      "publication_date": "2000-01-11",
+      "title": "Briquette binder composition",
+      "patent_id": "patent/US6013116A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6013116A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070251143A1",
+      "primary_language": "en",
+      "publication_date": "2007-11-01",
+      "title": "Synthetic fuel pellet and methods",
+      "patent_id": "patent/US20070251143A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070251143A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5421838A",
+      "primary_language": "en",
+      "publication_date": "1995-06-06",
+      "title": "Binding composition for the preparation of a novel agglomerate based on finely divided materials, process using the said composition and thus obtained agglomerate",
+      "patent_id": "patent/US5421838A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5421838A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0237179B1",
+      "primary_language": "en",
+      "publication_date": "1990-10-31",
+      "title": "Coal briquetting process",
+      "patent_id": "patent/EP0237179B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0237179B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5597563645069704414",
+      "scholar_authors": "Ryu et al.",
+      "publication_date": "2008",
+      "title": "Pelletised fuel production from coal tailings and spent mushroom compost\u2014Part I: Identification of pelletisation parameters",
+      "patent_id": "scholar/5597563645069704414",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5597563645069704414"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2402398A",
+      "primary_language": "en",
+      "publication_date": "2004-12-08",
+      "title": "Biomass briquette bound with lignin",
+      "patent_id": "patent/GB2402398A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2402398A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4357145A",
+      "primary_language": "en",
+      "publication_date": "1982-11-02",
+      "title": "Carbonaceous pellets and method of making",
+      "patent_id": "patent/US4357145A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4357145A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH02110192A",
+      "primary_language": "en",
+      "publication_date": "1990-04-23",
+      "title": "Water-resistant fuel agglomerate, its manufacture, and substance composition used therein",
+      "patent_id": "patent/JPH02110192A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH02110192A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2396337170118406362",
+      "scholar_authors": "Leokaoke et al.",
+      "publication_date": "2018",
+      "title": "Manufacturing and testing of briquettes from inertinite-rich low-grade coal fines using various binders",
+      "patent_id": "scholar/2396337170118406362",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2396337170118406362"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6530966B1",
+      "primary_language": "en",
+      "publication_date": "2003-03-11",
+      "title": "Coal binder compositions and methods",
+      "patent_id": "patent/US6530966B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6530966B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE69611676T2",
+      "primary_language": "en",
+      "publication_date": "2001-08-16",
+      "title": "AGGLOMERATE",
+      "patent_id": "patent/DE69611676T2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69611676T2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0116608B1",
+      "primary_language": "en",
+      "publication_date": "1986-11-26",
+      "title": "Use of a lime containing waste product as a fuel",
+      "patent_id": "patent/EP0116608B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0116608B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0862605A1",
+      "primary_language": "en",
+      "publication_date": "1998-09-09",
+      "title": "Briquetting of mineral fines",
+      "patent_id": "patent/EP0862605A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0862605A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4542987578024286642",
+      "scholar_authors": "Kuokkanen et al.",
+      "publication_date": "2018",
+      "title": "Eco-and material-efficient utilization applications of biotechnologically modified fiber sludge",
+      "patent_id": "scholar/4542987578024286642",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4542987578024286642"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11850631938714686852",
+      "scholar_authors": "Mills",
+      "publication_date": "1908",
+      "title": "Binders for coal briquets",
+      "patent_id": "scholar/11850631938714686852",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11850631938714686852"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0368690A",
+      "primary_language": "en",
+      "publication_date": "1991-03-25",
+      "title": "Manufacture of water-resistant fuel aggregate",
+      "patent_id": "patent/JPH0368690A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0368690A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2330150A",
+      "primary_language": "en",
+      "publication_date": "1999-04-14",
+      "title": "Process for the agglomeration of petroleum coke fines",
+      "patent_id": "patent/GB2330150A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2330150A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0768530B2",
+      "primary_language": "en",
+      "publication_date": "1995-07-26",
+      "title": "Molded fuel manufacturing method",
+      "patent_id": "patent/JPH0768530B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0768530B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US1507678A",
+      "primary_language": "en",
+      "publication_date": "1924-09-09",
+      "title": "Binding-fuel material and process of producing the same",
+      "patent_id": "patent/US1507678A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1507678A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5311065257563714171",
+      "scholar_authors": "Botha",
+      "publication_date": "2019",
+      "title": "Evaluation of binders in briquetting of coal fines for application in combustion processes",
+      "patent_id": "scholar/5311065257563714171",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5311065257563714171"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2785437C1",
+      "primary_language": "en",
+      "publication_date": "2022-12-07",
+      "title": "Composition for producing a water-resistant fuel briquette",
+      "patent_id": "patent/RU2785437C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2785437C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2740994C1",
+      "primary_language": "en",
+      "publication_date": "2021-01-22",
+      "title": "Carbon reducing agent for production of technical silicon and method of its production",
+      "patent_id": "patent/RU2740994C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2740994C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2205205C1",
+      "primary_language": "en",
+      "publication_date": "2003-05-27",
+      "title": "Fuel briquette and method of fabrication thereof",
+      "patent_id": "patent/RU2205205C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2205205C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "PL118261B2",
+      "primary_language": "en",
+      "publication_date": "1981-09-30",
+      "title": "Method of solid fuel gasification",
+      "patent_id": "patent/PL118261B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL118261B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2109797C1",
+      "primary_language": "en",
+      "publication_date": "1998-04-27",
+      "title": "Composition for briquetting fuel",
+      "patent_id": "patent/RU2109797C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2109797C1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1999-12-03",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2002-12-07",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: LTOS); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2003-07-24",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2003-07-24",
+      "code": "SULP",
+      "title": "Surcharge for late payment"
+    },
+    {
+      "date": "2007-07-23",
+      "code": "REMI",
+      "title": "Maintenance fee reminder mailed"
+    },
+    {
+      "date": "2008-01-11",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees"
+    },
+    {
+      "date": "2008-02-11",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2008-03-04",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20080111"
+        }
+      ]
+    }
+  ]
+}

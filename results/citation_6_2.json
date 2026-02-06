@@ -1,0 +1,1699 @@
+{
+  "search_metadata": {
+    "id": "697a35dc0e4be0d230f932f5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/191bc014a6a41975/697a35dc0e4be0d230f932f5.json",
+    "created_at": "2026-01-28 16:14:20 UTC",
+    "processed_at": "2026-01-28 16:14:20 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/JP2003079271A/en",
+    "raw_html_file": "https://serpapi.com/searches/191bc014a6a41975/697a35dc0e4be0d230f932f5.html",
+    "total_time_taken": 1.13
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/JP2003079271A/en"
+  },
+  "title": "Biological pesticide and method of proliferating natural enemy insect therefor",
+  "type": "patent",
+  "publication_number": "JP2003079271A",
+  "country": "Japan",
+  "prior_art_keywords": [
+    "natural enemy",
+    "insects",
+    "days",
+    "biological pesticide",
+    "insect"
+  ],
+  "prior_art_date": "2001-09-12",
+  "application_number": "JP2001276943A",
+  "inventors": [
+    {
+      "name": "Hiroshi Oida",
+      "link": "https://patents.google.com/?inventor=Hiroshi+Oida",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hiroshi+Oida"
+    },
+    {
+      "name": "\u5bdb \u5927\u4e95\u7530",
+      "link": "https://patents.google.com/?inventor=%E5%AF%9B+%E5%A4%A7%E4%BA%95%E7%94%B0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%AF%9B+%E5%A4%A7%E4%BA%95%E7%94%B0"
+    },
+    {
+      "name": "Fujio Katono",
+      "link": "https://patents.google.com/?inventor=Fujio+Katono",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Fujio+Katono"
+    },
+    {
+      "name": "\u51a8\u58eb\u592b \u4e0a\u9060\u91ce",
+      "link": "https://patents.google.com/?inventor=%E5%86%A8%E5%A3%AB%E5%A4%AB+%E4%B8%8A%E9%81%A0%E9%87%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%86%A8%E5%A3%AB%E5%A4%AB+%E4%B8%8A%E9%81%A0%E9%87%8E"
+    },
+    {
+      "name": "Kiichi Shimizu",
+      "link": "https://patents.google.com/?inventor=Kiichi+Shimizu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kiichi+Shimizu"
+    },
+    {
+      "name": "\u559c\u4e00 \u6e05\u6c34",
+      "link": "https://patents.google.com/?inventor=%E5%96%9C%E4%B8%80+%E6%B8%85%E6%B0%B4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%96%9C%E4%B8%80+%E6%B8%85%E6%B0%B4"
+    }
+  ],
+  "assignees": [
+    "Chiba Prefectural Government"
+  ],
+  "priority_date": "2001-09-12",
+  "filing_date": "2001-09-12",
+  "publication_date": "2003-03-18",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-09-12",
+        "country_code": "JP",
+        "application_number": "JP2001276943A",
+        "document_id": "patent/JP2003079271A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-09-12",
+      "title": "Application filed by Chiba Prefectural Government",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Chiba Prefectural Government"
+    },
+    {
+      "date": "2001-09-12",
+      "title": "Priority to JP2001276943A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP2003079271A/en"
+    },
+    {
+      "date": "2003-03-18",
+      "title": "Publication of JP2003079271A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP2003079271A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=JP&NR=2003079271A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/JP/2001276943/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/JP2003079271A"
+    }
+  ],
+  "abstract": "(57) [Problem] An object of the present invention is to provide a biological pesticide which is effective against a plurality of horticultural pests. SOLUTION: Geocoris proteus (Geocoris pro)  teus) and / or Piocoris varius  us) as natural insects.",
+  "abstract_original": "(57)\u3010\u8981\u7d04\u3011\n\u3010\u8ab2\u984c\u3011  \u672c\u767a\u660e\u306e\u76ee\u7684\u306f\u8907\u6570\u7a2e\u306e\u5712\u82b8\u5bb3\u866b\u985e\u306b\u5bfe\u3057\u3066\u52b9\u679c\u306e\u3042\u308b\u751f\u7269\u8fb2\u85ac\u3092\u63d0\u4f9b\u3059\u308b\u3053\u3068\u306b\u3042\u308b\u3002\n\u3010\u89e3\u6c7a\u624b\u6bb5\u3011  \u30b8\u30aa\u30b3\u30ea\u30b9\u30fb\u30d7\u30ed\u30c6\u30a6\u30b9\uff08Geocoris proteus\uff09\u53ca\u3073/\u53c8\u306f\u30d4\u30aa\u30b3\u30ea\u30b9\u30fb\u30d0\u30ea\u30a6\u30b9\uff08Piocoris varius\uff09\u3092\u5929\u6575\u6606\u866b\u3068\u3059\u308b\u751f\u7269\u8fb2\u85ac\u3002",
+  "description_link": "https://serpapi.com/searches/697a35dc0e4be0d230f932f5/google_patents_details/description.html",
+  "claims": [
+    "\u3010\u8acb\u6c42\u9805\uff11\u3011  \u30b8\u30aa\u30b3\u30ea\u30b9\u30fb\u30d7\u30ed\u30c6\u30a6\u30b9\uff08Geocoris proteus\uff09\u53ca\u3073/\u53c8\u306f\u30d4\u30aa\u30b3\u30ea\u30b9\u30fb\u30d0\u30ea\u30a6\u30b9\uff08Piocoris varius\uff09\u3092\u5929\u6575\u6606\u866b\u3068\u3059\u308b\u751f\u7269\u8fb2\u85ac\u30021. Geocoris proteus  teus) and / or Piocoris varius  us) as natural insects.",
+    "\u3010\u8acb\u6c42\u9805\uff12\u3011  \u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u751f\u7269\u8fb2\u85ac\u306b\u304a\u3044\u3066\u3001\u30b8\u30aa\u30b3\u30ea\u30b9\u30fb\u30d7\u30ed\u30c6\u30a6\u30b9\u53ca\u3073\uff0f\u53c8\u306f\u30d4\u30aa\u30b3\u30ea\u30b9\u30fb\u30d0\u30ea\u30a6\u30b9\u306f\u6210\u866b\u3001\u82e5\u866b\u3001\u53c8\u306f\u5375\u306e\u5f62\u614b\u3067\u6563\u5e03\u3055\u308c\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u751f\u7269\u8fb2\u85ac\u30022. The biopesticide according to claim 1, wherein Geochoris proteus and / or Piochoris varius is sprayed in the form of an adult, nymph or egg.",
+    "\u3010\u8acb\u6c42\u9805\uff13\u3011  \u8acb\u6c42\u9805\uff11\u53c8\u306f\uff12\u8a18\u8f09\u306e\u751f\u7269\u8fb2\u85ac\u306b\u304a\u3044\u3066\u3001\u9632\u9664\u5bfe\u8c61\u5bb3\u866b\u304c\u9c57\u7fc5\u76ee\u6606\u866b\u985e\u3001\u30a2\u30b6\u30df\u30a6\u30de\u985e\u3001\u30c0\u30cb\u985e\u3001\u30b3\u30ca\u30b8\u30e9\u30df\u985e\u3001\u30a2\u30d6\u30e9\u30e0\u30b7\u985e\u3001\u30e8\u30b3\u30d0\u30a4\u985e\u3001\u30ab\u30e1\u30e0\u30b7\u985e\u3001\u30ab\u30a4\u30ac\u30e9\u30e0\u30b7\u985e\u53ca\u3073\u30c8\u30d3\u30e0\u30b7\u985e\u304b\u3089\u306a\u308b\u7fa4\u3088\u308a\u9078\u629e\u3055\u308c\u308b\u4e00\u7a2e\u53c8\u306f\u4e8c\u7a2e\u4ee5\u4e0a\u3092\u542b\u3080\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u751f\u7269\u8fb2\u85ac\u30023. The biological pesticide according to claim 1, wherein the pest to be controlled comprises lepidopteran insects, thrips, mites, whitefly, aphids, leafhoppers, stink bugs, scale insects, and springtails. A biological pesticide comprising one or more selected from the group.",
+    "\u3010\u8acb\u6c42\u9805\uff14\u3011  \u30b8\u30aa\u30b3\u30ea\u30b9\u30fb\u30d7\u30ed\u30c6\u30a6\u30b9\u53ca\u3073\uff0f\u53c8\u306f\u30d4\u30aa\u30b3\u30ea\u30b9\u30fb\u30d0\u30ea\u30a6\u30b9\u3092\u3001\u8d77\u6bdb\u6027\u7523\u5375\u6750\u306b\u7523\u5375\u3055\u305b\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u5929\u6575\u6606\u866b\u306e\u5897\u6b96\u65b9\u6cd5\u30024. A method for multiplying natural enemy insects, comprising laying Geochoris proteus and / or Piochoris varius on a nurturing egg-laying material.",
+    "\u3010\u8acb\u6c42\u9805\uff15\u3011  \u8acb\u6c42\u9805\uff14\u8a18\u8f09\u306e\u65b9\u6cd5\u306b\u304a\u3044\u3066\u3001\u5929\u6575\u6606\u866b\u306f\u9c57\u7fc5\u76ee\u6606\u866b\u985e\u3001\u30b3\u30ca\u30b8\u30e9\u30df\u985e\u3001\u30a2\u30b6\u30df\u30a6\u30de\u985e\u3001\u30a2\u30d6\u30e9\u30e0\u30b7\u985e\u53ca\u3073\u30c0\u30cb\u985e\u304b\u3089\u306a\u308b\u7fa4\u3088\u308a\u9078\u629e\u3055\u308c\u308b\u4e00\u7a2e\u53c8\u306f\u4e8c\u7a2e\u4ee5\u4e0a\u3092\u542b\u3080\u990c\u306b\u3088\u308a\u751f\u80b2\u3055\u305b\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u5929\u6575\u6606\u866b\u306e\u5897\u6b96\u65b9\u6cd5\u30025. The method according to claim 4, wherein the natural enemy insect is grown on a bait containing one or more members selected from the group consisting of lepidoptera, whiteflies, thrips, aphids, and mites. A method for growing natural enemy insects, characterized in that:",
+    "\u3010\u8acb\u6c42\u9805\uff16\u3011  \u8acb\u6c42\u9805\uff15\u8a18\u8f09\u306e\u65b9\u6cd5\u306b\u304a\u3044\u3066\u3001\u5929\u6575\u6606\u866b\u306e\u990c\u306f\u9c57\u7fc5\u76ee\u6606\u866b\u985e\u306e\u51b7\u51cd\u5375\u3067\u3042\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u5929\u6575\u6606\u866b\u306e\u5897\u6b96\u65b9\u6cd5\u30026. The method of claim 5, wherein the food of the natural enemy insect is a frozen egg of a lepidopteran insect.",
+    "\u3010\u8acb\u6c42\u9805\uff17\u3011  \u8acb\u6c42\u9805\uff14\u301c\uff16\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u306b\u304a\u3044\u3066\u3001\u5929\u6575\u6606\u866b\u306e\u5375\u53c8\u306f\u5e7c\u866b\u3092\uff11\uff15\u2103\u4ee5\u4e0b\u306b\u8caf\u8535\u3057\u3001\u5b75\u5316\u6642\u671f\u53c8\u306f\u9f62\u671f\u3092\u8abf\u6574\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u5929\u6575\u6606\u866b\u306e\u5897\u6b96\u65b9\u6cd5\u30027. The method according to claim 4, wherein eggs or larvae of natural enemy insects are stored at 15 \u00b0 C. or lower,  A method for multiplying natural enemy insects, comprising adjusting the hatching time or age."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP2001276943A",
+      "representative_publication": "JP2003079271A",
+      "primary_language": "en",
+      "priority_date": "2001-09-12",
+      "filing_date": "2001-09-12",
+      "title": "Biological pesticide and method of proliferating natural enemy insect therefor"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2001276943A",
+      "representative_publication": "JP2003079271A",
+      "primary_language": "en",
+      "priority_date": "2001-09-12",
+      "filing_date": "2001-09-12",
+      "title": "Biological pesticide and method of proliferating natural enemy insect therefor"
+    }
+  ],
+  "family_id": "19101567",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "JP2016146792A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-13",
+        "publication_date": "2016-08-18",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30a2\u30b0\u30ea\u7dcf\u7814",
+        "title": "Manufacturing method of bunker type biological pesticide",
+        "patent_id": "patent/JP2016146792A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016146792A%2Fen"
+      },
+      {
+        "publication_number": "JP2017504353A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-20",
+        "publication_date": "2017-02-09",
+        "assignee_original": "\u5e83\u6771\u7701\u6606\u866b\u7814\u7a76\u6240",
+        "title": "Artificial low sea level culture method for bat moths, the host insect of Cordyceps sinensis",
+        "patent_id": "patent/JP2017504353A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017504353A%2Fen"
+      },
+      {
+        "publication_number": "CN106954596A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-26",
+        "publication_date": "2017-07-18",
+        "assignee_original": "\u6c88\u9633\u4e91\u5929\u81ea\u52a8\u5316\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "A kind of new UAV system egg of oak silkworm delivery device",
+        "patent_id": "patent/CN106954596A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106954596A%2Fen"
+      },
+      {
+        "publication_number": "CN112779189A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-27",
+        "publication_date": "2021-05-11",
+        "assignee_original": "\u534e\u5357\u519c\u4e1a\u5927\u5b66",
+        "title": "Bacillus proteus soil and application thereof",
+        "patent_id": "patent/CN112779189A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112779189A%2Fen"
+      },
+      {
+        "publication_number": "CN113261538A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-30",
+        "publication_date": "2021-08-17",
+        "assignee_original": "\u4e2d\u56fd\u70ed\u5e26\u519c\u4e1a\u79d1\u5b66\u9662\u73af\u5883\u4e0e\u690d\u7269\u4fdd\u62a4\u7814\u7a76\u6240",
+        "title": "Artificial breeding method of predatory stinkbug natural enemy cissa major eye stinkbug",
+        "patent_id": "patent/CN113261538A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113261538A%2Fen"
+      },
+      {
+        "publication_number": "KR20220028601A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-31",
+        "publication_date": "2022-03-08",
+        "assignee_original": "\uac70\ucc3d\uad70",
+        "title": "Methods of mass rearing and storage about Megoura crassicauda Mordvilko for breeding predatory natural enemies.",
+        "patent_id": "patent/KR20220028601A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220028601A%2Fen"
+      },
+      {
+        "publication_number": "CN114794019A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-01",
+        "publication_date": "2022-07-29",
+        "assignee_original": "\u6d59\u6c5f\u7701\u519c\u4e1a\u79d1\u5b66\u9662",
+        "title": "A kind of method of raising and breeding southern stink bug",
+        "patent_id": "patent/CN114794019A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114794019A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_scholar": true,
+      "scholar_id": "14610276180250683976",
+      "scholar_authors": "DeLoach et al.",
+      "publication_date": "1976",
+      "title": "Life cycle and biology of Neochetina bruchi, a weevil attacking waterhyacinth in Argentina, with notes on N. eichhorniae",
+      "patent_id": "scholar/14610276180250683976",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14610276180250683976"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12978016039575092719",
+      "scholar_authors": "Prasad et al.",
+      "publication_date": "2004",
+      "title": "Predator interference limits fly egg biological control by a guild of ground-active beetles",
+      "patent_id": "scholar/12978016039575092719",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12978016039575092719"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "109640945531070719",
+      "scholar_authors": "Wright et al.",
+      "publication_date": "1994",
+      "title": "The biology of the predatory mite Hypoaspis miles (Acari: Laelapidae), a potential biological control agent of Bradysia paupera (Dipt.: Sciaridae)",
+      "patent_id": "scholar/109640945531070719",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F109640945531070719"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20140060587A",
+      "primary_language": "en",
+      "publication_date": "2014-05-20",
+      "title": "Mite composition, use thereof, method for rearing the phytoseiid predatory mite amblyseius swirskii, rearing system for rearing said phytoseiid mite and methods for biological pest control on a crop",
+      "patent_id": "patent/KR20140060587A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20140060587A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101015290B",
+      "primary_language": "en",
+      "publication_date": "2010-05-19",
+      "title": "Indoor Breeding Method of Wild Silkworm",
+      "patent_id": "patent/CN101015290B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101015290B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2007325541A",
+      "primary_language": "en",
+      "publication_date": "2007-12-20",
+      "title": "Natural enemy insect propagation device and method of use",
+      "patent_id": "patent/JP2007325541A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007325541A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9366862279781677830",
+      "scholar_authors": "Stanley et al.",
+      "publication_date": "2016",
+      "title": "Pesticide toxicity to arthropod predators: Exposure, toxicity and risk assessment methodologies",
+      "patent_id": "scholar/9366862279781677830",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9366862279781677830"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6603381262559635667",
+      "scholar_authors": "Jandricic et al.",
+      "publication_date": "2006",
+      "title": "Compatibility of Atheta coriaria with other biological control agents and reduced-risk insecticides used in greenhouse floriculture integrated pest management programs for fungus gnats",
+      "patent_id": "scholar/6603381262559635667",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6603381262559635667"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3760142B2",
+      "primary_language": "en",
+      "publication_date": "2006-03-29",
+      "title": "Biological pesticides using predatory insects Ryukyutsuyatentou, its production method, artificial egg collector used in the method, and pest control method using the same",
+      "patent_id": "patent/JP3760142B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3760142B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003079271A",
+      "primary_language": "en",
+      "publication_date": "2003-03-18",
+      "title": "Biological pesticide and method of proliferating natural enemy insect therefor",
+      "patent_id": "patent/JP2003079271A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003079271A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112042598A",
+      "primary_language": "en",
+      "publication_date": "2020-12-08",
+      "title": "A complete method for efficiently rearing lady beetles",
+      "patent_id": "patent/CN112042598A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112042598A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11284155732007335753",
+      "scholar_authors": "Ewunkem et al.",
+      "publication_date": "2016",
+      "title": "Bioecology of Heteropoda venatoria (Linnaeus)(Araneae: Sparassidae) and its implications in a tropical banana agroecosystem",
+      "patent_id": "scholar/11284155732007335753",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11284155732007335753"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6165878518072074120",
+      "scholar_authors": "Rasdi et al.",
+      "publication_date": "2009",
+      "title": "Biology of Macrolophus caliginosus (Heteroptera: Miridae) Predator of Trialeurodes vaporariorum (Homoptera: Aleyrodidae)",
+      "patent_id": "scholar/6165878518072074120",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6165878518072074120"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2007297293A",
+      "primary_language": "en",
+      "publication_date": "2007-11-15",
+      "title": "Biological pesticide and pest control method using the same",
+      "patent_id": "patent/JP2007297293A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007297293A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102516514B1",
+      "primary_language": "en",
+      "publication_date": "2023-03-31",
+      "title": "Mass rearing method and packaging and storage method of Metasyrphus corollae (Fabricius) for aphid control.",
+      "patent_id": "patent/KR102516514B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102516514B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2006158348A",
+      "primary_language": "en",
+      "publication_date": "2006-06-22",
+      "title": "Biological control method",
+      "patent_id": "patent/JP2006158348A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006158348A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15596516543825536272",
+      "scholar_authors": "Dhandapani et al.",
+      "publication_date": "2016",
+      "title": "Chrysopids",
+      "patent_id": "scholar/15596516543825536272",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15596516543825536272"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3096123166645356389",
+      "scholar_authors": "Mena-Moci\u00f1o et al.",
+      "publication_date": "2021",
+      "title": "Effects of sex ratio on different biological parameters of Engytatus varians (Distant)(Hemiptera: Miridae) adults and their offspring: prey preference for Bactericera cockerelli (Sulcer)(Hemiptera: Triozidae)",
+      "patent_id": "scholar/3096123166645356389",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3096123166645356389"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3267733335310606534",
+      "scholar_authors": "Selman",
+      "publication_date": "1994",
+      "title": "Eggs and oviposition in chrysomelid beetles",
+      "patent_id": "scholar/3267733335310606534",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3267733335310606534"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6242216167115560400",
+      "scholar_authors": "Taghizadeh et al.",
+      "publication_date": "2020",
+      "title": "Comparative study on the efficiency and consumption rate of Stethorus gilvifrons (Coleoptera, Coccinellidae) and Orius albidipennis (Hemiptera, Anthocoridae), the predators of Tetranychus urticae Koch (Acari, Tetranychidae).",
+      "patent_id": "scholar/6242216167115560400",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6242216167115560400"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9987694336728494032",
+      "scholar_authors": "V\u00e4nninen",
+      "publication_date": "2001",
+      "title": "Biology of the shore fly Scatella stagnalis in rockwool under greenhouse conditions",
+      "patent_id": "scholar/9987694336728494032",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9987694336728494032"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "853402996372073881",
+      "scholar_authors": "Mouratidis et al.",
+      "publication_date": "2025",
+      "title": "Complementarity between Orius predators improves control of foliar and flower pests",
+      "patent_id": "scholar/853402996372073881",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F853402996372073881"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3351213356732588565",
+      "scholar_authors": "Ashfaq et al.",
+      "publication_date": "2004",
+      "title": "Advances in mass rearing of Chrysoperla carnea (Stephens)(Neuroptera: Chrysopidae)",
+      "patent_id": "scholar/3351213356732588565",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3351213356732588565"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2848758C1",
+      "primary_language": "en",
+      "publication_date": "2025-10-21",
+      "title": "Method for breeding entomophags",
+      "patent_id": "patent/RU2848758C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2848758C1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7297880215424142324",
+      "scholar_authors": "Westich et al.",
+      "publication_date": "2001",
+      "title": "Temperature and host plant effects on predatory stink bugs for augmentative biological control",
+      "patent_id": "scholar/7297880215424142324",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7297880215424142324"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2004-06-09",
+      "code": "A131",
+      "title": "Notification of reasons for refusal",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A131"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040608"
+        }
+      ]
+    },
+    {
+      "date": "2004-08-10",
+      "code": "A521",
+      "title": "Written amendment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A523"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040809"
+        }
+      ]
+    },
+    {
+      "date": "2004-09-06",
+      "code": "A521",
+      "title": "Written amendment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A821"
+        },
+        {
+          "label": "Effective date",
+          "value": "20040809"
+        }
+      ]
+    },
+    {
+      "date": "2005-01-04",
+      "code": "A02",
+      "title": "Decision of refusal",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A02"
+        },
+        {
+          "label": "Effective date",
+          "value": "20041228"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "241000238631",
+        "name": "Hexapoda",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 61
+      },
+      {
+        "id": "239000000575",
+        "name": "pesticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000002062",
+        "name": "proliferating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000607479",
+        "name": "Yersinia pestis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "241000663951",
+        "name": "Geocoris",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "241000588769",
+        "name": "Proteus <enterobacteria>",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "235000013601",
+        "name": "eggs",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "230000012447",
+        "name": "hatching",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "241001124076",
+        "name": "Aphididae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "241000258937",
+        "name": "Hemiptera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "241000238876",
+        "name": "Acari",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "241001414989",
+        "name": "Thysanoptera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "241000320508",
+        "name": "Pentatomidae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241001414720",
+        "name": "Cicadellidae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241001427559",
+        "name": "Collembola",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000255777",
+        "name": "Lepidoptera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000819999",
+        "name": "Nymphes",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000853",
+        "name": "biopesticidal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000017448",
+        "name": "oviposition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010411",
+        "name": "cooking",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000009395",
+        "name": "breeding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000001488",
+        "name": "breeding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "229920000742",
+        "name": "Cotton",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "240000009088",
+        "name": "Fragaria x ananassa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000488589",
+        "name": "Tetranychus kanzawai",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000012631",
+        "name": "food intake",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000019617",
+        "name": "pupation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000384",
+        "name": "rearing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241001555556",
+        "name": "Ephestia elutella",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000016623",
+        "name": "Fragaria vesca",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000011363",
+        "name": "Fragaria x ananassa",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000555745",
+        "name": "Sciuridae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241001414987",
+        "name": "Strepsiptera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012237",
+        "name": "artificial material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002354",
+        "name": "daily effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002474",
+        "name": "experimental method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000037406",
+        "name": "food intake",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001418",
+        "name": "larval effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "244000062645",
+        "name": "predators",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000894007",
+        "name": "species",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000001674",
+        "name": "Agaricus brunnescens",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000256844",
+        "name": "Apis mellifera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000255789",
+        "name": "Bombyx mori",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000002566",
+        "name": "Capsicum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001124216",
+        "name": "Cicindelinae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000241235",
+        "name": "Citrullus lanatus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012828",
+        "name": "Citrullus lanatus var citroides",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000219112",
+        "name": "Cucumis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000015510",
+        "name": "Cucumis melo subsp melo",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000008067",
+        "name": "Cucumis sativus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010799",
+        "name": "Cucumis sativus var sativus",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000257465",
+        "name": "Echinoidea",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000196324",
+        "name": "Embryophyta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000006890",
+        "name": "Erythroxylum coca",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "name": "Glucose",
+        "domain": "Natural products",
+        "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "inchi_key": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000007688",
+        "name": "Lycopersicon esculentum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004677",
+        "name": "Nylon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006002",
+        "name": "Pepper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000676810",
+        "name": "Phytocoris",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000016761",
+        "name": "Piper aduncum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000017804",
+        "name": "Piper guineense",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000203593",
+        "name": "Piper nigrum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000008184",
+        "name": "Piper nigrum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000294611",
+        "name": "Punica granatum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000014360",
+        "name": "Punica granatum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000003768",
+        "name": "Solanum lycopersicum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000061458",
+        "name": "Solanum melongena",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000002597",
+        "name": "Solanum melongena",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000985245",
+        "name": "Spodoptera litura",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001454295",
+        "name": "Tetranychidae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FJJCIZWZNKZHII-UHFFFAOYSA-N",
+        "name": "[4,6-bis(cyanoamino)-1,3,5-triazin-2-yl]cyanamide",
+        "domain": "Chemical compound",
+        "smiles": "N#CNC1=NC(NC#N)=NC(NC#N)=N1",
+        "inchi_key": "FJJCIZWZNKZHII-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005856",
+        "name": "abnormality",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010521",
+        "name": "absorption reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000008957",
+        "name": "cocaer",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZPUCINDJVBIVPJ-LJISPDSOSA-N",
+        "name": "cocaine",
+        "domain": "Chemical compound",
+        "smiles": "O([C@H]1C[C@@H]2CC[C@@H](N2C)[C@H]1C(=O)OC)C(=O)C1=CC=CC=C1",
+        "inchi_key": "ZPUCINDJVBIVPJ-LJISPDSOSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003203",
+        "name": "everyday effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000706",
+        "name": "filtrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008103",
+        "name": "glucose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000036571",
+        "name": "hydration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006703",
+        "name": "hydration reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002917",
+        "name": "insecticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011835",
+        "name": "investigation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000366",
+        "name": "juvenile effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000029052",
+        "name": "metamorphosis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000989",
+        "name": "no adverse effect",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NJPPVKZQTLUDBO-UHFFFAOYSA-N",
+        "name": "novaluron",
+        "domain": "Chemical compound",
+        "smiles": "C1=C(Cl)C(OC(F)(F)C(OC(F)(F)F)F)=CC=C1NC(=O)NC(=O)C1=C(F)C=CC=C1F",
+        "inchi_key": "NJPPVKZQTLUDBO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001778",
+        "name": "nylon",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000045947",
+        "name": "parasite",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000052769",
+        "name": "pathogen",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002265",
+        "name": "prevention",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000644",
+        "name": "propagated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001902",
+        "name": "propagating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005057",
+        "name": "refrigeration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000012865",
+        "name": "response to insecticide",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000717",
+        "name": "retained effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007779",
+        "name": "soft material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021012",
+        "name": "strawberries",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008685",
+        "name": "targeting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000002268",
+        "name": "wool",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

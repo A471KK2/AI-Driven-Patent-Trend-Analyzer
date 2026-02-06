@@ -1,0 +1,6320 @@
+{
+  "search_metadata": {
+    "id": "697a399c80f30ec306537adf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/704fd83910605ba1/697a399c80f30ec306537adf.json",
+    "created_at": "2026-01-28 16:30:20 UTC",
+    "processed_at": "2026-01-28 16:30:20 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US5393804A/en",
+    "raw_html_file": "https://serpapi.com/searches/704fd83910605ba1/697a399c80f30ec306537adf.html",
+    "total_time_taken": 1.43
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US5393804A/en"
+  },
+  "title": "Biodegradable compositions comprising starch and alkenol polymers",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/d2/d6/c8/7dac3af24959af/US5393804.pdf",
+  "publication_number": "US5393804A",
+  "country": "United States",
+  "prior_art_keywords": [
+    "composition according",
+    "composition",
+    "starch",
+    "converted starch",
+    "weight"
+  ],
+  "prior_art_date": "1992-11-24",
+  "application_number": "US08/071,429",
+  "inventors": [
+    {
+      "name": "Eric George",
+      "link": "https://patents.google.com/?inventor=Eric+George",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Eric+George"
+    },
+    {
+      "name": "Eddie Park",
+      "link": "https://patents.google.com/?inventor=Eddie+Park",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Eddie+Park"
+    },
+    {
+      "name": "Paul A. Altieri",
+      "link": "https://patents.google.com/?inventor=Paul+A.+Altieri",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paul+A.+Altieri"
+    },
+    {
+      "name": "Charles W. Paul",
+      "link": "https://patents.google.com/?inventor=Charles+W.+Paul",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Charles+W.+Paul"
+    }
+  ],
+  "assignees": [
+    "PARKE-DAVIS Co",
+    "Parke Davis and Co LLC"
+  ],
+  "priority_date": "1992-11-24",
+  "filing_date": "1993-06-01",
+  "publication_date": "1995-02-28",
+  "worldwide_applications": {
+    "1993": [
+      {
+        "filing_date": "1993-06-01",
+        "country_code": "US",
+        "application_number": "US08/071,429",
+        "document_id": "patent/US5393804A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      },
+      {
+        "filing_date": "1993-11-12",
+        "country_code": "IL",
+        "application_number": "IL10759093A",
+        "document_id": "patent/IL107590A0/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "DE",
+        "application_number": "DE69318722T",
+        "document_id": "patent/DE69318722T2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "ES",
+        "application_number": "ES94902392T",
+        "document_id": "patent/ES2119154T3/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "CA",
+        "application_number": "CA002149139A",
+        "document_id": "patent/CA2149139C/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "JP",
+        "application_number": "JP6513371A",
+        "document_id": "patent/JPH08503985A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "EP",
+        "application_number": "EP94902392A",
+        "document_id": "patent/EP0670863B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "KR",
+        "application_number": "KR1019950702073A",
+        "document_id": "patent/KR100286794B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "AU",
+        "application_number": "AU56780/94A",
+        "document_id": "patent/AU5678094A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "DK",
+        "application_number": "DK94902392T",
+        "document_id": "patent/DK0670863T3/en",
+        "legal_status_cat": "active"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "WO",
+        "application_number": "PCT/US1993/011447",
+        "document_id": "patent/WO1994012567A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "1993-11-23",
+        "country_code": "AT",
+        "application_number": "AT94902392T",
+        "document_id": "patent/ATE166372T1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "1993-11-24",
+        "country_code": "CN",
+        "application_number": "CN93120685A",
+        "document_id": "patent/CN1040880C/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "1998": [
+      {
+        "filing_date": "1998-08-12",
+        "country_code": "GR",
+        "application_number": "GR980401817T",
+        "document_id": "patent/GR3027639T3/en",
+        "legal_status_cat": "unknown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1993-06-01",
+      "title": "Application filed by Parke Davis and Co LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Parke Davis and Co LLC"
+    },
+    {
+      "date": "1993-06-01",
+      "title": "Assigned to PARKE-DAVIS COMPANY",
+      "type": "reassignment",
+      "assignee_search": "PARKE-DAVIS COMPANY",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ALTIERI, PAUL A., PAUL, CHARLES W."
+      ]
+    },
+    {
+      "date": "1993-06-01",
+      "title": "Priority to US08/071,429",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US5393804A/en"
+    },
+    {
+      "date": "1993-11-12",
+      "title": "Priority to IL10759093A",
+      "type": "priority",
+      "document_id": "patent/IL107590A0/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to DK94902392T",
+      "type": "priority",
+      "document_id": "patent/DK0670863T3/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to ES94902392T",
+      "type": "priority",
+      "document_id": "patent/ES2119154T3/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to DE69318722T",
+      "type": "priority",
+      "document_id": "patent/DE69318722T2/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to AU56780/94A",
+      "type": "priority",
+      "document_id": "patent/AU5678094A/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to JP6513371A",
+      "type": "priority",
+      "document_id": "patent/JPH08503985A/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to AT94902392T",
+      "type": "priority",
+      "document_id": "patent/ATE166372T1/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to CA002149139A",
+      "type": "priority",
+      "document_id": "patent/CA2149139C/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to KR1019950702073A",
+      "type": "priority",
+      "document_id": "patent/KR100286794B1/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to PCT/US1993/011447",
+      "type": "priority",
+      "document_id": "patent/WO1994012567A1/en"
+    },
+    {
+      "date": "1993-11-23",
+      "title": "Priority to EP94902392A",
+      "type": "priority",
+      "document_id": "patent/EP0670863B1/en"
+    },
+    {
+      "date": "1993-11-24",
+      "title": "Priority to CN93120685A",
+      "type": "priority",
+      "document_id": "patent/CN1040880C/en"
+    },
+    {
+      "date": "1995-02-28",
+      "title": "Publication of US5393804A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US5393804A/en"
+    },
+    {
+      "date": "1995-02-28",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "1997-06-02",
+      "title": "Assigned to NOVON INTERNATIONAL, INC.",
+      "type": "reassignment",
+      "assignee_search": "NOVON INTERNATIONAL, INC.",
+      "description": [
+        "RELEASE BY SECURED PARTY (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MARWAN, ASHRAF, DR."
+      ]
+    },
+    {
+      "date": "1998-08-12",
+      "title": "Priority to GR980401817T",
+      "type": "priority",
+      "document_id": "patent/GR3027639T3/en"
+    },
+    {
+      "date": "2012-11-24",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=5393804.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/08071429"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5393804"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5393804A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/08071429/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US5393804"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "C08J9/125",
+      "description": "Water, e.g. hydrated salts",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/00",
+      "description": "Working-up of macromolecular substances to porous or cellular articles or materials; After-treatment thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L29/04",
+      "description": "Polyvinyl alcohol; Partially hydrolysed homopolymers or copolymers of esters of unsaturated alcohols with saturated carboxylic acids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L3/02",
+      "description": "Starch; Degradation products thereof, e.g. dextrin",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2303/02",
+      "description": "Starch; Degradation products thereof, e.g. dextrin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2201/06",
+      "description": "Biodegradable",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "There is provided a biodegradable composition as obtained from a melt comprising converted starch, a plasticizer and at least one member selected from alkenol homopolymers and/or alkenol copolymers which are combined under conditions sufficient to ensure uniform melt formation, in which the at least one member is present in the composition at a concentration of from 10 to 200 parts per 100 parts of dry converted starch. The invention further relates to methods of making the composition, and to articles made from said composition.",
+  "description_link": "https://serpapi.com/searches/697a399c80f30ec306537adf/google_patents_details/description.html",
+  "claims": [
+    "1. A biodegradable composition obtained from a melt comprising converted starch, wherein said converted starch has a 8.8% calcium chloride viscosity within the range of about 5 seconds to about 60 seconds, a plasticizer and a member selected from the group consisting of alkenol hompolymers, alkenol copolymers and combinations thereof, which are combined under conditions sufficient to ensure uniform melt formation, wherein the member is present in the composition at a concentration of from about 10 to about 200 parts per 100 parts of dry converted starch.",
+    "2. A biodegradable composition according to claim 1 wherein said converted starch is derived from at least one member selected from the group consisting of native starches of vegetable origin, which starches are derived from potatoes, rice, tapioca, corn, pea, rye, oats, wheat.",
+    "3. A biodegradable composition according to claim 1 or claim 2 wherein said converted starch is acid hydrolysed fluidity starch and wherein said acid hydrolysis has been carried out below the gelatinization point of the starch.",
+    "4. A biodegradable composition according to claim 3, wherein said converted starch is acid hydrolysed corn starch.",
+    "5. A biodegradable composition according to claim 1, wherein the 8.8% calcium chloride viscosity of said converted starch is from about 10 seconds to about 40 seconds.",
+    "6. A biodegradable composition according to claim 5, wherein the 8.8% calcium chloride viscosity of said converted starch is from about 20 seconds to about 40 seconds.",
+    "7. A composition according to claim 1, wherein the converted starch has an amylose content of from about 10% up to about 95%.",
+    "8. A composition according to claim 7, wherein the converted starch has an amylose content of between about 60 and about 95%.",
+    "9. A composition according to claim 1, wherein the converted starch has an amylose content between about 65% and about 80%.",
+    "10. A composition according to claim 1, wherein the converted starch has an amylose content of from about 10% up to about 45%.",
+    "11. A composition according to claim 1, wherein the converted starch has an amylose content of from about 10% up to about 35%.",
+    "12. A composition according to claim 7, wherein the converted starch has an amylose content of at least about 5 to about 10%.",
+    "13. A composition according to claim 1, in which the composition comprises from about 10 to about 120 parts of said polymer per 100 parts of converted starch.",
+    "14. A composition according to claim 1, in which the composition comprises from about 20 to about 85 parts of said polymer per 100 parts of converted starch.",
+    "15. A composition according to claim 1, in which the composition comprises from about 20 to about 40 parts of said polymer per 100 parts of converted starch.",
+    "16. A composition according to claim 1, in which the alkenol homopolymer is polyvinyl alcohol.",
+    "17. A composition according to claim 16, in which the polyvinyl alcohol is substantially completely hydrolysed.",
+    "18. A composition according to claim 16, in which the polyvinyl alcohol is hydrolysed to an extent of from about 70 to about 100 mol %.",
+    "19. A composition according to claim 16, in which the polyvinyl alcohol is hydrolysed to an extent of from about 87 to about 98 mol %.",
+    "20. A composition according to claim 16, in which the polyvinyl alcohol is hydrolysed to an extent of from about 96 to about 98 mol %.",
+    "21. A composition according to claim 16, in which the polyvinyl alcohol has a number average molecular weight of at least 10,000.",
+    "22. A composition according to claim 16, in which the polyvinyl alcohol has a number average molecular weight of from 20,000 to 100,000.",
+    "23. A composition according to claim 17, in which the polyvinyl alcohol has a number average molecular weight of from 160,000 to 250,000.",
+    "24. A composition according to claim 16, wherein the polyvinyl alcohol has a degree of hydrolysis of at least about 96% and has a number average molecular weight of from about 20,000 to about 100,000.",
+    "25. A composition according to claim 1, wherein the alkenol copolymer containing vinyl alcohol units and aliphatic chain units as obtained by co-polymerization of vinyl acetate with ethylene and/or propylene with subsequent hydrolysis of the vinyl acetate groups.",
+    "26. A composition according to claim 25, in which the copolymer comprises an ethylene/vinyl alcohol copolymer.",
+    "27. A composition according to claim 26, in which the molar ratio of vinyl alcohol units to alkylene units is from about 40:60 to about 90:10.",
+    "28. A composition-according to the preceding claim, in said molar ratio is from about 45:55 to about 70:30.",
+    "29. A composition according to claim 28, in which the ethylene vinyl alcohol has an ethylene content of about 42 mol % to about 48 mol %.",
+    "30. A composition according to claim 1, wherein the composition further comprises at least one member selected from the group consisting of extenders, fillers, lubricants, mold release agents, stabilizers, coloring agents, flame retardants, alkali or alkaline earth metal salts and boron-containing compounds.",
+    "31. A composition according to claim 30, in which said fillers are present in said composition at a concentration of between about 20% and about 40% by weight, bas ed on the weight of the composition.",
+    "32. A composition according to claim 30, in which said plasticisers are present in said composition at a concentration of between about 0.5% and about 40% by weight, based on the weight of the composition.",
+    "33. A composition according to claim 30, in which said plasticisers are present in said composition at a concentration of between about 0.5% and about 5% by weight, based on the weight of the composition.",
+    "34. A composition according to claim 32, further comprising water, wherein the sum of the plasticizer and water content of said composition does not exceed about 25% by weight, based on the weight of the composition.",
+    "35. A composition according to claim 31, in which said lubricants are selected from the group consisting of mono or diglycerides, lecithin and stearic acid.",
+    "36. A composition according to claim 35, in which the lubricant is stearic acid.",
+    "37. A composition according to claim 31, further comprising a nucleating agent, said nucleating agent having a particle size of from about 0.01 to about 5 microns, wherein said nucleating agent is selected from the group consisting of silica, titania, alumina, barium oxide, magnesium oxide, sodium chloride, potassium bromide, magnesium phosphate, barium sulphate, aluminum sulphate, boron nitrate and magnesium silicate or mixtures thereof.",
+    "38. A composition according to claim 37, wherein the nucleating agent is magnesium silicate (micro talcum).",
+    "39. A composition according to claim 30, in which the flame retardant is selected from the group consisting of guanidinium phosphate: diethyl-N,N-bis(2-hydroxyethyl)aminomethyl phosphonate; dimethyl methylphosphonate; phosphonic acid, methyl-, dimethylester, polymer with oxirane and phosphorous oxide; aliphatic phosphate/phosphonate oligomers; tributyl phosphate; triphenyl phosphate; tricresyl phosphate; 2-ethylhexyl diphenyl phosphate; and tributoxyethyl phosphate; bis (hydroxypropyl) sec-butyl phosphine oxide; polypropoxylated dibutyl pyrophosphoric acid; a mixture of phosphonic acid, methyl-,(5-ethyl-2-methyl-1,3,2-dioxaphosphorinan-5-yl)methyl ethyl ester, P-oxide and phosphonic acid, methyl-, bis [(5-ethyl-2-methyl-1,3,2-dioxaphosphorinan-5-yl)methyl] ester, P,P'-dioxide; ammonium polyphosphate; ethylendiamine polyphosphate; melamine phosphate; dimelamine phosphate; and microencapsulated red phosphorous.",
+    "40. A composition according to claim 30, wherein the flame retardant is ammonium polyphosphate or ethylendiamine polyphosphate or a mixture thereof.",
+    "41. A composition according to any claim 30, wherein the flame retardant is present in the composition in an amount of from about 0.1 to about 10%, by weight with respect to that of the converted starch component of the composition.",
+    "42. A composition according to claim 1, in which the bulk density of the composition is in the range of about 8.5 to about 30 kg/m3.",
+    "43. A composition according to claim 42, in which the bulk density of the composition is in the range of about 10.0 to about 15.5 kg/m3.",
+    "44. A composition according to claim 42, in which the resiliency of the composition is in the range of about 46 to 63%.",
+    "45. A composition according to claim 42, in which the compressibility of the composition is in the range of about 6 to 15%."
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US98086292A",
+      "relation_type": "Continuation-In-Part",
+      "priority_date": "1992-11-24",
+      "filing_date": "1992-11-24"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US08/071,429",
+      "representative_publication": "US5393804A",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-06-01",
+      "title": "Biodegradable compositions comprising starch and alkenol polymers"
+    },
+    {
+      "application_number": "IL10759093A",
+      "representative_publication": "IL107590A0",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-12",
+      "title": "Biodegradable compositions comprising starch"
+    },
+    {
+      "application_number": "CA002149139A",
+      "representative_publication": "CA2149139C",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "Biodegradable compositions comprising starch"
+    },
+    {
+      "application_number": "EP94902392A",
+      "representative_publication": "EP0670863B1",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "Biodegradable compositions comprising starch"
+    },
+    {
+      "application_number": "DE69318722T",
+      "representative_publication": "DE69318722T2",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "BIODEGRADABLE COMPOSITIONS CONTAINING STRENGTH"
+    },
+    {
+      "application_number": "AU56780/94A",
+      "representative_publication": "AU5678094A",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "Biodegradable compositions comprising starch"
+    },
+    {
+      "application_number": "JP6513371A",
+      "representative_publication": "JPH08503985A",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "Biodegradable composition containing starch"
+    },
+    {
+      "application_number": "AT94902392T",
+      "representative_publication": "ATE166372T1",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "BIODEGRADABLE COMPOSITIONS CONTAINING STARCH"
+    },
+    {
+      "application_number": "DK94902392T",
+      "representative_publication": "DK0670863T3",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "Biodegradable compositions containing starch"
+    },
+    {
+      "application_number": "KR1019950702073A",
+      "representative_publication": "KR100286794B1",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "Biodegradable composition consisting of starch"
+    },
+    {
+      "application_number": "PCT/US1993/011447",
+      "representative_publication": "WO1994012567A1",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "Biodegradable compositions comprising starch"
+    },
+    {
+      "application_number": "ES94902392T",
+      "representative_publication": "ES2119154T3",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-23",
+      "title": "BIODEGRADABLE COMPOSITIONS INCLUDING STARCH."
+    },
+    {
+      "application_number": "CN93120685A",
+      "representative_publication": "CN1040880C",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-11-24",
+      "title": "Biodegradable compositions comprising starch"
+    },
+    {
+      "application_number": "GR980401817T",
+      "representative_publication": "GR3027639T3",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1998-08-12",
+      "title": "Biodegradable compositions comprising starch."
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US98086292A",
+      "priority_date": "1992-11-24",
+      "filing_date": "1992-11-24"
+    },
+    {
+      "application_number": "US08/071,429",
+      "representative_publication": "US5393804A",
+      "primary_language": "en",
+      "priority_date": "1992-11-24",
+      "filing_date": "1993-06-01",
+      "title": "Biodegradable compositions comprising starch and alkenol polymers"
+    }
+  ],
+  "family_id": "26752213",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "DE501889C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1926-05-23",
+        "publication_date": "1930-07-05",
+        "assignee_original": "Holzverkohlungs Ind Akt Ges",
+        "title": "Solvents and emollients for cellulose esters and similar cellulose debris",
+        "patent_id": "patent/DE501889C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE501889C%2Fen"
+      },
+      {
+        "publication_number": "US2412213A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1938-12-12",
+        "publication_date": "1946-12-10",
+        "assignee_original": "Groen Martinus Gerardus",
+        "title": "Method of producing starch esters",
+        "patent_id": "patent/US2412213A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2412213A%2Fen"
+      },
+      {
+        "publication_number": "US2654736A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1949-02-02",
+        "publication_date": "1953-10-06",
+        "assignee_original": "Nat Starch Products Inc",
+        "title": "Stabilized starch derivatives",
+        "patent_id": "patent/US2654736A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2654736A%2Fen"
+      },
+      {
+        "publication_number": "US2660577A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1950-05-27",
+        "publication_date": "1953-11-24",
+        "assignee_original": "Corn Prod Refining Co",
+        "title": "Derivatization of starch witch lactones",
+        "patent_id": "patent/US2660577A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2660577A%2Fen"
+      },
+      {
+        "publication_number": "US3038895A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1957-12-06",
+        "publication_date": "1962-06-12",
+        "assignee_original": "Nat Starch Chem Corp",
+        "title": "Water-dispersible, partially substituted derivatives of amylose",
+        "patent_id": "patent/US3038895A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3038895A%2Fen"
+      },
+      {
+        "publication_number": "US3117014A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-04-13",
+        "publication_date": "1964-01-07",
+        "assignee_original": "Hercules Powder Co Ltd",
+        "title": "Amylaceous compositions for shaped articles and process",
+        "patent_id": "patent/US3117014A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3117014A%2Fen"
+      },
+      {
+        "publication_number": "US3184335A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-12-29",
+        "publication_date": "1965-05-18",
+        "assignee_original": "American Mach & Foundry",
+        "title": "Activation of amylose",
+        "patent_id": "patent/US3184335A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3184335A%2Fen"
+      },
+      {
+        "publication_number": "US4061610A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-05-19",
+        "publication_date": "1977-12-06",
+        "assignee_original": "The Sherwin-Williams Company",
+        "title": "Coating compositions containing starch half-esters and process for preparing same",
+        "patent_id": "patent/US4061610A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4061610A%2Fen"
+      },
+      {
+        "publication_number": "US4125495A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-11-25",
+        "publication_date": "1978-11-14",
+        "assignee_original": "Coloroll Limited",
+        "title": "Synthetic/resin based compositions",
+        "patent_id": "patent/US4125495A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4125495A%2Fen"
+      },
+      {
+        "publication_number": "US4207355A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-01-08",
+        "publication_date": "1980-06-10",
+        "assignee_original": "National Starch And Chemical Corporation",
+        "title": "Cold-water dispersible, gelling starches",
+        "patent_id": "patent/US4207355A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4207355A%2Fen"
+      },
+      {
+        "publication_number": "US4379138A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-12-28",
+        "publication_date": "1983-04-05",
+        "assignee_original": "Research Triangle Institute",
+        "title": "Biodegradable polymers of lactones",
+        "patent_id": "patent/US4379138A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4379138A%2Fen"
+      },
+      {
+        "publication_number": "US4673438A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-02-13",
+        "publication_date": "1987-06-16",
+        "assignee_original": "Warner-Lambert Company",
+        "title": "Polymer composition for injection molding",
+        "patent_id": "patent/US4673438A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4673438A%2Fen"
+      },
+      {
+        "publication_number": "US4726957A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-02-26",
+        "publication_date": "1988-02-23",
+        "assignee_original": "National Starch And Chemical Corporation",
+        "title": "Starch-based jelly gum confections",
+        "patent_id": "patent/US4726957A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4726957A%2Fen"
+      },
+      {
+        "publication_number": "US4726809A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-05-19",
+        "publication_date": "1988-02-23",
+        "assignee_original": "American Maize-Products Company",
+        "title": "Textile size",
+        "patent_id": "patent/US4726809A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4726809A%2Fen"
+      },
+      {
+        "publication_number": "US4738724A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-11-04",
+        "publication_date": "1988-04-19",
+        "assignee_original": "Warner-Lambert Company",
+        "title": "Method for forming pharmaceutical capsules from starch compositions",
+        "patent_id": "patent/US4738724A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4738724A%2Fen"
+      },
+      {
+        "publication_number": "US4900361A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-07-07",
+        "publication_date": "1990-02-13",
+        "assignee_original": "Warner-Lambert Company",
+        "title": "Destructurized starch essentially containing no bridged phosphate groups and process for making same",
+        "patent_id": "patent/US4900361A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4900361A%2Fen"
+      },
+      {
+        "publication_number": "US4931488A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-02-27",
+        "publication_date": "1990-06-05",
+        "assignee_original": "Amrotex Ag.",
+        "title": "Degradable plastic compositions",
+        "patent_id": "patent/US4931488A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4931488A%2Fen"
+      },
+      {
+        "publication_number": "EP0394803A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-04-28",
+        "publication_date": "1990-10-31",
+        "assignee_original": "Battelle Memorial Institute",
+        "title": "Biodegradable plastic material",
+        "patent_id": "patent/EP0394803A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0394803A1%2Fen"
+      },
+      {
+        "publication_number": "EP0408503A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-07-11",
+        "publication_date": "1991-01-16",
+        "assignee_original": "Warner-Lambert Company",
+        "title": "Polymer base blend compositions containing destructurized starch",
+        "patent_id": "patent/EP0408503A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0408503A2%2Fen"
+      },
+      {
+        "publication_number": "EP0415357A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-09-01",
+        "publication_date": "1991-03-06",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Extrudable polyvinyl alcohol compositions",
+        "patent_id": "patent/EP0415357A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0415357A2%2Fen"
+      },
+      {
+        "publication_number": "US5051222A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-09-01",
+        "publication_date": "1991-09-24",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Method for making extrudable polyvinyl alcohol compositions",
+        "patent_id": "patent/US5051222A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5051222A%2Fen"
+      },
+      {
+        "publication_number": "US5087650A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-05",
+        "publication_date": "1992-02-11",
+        "assignee_original": "Fully Compounded Plastics, Inc.",
+        "title": "Biodegradable plastics",
+        "patent_id": "patent/US5087650A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5087650A%2Fen"
+      },
+      {
+        "publication_number": "US5095054A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-02-03",
+        "publication_date": "1992-03-10",
+        "assignee_original": "Warner-Lambert Company",
+        "title": "Polymer compositions containing destructurized starch",
+        "patent_id": "patent/US5095054A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5095054A%2Fen"
+      },
+      {
+        "publication_number": "US5137969A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-09-01",
+        "publication_date": "1992-08-11",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Melt extrudable polyvinyl alcohol pellets having reduced maximum melt temperature and reduced gel content",
+        "patent_id": "patent/US5137969A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5137969A%2Fen"
+      },
+      {
+        "publication_number": "WO1992016584A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-03-19",
+        "publication_date": "1992-10-01",
+        "assignee_original": "Parke, Davis & Company",
+        "title": "Biodegradable compositions comprising starch",
+        "patent_id": "patent/WO1992016584A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1992016584A1%2Fen"
+      },
+      {
+        "publication_number": "US5158810A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-05-12",
+        "publication_date": "1992-10-27",
+        "assignee_original": "Nippon Gohsei Kagaku Kogyo Kabushiki Kaisha",
+        "title": "Melt-molded articles and laminates derived therefrom, and their use",
+        "patent_id": "patent/US5158810A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5158810A%2Fen"
+      },
+      {
+        "publication_number": "WO1992019680A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-05-03",
+        "publication_date": "1992-11-12",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "Biodegradable polymeric compositions based on starch and thermoplastic polymers",
+        "patent_id": "patent/WO1992019680A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1992019680A1%2Fen"
+      },
+      {
+        "publication_number": "US5205863A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-11-14",
+        "publication_date": "1993-04-27",
+        "assignee_original": "International Communications & Energy",
+        "title": "Agricultural biodegradable plastics",
+        "patent_id": "patent/US5205863A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5205863A%2Fen"
+      },
+      {
+        "publication_number": "US5234977A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-07-25",
+        "publication_date": "1993-08-10",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "Starchy polymeric mixture particularly for the production of films and the like and a method for its production",
+        "patent_id": "patent/US5234977A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5234977A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "GB1077351A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1963-09-21",
+        "publication_date": "1967-07-26",
+        "assignee_original": "Kurashiki Rayon Kk",
+        "title": "Composition for films,sheets and other shaped articles of softened polyvinyl alcohol",
+        "patent_id": "patent/GB1077351A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1077351A%2Fen"
+      },
+      {
+        "publication_number": "DE3939721C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-12-05",
+        "publication_date": "2002-08-01",
+        "assignee_original": "Nippon Synthetic Chem Ind",
+        "title": "Polyvinyl alcohol-starch film",
+        "patent_id": "patent/DE3939721C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3939721C2%2Fen"
+      },
+      {
+        "publication_number": "BE1002635A6",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-12-09",
+        "publication_date": "1991-04-16",
+        "assignee_original": "Amylum Nv",
+        "title": "METHOD FOR MANUFACTURING A mixture of starch and polyvinyl alcohol AND THUS MANUFACTURED MIXTURE.",
+        "patent_id": "patent/BE1002635A6/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBE1002635A6%2Fen"
+      },
+      {
+        "publication_number": "JP2905542B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-03-12",
+        "publication_date": "1999-06-14",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30af\u30e9\u30ec",
+        "title": "Agricultural multi-film",
+        "patent_id": "patent/JP2905542B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2905542B2%2Fen"
+      },
+      {
+        "publication_number": "JP3059200B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-09-27",
+        "publication_date": "2000-07-04",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30af\u30e9\u30ec",
+        "title": "Easily collapsible resin composition",
+        "patent_id": "patent/JP3059200B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3059200B2%2Fen"
+      },
+      {
+        "publication_number": "WO1992018325A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-04-12",
+        "publication_date": "1992-10-29",
+        "assignee_original": "Enviropack, Inc.",
+        "title": "Biodegradable packaging material",
+        "patent_id": "patent/WO1992018325A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1992018325A1%2Fen"
+      },
+      {
+        "publication_number": "US5384187A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-05-15",
+        "publication_date": "1995-01-24",
+        "assignee_original": "Nippon Gohsei Kagaku Kogyo Kabushiki Kaisha",
+        "title": "Biodegradable resin compositions and laminates based thereon",
+        "patent_id": "patent/US5384187A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5384187A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US5662731A",
+        "primary_language": "en",
+        "priority_date": "1992-08-11",
+        "publication_date": "1997-09-02",
+        "assignee_original": "E. Khashoggi Industries",
+        "title": "Compositions for manufacturing fiber-reinforced, starch-bound articles having a foamed cellular matrix",
+        "patent_id": "patent/US5662731A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5662731A%2Fen"
+      },
+      {
+        "publication_number": "US5679145A",
+        "primary_language": "en",
+        "priority_date": "1992-08-11",
+        "publication_date": "1997-10-21",
+        "assignee_original": "E. Khashoggi Industries",
+        "title": "Starch-based compositions having uniformly dispersed fibers used to manufacture high strength articles having a fiber-reinforced, starch-bound cellular matrix",
+        "patent_id": "patent/US5679145A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5679145A%2Fen"
+      },
+      {
+        "publication_number": "US5705203A",
+        "primary_language": "en",
+        "priority_date": "1994-02-07",
+        "publication_date": "1998-01-06",
+        "assignee_original": "E. Khashoggi Industries",
+        "title": "Systems for molding articles which include a hinged starch-bound cellular matrix",
+        "patent_id": "patent/US5705203A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5705203A%2Fen"
+      },
+      {
+        "publication_number": "US5709827A",
+        "primary_language": "en",
+        "priority_date": "1992-08-11",
+        "publication_date": "1998-01-20",
+        "assignee_original": "E. Khashoggi Industries",
+        "title": "Methods for manufacturing articles having a starch-bound cellular matrix",
+        "patent_id": "patent/US5709827A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5709827A%2Fen"
+      },
+      {
+        "publication_number": "US5716675A",
+        "primary_language": "en",
+        "priority_date": "1992-11-25",
+        "publication_date": "1998-02-10",
+        "assignee_original": "E. Khashoggi Industries",
+        "title": "Methods for treating the surface of starch-based articles with glycerin",
+        "patent_id": "patent/US5716675A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5716675A%2Fen"
+      },
+      {
+        "publication_number": "US5736209A",
+        "primary_language": "en",
+        "priority_date": "1993-11-19",
+        "publication_date": "1998-04-07",
+        "assignee_original": "E. Kashoggi, Industries, Llc",
+        "title": "Compositions having a high ungelatinized starch content and sheets molded therefrom",
+        "patent_id": "patent/US5736209A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5736209A%2Fen"
+      },
+      {
+        "publication_number": "US5744516A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-09-14",
+        "publication_date": "1998-04-28",
+        "assignee_original": "Fujitsu Limited",
+        "title": "Biodegradable resin molded article",
+        "patent_id": "patent/US5744516A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5744516A%2Fen"
+      },
+      {
+        "publication_number": "US5776388A",
+        "primary_language": "en",
+        "priority_date": "1994-02-07",
+        "publication_date": "1998-07-07",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Methods for molding articles which include a hinged starch-bound cellular matrix",
+        "patent_id": "patent/US5776388A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5776388A%2Fen"
+      },
+      {
+        "publication_number": "US5810961A",
+        "primary_language": "en",
+        "priority_date": "1993-11-19",
+        "publication_date": "1998-09-22",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Methods for manufacturing molded sheets having a high starch content",
+        "patent_id": "patent/US5810961A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5810961A%2Fen"
+      },
+      {
+        "publication_number": "US5843544A",
+        "primary_language": "en",
+        "priority_date": "1994-02-07",
+        "publication_date": "1998-12-01",
+        "assignee_original": "E. Khashoggi Industries",
+        "title": "Articles which include a hinged starch-bound cellular matrix",
+        "patent_id": "patent/US5843544A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5843544A%2Fen"
+      },
+      {
+        "publication_number": "US6030673A",
+        "primary_language": "en",
+        "priority_date": "1992-11-25",
+        "publication_date": "2000-02-29",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Molded starch-bound containers and other articles having natural and/or synthetic polymer coatings",
+        "patent_id": "patent/US6030673A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6030673A%2Fen"
+      },
+      {
+        "publication_number": "US6083586A",
+        "primary_language": "en",
+        "priority_date": "1993-11-19",
+        "publication_date": "2000-07-04",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Sheets having a starch-based binding matrix",
+        "patent_id": "patent/US6083586A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6083586A%2Fen"
+      },
+      {
+        "publication_number": "US6096809A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-04-07",
+        "publication_date": "2000-08-01",
+        "assignee_original": "Bio-Tec Biologische Naturverpackungen Gmbh & Co. Kg",
+        "title": "Biologically degradable polymer mixture",
+        "patent_id": "patent/US6096809A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6096809A%2Fen"
+      },
+      {
+        "publication_number": "US6107371A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-06-16",
+        "publication_date": "2000-08-22",
+        "assignee_original": "National Starch And Chemical Investment Holding Corporation",
+        "title": "Biodegradable expanded starch products and the method of preparation",
+        "patent_id": "patent/US6107371A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6107371A%2Fen"
+      },
+      {
+        "publication_number": "US6168857B1",
+        "primary_language": "en",
+        "priority_date": "1996-04-09",
+        "publication_date": "2001-01-02",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Compositions and methods for manufacturing starch-based compositions",
+        "patent_id": "patent/US6168857B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6168857B1%2Fen"
+      },
+      {
+        "publication_number": "US6176915B1",
+        "primary_language": "en",
+        "priority_date": "1995-04-14",
+        "publication_date": "2001-01-23",
+        "assignee_original": "Standard Starch, L.L.C.",
+        "title": "Sorghum meal-based biodegradable formulations, shaped products made therefrom, and methods of making said shaped products",
+        "patent_id": "patent/US6176915B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6176915B1%2Fen"
+      },
+      {
+        "publication_number": "US6214907B1",
+        "primary_language": "en",
+        "priority_date": "1992-11-06",
+        "publication_date": "2001-04-10",
+        "assignee_original": "Bio-Tec Biologische Naturverpackungen Gmbh & Co. Kg",
+        "title": "Biologically degradable polymer mixture",
+        "patent_id": "patent/US6214907B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6214907B1%2Fen"
+      },
+      {
+        "publication_number": "US6231970B1",
+        "primary_language": "en",
+        "priority_date": "2000-01-11",
+        "publication_date": "2001-05-15",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Thermoplastic starch compositions incorporating a particulate filler component",
+        "patent_id": "patent/US6231970B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6231970B1%2Fen"
+      },
+      {
+        "publication_number": "US6284359B1",
+        "primary_language": "en",
+        "priority_date": "1991-11-25",
+        "publication_date": "2001-09-04",
+        "assignee_original": "National Starch And Chemical Company Investment Holding Corporation",
+        "title": "Starch-based core products for use in rolled paper goods",
+        "patent_id": "patent/US6284359B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6284359B1%2Fen"
+      },
+      {
+        "publication_number": "US6472497B2",
+        "primary_language": "en",
+        "priority_date": "1996-06-20",
+        "publication_date": "2002-10-29",
+        "assignee_original": "Biotec Biologische Naturverpackungen & Co Kg",
+        "title": "Thermoplastic starch utilizing a biodegradable polymer as melting aid",
+        "patent_id": "patent/US6472497B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6472497B2%2Fen"
+      },
+      {
+        "publication_number": "EP1153078A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-14",
+        "publication_date": "2002-11-27",
+        "assignee_original": "Food & Packaging Ct Man Ltd",
+        "title": "Biodegradable polymer",
+        "patent_id": "patent/EP1153078A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1153078A4%2Fen"
+      },
+      {
+        "publication_number": "EP1120042A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-27",
+        "publication_date": "2003-09-10",
+        "assignee_original": "Green Light Packaging Limited",
+        "title": "Biodegradable packaging material",
+        "patent_id": "patent/EP1120042A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1120042A3%2Fen"
+      },
+      {
+        "publication_number": "WO2004078878A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-05",
+        "publication_date": "2004-09-16",
+        "assignee_original": "Maya Meltzer Kasowski",
+        "title": "Reaction product of a phosphorous acid with ethyleneamines for flame resistance",
+        "patent_id": "patent/WO2004078878A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004078878A1%2Fen"
+      },
+      {
+        "publication_number": "US6805823B2",
+        "primary_language": "en",
+        "priority_date": "1995-04-14",
+        "publication_date": "2004-10-19",
+        "assignee_original": "Amylex Corporation",
+        "title": "Resilient biodegradable packaging materials",
+        "patent_id": "patent/US6805823B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6805823B2%2Fen"
+      },
+      {
+        "publication_number": "US20040242732A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-14",
+        "publication_date": "2004-12-02",
+        "assignee_original": "Plantic Technologies, Ltd.",
+        "title": "Biodegradable polymer",
+        "patent_id": "patent/US20040242732A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040242732A1%2Fen"
+      },
+      {
+        "publication_number": "KR100469043B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-07-23",
+        "publication_date": "2005-01-29",
+        "assignee_original": "\uac00\ubd80\uc2dc\ud0a4\uac00\uc774\uc0e4 \uad6c\ub77c\ub808",
+        "title": "Method for preparing ethylene-vinyl alcohol copolymer resin and its pellet, and resin pellet obtained by the method",
+        "patent_id": "patent/KR100469043B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100469043B1%2Fen"
+      },
+      {
+        "publication_number": "WO2006032929A1",
+        "primary_language": "en",
+        "priority_date": "2004-05-11",
+        "publication_date": "2006-03-30",
+        "assignee_original": "Adept Polymers Limited",
+        "title": "An extrusion process",
+        "patent_id": "patent/WO2006032929A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006032929A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006037157A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-05",
+        "publication_date": "2006-04-13",
+        "assignee_original": "Plantic Technologies Ltd",
+        "title": "Mouldable biodegradable polymer",
+        "patent_id": "patent/WO2006037157A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006037157A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006100290A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-24",
+        "publication_date": "2006-09-28",
+        "assignee_original": "Basf Aktiengesellschaft",
+        "title": "Textile treatment",
+        "patent_id": "patent/WO2006100290A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006100290A1%2Fen"
+      },
+      {
+        "publication_number": "US20060293419A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-13",
+        "publication_date": "2006-12-28",
+        "assignee_original": "Plantic Technologies Ltd.",
+        "title": "Biodegradable polymer",
+        "patent_id": "patent/US20060293419A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060293419A1%2Fen"
+      },
+      {
+        "publication_number": "US20070021534A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-19",
+        "publication_date": "2007-01-25",
+        "assignee_original": "United States (as represented by the Secretary of Agriculture)",
+        "title": "Fiber-reinforced starch-based compositions and methods of manufacture and use",
+        "patent_id": "patent/US20070021534A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070021534A1%2Fen"
+      },
+      {
+        "publication_number": "US20070021515A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-19",
+        "publication_date": "2007-01-25",
+        "assignee_original": "United States (as represented by the Secretary of Agriculture)",
+        "title": "Expandable starch-based beads and method of manufacturing molded articles therefrom",
+        "patent_id": "patent/US20070021515A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070021515A1%2Fen"
+      },
+      {
+        "publication_number": "US20070082982A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-11",
+        "publication_date": "2007-04-12",
+        "assignee_original": "The Procter & Gamble Company",
+        "title": "Water stable compositions and articles comprising starch and methods of making the same",
+        "patent_id": "patent/US20070082982A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070082982A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007118280A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-18",
+        "publication_date": "2007-10-25",
+        "assignee_original": "Plantic Technologies Limited",
+        "title": "Polymeric films",
+        "patent_id": "patent/WO2007118280A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007118280A1%2Fen"
+      },
+      {
+        "publication_number": "US20080134986A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-12",
+        "publication_date": "2008-06-12",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "Biodegradable material for injection molding and articles obtained therewith",
+        "patent_id": "patent/US20080134986A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080134986A1%2Fen"
+      },
+      {
+        "publication_number": "AU2005263081B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-09",
+        "publication_date": "2009-05-21",
+        "assignee_original": "Youl Chon Chemical Co., Ltd",
+        "title": "Biodegradable starch bowl and method for preparing the same",
+        "patent_id": "patent/AU2005263081B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2005263081B2%2Fen"
+      },
+      {
+        "publication_number": "US20090136005A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-23",
+        "publication_date": "2009-05-28",
+        "assignee_original": "Robert Standar",
+        "title": "Mammography apparatus compression tray, and mounting and manufacturing method therefor",
+        "patent_id": "patent/US20090136005A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090136005A1%2Fen"
+      },
+      {
+        "publication_number": "US20090192245A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-30",
+        "publication_date": "2009-07-30",
+        "assignee_original": "Satish Kumar Gaggar",
+        "title": "Flame retardant resinous compositions and process",
+        "patent_id": "patent/US20090192245A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090192245A1%2Fen"
+      },
+      {
+        "publication_number": "US20090192243A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-30",
+        "publication_date": "2009-07-30",
+        "assignee_original": "Satish Kumar Gaggar",
+        "title": "Flame retardant resinous compositions and process",
+        "patent_id": "patent/US20090192243A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090192243A1%2Fen"
+      },
+      {
+        "publication_number": "US20090274920A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-05",
+        "publication_date": "2009-11-05",
+        "assignee_original": "International Paper Company",
+        "title": "Thermoformed Article Made From Bio-Based Biodegradable Polymer Composition",
+        "patent_id": "patent/US20090274920A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090274920A1%2Fen"
+      },
+      {
+        "publication_number": "US20100168283A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Satish Gaggar",
+        "title": "Flame retardant resinous compositions and process",
+        "patent_id": "patent/US20100168283A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100168283A1%2Fen"
+      },
+      {
+        "publication_number": "US20100168284A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2010-07-01",
+        "assignee_original": "Satish Gaggar",
+        "title": "Flame retardant resinous compositions and process",
+        "patent_id": "patent/US20100168284A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100168284A1%2Fen"
+      },
+      {
+        "publication_number": "US20110135863A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-08",
+        "publication_date": "2011-06-09",
+        "assignee_original": "International Paper Company",
+        "title": "Thermoformed articles made from reactive extrusion products of biobased materials",
+        "patent_id": "patent/US20110135863A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110135863A1%2Fen"
+      },
+      {
+        "publication_number": "US20120150137A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-08",
+        "publication_date": "2012-06-14",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Elastic Film Containing a Renewable Starch Polymer",
+        "patent_id": "patent/US20120150137A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120150137A1%2Fen"
+      },
+      {
+        "publication_number": "US8875658B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-30",
+        "publication_date": "2014-11-04",
+        "assignee_original": "A.J. Boggs & Company",
+        "title": "Projectile pet food",
+        "patent_id": "patent/US8875658B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8875658B2%2Fen"
+      },
+      {
+        "publication_number": "US20190016528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-02-01",
+        "publication_date": "2019-01-17",
+        "assignee_original": "Norbert Kuhl",
+        "title": "Oxygen-tight food container",
+        "patent_id": "patent/US20190016528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190016528A1%2Fen"
+      },
+      {
+        "publication_number": "US10975213B2",
+        "primary_language": "en",
+        "priority_date": "2018-08-13",
+        "publication_date": "2021-04-13",
+        "assignee_original": "Erthos Inc.",
+        "title": "Composition and method of making biodegradable pellets",
+        "patent_id": "patent/US10975213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10975213B2%2Fen"
+      },
+      {
+        "publication_number": "CN113493591A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-19",
+        "publication_date": "2021-10-12",
+        "assignee_original": "\u4e2d\u56fd\u77f3\u6cb9\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Polyvinyl alcohol masterbatch and preparation method thereof",
+        "patent_id": "patent/CN113493591A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113493591A%2Fen"
+      },
+      {
+        "publication_number": "US12291636B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/US12291636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5362778A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-02-16",
+        "publication_date": "1994-11-08",
+        "assignee_original": "Air Products And Chemicals, Inc.",
+        "title": "Extrudable polyvinyl alcohol compositions containing modified starches",
+        "patent_id": "patent/US5362778A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5362778A%2Fen"
+      },
+      {
+        "publication_number": "DE4326118A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-08-04",
+        "publication_date": "1995-02-09",
+        "assignee_original": "Buna Gmbh",
+        "title": "Biodegradable, thermoplastically mouldable materials made from starch esters",
+        "patent_id": "patent/DE4326118A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4326118A1%2Fen"
+      },
+      {
+        "publication_number": "US5922379A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-05",
+        "publication_date": "1999-07-13",
+        "assignee_original": "Natural Polymer International Corporation",
+        "title": "Biodegradable protein/starch-based thermoplastic composition",
+        "patent_id": "patent/US5922379A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5922379A%2Fen"
+      },
+      {
+        "publication_number": "KR20030020565A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-01",
+        "publication_date": "2003-03-10",
+        "assignee_original": "\ub4dc\ub9bc\ub77c\uc774\ud504\ud14c\ud06c(\uc8fc)",
+        "title": "Biodegradable plastic composition, plastic container using the same, and the method for preparing thereof",
+        "patent_id": "patent/KR20030020565A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20030020565A%2Fen"
+      },
+      {
+        "publication_number": "KR100559377B1",
+        "primary_language": "en",
+        "priority_date": "2004-05-28",
+        "publication_date": "2006-03-10",
+        "assignee_original": "\uc728\ucd0c\ud654\ud559 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Biodegradable starch container composition and biodegradable starch container using same",
+        "patent_id": "patent/KR100559377B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100559377B1%2Fen"
+      },
+      {
+        "publication_number": "CN100381491C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-07-08",
+        "publication_date": "2008-04-16",
+        "assignee_original": "\u80e1\u9756\ufffd",
+        "title": "Foam forming method for completely biological degradable plastic tubleware and drinking ware",
+        "patent_id": "patent/CN100381491C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100381491C%2Fen"
+      },
+      {
+        "publication_number": "JP2006206801A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-31",
+        "publication_date": "2006-08-10",
+        "assignee_original": "Toyo Ink Mfg Co Ltd",
+        "title": "Colored resin composition for microorganism-disintegrating resin",
+        "patent_id": "patent/JP2006206801A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006206801A%2Fen"
+      },
+      {
+        "publication_number": "CN100497458C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-06",
+        "publication_date": "2009-06-10",
+        "assignee_original": "\u5317\u4eac\u91d1\u5b9d\u5e1d\u751f\u7269\u73af\u4fdd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Biologically degradable starch base high molecular composition, film made thereof, and its preparing method",
+        "patent_id": "patent/CN100497458C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100497458C%2Fen"
+      },
+      {
+        "publication_number": "US8697245B2",
+        "primary_language": "en",
+        "priority_date": "2006-08-04",
+        "publication_date": "2014-04-15",
+        "assignee_original": "Plantic Technologies Ltd.",
+        "title": "Mouldable biodegradable polymer",
+        "patent_id": "patent/US8697245B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8697245B2%2Fen"
+      },
+      {
+        "publication_number": "US7713614B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-19",
+        "publication_date": "2010-05-11",
+        "assignee_original": "Kuraray Co., Ltd.",
+        "title": "Resin composition and multilayer structure",
+        "patent_id": "patent/US7713614B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7713614B2%2Fen"
+      },
+      {
+        "publication_number": "CN102161797B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-31",
+        "publication_date": "2012-07-11",
+        "assignee_original": "\u5218\u7acb\u6587",
+        "title": "A modified linear low-density polyethylene composite material and its preparation method",
+        "patent_id": "patent/CN102161797B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102161797B%2Fen"
+      },
+      {
+        "publication_number": "CN102161796B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-01",
+        "publication_date": "2012-07-04",
+        "assignee_original": "\u5218\u7acb\u6587",
+        "title": "Modified high-density polyethylene composite material and preparation method thereof",
+        "patent_id": "patent/CN102161796B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102161796B%2Fen"
+      },
+      {
+        "publication_number": "CN103627037B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-07",
+        "publication_date": "2016-03-02",
+        "assignee_original": "\u9752\u5c9b\u6587\u521b\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of sea grass polyphenol-inulin based coextruded film and preparation method thereof",
+        "patent_id": "patent/CN103627037B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103627037B%2Fen"
+      },
+      {
+        "publication_number": "CN103627036B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-07",
+        "publication_date": "2016-06-01",
+        "assignee_original": "\u9752\u5c9b\u6587\u521b\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of sea grass polyphenol-inulin base degradable laminated film and its preparation method",
+        "patent_id": "patent/CN103627036B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103627036B%2Fen"
+      },
+      {
+        "publication_number": "FI20205613A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-12",
+        "publication_date": "2021-12-13",
+        "assignee_original": "Upm Kymmene Corp",
+        "title": "A wood-derived lignin composition",
+        "patent_id": "patent/FI20205613A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI20205613A1%2Fen"
+      },
+      {
+        "publication_number": "WO2023276402A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-29",
+        "publication_date": "2023-01-05",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30af\u30e9\u30ec",
+        "title": "Starch composition and molded body",
+        "patent_id": "patent/WO2023276402A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023276402A1%2Fen"
+      },
+      {
+        "publication_number": "JP2023070490A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-09",
+        "publication_date": "2023-05-19",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30ec\u30be\u30ca\u30c3\u30af",
+        "title": "thermosetting composition",
+        "patent_id": "patent/JP2023070490A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023070490A%2Fen"
+      },
+      {
+        "publication_number": "WO2025216307A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-04-12",
+        "publication_date": "2025-10-16",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30af\u30e9\u30ec",
+        "title": "Method for producing foam",
+        "patent_id": "patent/WO2025216307A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025216307A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US5393804A",
+      "primary_language": "en",
+      "publication_date": "1995-02-28",
+      "title": "Biodegradable compositions comprising starch and alkenol polymers",
+      "patent_id": "patent/US5393804A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5393804A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU656586B2",
+      "primary_language": "en",
+      "publication_date": "1995-02-09",
+      "title": "Biodegradable compositions comprising starch derivatives",
+      "patent_id": "patent/AU656586B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU656586B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2020405C",
+      "primary_language": "en",
+      "publication_date": "2003-03-11",
+      "title": "Polymer base blend compositions containing destructurized starch",
+      "patent_id": "patent/CA2020405C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2020405C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0409788B1",
+      "primary_language": "en",
+      "publication_date": "1994-06-15",
+      "title": "Polymer base blend compositions containing destructurized starch",
+      "patent_id": "patent/EP0409788B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0409788B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU630047B2",
+      "primary_language": "en",
+      "publication_date": "1992-10-15",
+      "title": "Polymer base blend compositions containing destructurized starch",
+      "patent_id": "patent/AU630047B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU630047B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU631089B2",
+      "primary_language": "en",
+      "publication_date": "1992-11-12",
+      "title": "Polymer base blend compositions containing destructurized starch",
+      "patent_id": "patent/AU631089B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU631089B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "IE902531A1",
+      "primary_language": "en",
+      "publication_date": "1991-02-13",
+      "title": "Polymer base blend compositions containing destructurized starch",
+      "patent_id": "patent/IE902531A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIE902531A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0374446A",
+      "primary_language": "en",
+      "publication_date": "1991-03-29",
+      "title": "Polymer-base blend composition containing modified starch",
+      "patent_id": "patent/JPH0374446A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0374446A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HU214678B",
+      "primary_language": "en",
+      "publication_date": "1998-04-28",
+      "title": "Biodegradable foamed plastic",
+      "patent_id": "patent/HU214678B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHU214678B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "IE902379A1",
+      "primary_language": "en",
+      "publication_date": "1991-06-19",
+      "title": "Polymer base blend compositions containing destructurized\u00b9starch",
+      "patent_id": "patent/IE902379A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIE902379A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0409783B1",
+      "primary_language": "en",
+      "publication_date": "1994-06-15",
+      "title": "Polymer base blend compositions containing destructurized starch",
+      "patent_id": "patent/EP0409783B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0409783B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "IE902174A1",
+      "primary_language": "en",
+      "publication_date": "1991-01-02",
+      "title": "Polymer base blend compositions containing destructurized\u00b9starch",
+      "patent_id": "patent/IE902174A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIE902174A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3344752B2",
+      "primary_language": "en",
+      "publication_date": "2002-11-18",
+      "title": "Method for producing biodegradable resin foam",
+      "patent_id": "patent/JP3344752B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3344752B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3344758B2",
+      "primary_language": "en",
+      "publication_date": "2002-11-18",
+      "title": "Method for producing biodegradable resin foam",
+      "patent_id": "patent/JP3344758B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3344758B2%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "1993-06-01",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "PARKE-DAVIS COMPANY, NEW JERSEY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ALTIERI, PAUL A.;PAUL, CHARLES W.;REEL/FRAME:006603/0293"
+        },
+        {
+          "label": "Effective date",
+          "value": "19930512"
+        }
+      ]
+    },
+    {
+      "date": "1994-02-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "APPLICATION UNDERGOING PREEXAM PROCESSING"
+        }
+      ]
+    },
+    {
+      "date": "1995-08-22",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "1997-06-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "NOVON INTERNATIONAL, INC., NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "RELEASE BY SECURED PARTY;ASSIGNOR:MARWAN, ASHRAF, DR.;REEL/FRAME:008535/0674"
+        },
+        {
+          "label": "Effective date",
+          "value": "19970329"
+        }
+      ]
+    },
+    {
+      "date": "1998-07-30",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2002-07-26",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2006-07-26",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 227
+      },
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 179
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 179
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 164
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "239000004014",
+        "name": "plasticizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 37
+      },
+      {
+        "id": "229920001577",
+        "name": "copolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000000155",
+        "name": "melt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "229920001519",
+        "name": "homopolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "229920002451",
+        "name": "polyvinyl alcohol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 57
+      },
+      {
+        "id": "239000004372",
+        "name": "Polyvinyl alcohol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 48
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "-1",
+        "name": "alkaline earth metal salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "229920000856",
+        "name": "Amylose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "UXVMQQNJUSDDNG-UHFFFAOYSA-L",
+        "name": "Calcium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-].[Cl-].[Ca+2]",
+        "inchi_key": "UXVMQQNJUSDDNG-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "239000001110",
+        "name": "calcium chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "229910001628",
+        "name": "calcium chloride",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000003063",
+        "name": "flame retardant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000007062",
+        "name": "hydrolysis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000006460",
+        "name": "hydrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "229920002261",
+        "name": "Corn starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000008120",
+        "name": "corn starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+        "name": "Ethene",
+        "domain": "Chemical compound",
+        "smiles": "C=C",
+        "inchi_key": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000005977",
+        "name": "Ethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "name": "Sodium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Cl-]",
+        "inchi_key": "FAPWRFPIFSIZLT-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000000314",
+        "name": "lubricant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000002667",
+        "name": "nucleating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000003086",
+        "name": "colorant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "IMROMDMJAWUWLK-UHFFFAOYSA-N",
+        "name": "Ethenol",
+        "domain": "Chemical group",
+        "smiles": "OC=C",
+        "inchi_key": "IMROMDMJAWUWLK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "Silicium dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Si]=O",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "name": "Titan oxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Ti]=O",
+        "inchi_key": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052784",
+        "name": "alkaline earth metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "QVQLCTNNEUAWMS-UHFFFAOYSA-N",
+        "name": "barium oxide",
+        "domain": "Chemical compound",
+        "smiles": "[Ba]=O",
+        "inchi_key": "QVQLCTNNEUAWMS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000945",
+        "name": "filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "HCWCAKKEBCNQJP-UHFFFAOYSA-N",
+        "name": "magnesium orthosilicate",
+        "domain": "Chemical compound",
+        "smiles": "[Mg+2].[Mg+2].[O-][Si]([O-])([O-])[O-]",
+        "inchi_key": "HCWCAKKEBCNQJP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000391",
+        "name": "magnesium silicate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229910052919",
+        "name": "magnesium silicate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000019792",
+        "name": "magnesium silicate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XTXRWKRVRITETP-UHFFFAOYSA-N",
+        "name": "Vinyl acetate",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)OC=C",
+        "inchi_key": "XTXRWKRVRITETP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000003381",
+        "name": "stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "IIZPXYDJLKNOIY-JXPKJXOSSA-N",
+        "name": "1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCCCCCCCCC(=O)OC[C@H](COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCC\\C=C/C\\C=C/C\\C=C/C\\C=C/CCCCC",
+        "inchi_key": "IIZPXYDJLKNOIY-JXPKJXOSSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "RNFJDJUURJAICM-UHFFFAOYSA-N",
+        "name": "2,2,4,4,6,6-hexaphenoxy-1,3,5-triaza-2$l^{5},4$l^{5},6$l^{5}-triphosphacyclohexa-1,3,5-triene",
+        "domain": "Chemical compound",
+        "smiles": "N=1P(OC=2C=CC=CC=2)(OC=2C=CC=CC=2)=NP(OC=2C=CC=CC=2)(OC=2C=CC=CC=2)=NP=1(OC=1C=CC=CC=1)OC1=CC=CC=C1",
+        "inchi_key": "RNFJDJUURJAICM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "ZOXJGFHDIHLPTG-UHFFFAOYSA-N",
+        "name": "Boron",
+        "domain": "Chemical compound",
+        "smiles": "[B]",
+        "inchi_key": "ZOXJGFHDIHLPTG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000004606",
+        "name": "Fillers/Extenders",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "125000001931",
+        "name": "aliphatic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003513",
+        "name": "alkali",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "name": "barium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[Ba+2].[O-]S([O-])(=O)=O",
+        "inchi_key": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910052796",
+        "name": "boron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000787",
+        "name": "lecithin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000010445",
+        "name": "lecithin",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229940067606",
+        "name": "lecithin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "IOLCXVTUBQKXJR-UHFFFAOYSA-M",
+        "name": "potassium bromide",
+        "domain": "Chemical compound",
+        "smiles": "[K+].[Br-]",
+        "inchi_key": "IOLCXVTUBQKXJR-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011780",
+        "name": "sodium chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000013311",
+        "name": "vegetables",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000004114",
+        "name": "Ammonium polyphosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "PIICEJLVQHRZGT-UHFFFAOYSA-N",
+        "name": "Ethylenediamine",
+        "domain": "Chemical compound",
+        "smiles": "NCCN",
+        "inchi_key": "PIICEJLVQHRZGT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000388",
+        "name": "Polyphosphate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "244000061456",
+        "name": "Solanum tuberosum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000002595",
+        "name": "Solanum tuberosum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000021355",
+        "name": "Stearic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "240000008042",
+        "name": "Zea mays",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000005824",
+        "name": "Zea mays ssp. parviglumis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000002017",
+        "name": "Zea mays subsp mays",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "name": "aluminium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[O-2].[O-2].[O-2].[Al+3].[Al+3]",
+        "inchi_key": "PNEYBMLMFCGWSK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019826",
+        "name": "ammonium polyphosphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920001276",
+        "name": "ammonium polyphosphate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007334",
+        "name": "copolymerization reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000005822",
+        "name": "corn",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000002148",
+        "name": "esters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "BHEPBYXIRTUNPN-UHFFFAOYSA-N",
+        "name": "hydridophosphorus(.) (triplet)",
+        "domain": "Chemical compound",
+        "smiles": "[PH]",
+        "inchi_key": "BHEPBYXIRTUNPN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000395",
+        "name": "magnesium oxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+        "name": "magnesium oxide",
+        "domain": "Inorganic materials",
+        "smiles": "[Mg]=O",
+        "inchi_key": "CPLXHLVBOLITMK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "AXZKOIWUVFPNLO-UHFFFAOYSA-N",
+        "name": "magnesium;oxygen(2-)",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[Mg+2]",
+        "inchi_key": "AXZKOIWUVFPNLO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+        "name": "octadecanoic acid",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCCCCCCCCCCC(O)=O",
+        "inchi_key": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "OQCDKBAXFALNLD-UHFFFAOYSA-N",
+        "name": "octadecanoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCC(C)CCCCCCCCC(O)=O",
+        "inchi_key": "OQCDKBAXFALNLD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000001205",
+        "name": "polyphosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000011176",
+        "name": "polyphosphates",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+        "name": "propylene",
+        "domain": "Natural products",
+        "smiles": "CC=C",
+        "inchi_key": "QQONPFPTGQHPMA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "125000004805",
+        "name": "propylene group",
+        "domain": "Chemical group",
+        "smiles": "[H]C([H])([H])C([H])([*:1])C([H])([H])[*:2]",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000377",
+        "name": "silicon dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000008117",
+        "name": "stearic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000007319",
+        "name": "Avena orientalis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "244000075850",
+        "name": "Avena orientalis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000219",
+        "name": "Ethylene vinyl alcohol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000003183",
+        "name": "Manihot esculenta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000016735",
+        "name": "Manihot esculenta subsp esculenta",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000007594",
+        "name": "Oryza sativa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000007164",
+        "name": "Oryza sativa",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000004713",
+        "name": "Pisum sativum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010582",
+        "name": "Pisum sativum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000209056",
+        "name": "Secale",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000007238",
+        "name": "Secale cereale",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000021307",
+        "name": "Triticum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000209140",
+        "name": "Triticum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XWROSHJVVFETLV-UHFFFAOYSA-N",
+        "name": "[B+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O",
+        "domain": "Chemical compound",
+        "smiles": "[B+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O",
+        "inchi_key": "XWROSHJVVFETLV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005903",
+        "name": "acid hydrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "125000002947",
+        "name": "alkylene group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CJFCGSLFEZPBNJ-UHFFFAOYSA-N",
+        "name": "carbamimidoylazanium;phosphate",
+        "domain": "Chemical compound",
+        "smiles": "NC([NH3+])=N.NC([NH3+])=N.NC([NH3+])=N.[O-]P([O-])([O-])=O",
+        "inchi_key": "CJFCGSLFEZPBNJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BUACSMWVFUNQET-UHFFFAOYSA-H",
+        "name": "dialuminum;trisulfate;hydrate",
+        "domain": "Chemical compound",
+        "smiles": "O.[Al+3].[Al+3].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O",
+        "inchi_key": "BUACSMWVFUNQET-UHFFFAOYSA-H",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GVALZJMUIHGIMD-UHFFFAOYSA-H",
+        "name": "magnesium phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[Mg+2].[Mg+2].[Mg+2].[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O",
+        "inchi_key": "GVALZJMUIHGIMD-UHFFFAOYSA-H",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004137",
+        "name": "magnesium phosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000157",
+        "name": "magnesium phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960002261",
+        "name": "magnesium phosphate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010994",
+        "name": "magnesium phosphates",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000012015",
+        "name": "potatoes",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000009566",
+        "name": "rice",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000454",
+        "name": "talc",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000012222",
+        "name": "talc",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052623",
+        "name": "talc",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "ABLZXFCXXLZCGV-UHFFFAOYSA-N",
+        "name": "Phosphorous acid",
+        "domain": "Chemical compound",
+        "smiles": "OP(O)=O",
+        "inchi_key": "ABLZXFCXXLZCGV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VONWDASPFIQPDY-UHFFFAOYSA-N",
+        "name": "dimethyl methylphosphonate",
+        "domain": "Chemical compound",
+        "smiles": "COP(C)(=O)OC",
+        "inchi_key": "VONWDASPFIQPDY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CCJKFLLIJCGHMO-UHFFFAOYSA-N",
+        "name": "2-[diethoxyphosphorylmethyl(2-hydroxyethyl)amino]ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCOP(=O)(OCC)CN(CCO)CCO",
+        "inchi_key": "CCJKFLLIJCGHMO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OLTMTZWPLUTCDV-UHFFFAOYSA-N",
+        "name": "3-[butan-2-yl(3-hydroxypropyl)phosphoryl]propan-1-ol",
+        "domain": "Chemical compound",
+        "smiles": "OCCCP(=O)(C(C)CC)CCCO",
+        "inchi_key": "OLTMTZWPLUTCDV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IAYPIBMASNFSPL-UHFFFAOYSA-N",
+        "name": "Ethylene oxide",
+        "domain": "Chemical compound",
+        "smiles": "C1CO1",
+        "inchi_key": "IAYPIBMASNFSPL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CGSLYBDCEGBZCG-UHFFFAOYSA-N",
+        "name": "Octicizer",
+        "domain": "Chemical compound",
+        "smiles": "C=1C=CC=CC=1OP(=O)(OCC(CC)CCCC)OC1=CC=CC=C1",
+        "inchi_key": "CGSLYBDCEGBZCG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910019142",
+        "name": "PO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "YSMRWXYRXBRSND-UHFFFAOYSA-N",
+        "name": "TOTP",
+        "domain": "Chemical compound",
+        "smiles": "CC1=CC=CC=C1OP(=O)(OC=1C(=CC=CC=1)C)OC1=CC=CC=C1C",
+        "inchi_key": "YSMRWXYRXBRSND-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WBJBEMDHFMUSAY-UHFFFAOYSA-N",
+        "name": "dibutyl phosphono phosphate",
+        "domain": "Chemical compound",
+        "smiles": "CCCCOP(=O)(OP(O)(O)=O)OCCCC",
+        "inchi_key": "WBJBEMDHFMUSAY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004715",
+        "name": "ethylene vinyl alcohol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RZXDTJIXPSCHCI-UHFFFAOYSA-N",
+        "name": "hexa-1,5-diene-2,5-diol",
+        "domain": "Chemical compound",
+        "smiles": "OC(=C)CCC(O)=C",
+        "inchi_key": "RZXDTJIXPSCHCI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002496",
+        "name": "methyl group",
+        "domain": "Chemical group",
+        "smiles": "[H]C([H])([H])*",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006082",
+        "name": "mold release agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+        "name": "phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]P([O-])([O-])=O",
+        "inchi_key": "NBIIXXVUZAFLBC-UHFFFAOYSA-K",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010452",
+        "name": "phosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UEZVMMHDMIWARA-UHFFFAOYSA-M",
+        "name": "phosphonate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]P(=O)=O",
+        "inchi_key": "UEZVMMHDMIWARA-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XFZRQAZGUOTJCS-UHFFFAOYSA-N",
+        "name": "phosphoric acid;1,3,5-triazine-2,4,6-triamine",
+        "domain": "Chemical compound",
+        "smiles": "OP(O)(O)=O.NC1=NC(N)=NC(N)=N1",
+        "inchi_key": "XFZRQAZGUOTJCS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QVJYHZQHDMNONA-UHFFFAOYSA-N",
+        "name": "phosphoric acid;1,3,5-triazine-2,4,6-triamine",
+        "domain": "Chemical compound",
+        "smiles": "OP(O)(O)=O.NC1=NC(N)=NC(N)=N1.NC1=NC(N)=NC(N)=N1",
+        "inchi_key": "QVJYHZQHDMNONA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+        "name": "tributyl phosphate",
+        "domain": "Chemical compound",
+        "smiles": "CCCCOP(=O)(OCCCC)OCCCC",
+        "inchi_key": "STCOOQWBFONSKY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XZZNDPSIHUTMOC-UHFFFAOYSA-N",
+        "name": "triphenyl phosphate",
+        "domain": "Chemical compound",
+        "smiles": "C=1C=CC=CC=1OP(OC=1C=CC=CC=1)(=O)OC1=CC=CC=C1",
+        "inchi_key": "XZZNDPSIHUTMOC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WTLBZVNBAKMVDP-UHFFFAOYSA-N",
+        "name": "tris(2-butoxyethyl) phosphate",
+        "domain": "Chemical compound",
+        "smiles": "CCCCOCCOP(=O)(OCCOCCCC)OCCOCCCC",
+        "inchi_key": "WTLBZVNBAKMVDP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "235000019422",
+        "name": "polyvinyl alcohol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "name": "Glycerine",
+        "domain": "Chemical compound",
+        "smiles": "OCC(O)CO",
+        "inchi_key": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000001746",
+        "name": "injection moulding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229960002713",
+        "name": "calcium chloride",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000001125",
+        "name": "extrusion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000000704",
+        "name": "physical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000003750",
+        "name": "conditioning effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229920001169",
+        "name": "thermoplastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000004416",
+        "name": "thermosoftening plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229920001685",
+        "name": "Amylomaize",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "name": "Phosphoric acid",
+        "domain": "Chemical compound",
+        "smiles": "OP(O)(O)=O",
+        "inchi_key": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "VMHLLURERBWHNL-UHFFFAOYSA-M",
+        "name": "Sodium acetate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].CC([O-])=O",
+        "inchi_key": "VMHLLURERBWHNL-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229910021538",
+        "name": "borax",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000006260",
+        "name": "foam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000011187",
+        "name": "glycerol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000001632",
+        "name": "sodium acetate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000017281",
+        "name": "sodium acetate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004328",
+        "name": "sodium tetraborate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000010339",
+        "name": "sodium tetraborate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "150000001408",
+        "name": "amides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000009835",
+        "name": "boiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003925",
+        "name": "fat",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000019197",
+        "name": "fats",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000005846",
+        "name": "sugar alcohols",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000004230",
+        "name": "Fast Yellow AB",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "DNIAPMSPPWPWGF-UHFFFAOYSA-N",
+        "name": "Propylene glycol",
+        "domain": "Chemical compound",
+        "smiles": "CC(O)CO",
+        "inchi_key": "DNIAPMSPPWPWGF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910000147",
+        "name": "aluminium phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920002678",
+        "name": "cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000000354",
+        "name": "decomposition reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000012153",
+        "name": "distilled water",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005187",
+        "name": "foaming",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002844",
+        "name": "melting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000008018",
+        "name": "melting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000000465",
+        "name": "moulding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000003856",
+        "name": "thermoforming",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "KMZHZAAOEWVPSE-UHFFFAOYSA-N",
+        "name": "2,3-dihydroxypropyl acetate",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)OCC(O)CO",
+        "inchi_key": "KMZHZAAOEWVPSE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "102000004190",
+        "name": "Enzymes",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "108090000790",
+        "name": "Enzymes",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "108010010803",
+        "name": "Gelatin",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "name": "Hydrochloric acid",
+        "domain": "Chemical compound",
+        "smiles": "Cl",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "name": "Iron",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]",
+        "inchi_key": "XEEYBQQBJWHFJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "UQSXHKLRYXJYBZ-UHFFFAOYSA-N",
+        "name": "Iron oxide",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]=O",
+        "inchi_key": "UQSXHKLRYXJYBZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "FYYHWMGAXLPEAU-UHFFFAOYSA-N",
+        "name": "Magnesium",
+        "domain": "Chemical compound",
+        "smiles": "[Mg]",
+        "inchi_key": "FYYHWMGAXLPEAU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "PPBRXRYQALVLMV-UHFFFAOYSA-N",
+        "name": "Styrene",
+        "domain": "Chemical compound",
+        "smiles": "C=CC1=CC=CC=C1",
+        "inchi_key": "PPBRXRYQALVLMV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "name": "Titanium",
+        "domain": "Chemical compound",
+        "smiles": "[Ti]",
+        "inchi_key": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "ZFOZVQLOBQUTQQ-UHFFFAOYSA-N",
+        "name": "Tributyl citrate",
+        "domain": "Chemical compound",
+        "smiles": "CCCCOC(=O)CC(O)(C(=O)OCCCC)CC(=O)OCCCC",
+        "inchi_key": "ZFOZVQLOBQUTQQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920013820",
+        "name": "alkyl cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000071",
+        "name": "blow moulding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "name": "boric acid",
+        "domain": "Chemical compound",
+        "smiles": "OB(O)O",
+        "inchi_key": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004327",
+        "name": "boric acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001913",
+        "name": "cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000748",
+        "name": "compression moulding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000006185",
+        "name": "dispersion",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "UKMSUNONTOPOIO-UHFFFAOYSA-N",
+        "name": "docosanoic acid",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCCCCCCCCCCCCCCC(O)=O",
+        "inchi_key": "UKMSUNONTOPOIO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000159",
+        "name": "gelatin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000019322",
+        "name": "gelatine",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000011852",
+        "name": "gelatine desserts",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009477",
+        "name": "glass transition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008187",
+        "name": "granular material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920013821",
+        "name": "hydroxy alkyl cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001866",
+        "name": "hydroxypropyl methyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920003088",
+        "name": "hydroxypropyl methyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010979",
+        "name": "hydroxypropyl methyl cellulose",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "UFVKGYZPFZQRLF-UHFFFAOYSA-N",
+        "name": "hydroxypropyl methyl cellulose",
+        "domain": "Chemical class",
+        "smiles": "OC1C(O)C(OC)OC(CO)C1OC1C(O)C(O)C(OC2C(C(O)C(OC3C(C(O)C(O)C(CO)O3)O)C(CO)O2)O)C(CO)O1",
+        "inchi_key": "UFVKGYZPFZQRLF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001023",
+        "name": "inorganic pigment",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "name": "lithium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Cl-]",
+        "inchi_key": "KWGKDLIKAYFUFQ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052749",
+        "name": "magnesium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011777",
+        "name": "magnesium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003921",
+        "name": "oil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005022",
+        "name": "packaging material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008188",
+        "name": "pellet",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000573",
+        "name": "polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010998",
+        "name": "test method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052719",
+        "name": "titanium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010936",
+        "name": "titanium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000021122",
+        "name": "unsaturated fatty acids",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000007666",
+        "name": "vacuum forming",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000019871",
+        "name": "vegetable fat",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920001567",
+        "name": "vinyl ester resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002023",
+        "name": "wood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RPZANUYHRMRTTE-UHFFFAOYSA-N",
+        "name": "2,3,4-trimethoxy-6-(methoxymethyl)-5-[3,4,5-trimethoxy-6-(methoxymethyl)oxan-2-yl]oxyoxane;1-[[3,4,5-tris(2-hydroxybutoxy)-6-[4,5,6-tris(2-hydroxybutoxy)-2-(2-hydroxybutoxymethyl)oxan-3-yl]oxyoxan-2-yl]methoxy]butan-2-ol",
+        "domain": "Chemical class",
+        "smiles": "COC1C(OC)C(OC)C(COC)OC1OC1C(OC)C(OC)C(OC)OC1COC.CCC(O)COC1C(OCC(O)CC)C(OCC(O)CC)C(COCC(O)CC)OC1OC1C(OCC(O)CC)C(OCC(O)CC)C(OCC(O)CC)OC1COCC(O)CC",
+        "inchi_key": "RPZANUYHRMRTTE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XBIUWALDKXACEA-UHFFFAOYSA-N",
+        "name": "3-[bis(2,4-dioxopentan-3-yl)alumanyl]pentane-2,4-dione",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)C(C(C)=O)[Al](C(C(C)=O)C(C)=O)C(C(C)=O)C(C)=O",
+        "inchi_key": "XBIUWALDKXACEA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QTBSBXVTEAMEQO-UHFFFAOYSA-M",
+        "name": "Acetate",
+        "domain": "Chemical compound",
+        "smiles": "CC([O-])=O",
+        "inchi_key": "QTBSBXVTEAMEQO-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NIXOWILDQLNWCW-UHFFFAOYSA-N",
+        "name": "Acrylic acid",
+        "domain": "Chemical class",
+        "smiles": "OC(=O)C=C",
+        "inchi_key": "NIXOWILDQLNWCW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QGZKDVFQNNGYKY-UHFFFAOYSA-O",
+        "name": "Ammonium",
+        "domain": "Chemical compound",
+        "smiles": "[NH4+]",
+        "inchi_key": "QGZKDVFQNNGYKY-UHFFFAOYSA-O",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000945",
+        "name": "Amylopectin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021357",
+        "name": "Behenic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DPUOLQHDNGRHBS-UHFFFAOYSA-N",
+        "name": "Brassidinsaeure",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCC=CCCCCCCCCCCCC(O)=O",
+        "inchi_key": "DPUOLQHDNGRHBS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OYPRJOBELJOOCE-UHFFFAOYSA-N",
+        "name": "Calcium",
+        "domain": "Chemical compound",
+        "smiles": "[Ca]",
+        "inchi_key": "OYPRJOBELJOOCE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002134",
+        "name": "Carboxymethyl cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003043",
+        "name": "Cellulose fiber",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FBPFZTCFMRRESA-FSIIMWSLSA-N",
+        "name": "D-Glucitol",
+        "domain": "Natural products",
+        "smiles": "OC[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO",
+        "inchi_key": "FBPFZTCFMRRESA-FSIIMWSLSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ORAWFNKFUWGRJG-UHFFFAOYSA-N",
+        "name": "Docosanamide",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCCCCCCCCCCCCCCC(N)=O",
+        "inchi_key": "ORAWFNKFUWGRJG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UAUDZVJPLUQNMU-UHFFFAOYSA-N",
+        "name": "Erucasaeureamid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCC=CCCCCCCCCCCCC(N)=O",
+        "inchi_key": "UAUDZVJPLUQNMU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "URXZXNYJPAJJOQ-UHFFFAOYSA-N",
+        "name": "Erucic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCC=CCCCCCCCCCCCC(O)=O",
+        "inchi_key": "URXZXNYJPAJJOQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940123457",
+        "name": "Free radical scavenger",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UXDDRFCJKNROTO-UHFFFAOYSA-N",
+        "name": "Glycerol 1,2-diacetate",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)OCC(CO)OC(C)=O",
+        "inchi_key": "UXDDRFCJKNROTO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MHAJPDPJQMAIIY-UHFFFAOYSA-N",
+        "name": "Hydrogen peroxide",
+        "domain": "Chemical compound",
+        "smiles": "OO",
+        "inchi_key": "MHAJPDPJQMAIIY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000663",
+        "name": "Hydroxyethyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004354",
+        "name": "Hydroxyethyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001479",
+        "name": "Hydroxyethyl methyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002153",
+        "name": "Hydroxypropyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019759",
+        "name": "Maize starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CERQOIWHTDAKMF-UHFFFAOYSA-N",
+        "name": "Methacrylic acid",
+        "domain": "Chemical class",
+        "smiles": "CC(=C)C(O)=O",
+        "inchi_key": "CERQOIWHTDAKMF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006057",
+        "name": "Non-nutritive feed additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OTRAYOBSWCVTIN-UHFFFAOYSA-N",
+        "name": "OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.N.N.N.N.N.N.N.N.N.N.N.N.N.N.N",
+        "domain": "Chemical compound",
+        "smiles": "OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.N.N.N.N.N.N.N.N.N.N.N.N.N.N.N",
+        "inchi_key": "OTRAYOBSWCVTIN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002845",
+        "name": "Poly(methacrylic acid)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XUIMIQQOPSSXEZ-UHFFFAOYSA-N",
+        "name": "Silicon",
+        "domain": "Chemical compound",
+        "smiles": "[Si]",
+        "inchi_key": "XUIMIQQOPSSXEZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002125",
+        "name": "Sokalan\u00ae",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+        "name": "Sulfur",
+        "domain": "Chemical compound",
+        "smiles": "[S]",
+        "inchi_key": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005864",
+        "name": "Sulphur",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ATJFFYVFTNAWJD-UHFFFAOYSA-N",
+        "name": "Tin",
+        "domain": "Chemical compound",
+        "smiles": "[Sn]",
+        "inchi_key": "ATJFFYVFTNAWJD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DOOTYTYQINUNNV-UHFFFAOYSA-N",
+        "name": "Triethyl citrate",
+        "domain": "Chemical compound",
+        "smiles": "CCOC(=O)CC(O)(C(=O)OCC)CC(=O)OCC",
+        "inchi_key": "DOOTYTYQINUNNV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052770",
+        "name": "Uranium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XSQUKJJJFZCRTK-UHFFFAOYSA-N",
+        "name": "Urea",
+        "domain": "Chemical compound",
+        "smiles": "NC(N)=O",
+        "inchi_key": "XSQUKJJJFZCRTK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OCAOOMQYJBFQCO-UHFFFAOYSA-J",
+        "name": "[Na+].[Al+3].OOC([O-])=O.OOC([O-])=O.OOC([O-])=O.OOC([O-])=O",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Al+3].OOC([O-])=O.OOC([O-])=O.OOC([O-])=O.OOC([O-])=O",
+        "inchi_key": "OCAOOMQYJBFQCO-UHFFFAOYSA-J",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006096",
+        "name": "absorbing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HDYRYUINDGQKMC-UHFFFAOYSA-M",
+        "name": "acetyloxyaluminum;dihydrate",
+        "domain": "Chemical compound",
+        "smiles": "O.O.CC(=O)O[Al]",
+        "inchi_key": "HDYRYUINDGQKMC-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000007513",
+        "name": "acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001252",
+        "name": "acrylic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006136",
+        "name": "alcoholysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052783",
+        "name": "alkali metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001342",
+        "name": "alkaline earth metals",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RREGISFBPQOLTM-UHFFFAOYSA-N",
+        "name": "alumane;trihydrate",
+        "domain": "Chemical compound",
+        "smiles": "O.O.O.[AlH3]",
+        "inchi_key": "RREGISFBPQOLTM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940009827",
+        "name": "aluminum acetate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000003277",
+        "name": "amino group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BFNBIHQBYMNNAN-UHFFFAOYSA-N",
+        "name": "ammonium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "N.N.OS(O)(=O)=O",
+        "inchi_key": "BFNBIHQBYMNNAN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052921",
+        "name": "ammonium sulfate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001166",
+        "name": "ammonium sulphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011130",
+        "name": "ammonium sulphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940040526",
+        "name": "anhydrous sodium acetate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004599",
+        "name": "antimicrobial",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000410",
+        "name": "antimony oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003963",
+        "name": "antioxidant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000006708",
+        "name": "antioxidants",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000987",
+        "name": "azo dye",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940116226",
+        "name": "behenic acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002988",
+        "name": "biodegradable polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004621",
+        "name": "biodegradable polymer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006227",
+        "name": "byproduct",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229960005069",
+        "name": "calcium",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052791",
+        "name": "calcium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011575",
+        "name": "calcium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LLSDKQJKOVVTOJ-UHFFFAOYSA-L",
+        "name": "calcium chloride dihydrate",
+        "domain": "Chemical compound",
+        "smiles": "O.O.[Cl-].[Cl-].[Ca+2]",
+        "inchi_key": "LLSDKQJKOVVTOJ-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940052299",
+        "name": "calcium chloride dihydrate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004202",
+        "name": "carbamide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001768",
+        "name": "carboxy methyl cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010948",
+        "name": "carboxy methyl cellulose",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008112",
+        "name": "carboxymethyl-cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003054",
+        "name": "catalyst",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003153",
+        "name": "chemical reaction reagent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005520",
+        "name": "cutting process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006731",
+        "name": "degradation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000113",
+        "name": "differential scanning calorimetry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021186",
+        "name": "dishes",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BNIILDVGGAEEIG-UHFFFAOYSA-L",
+        "name": "disodium hydrogen phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].OP([O-])([O-])=O",
+        "inchi_key": "BNIILDVGGAEEIG-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UXELAVSYWBWGQM-UHFFFAOYSA-L",
+        "name": "disodium;2,2-diethyl-3-sulfobutanedioate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].CCC(CC)(C([O-])=O)C(C([O-])=O)S(O)(=O)=O",
+        "inchi_key": "UXELAVSYWBWGQM-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UQGFMSUEHSUPRD-UHFFFAOYSA-N",
+        "name": "disodium;3,7-dioxido-2,4,6,8,9-pentaoxa-1,3,5,7-tetraborabicyclo[3.3.1]nonane",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].O1B([O-])OB2OB([O-])OB1O2",
+        "inchi_key": "UQGFMSUEHSUPRD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KFEVDPWXEVUUMW-UHFFFAOYSA-N",
+        "name": "docosanoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCCCCCCCCCCCCCCC(=O)OCCC1=CC=C(O)C=C1",
+        "inchi_key": "KFEVDPWXEVUUMW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UAUDZVJPLUQNMU-KTKRTIGZSA-N",
+        "name": "erucamide",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCC\\C=C/CCCCCCCCCCCC(N)=O",
+        "inchi_key": "UAUDZVJPLUQNMU-KTKRTIGZSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DPUOLQHDNGRHBS-KTKRTIGZSA-N",
+        "name": "erucic acid",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCC\\C=C/CCCCCCCCCCCC(O)=O",
+        "inchi_key": "DPUOLQHDNGRHBS-KTKRTIGZSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000004185",
+        "name": "ester group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001747",
+        "name": "exhibiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000194",
+        "name": "fatty acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013312",
+        "name": "flour",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008273",
+        "name": "gelatin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004676",
+        "name": "glycans",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052736",
+        "name": "halogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002367",
+        "name": "halogens",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "PKNLWLCURZNADF-UHFFFAOYSA-N",
+        "name": "hex-5-enoyl chloride",
+        "domain": "Chemical compound",
+        "smiles": "ClC(=O)CCCC=C",
+        "inchi_key": "PKNLWLCURZNADF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019447",
+        "name": "hydroxyethyl cellulose",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003063",
+        "name": "hydroxymethyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940031574",
+        "name": "hydroxymethyl cellulose",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001863",
+        "name": "hydroxypropyl cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010977",
+        "name": "hydroxypropyl cellulose",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003132",
+        "name": "hydroxypropyl methylcellulose phthalate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052742",
+        "name": "iron",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "DHQKZHREWWXKQF-UHFFFAOYSA-I",
+        "name": "magnesium dicarbonoperoxoyloxyalumanyl hydroxy carbonate hydroxy carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Mg++].[Al+3].OOC([O-])=O.OOC([O-])=O.OOC([O-])=O.OOC([O-])=O.OOC([O-])=O",
+        "inchi_key": "DHQKZHREWWXKQF-UHFFFAOYSA-I",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
+        "name": "magnesium dihydroxide",
+        "domain": "Chemical compound",
+        "smiles": "[OH-].[OH-].[Mg+2]",
+        "inchi_key": "VTHJTEIRLNZDEV-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000347",
+        "name": "magnesium hydroxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001862",
+        "name": "magnesium hydroxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002734",
+        "name": "metacrylic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000609",
+        "name": "methyl cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "POULHZVOKOAJMA-UHFFFAOYSA-N",
+        "name": "methyl undecanoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCCCCC(O)=O",
+        "inchi_key": "POULHZVOKOAJMA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001923",
+        "name": "methylcellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000386",
+        "name": "microscopy",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JKQOBWVOAYFWKG-UHFFFAOYSA-N",
+        "name": "molybdenum trioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Mo](=O)=O",
+        "inchi_key": "JKQOBWVOAYFWKG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000178",
+        "name": "monomer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012860",
+        "name": "organic pigment",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007800",
+        "name": "oxidant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VTRUBDSFZJNXHI-UHFFFAOYSA-N",
+        "name": "oxoantimony",
+        "domain": "Chemical compound",
+        "smiles": "[Sb]=O",
+        "inchi_key": "VTRUBDSFZJNXHI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VGTPKLINSHNZRD-UHFFFAOYSA-N",
+        "name": "oxoborinic acid",
+        "domain": "Chemical compound",
+        "smiles": "OB=O",
+        "inchi_key": "VGTPKLINSHNZRD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WXZMFSXDPGVJKK-UHFFFAOYSA-N",
+        "name": "pentaerythritol",
+        "domain": "Chemical compound",
+        "smiles": "OCC(CO)(CO)CO",
+        "inchi_key": "WXZMFSXDPGVJKK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006303",
+        "name": "photolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000233",
+        "name": "poly(alkylene oxides)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002959",
+        "name": "polymer blend",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006116",
+        "name": "polymerization reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001155",
+        "name": "polypropylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001282",
+        "name": "polysaccharide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005017",
+        "name": "polysaccharide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001296",
+        "name": "polysiloxane",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002689",
+        "name": "polyvinyl acetate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011118",
+        "name": "polyvinyl acetate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007781",
+        "name": "pre-processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002203",
+        "name": "pretreatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013772",
+        "name": "propylene glycol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108090000623",
+        "name": "proteins and genes",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000004169",
+        "name": "proteins and genes",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002516",
+        "name": "radical scavenger",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008707",
+        "name": "rearrangement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003336",
+        "name": "secondary aromatic amines",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007493",
+        "name": "shaping process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052710",
+        "name": "silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010703",
+        "name": "silicon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002002",
+        "name": "slurry",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000600",
+        "name": "sorbitol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001220",
+        "name": "stainless steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010935",
+        "name": "stainless steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007858",
+        "name": "starting material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003756",
+        "name": "stirring",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001059",
+        "name": "synthetic polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012815",
+        "name": "thermoplastic material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052718",
+        "name": "tin",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011135",
+        "name": "tin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ILJSQTXMGCGYMG-UHFFFAOYSA-N",
+        "name": "triacetic acid",
+        "domain": "Chemical compound",
+        "smiles": "CC(=O)CC(=O)CC(O)=O",
+        "inchi_key": "ILJSQTXMGCGYMG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003626",
+        "name": "triacylglycerols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001069",
+        "name": "triethyl citrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "VMYFZRTXGLUXMZ-UHFFFAOYSA-N",
+        "name": "triethyl citrate",
+        "domain": "Natural products",
+        "smiles": "CCOC(=O)C(O)(C(=O)OCC)C(=O)OCC",
+        "inchi_key": "VMYFZRTXGLUXMZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013769",
+        "name": "triethyl citrate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BIKXLKXABVUSMH-UHFFFAOYSA-N",
+        "name": "trizinc;diborate",
+        "domain": "Chemical compound",
+        "smiles": "[Zn+2].[Zn+2].[Zn+2].[O-]B([O-])[O-].[O-]B([O-])[O-]",
+        "inchi_key": "BIKXLKXABVUSMH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004670",
+        "name": "unsaturated fatty acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000000391",
+        "name": "vinyl group",
+        "domain": "Chemical group",
+        "smiles": "[H]C([*])=C([H])[H]",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003170",
+        "name": "water-soluble synthetic polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XOOUIPVCVHRTMJ-UHFFFAOYSA-L",
+        "name": "zinc stearate",
+        "domain": "Chemical class",
+        "smiles": "[Zn+2].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O",
+        "inchi_key": "XOOUIPVCVHRTMJ-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XAEWLETZEZXLHR-UHFFFAOYSA-N",
+        "name": "zinc;dioxido(dioxo)molybdenum",
+        "domain": "Chemical compound",
+        "smiles": "[Zn+2].[O-][Mo]([O-])(=O)=O",
+        "inchi_key": "XAEWLETZEZXLHR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

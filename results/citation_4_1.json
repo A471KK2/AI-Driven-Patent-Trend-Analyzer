@@ -1,0 +1,1178 @@
+{
+  "search_metadata": {
+    "id": "697a3a5d3d0e4e85a855b913",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9fcfc9deb8ee8a4a/697a3a5d3d0e4e85a855b913.json",
+    "created_at": "2026-01-28 16:33:33 UTC",
+    "processed_at": "2026-01-28 16:33:33 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US9950848B2/en",
+    "raw_html_file": "https://serpapi.com/searches/9fcfc9deb8ee8a4a/697a3a5d3d0e4e85a855b913.html",
+    "total_time_taken": 0.63
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US9950848B2/en"
+  },
+  "title": "Resealable packing-list pouch",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/14/64/00/c0ead412df46ce/US9950848.pdf",
+  "publication_number": "US9950848B2",
+  "country": "United States",
+  "prior_art_keywords": [
+    "sheet",
+    "protective lip",
+    "pouch",
+    "list",
+    "flap"
+  ],
+  "prior_art_date": "2016-09-01",
+  "application_number": "US15/254,937",
+  "inventors": [
+    {
+      "name": "Yongquan Zhou",
+      "link": "https://patents.google.com/?inventor=Yongquan+Zhou",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yongquan+Zhou"
+    }
+  ],
+  "assignees": [
+    "Federal Express Corp"
+  ],
+  "priority_date": "2016-09-01",
+  "filing_date": "2016-09-01",
+  "publication_date": "2018-04-24",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-09-01",
+        "country_code": "US",
+        "application_number": "US15/254,937",
+        "document_id": "patent/US9950848B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2017": [
+      {
+        "filing_date": "2017-08-29",
+        "country_code": "WO",
+        "application_number": "PCT/US2017/049153",
+        "document_id": "patent/WO2018044910A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2017-08-29",
+        "country_code": "EP",
+        "application_number": "EP17767951.1A",
+        "document_id": "patent/EP3507208B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2017-08-29",
+        "country_code": "CN",
+        "application_number": "CN202111019837.7A",
+        "document_id": "patent/CN113895786A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2017-08-29",
+        "country_code": "CN",
+        "application_number": "CN201780064059.9A",
+        "document_id": "patent/CN110214115B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2017-08-29",
+        "country_code": "JP",
+        "application_number": "JP2019512282A",
+        "document_id": "patent/JP7154206B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2017-08-29",
+        "country_code": "CA",
+        "application_number": "CA3035783A",
+        "document_id": "patent/CA3035783A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ],
+    "2018": [
+      {
+        "filing_date": "2018-03-20",
+        "country_code": "US",
+        "application_number": "US15/926,754",
+        "document_id": "patent/US10322862B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2022": [
+      {
+        "filing_date": "2022-05-24",
+        "country_code": "JP",
+        "application_number": "JP2022084511A",
+        "document_id": "patent/JP7384959B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-09-01",
+      "title": "Application filed by Federal Express Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Federal Express Corp"
+    },
+    {
+      "date": "2016-09-01",
+      "title": "Priority to US15/254,937",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US9950848B2/en"
+    },
+    {
+      "date": "2016-09-08",
+      "title": "Assigned to FEDERAL EXPRESS CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "FEDERAL EXPRESS CORPORATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ZHOU, Yongquan"
+      ]
+    },
+    {
+      "date": "2017-08-29",
+      "title": "Priority to CA3035783A",
+      "type": "priority",
+      "document_id": "patent/CA3035783A1/en"
+    },
+    {
+      "date": "2017-08-29",
+      "title": "Priority to PCT/US2017/049153",
+      "type": "priority",
+      "document_id": "patent/WO2018044910A1/en"
+    },
+    {
+      "date": "2017-08-29",
+      "title": "Priority to CN202111019837.7A",
+      "type": "priority",
+      "document_id": "patent/CN113895786A/en"
+    },
+    {
+      "date": "2017-08-29",
+      "title": "Priority to EP17767951.1A",
+      "type": "priority",
+      "document_id": "patent/EP3507208B1/en"
+    },
+    {
+      "date": "2017-08-29",
+      "title": "Priority to CN201780064059.9A",
+      "type": "priority",
+      "document_id": "patent/CN110214115B/en"
+    },
+    {
+      "date": "2017-08-29",
+      "title": "Priority to JP2019512282A",
+      "type": "priority",
+      "document_id": "patent/JP7154206B2/en"
+    },
+    {
+      "date": "2018-03-01",
+      "title": "Publication of US20180057234A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20180057234A1/en"
+    },
+    {
+      "date": "2018-03-20",
+      "title": "Priority to US15/926,754",
+      "type": "priority",
+      "document_id": "patent/US10322862B2/en"
+    },
+    {
+      "date": "2018-04-24",
+      "title": "Publication of US9950848B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US9950848B2/en"
+    },
+    {
+      "date": "2018-04-24",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2022-05-24",
+      "title": "Priority to JP2022084511A",
+      "type": "priority",
+      "document_id": "patent/JP7384959B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2036-09-01",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=9950848.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15254937"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=9950848"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=9950848B2&KC=B2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15254937/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US9950848"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/dc/13/bd/ab2da8d5cfd371/US09950848-20180424-D00000.png",
+    "https://patentimages.storage.googleapis.com/1e/53/9f/b0bc753ab0e52f/US09950848-20180424-D00001.png",
+    "https://patentimages.storage.googleapis.com/15/20/f9/02bb11b3fcc9e1/US09950848-20180424-D00002.png",
+    "https://patentimages.storage.googleapis.com/8c/dc/9f/60f7a8a7e18719/US09950848-20180424-D00003.png",
+    "https://patentimages.storage.googleapis.com/af/f7/f5/098fc7becbc1b8/US09950848-20180424-D00004.png",
+    "https://patentimages.storage.googleapis.com/c2/70/61/25472483dd88a8/US09950848-20180424-D00005.png",
+    "https://patentimages.storage.googleapis.com/4a/3b/4f/7c3274b9177487/US09950848-20180424-D00006.png"
+  ],
+  "classifications": [
+    {
+      "code": "B65D75/545",
+      "description": "Cards, coupons or other inserts or accessories the inserts or accessories being located within a pouch or envelope attached to the exterior of the packages, e.g. shipping mailers",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B1/62",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B1/72",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B1/90",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B50/62",
+      "description": "Uniting opposed surfaces or edges; Taping by adhesives",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B50/72",
+      "description": "Uniting opposed surfaces or edges; Taping by applying and securing strips or sheets",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B50/81",
+      "description": "Forming or attaching accessories, e.g. opening devices, closures or tear strings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B50/84",
+      "description": "Forming or attaching means for filling or dispensing contents, e.g. valves or spouts",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B70/26",
+      "description": "Folding sheets, blanks or webs",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B31B70/62",
+      "description": "Uniting opposed surfaces or edges; Taping by adhesives",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D27/14",
+      "description": "Closures using adhesive applied to integral parts, e.g. flaps",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D27/16",
+      "description": "Closures using adhesive applied to integral parts, e.g. flaps using pressure-sensitive adhesive",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D33/007",
+      "description": "Details of, or accessories for, sacks or bags for facilitating the separation of the two walls, e.g. walls of inequal height, tabs; for maintaining the mouth of the sack or bag open",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D33/18",
+      "description": "End- or aperture-closing arrangements or devices using adhesive applied to integral parts, e.g. to flaps",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D33/20",
+      "description": "End- or aperture-closing arrangements or devices using adhesive applied to integral parts, e.g. to flaps using pressure-sensitive adhesive",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D33/24",
+      "description": "End- or aperture-closing arrangements or devices using self-locking integral or attached closure elements, e.g. flaps",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D75/30",
+      "description": "Articles or materials enclosed between two opposed sheets or blanks having their margins united, e.g. by pressure-sensitive adhesive, crimping, heat-sealing, or welding",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D75/54",
+      "description": "Cards, coupons or other inserts or accessories",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Methods, systems, and apparatus, including a packing-list-pouch comprising a back sheet and a front sheet attached to a pocket, a protective lip sheet attached to cover a top edge of the front sheet, and a removable release liner attached to an exterior surface of the back sheet via an adhesive coating. The packing-list-pouch may include a flap sheet attached to the protective lip sheet and an adhesive strip configured to fasten a bottom portion of the flap sheet to the front sheet to form a resealable closure over an opening of the pocket and the protective lip sheet.",
+  "description_link": "https://serpapi.com/searches/697a3a5d3d0e4e85a855b913/google_patents_details/description.html",
+  "claims": [
+    "1. A resealable packing-list-pouch comprising:\na back sheet;\na front sheet attached to the back sheet at respective side and bottom edges to form a bottom portion of a pocket between the back sheet and the front sheet such that a top edge of the back sheet extends beyond a top edge of the front sheet to form an opening of the pocket;\na protective lip sheet attached to the back sheet at the top edge of the back sheet and such that side edges of the protective lip sheet attaches to upper portions of the side edges of the back sheet to form a protective lip over the opening of the pocket, wherein a bottom edge of the protective lip sheet covers the top edge of the front sheet and forms a top portion of the pocket between the back sheet and the protective lip sheet;\na flap sheet connected to the protective lip sheet such that a portion of the protective lip sheet is between the flap sheet and the back sheet; and\nan adhesive strip located on an exterior surface of the front sheet proximal to the bottom edge of the protective lip sheet such that the adhesive strip is configured to fasten a bottom portion of the flap sheet to the front sheet to form a resealable closure over the opening of the pocket and the protective lip sheet.",
+    "2. The resealable packing-list-pouch of claim 1 further comprising an adhesive coating located on an exterior surface of the back sheet.",
+    "3. The resealable packing-list-pouch of claim 2 further comprising a release liner attached to the exterior surface of the back sheet via adhesive coating such that the release liner is removable.",
+    "4. The resealable packing-list-pouch of claim 1, wherein the adhesive strip is comprised of pressure sensitive material.",
+    "5. The resealable packing-list-pouch of claim 4, wherein the pressure sensitive material is acrylic, natural rubber, or synthetic rubber.",
+    "6. The resealable packing-list-pouch of claim 1, wherein the back sheet, the front sheet, the protective lip sheet, and the flap sheet are formed of a flexible plastic.",
+    "7. The resealable packing-list-pouch of claim 6, wherein the flexible plastic is polyethylene.",
+    "8. The resealable packing-list-pouch of claim 6, wherein the flexible plastic is transparent.",
+    "9. The resealable packing-list-pouch of claim 1, wherein the front sheet, the back sheet, the protective lip sheet, and the flap sheet are attached via heat sealing.",
+    "10. The resealable packing-list-pouch of claim 1, wherein the front sheet, the back sheet, the protective lip sheet, and the flap sheet are attached via a permanent adhesive.",
+    "11. The resealable packing-list-pouch of claim 10, wherein the permanent adhesive is an acrylic adhesives or a hot-melt adhesive.",
+    "12. A method of making a resealable packing-list-pouch, the method comprising:\nforming a back sheet, a front sheet, a flap sheet, and a protective lip sheet out of a flexible plastic material;\nforming a pocket by attaching the front sheet to the back sheet at respective side and bottom edges such that a top edge of the back sheet extends beyond a top edge of the front sheet to form an opening of the pocket;\nattaching the protective lip sheet to the back sheet at one end and such that side edges of the protective lip sheet affix to upper portions of the side edges of the back sheet to form a protective lip over the opening of the pocket, wherein a bottom edge of the protective lip sheet covers the top edge of the front sheet;\nattaching the flap sheet to the protective lip sheet such that a portion of the protective lip sheet is between the flap sheet and the back sheet; and\nplacing an adhesive strip on an exterior surface of the front sheet proximal to the bottom edge of the protective lip sheet such that the adhesive strip is configured to fasten a bottom portion of the flap sheet to the front sheet to form a resealable closure over the opening of the pocket and the protective lip sheet.",
+    "13. The method of claim 12 further comprising:\nforming an adhesive coat on an exterior surface of the back sheet; and\nattaching a release liner to the exterior surface of the back sheet via the adhesive coat such that the release liner is removable.",
+    "14. The method of claim 12, wherein the flexible plastic is polyethylene.",
+    "15. The method of claim 12, wherein the front sheet, the back sheet, the protective lip sheet, and the flap sheet are attached via heat sealing.",
+    "16. A resealable packing-list-pouch comprising:\na back sheet and a front sheet connected to form a pocket such that a top edge of the back sheet extends beyond a top edge of the front sheet to form an opening of the pocket;\na protective lip sheet connected to the back sheet at one end to form a protective lip over the opening of the pocket;\na flap sheet connected to the protective lip sheet; and\nan adhesive strip configured to fasten a bottom portion of the flap sheet to the front sheet to form a resealable closure over the opening of the pocket.",
+    "17. The resealable packing-list-pouch of claim 16, wherein a bottom portion of the protective lip sheet covers the top edge of the front sheet.",
+    "18. The resealable packing-list-pouch of claim 16, wherein the adhesive strip is located on an exterior surface of the front sheet proximal to a bottom edge of the protective lip sheet.",
+    "19. The resealable packing-list-pouch of claim 16, wherein the adhesive strip is located on an interior surface of the flap sheet proximal to a bottom edge of the flap sheet.",
+    "20. The resealable packing-list-pouch of claim 16 further comprising a release liner attached to an exterior surface of the packing-list-pouch via an adhesive coat such that the release liner is removable."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US15/926,754",
+      "relation_type": "Continuation",
+      "representative_publication": "US10322862B2",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2018-03-20",
+      "title": "Resealable packing-list pouch"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/254,937",
+      "representative_publication": "US9950848B2",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2016-09-01",
+      "title": "Resealable packing-list pouch"
+    },
+    {
+      "application_number": "JP2019512282A",
+      "representative_publication": "JP7154206B2",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2017-08-29",
+      "title": "resealable packing slip bag"
+    },
+    {
+      "application_number": "PCT/US2017/049153",
+      "representative_publication": "WO2018044910A1",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2017-08-29",
+      "title": "Resealable packing list pouch"
+    },
+    {
+      "application_number": "CN202111019837.7A",
+      "representative_publication": "CN113895786A",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2017-08-29",
+      "title": "Resealable packaging sheet bag"
+    },
+    {
+      "application_number": "EP17767951.1A",
+      "representative_publication": "EP3507208B1",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2017-08-29",
+      "title": "Resealable packing list pouch"
+    },
+    {
+      "application_number": "CN201780064059.9A",
+      "representative_publication": "CN110214115B",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2017-08-29",
+      "title": "Resealable packaging sheet bag"
+    },
+    {
+      "application_number": "CA3035783A",
+      "representative_publication": "CA3035783A1",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2017-08-29",
+      "title": "Resealable packing list pouch"
+    },
+    {
+      "application_number": "US15/926,754",
+      "representative_publication": "US10322862B2",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2018-03-20",
+      "title": "Resealable packing-list pouch"
+    },
+    {
+      "application_number": "JP2022084511A",
+      "representative_publication": "JP7384959B2",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2022-05-24",
+      "title": "resealable packing slip bag"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US15/254,937",
+      "representative_publication": "US9950848B2",
+      "primary_language": "en",
+      "priority_date": "2016-09-01",
+      "filing_date": "2016-09-01",
+      "title": "Resealable packing-list pouch"
+    }
+  ],
+  "family_id": "59859615",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US2620842A",
+        "primary_language": "en",
+        "priority_date": "1950-09-21",
+        "publication_date": "1952-12-09",
+        "assignee_original": "Bemis Bro Bag Co",
+        "title": "Bag construction",
+        "patent_id": "patent/US2620842A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2620842A%2Fen"
+      },
+      {
+        "publication_number": "US2925675A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1958-10-15",
+        "publication_date": "1960-02-23",
+        "assignee_original": "Frank K Lumpkin",
+        "title": "Transparent covered certificate holder",
+        "patent_id": "patent/US2925675A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2925675A%2Fen"
+      },
+      {
+        "publication_number": "US3147674A",
+        "primary_language": "en",
+        "priority_date": "1958-08-22",
+        "publication_date": "1964-09-08",
+        "assignee_original": "Bemis Bro Bag Co",
+        "title": "Methods of making bags",
+        "patent_id": "patent/US3147674A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3147674A%2Fen"
+      },
+      {
+        "publication_number": "US3327416A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1966-03-18",
+        "publication_date": "1967-06-27",
+        "assignee_original": "Delmar D Sanford",
+        "title": "Transparent holder for packing slips and invoices",
+        "patent_id": "patent/US3327416A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3327416A%2Fen"
+      },
+      {
+        "publication_number": "US3525470A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1969-04-28",
+        "publication_date": "1970-08-25",
+        "assignee_original": "Us Envelope Co",
+        "title": "Sealable envelope for packing slip or the like",
+        "patent_id": "patent/US3525470A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3525470A%2Fen"
+      },
+      {
+        "publication_number": "US4103821A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-07-22",
+        "publication_date": "1978-08-01",
+        "assignee_original": "Pak-Well Corporation",
+        "title": "Shipping envelope",
+        "patent_id": "patent/US4103821A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4103821A%2Fen"
+      },
+      {
+        "publication_number": "GB1604156A",
+        "primary_language": "en",
+        "priority_date": "1978-04-06",
+        "publication_date": "1981-12-02",
+        "assignee_original": "Claxton N E",
+        "title": "Containers",
+        "patent_id": "patent/GB1604156A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1604156A%2Fen"
+      },
+      {
+        "publication_number": "US4332347A",
+        "primary_language": "en",
+        "priority_date": "1980-12-15",
+        "publication_date": "1982-06-01",
+        "assignee_original": "Mobil Oil Corporation",
+        "title": "Plastic bag having unique tuck flap construction",
+        "patent_id": "patent/US4332347A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4332347A%2Fen"
+      },
+      {
+        "publication_number": "US5584580A",
+        "primary_language": "en",
+        "priority_date": "1994-02-24",
+        "publication_date": "1996-12-17",
+        "assignee_original": "Uniflex, Inc.",
+        "title": "Tamper-resistant envelope closure",
+        "patent_id": "patent/US5584580A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5584580A%2Fen"
+      },
+      {
+        "publication_number": "JP2000062802A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-08-24",
+        "publication_date": "2000-02-29",
+        "assignee_original": "Yamagata Gravure:Kk",
+        "title": "Storing bag and its manufacture",
+        "patent_id": "patent/JP2000062802A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000062802A%2Fen"
+      },
+      {
+        "publication_number": "US20030211268A1",
+        "primary_language": "en",
+        "priority_date": "2002-05-07",
+        "publication_date": "2003-11-13",
+        "assignee_original": "Hillemann Bruce J.",
+        "title": "Resealable Envelope",
+        "patent_id": "patent/US20030211268A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030211268A1%2Fen"
+      },
+      {
+        "publication_number": "US20060043159A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-08-13",
+        "publication_date": "2006-03-02",
+        "assignee_original": "Cryovac, Inc.",
+        "title": "Return mailer",
+        "patent_id": "patent/US20060043159A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060043159A1%2Fen"
+      },
+      {
+        "publication_number": "US20110164838A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-17",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Feng Chen",
+        "title": "Sealing protection structure for package bag",
+        "patent_id": "patent/US20110164838A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110164838A1%2Fen"
+      },
+      {
+        "publication_number": "US20140270584A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-14",
+        "publication_date": "2014-09-18",
+        "assignee_original": "Ronald H. Exner",
+        "title": "Reclosable packages and methods of manufacturing",
+        "patent_id": "patent/US20140270584A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140270584A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "GB1436489A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-06-19",
+        "publication_date": "1976-05-19",
+        "assignee_original": "Schuster S J",
+        "title": "Sterilizable bag",
+        "patent_id": "patent/GB1436489A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1436489A%2Fen"
+      },
+      {
+        "publication_number": "GB1546419A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-06-16",
+        "publication_date": "1979-05-23",
+        "assignee_original": "Jennings A B",
+        "title": "Cash bags",
+        "patent_id": "patent/GB1546419A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1546419A%2Fen"
+      },
+      {
+        "publication_number": "JPS59172146U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-04-28",
+        "publication_date": "1984-11-17",
+        "assignee_original": "\u7167\u6804\u88fd\u888b\u682a\u5f0f\u4f1a\u793e",
+        "title": "packaging bag",
+        "patent_id": "patent/JPS59172146U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS59172146U%2Fen"
+      },
+      {
+        "publication_number": "GB8821759D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-09-16",
+        "publication_date": "1988-10-19",
+        "assignee_original": "Interpoly Ltd",
+        "title": "Security envelope",
+        "patent_id": "patent/GB8821759D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB8821759D0%2Fen"
+      },
+      {
+        "publication_number": "JP2684500B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-30",
+        "publication_date": "1997-12-03",
+        "assignee_original": "\u30ad\u30e4\u30ce\u30f3\u682a\u5f0f\u4f1a\u793e",
+        "title": "Envelope",
+        "patent_id": "patent/JP2684500B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2684500B2%2Fen"
+      },
+      {
+        "publication_number": "CN1107623C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-07-08",
+        "publication_date": "2003-05-07",
+        "assignee_original": "\u5f17\u83b1\u897f\u514b\u5761\u5c14\u5305\u88c5\u6709\u9650\u516c\u53f8",
+        "title": "Easy open bag",
+        "patent_id": "patent/CN1107623C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1107623C%2Fen"
+      },
+      {
+        "publication_number": "JP2000062794A",
+        "primary_language": "en",
+        "priority_date": "1998-08-11",
+        "publication_date": "2000-02-29",
+        "assignee_original": "Canon Sales Co Inc",
+        "title": "Adhesive envelope",
+        "patent_id": "patent/JP2000062794A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000062794A%2Fen"
+      },
+      {
+        "publication_number": "US20030059132A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-09-26",
+        "publication_date": "2003-03-27",
+        "assignee_original": "Carl Vetter",
+        "title": "Double walled transport bag and method of manufacture",
+        "patent_id": "patent/US20030059132A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030059132A1%2Fen"
+      },
+      {
+        "publication_number": "WO2005014406A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-06",
+        "publication_date": "2005-02-17",
+        "assignee_original": "Avery Dennison Corporation",
+        "title": "Cohesive reclosure systems and containers using same",
+        "patent_id": "patent/WO2005014406A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005014406A2%2Fen"
+      },
+      {
+        "publication_number": "JP2006008168A",
+        "primary_language": "en",
+        "priority_date": "2004-06-24",
+        "publication_date": "2006-01-12",
+        "assignee_original": "Asahi Kasei Pax Corp",
+        "title": "Package and easily unsealable packaging material with flap",
+        "patent_id": "patent/JP2006008168A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006008168A%2Fen"
+      },
+      {
+        "publication_number": "JP2007161343A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-11-18",
+        "publication_date": "2007-06-28",
+        "assignee_original": "Hiroaki Yahata",
+        "title": "Envelope and enclosing method",
+        "patent_id": "patent/JP2007161343A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007161343A%2Fen"
+      },
+      {
+        "publication_number": "JP4992336B2",
+        "primary_language": "en",
+        "priority_date": "2006-08-09",
+        "publication_date": "2012-08-08",
+        "assignee_original": "\u5927\u65e5\u672c\u5370\u5237\u682a\u5f0f\u4f1a\u793e",
+        "title": "Slip envelope",
+        "patent_id": "patent/JP4992336B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4992336B2%2Fen"
+      },
+      {
+        "publication_number": "US20090283578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-14",
+        "publication_date": "2009-11-19",
+        "assignee_original": "Drayton Miller",
+        "title": "\"green\" temperature- controlled mailer",
+        "patent_id": "patent/US20090283578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090283578A1%2Fen"
+      },
+      {
+        "publication_number": "AU2012228962A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-03-17",
+        "publication_date": "2013-10-17",
+        "assignee_original": "Intercontinental Great Brands Llc",
+        "title": "Reclosable flexible film packaging products and methods of manufacture",
+        "patent_id": "patent/AU2012228962A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2012228962A1%2Fen"
+      },
+      {
+        "publication_number": "US9950848B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-01",
+        "publication_date": "2018-04-24",
+        "assignee_original": "Federal Express Corporation",
+        "title": "Resealable packing-list pouch",
+        "patent_id": "patent/US9950848B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9950848B2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "International Search Report and Written Opinion in International Application No. PCT/US2017/049153, dated Feb. 5, 2018, 18 pages."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US10322862B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-01",
+        "publication_date": "2019-06-18",
+        "assignee_original": "Federal Express Corporation",
+        "title": "Resealable packing-list pouch",
+        "patent_id": "patent/US10322862B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10322862B2%2Fen"
+      },
+      {
+        "publication_number": "US20240270468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-15",
+        "publication_date": "2024-08-15",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Compostable compositions, articles and methods of making compostable articles",
+        "patent_id": "patent/US20240270468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240270468A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "USD883655S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-05-31",
+        "publication_date": "2020-05-12",
+        "assignee_original": "Maria Lotosky-Compton",
+        "title": "Medical pouch for endoscopic tools",
+        "patent_id": "patent/USD883655S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD883655S1%2Fen"
+      },
+      {
+        "publication_number": "CN110699004B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-18",
+        "publication_date": "2021-11-05",
+        "assignee_original": "\u6cb3\u5317\u65b9\u5927\u5305\u88c5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of environment-friendly transparent paper-backed adhesive bag and preparation method thereof",
+        "patent_id": "patent/CN110699004B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110699004B%2Fen"
+      },
+      {
+        "publication_number": "FR3113036B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-30",
+        "publication_date": "2022-07-01",
+        "assignee_original": "Holweg Group",
+        "title": "Reusable envelope with pre-cut closure flap, method and machine for manufacturing such an envelope",
+        "patent_id": "patent/FR3113036B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3113036B1%2Fen"
+      },
+      {
+        "publication_number": "CN113650939A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-02",
+        "publication_date": "2021-11-16",
+        "assignee_original": "\u5e7f\u4e1c\u5929\u5143\u5b9e\u4e1a\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Sealing bag",
+        "patent_id": "patent/CN113650939A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113650939A%2Fen"
+      },
+      {
+        "publication_number": "EP4201832A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-23",
+        "publication_date": "2023-06-28",
+        "assignee_original": "Mondi AG",
+        "title": "Packaging bag and use of the packaging bag",
+        "patent_id": "patent/EP4201832A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4201832A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10322862B2",
+      "primary_language": "en",
+      "publication_date": "2019-06-18",
+      "title": "Resealable packing-list pouch",
+      "patent_id": "patent/US10322862B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10322862B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA1330330C",
+      "primary_language": "en",
+      "publication_date": "1994-06-21",
+      "title": "Tamper-evident seal for envelope and method of making  same",
+      "patent_id": "patent/CA1330330C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA1330330C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6461708B1",
+      "primary_language": "en",
+      "publication_date": "2002-10-08",
+      "title": "Resealable container and closure seal",
+      "patent_id": "patent/US6461708B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6461708B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4441613A",
+      "primary_language": "en",
+      "publication_date": "1984-04-10",
+      "title": "Container with resealable closure",
+      "patent_id": "patent/US4441613A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4441613A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH04503651A",
+      "primary_language": "en",
+      "publication_date": "1992-07-02",
+      "title": "Inner seal and closed container",
+      "patent_id": "patent/JPH04503651A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH04503651A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPS6397989A",
+      "primary_language": "en",
+      "publication_date": "1988-04-28",
+      "title": "Compound label for pasting on article",
+      "patent_id": "patent/JPS6397989A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS6397989A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2201633A",
+      "primary_language": "en",
+      "publication_date": "1988-09-07",
+      "title": "Security envelope system",
+      "patent_id": "patent/GB2201633A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2201633A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050047686A1",
+      "primary_language": "en",
+      "publication_date": "2005-03-03",
+      "title": "Resealable packaging bag",
+      "patent_id": "patent/US20050047686A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050047686A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9428305B2",
+      "primary_language": "en",
+      "publication_date": "2016-08-30",
+      "title": "Envelope seal strip",
+      "patent_id": "patent/US9428305B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9428305B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0667828A1",
+      "primary_language": "en",
+      "publication_date": "1995-08-23",
+      "title": "Resealable dispenser container",
+      "patent_id": "patent/EP0667828A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0667828A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6723408B2",
+      "primary_language": "en",
+      "publication_date": "2004-04-20",
+      "title": "Resealable envelope",
+      "patent_id": "patent/US6723408B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6723408B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2021187447A",
+      "primary_language": "en",
+      "publication_date": "2021-12-13",
+      "title": "Packaging container",
+      "patent_id": "patent/JP2021187447A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2021187447A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3871997A1",
+      "primary_language": "en",
+      "publication_date": "2021-09-01",
+      "title": "Container with flexible packaging bag",
+      "patent_id": "patent/EP3871997A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3871997A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4741935A",
+      "primary_language": "en",
+      "publication_date": "1988-05-03",
+      "title": "Adhesive tape closure",
+      "patent_id": "patent/US4741935A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4741935A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN220299160U",
+      "primary_language": "en",
+      "publication_date": "2024-01-05",
+      "title": "A packaging bag with external logo",
+      "patent_id": "patent/CN220299160U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN220299160U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9994364B1",
+      "primary_language": "en",
+      "publication_date": "2018-06-12",
+      "title": "Reusable sealing device for plastic courier bag",
+      "patent_id": "patent/US9994364B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9994364B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN219969107U",
+      "primary_language": "en",
+      "publication_date": "2023-11-07",
+      "title": "Gasket sheet with good sealing performance",
+      "patent_id": "patent/CN219969107U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219969107U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3336002A1",
+      "primary_language": "en",
+      "publication_date": "2018-06-20",
+      "title": "Reusable sealing device for plastic courier bag",
+      "patent_id": "patent/EP3336002A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3336002A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025237495A1",
+      "primary_language": "en",
+      "publication_date": "2025-11-20",
+      "title": "Double removable adhesive label",
+      "patent_id": "patent/WO2025237495A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025237495A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3110708B1",
+      "primary_language": "en",
+      "publication_date": "2018-08-15",
+      "title": "Packaging with document holder, method of making and use of the packaging",
+      "patent_id": "patent/EP3110708B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3110708B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250083885A1",
+      "primary_language": "en",
+      "publication_date": "2025-03-13",
+      "title": "Resealable container",
+      "patent_id": "patent/US20250083885A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250083885A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR200279755Y1",
+      "primary_language": "en",
+      "publication_date": "2002-06-24",
+      "title": "Self Adhering Water-proof Packing List Envelope",
+      "patent_id": "patent/KR200279755Y1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR200279755Y1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1674402A1",
+      "primary_language": "en",
+      "publication_date": "2006-06-28",
+      "title": "Two-way mailer",
+      "patent_id": "patent/EP1674402A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1674402A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0620245U",
+      "primary_language": "en",
+      "publication_date": "1994-03-15",
+      "title": "Enclosed object",
+      "patent_id": "patent/JPH0620245U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0620245U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2016-09-08",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "FEDERAL EXPRESS CORPORATION, TENNESSEE"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ZHOU, YONGQUAN;REEL/FRAME:039674/0960"
+        },
+        {
+          "label": "Effective date",
+          "value": "20160901"
+        }
+      ]
+    },
+    {
+      "date": "2018-04-04",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-25",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2025-10-08",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    }
+  ]
+}

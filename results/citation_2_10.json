@@ -1,0 +1,894 @@
+{
+  "search_metadata": {
+    "id": "697a33600d0b297a785ba9df",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/de21f6022b5b1d93/697a33600d0b297a785ba9df.json",
+    "created_at": "2026-01-28 16:03:44 UTC",
+    "processed_at": "2026-01-28 16:03:44 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2022006620A1/en",
+    "raw_html_file": "https://serpapi.com/searches/de21f6022b5b1d93/697a33600d0b297a785ba9df.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2022006620A1/en"
+  },
+  "title": "A container transportation system",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/db/bf/8b/263a9421e8eeda/WO2022006620A1.pdf",
+  "publication_number": "WO2022006620A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "container",
+    "transportation",
+    "pipe",
+    "arrangement",
+    "rail"
+  ],
+  "prior_art_date": "2020-07-09",
+  "application_number": "PCT/AU2021/050682",
+  "inventors": [
+    {
+      "name": "Bruce Allen",
+      "link": "https://patents.google.com/?inventor=Bruce+Allen",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Bruce+Allen"
+    },
+    {
+      "name": "Philip Macgregor Norman",
+      "link": "https://patents.google.com/?inventor=Philip+Macgregor+Norman",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Philip+Macgregor+Norman"
+    }
+  ],
+  "assignees": [
+    "Cf Technologies Pty Ltd"
+  ],
+  "priority_date": "2020-07-09",
+  "filing_date": "2021-06-28",
+  "publication_date": "2022-01-13",
+  "worldwide_applications": {
+    "2021": [
+      {
+        "filing_date": "2021-06-28",
+        "country_code": "JP",
+        "application_number": "JP2023501394A",
+        "document_id": "patent/JP2023536799A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2021-06-28",
+        "country_code": "AU",
+        "application_number": "AU2021304542A",
+        "document_id": "patent/AU2021304542A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2021-06-28",
+        "country_code": "CN",
+        "application_number": "CN202180053815.4A",
+        "document_id": "patent/CN116157342A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2021-06-28",
+        "country_code": "US",
+        "application_number": "US18/014,734",
+        "document_id": "patent/US20230271775A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2021-06-28",
+        "country_code": "WO",
+        "application_number": "PCT/AU2021/050682",
+        "document_id": "patent/WO2022006620A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      },
+      {
+        "filing_date": "2021-06-28",
+        "country_code": "EP",
+        "application_number": "EP21838170.5A",
+        "document_id": "patent/EP4065446A4/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2020-07-09",
+      "title": "Priority claimed from AU2020902377A",
+      "type": "external-priority",
+      "document_id": "patent/AU2020902377A0/en"
+    },
+    {
+      "date": "2021-06-28",
+      "title": "Application filed by Cf Technologies Pty Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Cf Technologies Pty Ltd"
+    },
+    {
+      "date": "2021-06-28",
+      "title": "Priority to CN202180053815.4A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN116157342A/en"
+    },
+    {
+      "date": "2021-06-28",
+      "title": "Priority to US18/014,734",
+      "type": "priority",
+      "document_id": "patent/US20230271775A1/en"
+    },
+    {
+      "date": "2021-06-28",
+      "title": "Priority to JP2023501394A",
+      "type": "priority",
+      "document_id": "patent/JP2023536799A/en"
+    },
+    {
+      "date": "2021-06-28",
+      "title": "Priority to EP21838170.5A",
+      "type": "priority",
+      "document_id": "patent/EP4065446A4/en"
+    },
+    {
+      "date": "2021-06-28",
+      "title": "Priority to AU2021304542A",
+      "type": "priority",
+      "document_id": "patent/AU2021304542A1/en"
+    },
+    {
+      "date": "2022-01-13",
+      "title": "Publication of WO2022006620A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2022006620A1/en"
+    },
+    {
+      "date": "2023-01-09",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2022006620A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTAU2021050682/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2022006620"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2022006620A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "B65D88/129",
+      "description": "Transporter frames for containers",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61B13/10",
+      "description": "Tunnel systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61B1/005",
+      "description": "Rail vehicle marshalling systems; Rail freight terminals",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61D3/20",
+      "description": "Wagons or vans adapted for carrying special loads for forwarding containers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61F13/00",
+      "description": "Rail vehicles characterised by wheel arrangements, not otherwise provided for",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61F3/16",
+      "description": "Types of bogies with a separate axle for each wheel",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65G63/004",
+      "description": "Transferring or trans-shipping at storage areas, railway yards or harbours or in opening mining cuts; Marshalling yard installations for articles for containers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B66F9/06",
+      "description": "Devices for lifting or lowering bulky or heavy goods for loading or unloading purposes movable, with their loads, on wheels or the like, e.g. fork-lift trucks",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B66F9/18",
+      "description": "Load gripping or retaining means",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D2590/0083",
+      "description": "Computer or electronic system, e.g. GPS systems",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65G2201/0235",
+      "description": "Containers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B66C1/101",
+      "description": "Load-engaging elements or devices attached to lifting or lowering gear of cranes or adapted for connection therewith for transmitting lifting forces to articles or groups of articles by mechanical means for containers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B66F9/07572",
+      "description": "Propulsion arrangements",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention relates to a container transportation system, such as a rail-based conveyance arrangement. The present invention provides a transportation unit for a container, such as a shipping container, the transportation unit having a wheel arrangement including one or more wheels for engaging a rail along which the container is conveyable, the one or more wheels being locatable at a side of the container; wherein said unit is detachably mounted to the container.",
+  "description_link": "https://serpapi.com/searches/697a33600d0b297a785ba9df/google_patents_details/description.html",
+  "claims": [
+    "1. A transportation unit for a container, the transportation unit having: a wheel arrangement including one or more wheels for engaging a rail along which the container is conveyable, the one or more wheels being locatable at a side of the container; wherein said unit is detachably mounted to the container.",
+    "2. The transportation unit of claim 1, wherein the wheel arrangement includes one or more first wheels that are attachable to a first sidewall of the container and one or more second wheels that are attachable to a second opposite sidewall of the container.",
+    "3. The transportation unit of claim 2, wherein the one or more first wheels and the one or more second wheels are respectively mounted at or near a mid-height of the container.",
+    "4. The transportation unit of claim 2 or 3, comprising two first wheels that are attachable to the first sidewall of the container and two second wheels that are attachable to the second opposite sidewall of the container.",
+    "5. The transportation unit of any one of the preceding claims, wherein the transportation unit includes a chassis on which the container to be conveyed is located, and arms extending from opposite sides of the chassis, the wheel arrangement being mounted to the arms, and the arms being pivotable inward relative to the chassis as the container is the container being located on the chassis so as to clamp the container between the arms of the chassis.",
+    "6. The transportation unit of claim 5, wherein one or more arms on each side of the chassis comprise a hook-shaped portion configured to be engageable by engaging portions of a gantry system for carrying the transportation unit.",
+    "7. The transportation unit of claim 5, comprising: a motor arrangement for driving said one or more wheels; and \n\n one or more foot portions electrically connected to the motor arrangement, said one or more foot portions being configured to contact an elongate power supply track to supply power to the motor arrangement.",
+    "8. The transportation unit of claim 7, wherein one or more arms on each side of the chassis comprise a hook-shaped portion configured to be engageable by engaging portions of a gantry system for carrying the transportation unit, each of said one or more foot portions being connected to one of said hook-shaped portions; wherein each of said hook-shaped portions connected to one of said one or more foot portions is configured: to raise when engaged by the engaging portions and thereby move the foot portion connected thereto into a stowed configuration, wherein in the stowed position the foot portion is disengaged from the elongate power supply track; and to lower when disengaged from the engaging portions and thereby move the foot portion connected thereto into a deployed configuration for contacting the elongate power supply track.",
+    "9. The transportation unit of any one of the preceding claims, wherein said rail is a rail of a rail-based conveyance arrangement.",
+    "10. The transportation unit of any one claims 1 to 9, wherein said rail is a rail of a pipe arrangement.",
+    "11. The transportation unit of any one claims 1 to 10, wherein said container is a shipping container.",
+    "12. A transportation system for containers, the system comprising: at least one rail-based conveyance arrangement for conveying containers, said arrangement having rails and being adapted or configured to engage a transportation unit according to any one or claims 1 to 11, said arrangement being adapted or configured to allow a container to pass therethrough.",
+    "13. The transportation system of claim 12, wherein the rail-based conveyance arrangement is a pipe arrangement.",
+    "14. The transportation system of claim 13, wherein the pipe arrangement includes: a pipe having a width, and rails on which the transportation unit for conveying the container is mounted, each rail being positioned on opposite sides of the pipe wherein a distance between the rails substantially corresponds to the width of the pipe.",
+    "15. The transportation system of claim 13 or 14, wherein the pipe arrangement includes a cylindrical pipe.",
+    "16. The transportation system of any one of claims 12 to 15, wherein the rail-based conveyance arrangement includes a half-pipe or partial pipe.",
+    "17. The transportation system of any one of claims 12 to 16, wherein the rails are spaced apart from each other by at least 4.5m.",
+    "18. The transportation system of any one of claims 12 to 17, wherein, when the container is located in the transportation unit and within the rail-based conveyance arrangement, there is a clearance of at least about 30cm from sidewall portions of said arrangement to the container.",
+    "19. The transportation system of any one of claims 12 to 18, wherein the rail-based conveyance arrangement includes a curved portion through which the container is passable, the curved portion having a radius of at least 70m.",
+    "20. The transportation system of any one of claims 12 to 19, wherein the rail-based conveyance arrangement has at least two conveyance flow-paths that are parallel with each other.",
+    "21. The transportation system of claim 20, wherein the rail-based conveyance arrangement is a pipe arrangement and each of said at least two conveyance flow-paths is defined by a pipe.",
+    "22. The transportation system of claim 20 or 21, wherein the rail-based conveyance arrangement includes a first conveyance flow-path for a flow of containers in a first direction, and a second conveyance flow-path for a flow of containers in a second direction opposite to the first direction.",
+    "23. The transportation system of any one of claims 12 to 22, wherein the rail-based conveyance arrangement includes a service conveyance flow-path for conveying the transportation unit to another conveyance flow-path along which a container is to be conveyed by said transportation unit.",
+    "24. The transportation system of claim 23, wherein the rail-based conveyance arrangement is a pipe arrangement and the service conveyance flow-path and the other conveyance flow-path are each defined by a pipe.",
+    "25. The transportation system of any one of claims 12 to 24, wherein the rail-based conveyance arrangement includes a sloping portion for changing an elevation of the containers conveyed through the rail-based conveyance arrangement.",
+    "26. The transportation system of claim 25, wherein the sloping portion has a gradient of at least about 1%.",
+    "27. The transportation system of claim 25 or 26, wherein the rail-based conveyance arrangement includes a helix-shaped pathway.",
+    "28. The transportation system of any one of claims 12 to 27, wherein the rail-based conveyance arrangement and the transportation unit includes a sensor arrangement for determining a location of the transportation unit within the rail-based conveyance arrangement.",
+    "29. The transportation system of claim 28, wherein the sensor arrangement includes one or more RFID tags and one or more RFID readers for reading the RFID tags.",
+    "30. The transportation system of claim 29, wherein the RFID tags are provided along a length of the rail-based conveyance arrangement and the RFID reader for reading the RFID tags is provided on the transportation unit.",
+    "31. The transportation system of any one of claims 12 to 30, wherein the transportation system includes a power supply system for powering said transportation unit when said transportation unit is mounted to one of the containers for conveying the container through the rail-based conveyance arrangement.",
+    "32. The transportation system of claim 31, wherein the power supply system includes an elongate track that spans a length of the rail-based conveyance arrangement.",
+    "33. The transportation system of claim 32, wherein the elongate track is located in the pipe arrangement at an elevation below the rails of the rail-based conveyance arrangement.",
+    "34. The transportation system of any one of claims 12 to 33, wherein the transportation system includes a first gantry for carrying a container to or from a platform and a second gantry for carrying a transportation unit that is mountable to the container.",
+    "35. The transportation system of claim 34, wherein the transportation system includes a controller for aligning the first gantry and the second gantry with each other so as to mount the transportation unit onto the container or to unmount the transportation unit from the container.",
+    "36. The transportation system of claim 35, wherein the controller is configured to align the first and second gantries with the conveyance flow-path in which the container is to be conveyed.",
+    "37. A gantry system for a container transportation system in which containers are transported via a rail-based conveyance arrangement, the gantry system including: a first gantry for carrying one of the containers to or from a platform, a second gantry for carrying a transportation unit according to any one of claims 1 to 11, said transportation unit being detachably mountable to the container, and \n\n a controller for aligning the first gantry and the second gantry with each other so as to mount the transportation unit onto the container or to unmount the transportation unit from the container.",
+    "38. The gantry system of claim 37, wherein the controller is configured to align the first and second gantries with a conveyance flow-path of the rail-based conveyance arrangement in which the container is to be conveyed.",
+    "39. The gantry system of claim 38, wherein the rail-based conveyance arrangement is a pipe arrangement, the conveyance flow-path being defined by a pipe, and the controller is configured to align the first and second gantries with the pipe in which the container is to be conveyed.",
+    "40. The gantry system of claim 37, 38 or 39, wherein the second gantry is configured or adapted to pluck the transportation unit from a service conveyance flow-path.",
+    "41. The gantry system of claim 40, wherein the rail-based conveyance arrangement is a pipe arrangement, the service conveyance flow-path being defined by a service pipe, and the second gantry is configured or adapted to pluck the transportation unit from the service pipe."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN202180053815.4A",
+      "representative_publication": "CN116157342A",
+      "primary_language": "en",
+      "priority_date": "2020-07-09",
+      "filing_date": "2021-06-28",
+      "title": "container transport system"
+    },
+    {
+      "application_number": "US18/014,734",
+      "representative_publication": "US20230271775A1",
+      "primary_language": "en",
+      "priority_date": "2020-07-09",
+      "filing_date": "2021-06-28",
+      "title": "A container transportation system"
+    },
+    {
+      "application_number": "JP2023501394A",
+      "representative_publication": "JP2023536799A",
+      "primary_language": "en",
+      "priority_date": "2020-07-09",
+      "filing_date": "2021-06-28",
+      "title": "Container transport system"
+    },
+    {
+      "application_number": "EP21838170.5A",
+      "representative_publication": "EP4065446A4",
+      "primary_language": "en",
+      "priority_date": "2020-07-09",
+      "filing_date": "2021-06-28",
+      "title": "CONTAINER TRANSPORT SYSTEM"
+    },
+    {
+      "application_number": "AU2021304542A",
+      "representative_publication": "AU2021304542A1",
+      "primary_language": "en",
+      "priority_date": "2020-07-09",
+      "filing_date": "2021-06-28",
+      "title": "A container transportation system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "AU2020902377",
+      "filing_date": "2020-07-09"
+    },
+    {
+      "application_number": "AU2020902377A",
+      "representative_publication": "AU2020902377A0",
+      "primary_language": "en",
+      "filing_date": "2020-07-09",
+      "title": "A container transportation system"
+    }
+  ],
+  "family_id": "79553339",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3796164A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1970-10-17",
+        "publication_date": "1974-03-12",
+        "assignee_original": "Japan National Railway",
+        "title": "Spacing control method for running bodies operated in a tubular transport system",
+        "patent_id": "patent/US3796164A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3796164A%2Fen"
+      },
+      {
+        "publication_number": "US4922832A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-01-22",
+        "publication_date": "1990-05-08",
+        "assignee_original": "Strick Corporation",
+        "title": "Intermodal road/rail transportation system",
+        "patent_id": "patent/US4922832A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4922832A%2Fen"
+      },
+      {
+        "publication_number": "WO1994027851A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-05-28",
+        "publication_date": "1994-12-08",
+        "assignee_original": "Hollandia Industri\u00eble Maatschappij N.V.",
+        "title": "Transport system and method for transporting containers along a guide track",
+        "patent_id": "patent/WO1994027851A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1994027851A1%2Fen"
+      },
+      {
+        "publication_number": "GB2350339A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-26",
+        "publication_date": "2000-11-29",
+        "assignee_original": "Martin Charles Crossley",
+        "title": "Box height adjusting system for intermodal vehicles",
+        "patent_id": "patent/GB2350339A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2350339A%2Fen"
+      },
+      {
+        "publication_number": "EP1862412A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-05-30",
+        "publication_date": "2007-12-05",
+        "assignee_original": "Denys, Naamloze Vennootschap",
+        "title": "Device for the transport of goods",
+        "patent_id": "patent/EP1862412A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1862412A1%2Fen"
+      },
+      {
+        "publication_number": "US10000222B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-13",
+        "publication_date": "2018-06-19",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Methods and systems of determining end of train location and clearance of trackside points of interest",
+        "patent_id": "patent/US10000222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10000222B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US3570694A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1968-11-26",
+        "publication_date": "1971-03-16",
+        "assignee_original": "Fruehauf Corp",
+        "title": "Separable wheel units for vehiclizing container",
+        "patent_id": "patent/US3570694A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3570694A%2Fen"
+      },
+      {
+        "publication_number": "WO1987004676A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-02-10",
+        "publication_date": "1987-08-13",
+        "assignee_original": "Tommy Ernest Proctor",
+        "title": "Transit system",
+        "patent_id": "patent/WO1987004676A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1987004676A1%2Fen"
+      },
+      {
+        "publication_number": "DE10313769B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-22",
+        "publication_date": "2005-10-06",
+        "assignee_original": "Noell Crane Systems Gmbh",
+        "title": "More Katz container crane",
+        "patent_id": "patent/DE10313769B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10313769B4%2Fen"
+      },
+      {
+        "publication_number": "WO2007116538A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-31",
+        "publication_date": "2007-10-18",
+        "assignee_original": "S & S Engineering Corp.",
+        "title": "Horizontal conveyance mechanism for self-propelled carriage",
+        "patent_id": "patent/WO2007116538A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007116538A1%2Fen"
+      },
+      {
+        "publication_number": "NL2015707B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-02",
+        "publication_date": "2017-05-31",
+        "assignee_original": "Hallcon B V",
+        "title": "Container catch and seafast system.",
+        "patent_id": "patent/NL2015707B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL2015707B1%2Fen"
+      },
+      {
+        "publication_number": "CN109466565B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-29",
+        "publication_date": "2025-01-28",
+        "assignee_original": "\u4e2d\u8f66\u957f\u6c5f\u8f66\u8f86\u6709\u9650\u516c\u53f8",
+        "title": "Bogies for container transfer",
+        "patent_id": "patent/CN109466565B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109466565B%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "See also references of EP4065446A4",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US11325624B2",
+        "primary_language": "en",
+        "priority_date": "2020-05-29",
+        "publication_date": "2022-05-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11325624B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11325624B2%2Fen"
+      },
+      {
+        "publication_number": "US11524709B2",
+        "primary_language": "en",
+        "priority_date": "2021-03-12",
+        "publication_date": "2022-12-13",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11524709B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11524709B2%2Fen"
+      },
+      {
+        "publication_number": "US11548542B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-28",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "System and/or method for platooning",
+        "patent_id": "patent/US11548542B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11548542B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN112298880A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-30",
+        "publication_date": "2021-02-02",
+        "assignee_original": "\u5317\u4eac\u4eac\u4e1c\u4e7e\u77f3\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Warehouse shuttle car",
+        "patent_id": "patent/CN112298880A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112298880A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20230271775A1",
+      "primary_language": "en",
+      "publication_date": "2023-08-31",
+      "title": "A container transportation system",
+      "patent_id": "patent/US20230271775A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230271775A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11174102B2",
+      "primary_language": "en",
+      "publication_date": "2021-11-16",
+      "title": "System for the transfer, storage and distribution of intermodal containers",
+      "patent_id": "patent/US11174102B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11174102B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8206074B2",
+      "primary_language": "en",
+      "publication_date": "2012-06-26",
+      "title": "Port storage and distribution system for international shipping containers",
+      "patent_id": "patent/US8206074B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8206074B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103108776B",
+      "primary_language": "en",
+      "publication_date": "2015-11-25",
+      "title": "systems for handling cargo",
+      "patent_id": "patent/CN103108776B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103108776B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101653672B1",
+      "primary_language": "en",
+      "publication_date": "2016-09-09",
+      "title": "A Container Handling system comprising a crane and a plurality of base elements which can be mounted on top of containers for supporting the crane and transporting the containers",
+      "patent_id": "patent/KR101653672B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101653672B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5890855A",
+      "primary_language": "en",
+      "publication_date": "1999-04-06",
+      "title": "Method and apparatus for transporting cars",
+      "patent_id": "patent/US5890855A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5890855A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH10504507A",
+      "primary_language": "en",
+      "publication_date": "1998-05-06",
+      "title": "Cargo transfer method and equipment",
+      "patent_id": "patent/JPH10504507A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH10504507A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002512149A",
+      "primary_language": "en",
+      "publication_date": "2002-04-23",
+      "title": "Cargo container and cargo transportation method",
+      "patent_id": "patent/JP2002512149A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002512149A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1735547A",
+      "primary_language": "en",
+      "publication_date": "2006-02-15",
+      "title": "Method for loading and unloading",
+      "patent_id": "patent/CN1735547A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1735547A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1745981A1",
+      "primary_language": "en",
+      "publication_date": "2007-01-24",
+      "title": "A transport unit, a transport system and a method",
+      "patent_id": "patent/EP1745981A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1745981A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003505315A",
+      "primary_language": "en",
+      "publication_date": "2003-02-12",
+      "title": "Equipment for storing and transporting large containers",
+      "patent_id": "patent/JP2003505315A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003505315A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114514158B",
+      "primary_language": "en",
+      "publication_date": "2025-02-14",
+      "title": "Improved intermodal system",
+      "patent_id": "patent/CN114514158B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114514158B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "USH2162H1",
+      "primary_language": "en",
+      "publication_date": "2006-07-04",
+      "title": "Container conveyor load transfer",
+      "patent_id": "patent/USH2162H1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSH2162H1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "BE1017692A3",
+      "primary_language": "en",
+      "publication_date": "2009-04-07",
+      "title": "UNDERGROUND TRANSPORT OF GOODS.",
+      "patent_id": "patent/BE1017692A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBE1017692A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "NL9302101A",
+      "primary_language": "en",
+      "publication_date": "1995-07-03",
+      "title": "Method and installation for unloading and/or transferring packaged cargo",
+      "patent_id": "patent/NL9302101A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL9302101A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230122078A1",
+      "primary_language": "en",
+      "publication_date": "2023-04-20",
+      "title": "Cargo containers and methods of using thereof for deliveries using multiple different types of trucks",
+      "patent_id": "patent/US20230122078A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230122078A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "BE1030219A1",
+      "primary_language": "en",
+      "publication_date": "2023-08-21",
+      "title": "System for loading and unloading and transporting containers in a port area",
+      "patent_id": "patent/BE1030219A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBE1030219A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "MXPA04009574A",
+      "primary_language": "en",
+      "publication_date": "2006-04-18",
+      "title": "Device for rapidly transferring containers loaded on railway boxcars into road vehicles.",
+      "patent_id": "patent/MXPA04009574A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMXPA04009574A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "SE524302C2",
+      "primary_language": "en",
+      "publication_date": "2004-07-20",
+      "title": "Method is for handling load bearer on ship, on land with lorry on train and for placing load upon it",
+      "patent_id": "patent/SE524302C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE524302C2%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2022-02-23",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "21838170"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-02",
+      "code": "DPE1",
+      "title": "Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101)"
+    },
+    {
+      "date": "2022-07-08",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2021838170"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Effective date",
+          "value": "20220630"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-06",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2023501394"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "JP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-01",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "202317006511"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "IN"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-10",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-02",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "202180053815.4"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "CN"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-09",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2021304542"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "AU"
+        },
+        {
+          "label": "Date of ref document",
+          "value": "20210628"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-02",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "523442095"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "SA"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-03",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "523442095"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "SA"
+        }
+      ]
+    }
+  ]
+}

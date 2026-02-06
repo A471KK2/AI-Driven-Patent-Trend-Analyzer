@@ -1,0 +1,1283 @@
+{
+  "search_metadata": {
+    "id": "697a346c529e4b3e5a12cfc7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e254314f4c147417/697a346c529e4b3e5a12cfc7.json",
+    "created_at": "2026-01-28 16:08:12 UTC",
+    "processed_at": "2026-01-28 16:08:12 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20170349281A1/en",
+    "raw_html_file": "https://serpapi.com/searches/e254314f4c147417/697a346c529e4b3e5a12cfc7.html",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20170349281A1/en"
+  },
+  "title": "System and Method for Modular Unmanned Aerial System",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/ad/fe/de/cf3ee2d78165ce/US20170349281A1.pdf",
+  "publication_number": "US20170349281A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "uav",
+    "child",
+    "module",
+    "flight",
+    "uas"
+  ],
+  "prior_art_date": "2016-06-02",
+  "application_number": "US15/612,206",
+  "inventors": [
+    {
+      "name": "Jesse R. Quinlan",
+      "link": "https://patents.google.com/?inventor=Jesse+R.+Quinlan",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jesse+R.+Quinlan"
+    },
+    {
+      "name": "Michael D. Patterson",
+      "link": "https://patents.google.com/?inventor=Michael+D.+Patterson",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Michael+D.+Patterson"
+    }
+  ],
+  "assignees": [
+    "National Aeronautics and Space Administration NASA"
+  ],
+  "priority_date": "2016-06-02",
+  "filing_date": "2017-06-02",
+  "publication_date": "2017-12-07",
+  "worldwide_applications": {
+    "2017": [
+      {
+        "filing_date": "2017-06-02",
+        "country_code": "US",
+        "application_number": "US15/612,206",
+        "document_id": "patent/US10196143B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2017-06-02",
+      "title": "Application filed by National Aeronautics and Space Administration NASA",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "National Aeronautics and Space Administration NASA"
+    },
+    {
+      "date": "2017-06-02",
+      "title": "Priority to US15/612,206",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US10196143B2/en"
+    },
+    {
+      "date": "2017-06-28",
+      "title": "Assigned to UNITED STATES OF AMERICA AS REPRESENTED BY THE ADMINISTRATOR OF THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "type": "reassignment",
+      "assignee_search": "UNITED STATES OF AMERICA AS REPRESENTED BY THE ADMINISTRATOR OF THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: QUINLAN, JESSE R., PATTERSON, MICHAEL D."
+      ]
+    },
+    {
+      "date": "2017-12-07",
+      "title": "Publication of US20170349281A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20170349281A1/en"
+    },
+    {
+      "date": "2019-02-05",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2019-02-05",
+      "title": "Publication of US10196143B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10196143B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2037-07-26",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20170349281.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15612206"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20170349281"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017349281A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15612206/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20170349281"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/78/d1/bb/e645ef535d61d7/US20170349281A1-20171207-D00000.png",
+    "https://patentimages.storage.googleapis.com/3b/13/34/4b4b8338bf4466/US20170349281A1-20171207-D00001.png",
+    "https://patentimages.storage.googleapis.com/0a/f6/70/32f6e2a888771e/US20170349281A1-20171207-D00002.png",
+    "https://patentimages.storage.googleapis.com/ee/55/27/97819c7c3d3794/US20170349281A1-20171207-D00003.png",
+    "https://patentimages.storage.googleapis.com/b9/c8/52/f6834754e9cfa5/US20170349281A1-20171207-D00004.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64D5/00",
+      "description": "Aircraft transported by aircraft, e.g. for release or reberthing during flight",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C3/00",
+      "description": "Wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D1/12",
+      "description": "Releasing",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/14",
+      "description": "Variable or detachable wings, e.g. wings with adjustable sweep detachable",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/26",
+      "description": "Ducted or shrouded rotors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U40/20",
+      "description": "On-board mechanical arrangements for adjusting control surfaces or rotors; On-board mechanical arrangements for in-flight adjustment of the base configuration for in-flight adjustment of the base configuration",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/14",
+      "description": "Propulsion using external fans or propellers ducted or shrouded",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/19",
+      "description": "Propulsion using electrically powered motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U70/20",
+      "description": "Launching, take-off or landing arrangements for releasing or capturing UAVs in flight by another aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/021",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/042",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/128",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/162",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/165",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2211/00",
+      "description": "Modular constructions of airplanes or helicopters",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C29/0033",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft having its flight directional axis horizontal when grounded the lift during taking-off being created by free or ducted propellers or by blowers the propellers being tiltable relative to the fuselage",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A modular Unmanned Aerial System (UAS) has first and second flight configurations, and includes an Unmanned Aerial Vehicle (UAV) parent module and a plurality of UAV child modules. The parent module may have a fuselage, forward and aft wings connected to the fuselage, and a first plurality of flight propulsion devices. The child modules have a corresponding second plurality of flight propulsion devices. Each child module docks wingtip-to-wingtip with the parent module or an adjacent edge of a child module using the docking mechanisms. The child modules undock and separate from the forward wing and each other, and achieve controlled flight independently of the parent module while in the second flight configuration. A method for controlling the modular UAS is also disclosed.",
+  "description_link": "https://serpapi.com/searches/697a346c529e4b3e5a12cfc7/google_patents_details/description.html",
+  "claims": [
+    "1. A modular unmanned aerial system (UAS) having a first and a second flight configuration, the modular UAS comprising:\nan unmanned aerial vehicle (UAV) parent module comprising:\na forward wing disposed on a fuselage with a first and a second distal end,\na first docking mechanism disposed on the first distal end and a second docking mechanism disposed on the second distal end,\na secondary wing disposed on the fuselage aft of the forward wing, and\na parent flight propulsion system;\n a first and second UAV child module each having a child flight propulsion system and a child docking mechanism, wherein the docking mechanism of the first UAV child module is configured to connect to the first docking mechanism of the UAV parent module, and the docking mechanism of the second UAV child module is configured to connect to the second docking mechanism of the UAV parent module, wherein the UAV child modules form an integral part of the forward wing and extend the wingspan of the forward wing; and wherein the first flight configuration comprises connecting the UAV child modules to the UAV parent module, wherein the second flight configuration comprises separating the UAV child modules from the UAV parent module during aerial flight and the UAV child modules achieving flight independently of the UAV parent module, and wherein the UAS is capable of returning to the first flight configuration from the second flight configuration during aerial flight.",
+    "2. The modular UAS of claim 1, further comprising:\na third and fourth UAV child module each having a child flight propulsion system and a child docking mechanism, wherein the docking mechanism of the third UAV child module is configured to connect to the docking mechanism of the first UAV child module, and the docking mechanism of the fourth UAV child module is configured to connect to the docking mechanism of the second UAV child module.",
+    "3. The modular UAS of claim 2, wherein the propulsion devices include propellers.",
+    "4. The modular UAS of claim 1, further comprising a fuel tank positioned within or connected to the fuselage, and powered using chemical energy from a supply of fuel in the fuel tank.",
+    "5. The modular UAS of claim 1, further comprising a main battery positioned within or connected to the fuselage, wherein the propulsion devices are powered using electrical energy from the main battery.",
+    "6. The modular UAS of claim 1, wherein the propulsion devices further each include a pair of ducted rotors.",
+    "7. The modular UAS of claim 1, wherein each of the UAV child modules includes a corresponding energy storage system, and wherein the propulsion devices of each UAV child module is powered using energy from the corresponding energy storage system.",
+    "8. The modular UAS of claim 8, wherein the energy is electrical energy.",
+    "9. The modular UAS of claim 1, further comprising:\na plurality of radio frequency (RF) transceivers connected to the UAV parent module and each of the UAV child modules, wherein the UAV parent module and the UAV child modules are configured to remotely communicate with each other using the RF transceivers during at least the second flight configuration.",
+    "10. The modular UAS of claim 1, wherein each of the docking mechanisms includes a probe and a receptacle configured to engage with a corresponding receptacle and probe of an adjacent one of the UAV child modules or the UAV parent module.",
+    "11. The modular UAS of claim 1, wherein the docking mechanisms include a set of magnets.",
+    "12. The modular UAS of claim 1, wherein the docking mechanisms include an actuator device configured to selectively couple with and engage an adjacent one of the UAV child modules or the UAV parent module.",
+    "13. A method of operating a modular unmanned aerial system (UAS) having a first and a second flight configuration during aerial flight, comprising:\nproviding a modular UAS comprising:\nan unmanned aerial vehicle (UAV) parent module comprising:\na forward wing disposed on a fuselage with a first and a second distal end,\na first docking mechanism disposed on the first distal end and a second docking mechanism disposed on the second distal end,\na secondary wing disposed on the fuselage aft of the forward wing, and\na parent flight propulsion system;\n providing a first and second UAV child module each having a child flight propulsion system and a child docking mechanism, wherein the docking mechanism of the first UAV child module is configured to connect to the first docking mechanism of the UAV parent module, and the docking mechanism of the second UAV child module is configured to connect to the second docking mechanism of the UAV parent module, wherein the UAV child modules form an integral part of the forward wing and extend the wingspan of the forward wing; forming the first flight configuration by connecting the UAV child modules to the UAV parent module; forming the second flight configuration by separating the UAV child modules from the UAV parent module during aerial flight, wherein the UAV child modules achieve flight independent of the UAV parent module; returning to the first flight configuration from the second flight configuration during aerial flight.",
+    "14. The method of claim 13, wherein forming the second flight configuration includes delivering one or more payloads to a corresponding destination using at least one of the UAV child modules.",
+    "15. The method of claim 16, wherein the modular UAS further comprises: a third and fourth UAV child module each having a child flight propulsion system and a child docking mechanism, wherein the docking mechanism of the third UAV child module is configured to connect to the docking mechanism of the first UAV child module, and the docking mechanism of the fourth UAV child module is configured to connect to the docking mechanism of the second UAV child module",
+    "16. The method of claim 15, wherein the UAV parent module and the UAV child modules each include a corresponding radio frequency (RF) transceiver, the method further comprising: communicating with each of the UAV child modules, via the UAV parent module using the RF transceivers, while in the second flight configuration.",
+    "17. The method of claim 16, wherein docking the first and second distal ends of the UAV parent module to the plurality of UAV child modules includes magnetically aligning the UAV parent module with an adjacent UAV child module using a plurality of magnets.",
+    "18. A modular unmanned aerial system (UAS) having a first and a second flight configuration, the modular UAS comprising:\nan unmanned aerial vehicle (UAV) parent module comprising:\na forward wing disposed on a fuselage with a first and a second distal end,\na plurality of docking mechanisms disposed on the first and second distal ends,\na secondary wing disposed on the fuselage aft of the forward wing, and\na parent flight propulsion system;\n a plurality of UAV child modules each having a child flight propulsion system and a child docking mechanism, wherein the docking mechanisms of the plurality of UAV child modules are configured to connect to the plurality of docking mechanisms of the UAV parent module, wherein the UAV child modules form an integral part of the forward wing and extend the wingspan of the forward wing; and wherein the first flight configuration comprises connecting the UAV child modules to the UAV parent module, wherein the second flight configuration comprises separating the UAV child modules from the UAV parent module during aerial flight and the UAV child modules achieving flight independently of the UAV parent module, and wherein the UAS is capable of returning to the first flight configuration from the second flight configuration during aerial flight.",
+    "19. The modular UAS of claim 18, further comprising a main battery positioned within or connected to the fuselage, wherein the propulsion devices are powered using electrical energy from the main battery.",
+    "20. The modular UAS of claim 19, further comprising: a plurality of radio frequency (RF) transceivers connected to the UAV parent module and each of the UAV child modules, wherein the UAV parent module and the UAV child modules are configured to remotely communicate with each other using the RF transceivers during at least the second flight configuration."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/612,206",
+      "representative_publication": "US10196143B2",
+      "primary_language": "en",
+      "priority_date": "2016-06-02",
+      "filing_date": "2017-06-02",
+      "title": "System and method for modular unmanned aerial system"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201662344728P",
+      "priority_date": "2016-06-02",
+      "filing_date": "2016-06-02"
+    },
+    {
+      "application_number": "US15/612,206",
+      "representative_publication": "US10196143B2",
+      "primary_language": "en",
+      "priority_date": "2016-06-02",
+      "filing_date": "2017-06-02",
+      "title": "System and method for modular unmanned aerial system"
+    }
+  ],
+  "family_id": "60483025",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US3640491A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1970-04-15",
+        "publication_date": "1972-02-08",
+        "assignee_original": "Robert R Harrison",
+        "title": "Airplane construction frame",
+        "patent_id": "patent/US3640491A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3640491A%2Fen"
+      },
+      {
+        "publication_number": "US3669385A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1970-10-08",
+        "publication_date": "1972-06-13",
+        "assignee_original": "Fairchild Industries",
+        "title": "Aircraft of improved and simplified construction",
+        "patent_id": "patent/US3669385A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3669385A%2Fen"
+      },
+      {
+        "publication_number": "US4741497A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-11-23",
+        "publication_date": "1988-05-03",
+        "assignee_original": "Fox Brothers Limited Partnership",
+        "title": "Graduated aircraft design and construction method",
+        "patent_id": "patent/US4741497A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4741497A%2Fen"
+      },
+      {
+        "publication_number": "US6126113A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-21",
+        "publication_date": "2000-10-03",
+        "assignee_original": "Navickas; Thomas Joseph",
+        "title": "Helicopter removable drive train platform",
+        "patent_id": "patent/US6126113A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6126113A%2Fen"
+      },
+      {
+        "publication_number": "US5975464A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-22",
+        "publication_date": "1999-11-02",
+        "assignee_original": "Scaled Composites, Inc.",
+        "title": "Aircraft with removable structural payload module",
+        "patent_id": "patent/US5975464A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5975464A%2Fen"
+      },
+      {
+        "publication_number": "CN1420829A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-14",
+        "publication_date": "2003-05-28",
+        "assignee_original": "\u5a01\u7f57\u95e8\u98de\u884c\u516c\u53f8",
+        "title": "Aircraft",
+        "patent_id": "patent/CN1420829A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1420829A%2Fen"
+      },
+      {
+        "publication_number": "US7237750B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-29",
+        "publication_date": "2007-07-03",
+        "assignee_original": "L3 Communications",
+        "title": "Autonomous, back-packable computer-controlled breakaway unmanned aerial vehicle (UAV)",
+        "patent_id": "patent/US7237750B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7237750B2%2Fen"
+      },
+      {
+        "publication_number": "US7789339B2",
+        "primary_language": "en",
+        "priority_date": "2005-07-07",
+        "publication_date": "2010-09-07",
+        "assignee_original": "Sommer Geoffrey S",
+        "title": "Modular articulated-wing aircraft",
+        "patent_id": "patent/US7789339B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7789339B2%2Fen"
+      },
+      {
+        "publication_number": "US7922115B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-21",
+        "publication_date": "2011-04-12",
+        "assignee_original": "Colgren Richard D",
+        "title": "Modular unmanned air-vehicle",
+        "patent_id": "patent/US7922115B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7922115B2%2Fen"
+      },
+      {
+        "publication_number": "US20090294573A1",
+        "primary_language": "en",
+        "priority_date": "2006-05-23",
+        "publication_date": "2009-12-03",
+        "assignee_original": "Wilson Samuel B",
+        "title": "Dual-Use Modular Propulsion surveillance Vehicle with Detachable Unmanned Airborne Vehicles",
+        "patent_id": "patent/US20090294573A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090294573A1%2Fen"
+      },
+      {
+        "publication_number": "US8061646B2",
+        "primary_language": "en",
+        "priority_date": "2007-09-14",
+        "publication_date": "2011-11-22",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Wing tip docking system for aircraft",
+        "patent_id": "patent/US8061646B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8061646B2%2Fen"
+      },
+      {
+        "publication_number": "WO2011011089A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-22",
+        "publication_date": "2011-01-27",
+        "assignee_original": "Aerovironment Inc.",
+        "title": "Reconfigurable aircraft",
+        "patent_id": "patent/WO2011011089A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011011089A1%2Fen"
+      },
+      {
+        "publication_number": "US8774982B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-26",
+        "publication_date": "2014-07-08",
+        "assignee_original": "Leptron Industrial Robotic Helicopters, Inc.",
+        "title": "Helicopter with multi-rotors and wireless capability",
+        "patent_id": "patent/US8774982B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8774982B2%2Fen"
+      },
+      {
+        "publication_number": "ES2960524T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-05",
+        "publication_date": "2024-03-05",
+        "assignee_original": "Tamarack Aerospace Group Inc",
+        "title": "Periodic load control of airflow modification controllable device",
+        "patent_id": "patent/ES2960524T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2960524T3%2Fen"
+      },
+      {
+        "publication_number": "US9075415B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-11",
+        "publication_date": "2015-07-07",
+        "assignee_original": "Airphrame, Inc.",
+        "title": "Unmanned aerial vehicle and methods for controlling same",
+        "patent_id": "patent/US9075415B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9075415B2%2Fen"
+      },
+      {
+        "publication_number": "US20160244160A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-09",
+        "publication_date": "2016-08-25",
+        "assignee_original": "FourthWing Sensors, LLC",
+        "title": "Convertible unmanned aerial vehicle",
+        "patent_id": "patent/US20160244160A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160244160A1%2Fen"
+      },
+      {
+        "publication_number": "US9429954B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-20",
+        "publication_date": "2016-08-30",
+        "assignee_original": "Google Inc.",
+        "title": "Flight control for an airborne wind turbine",
+        "patent_id": "patent/US9429954B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9429954B2%2Fen"
+      },
+      {
+        "publication_number": "US9714087B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-05",
+        "publication_date": "2017-07-25",
+        "assignee_original": "Hari Matsuda",
+        "title": "Winged multi-rotor flying craft with payload accomodating shifting structure and automatic payload delivery",
+        "patent_id": "patent/US9714087B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9714087B2%2Fen"
+      },
+      {
+        "publication_number": "US10807728B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-20",
+        "publication_date": "2020-10-20",
+        "assignee_original": "The Boeing Company",
+        "title": "Solar powered airplane",
+        "patent_id": "patent/US10807728B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10807728B2%2Fen"
+      },
+      {
+        "publication_number": "US9919797B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-04",
+        "publication_date": "2018-03-20",
+        "assignee_original": "Elwha Llc",
+        "title": "System and method for operation and management of reconfigurable unmanned aircraft",
+        "patent_id": "patent/US9919797B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9919797B2%2Fen"
+      },
+      {
+        "publication_number": "US9994298B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-30",
+        "publication_date": "2018-06-12",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "System for embedded removable aperture",
+        "patent_id": "patent/US9994298B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9994298B2%2Fen"
+      },
+      {
+        "publication_number": "WO2017096478A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-11",
+        "publication_date": "2017-06-15",
+        "assignee_original": "Coriolis Games Corporation",
+        "title": "Hybrid multicopter and fixed wing aerial vehicle",
+        "patent_id": "patent/WO2017096478A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017096478A1%2Fen"
+      },
+      {
+        "publication_number": "US10926874B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-15",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Hybrid propulsion vertical take-off and landing aircraft",
+        "patent_id": "patent/US10926874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926874B2%2Fen"
+      },
+      {
+        "publication_number": "US9875660B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-28",
+        "publication_date": "2018-01-23",
+        "assignee_original": "Cisco Technology, Inc.",
+        "title": "Multi-modal UAV certification",
+        "patent_id": "patent/US9875660B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9875660B2%2Fen"
+      },
+      {
+        "publication_number": "US9505484B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-11",
+        "publication_date": "2016-11-29",
+        "assignee_original": "Nasser M. Al-Sabah",
+        "title": "Modular aircraft system",
+        "patent_id": "patent/US9505484B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9505484B1%2Fen"
+      },
+      {
+        "publication_number": "CA3022379C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-29",
+        "publication_date": "2021-03-23",
+        "assignee_original": "United Parcel Service Of America, Inc.",
+        "title": "Unmanned aerial vehicle pick-up and delivery systems",
+        "patent_id": "patent/CA3022379C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3022379C%2Fen"
+      },
+      {
+        "publication_number": "US10501193B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-01",
+        "publication_date": "2019-12-10",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Aircraft having a versatile propulsion system",
+        "patent_id": "patent/US10501193B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10501193B2%2Fen"
+      },
+      {
+        "publication_number": "US10232940B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-09",
+        "publication_date": "2019-03-19",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Methods and systems for raising and lowering a payload",
+        "patent_id": "patent/US10232940B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10232940B2%2Fen"
+      },
+      {
+        "publication_number": "US10000285B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-09",
+        "publication_date": "2018-06-19",
+        "assignee_original": "X Development Llc",
+        "title": "Methods and systems for detecting and resolving failure events when raising and lowering a payload",
+        "patent_id": "patent/US10000285B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10000285B2%2Fen"
+      },
+      {
+        "publication_number": "US11014666B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-23",
+        "publication_date": "2021-05-25",
+        "assignee_original": "Skydio, Inc.",
+        "title": "Airframe",
+        "patent_id": "patent/US11014666B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11014666B2%2Fen"
+      },
+      {
+        "publication_number": "US10189565B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-02",
+        "publication_date": "2019-01-29",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+        "title": "Modular unmanned aerial system with multi-mode propulsion",
+        "patent_id": "patent/US10189565B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10189565B2%2Fen"
+      },
+      {
+        "publication_number": "US10604245B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-30",
+        "publication_date": "2020-03-31",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Rotor units having asymmetric rotor blades",
+        "patent_id": "patent/US10604245B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10604245B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20180086458A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-23",
+        "publication_date": "2018-03-29",
+        "assignee_original": "Unmanned Innovation Inc. (dba Airware)",
+        "title": "Airframe",
+        "patent_id": "patent/US20180086458A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180086458A1%2Fen"
+      },
+      {
+        "publication_number": "US10046666B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-05",
+        "publication_date": "2018-08-14",
+        "assignee_original": "Ningbo Wise Digital Technology Co., Ltd",
+        "title": "Vehicle comprising a bifunctional structural part",
+        "patent_id": "patent/US10046666B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10046666B2%2Fen"
+      },
+      {
+        "publication_number": "CN109334968A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-06",
+        "publication_date": "2019-02-15",
+        "assignee_original": "\u9177\u9ed1\u79d1\u6280\uff08\u5317\u4eac\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Ducted aircraft capable of aerial real-time reconfiguration, docking and separation method and system",
+        "patent_id": "patent/CN109334968A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109334968A%2Fen"
+      },
+      {
+        "publication_number": "USD843306S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-12",
+        "publication_date": "2019-03-19",
+        "assignee_original": "Kitty Hawk Corporation",
+        "title": "Aircraft",
+        "patent_id": "patent/USD843306S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD843306S1%2Fen"
+      },
+      {
+        "publication_number": "USD843919S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-12",
+        "publication_date": "2019-03-26",
+        "assignee_original": "Kitty Hawk Corporation",
+        "title": "Aircraft",
+        "patent_id": "patent/USD843919S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD843919S1%2Fen"
+      },
+      {
+        "publication_number": "US10249200B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-22",
+        "publication_date": "2019-04-02",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Deployable delivery guidance",
+        "patent_id": "patent/US10249200B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10249200B1%2Fen"
+      },
+      {
+        "publication_number": "US20190185158A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-20",
+        "publication_date": "2019-06-20",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Methods and Systems for Self-Deployment of Operational Infrastructure by an Unmanned Aerial Vehicle (UAV)",
+        "patent_id": "patent/US20190185158A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190185158A1%2Fen"
+      },
+      {
+        "publication_number": "CN110254745A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-03",
+        "publication_date": "2019-09-20",
+        "assignee_original": "\u897f\u5b89\u98de\u673a\u5de5\u4e1a\uff08\u96c6\u56e2\uff09\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "A kind of modularization flying wing type multimachine body aircraft joining method",
+        "patent_id": "patent/CN110254745A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110254745A%2Fen"
+      },
+      {
+        "publication_number": "EP3578461A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-06",
+        "publication_date": "2019-12-11",
+        "assignee_original": "Donghan Solar UAV Technology Co., Ltd",
+        "title": "Wing unit of unmanned aerial vehicle and unmanned aerial vehicle",
+        "patent_id": "patent/EP3578461A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3578461A1%2Fen"
+      },
+      {
+        "publication_number": "US10953984B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-20",
+        "publication_date": "2021-03-23",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Methods and systems for using an unmanned aerial vehicle (UAV) dedicated to deployment of operational infrastructure",
+        "patent_id": "patent/US10953984B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10953984B2%2Fen"
+      },
+      {
+        "publication_number": "US20210109516A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-15",
+        "publication_date": "2021-04-15",
+        "assignee_original": "Aurora Flight Sciences Corporation, a subsidiary of The Boeing Company",
+        "title": "Systems and methods for surveillance",
+        "patent_id": "patent/US20210109516A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210109516A1%2Fen"
+      },
+      {
+        "publication_number": "US11208197B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-31",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Heka Aero LLC",
+        "title": "Gimbaled fan",
+        "patent_id": "patent/US11208197B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11208197B2%2Fen"
+      },
+      {
+        "publication_number": "US11292596B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-05",
+        "publication_date": "2022-04-05",
+        "assignee_original": "The Boeing Company",
+        "title": "Unmanned aerial vehicle",
+        "patent_id": "patent/US11292596B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11292596B2%2Fen"
+      },
+      {
+        "publication_number": "US20220242563A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-23",
+        "publication_date": "2022-08-04",
+        "assignee_original": "Autel Robotics Co., Ltd.",
+        "title": "Unmanned aerial vehicle",
+        "patent_id": "patent/US20220242563A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220242563A1%2Fen"
+      },
+      {
+        "publication_number": "USD969671S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-04",
+        "publication_date": "2022-11-15",
+        "assignee_original": "Matteo Trapani",
+        "title": "Delivery drone",
+        "patent_id": "patent/USD969671S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD969671S1%2Fen"
+      },
+      {
+        "publication_number": "US20230113483A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-07",
+        "publication_date": "2023-04-13",
+        "assignee_original": "Stephen Favis",
+        "title": "Aerial vehicle with multi axis engine",
+        "patent_id": "patent/US20230113483A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230113483A1%2Fen"
+      },
+      {
+        "publication_number": "US20240092510A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-13",
+        "publication_date": "2024-03-21",
+        "assignee_original": "Firestorm Labs, Inc.",
+        "title": "Mission-adaptable aerial vehicle and methods for in-field assembly and use",
+        "patent_id": "patent/US20240092510A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240092510A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "GB2630148A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-05-19",
+        "publication_date": "2024-11-20",
+        "assignee_original": "Modini Ltd",
+        "title": "Unmanned aerial vehicle electronics",
+        "patent_id": "patent/GB2630148A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2630148A%2Fen"
+      },
+      {
+        "publication_number": "US12486017B2",
+        "primary_language": "en",
+        "priority_date": "2024-03-13",
+        "publication_date": "2025-12-02",
+        "assignee_original": "Firestorm Labs, Inc.",
+        "title": "Additive manufactured integral fastening system for mission adaptable unmanned aerial vehicles",
+        "patent_id": "patent/US12486017B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12486017B2%2Fen"
+      },
+      {
+        "publication_number": "US12522384B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-09",
+        "publication_date": "2026-01-13",
+        "assignee_original": "Arashi Vision Inc.",
+        "title": "Unmanned aerial vehicle",
+        "patent_id": "patent/US12522384B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12522384B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US10569857B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-07",
+        "publication_date": "2020-02-25",
+        "assignee_original": "Carbon Flyer LLC",
+        "title": "Aircraft body and method of making the same",
+        "patent_id": "patent/US10569857B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10569857B2%2Fen"
+      },
+      {
+        "publication_number": "IL247772B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-12",
+        "publication_date": "2022-05-01",
+        "assignee_original": "Israel Aerospace Ind Ltd",
+        "title": "Modular vehicle system",
+        "patent_id": "patent/IL247772B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL247772B%2Fen"
+      },
+      {
+        "publication_number": "EP3526119B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-13",
+        "publication_date": "2021-12-01",
+        "assignee_original": "Alexander Poltorak",
+        "title": "Apparatus and method for balancing aircraft with robotic arms",
+        "patent_id": "patent/EP3526119B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3526119B1%2Fen"
+      },
+      {
+        "publication_number": "JP7019812B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-01",
+        "publication_date": "2022-02-15",
+        "assignee_original": "\u30b8\u30c3\u30d7\u30e9\u30a4\u30f3 \u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "Unmanned aerial vehicle system with replaceable components",
+        "patent_id": "patent/JP7019812B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7019812B2%2Fen"
+      },
+      {
+        "publication_number": "US10618627B2",
+        "primary_language": "en",
+        "priority_date": "2018-02-13",
+        "publication_date": "2020-04-14",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Rudder twist lock method and apparatus",
+        "patent_id": "patent/US10618627B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10618627B2%2Fen"
+      },
+      {
+        "publication_number": "IL267971B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-10",
+        "publication_date": "2022-05-01",
+        "assignee_original": "Israel Aerospace Ind Ltd",
+        "title": "Air vehicle system",
+        "patent_id": "patent/IL267971B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL267971B%2Fen"
+      },
+      {
+        "publication_number": "US11753174B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-19",
+        "publication_date": "2023-09-12",
+        "assignee_original": "Pratt & Whitney Canada Corp.",
+        "title": "Systems and methods for aircraft wing plug",
+        "patent_id": "patent/US11753174B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11753174B2%2Fen"
+      },
+      {
+        "publication_number": "DE102022200011B3",
+        "primary_language": "en",
+        "priority_date": "2022-01-03",
+        "publication_date": "2023-05-17",
+        "assignee_original": "Volkswagen Aktiengesellschaft",
+        "title": "Modular flight system for transporting objects in the air and method for operating a modular flight system",
+        "patent_id": "patent/DE102022200011B3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102022200011B3%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10196143B2",
+      "primary_language": "en",
+      "publication_date": "2019-02-05",
+      "title": "System and method for modular unmanned aerial system",
+      "patent_id": "patent/US10196143B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10196143B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10189565B2",
+      "primary_language": "en",
+      "publication_date": "2019-01-29",
+      "title": "Modular unmanned aerial system with multi-mode propulsion",
+      "patent_id": "patent/US10189565B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10189565B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3604001B1",
+      "primary_language": "en",
+      "publication_date": "2022-02-23",
+      "title": "Modular aircraft assembly for airborne and ground transport",
+      "patent_id": "patent/EP3604001B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3604001B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7922115B2",
+      "primary_language": "en",
+      "publication_date": "2011-04-12",
+      "title": "Modular unmanned air-vehicle",
+      "patent_id": "patent/US7922115B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7922115B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8925857B2",
+      "primary_language": "en",
+      "publication_date": "2015-01-06",
+      "title": "In-line staged horizontal takeoff vehicles and related methods",
+      "patent_id": "patent/US8925857B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8925857B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3290337B1",
+      "primary_language": "en",
+      "publication_date": "2019-02-27",
+      "title": "Aircraft having dual rotor-to-wing conversion capabilities",
+      "patent_id": "patent/EP3290337B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3290337B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9714090B2",
+      "primary_language": "en",
+      "publication_date": "2017-07-25",
+      "title": "Aircraft for vertical take-off and landing",
+      "patent_id": "patent/US9714090B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9714090B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA3096609C",
+      "primary_language": "en",
+      "publication_date": "2023-09-26",
+      "title": "Convertible biplane aircraft for autonomous cargo delivery",
+      "patent_id": "patent/CA3096609C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3096609C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10814973B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-27",
+      "title": "Aircraft having M-wing and gull wing configurations",
+      "patent_id": "patent/US10814973B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10814973B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9505484B1",
+      "primary_language": "en",
+      "publication_date": "2016-11-29",
+      "title": "Modular aircraft system",
+      "patent_id": "patent/US9505484B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9505484B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10864988B2",
+      "primary_language": "en",
+      "publication_date": "2020-12-15",
+      "title": "Aircraft having split wing and monoplane configurations",
+      "patent_id": "patent/US10864988B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10864988B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3290334A1",
+      "primary_language": "en",
+      "publication_date": "2018-03-07",
+      "title": "Aircraft for vertical take-off and landing",
+      "patent_id": "patent/EP3290334A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3290334A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4011773B1",
+      "primary_language": "en",
+      "publication_date": "2023-07-05",
+      "title": "Detect and avoid sensor integration",
+      "patent_id": "patent/EP4011773B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4011773B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2016200502A2",
+      "primary_language": "en",
+      "publication_date": "2016-12-15",
+      "title": "Remotely controlled modular vtol aircraft and re-configurable system using same",
+      "patent_id": "patent/WO2016200502A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016200502A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240208642A1",
+      "primary_language": "en",
+      "publication_date": "2024-06-27",
+      "title": "A vertical take-off and landing aircraft, methods and systems for controlling a vertical take-off and landing aircraft",
+      "patent_id": "patent/US20240208642A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240208642A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190276129A1",
+      "primary_language": "en",
+      "publication_date": "2019-09-12",
+      "title": "Modular payload airframe section",
+      "patent_id": "patent/US20190276129A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190276129A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10059428B2",
+      "primary_language": "en",
+      "publication_date": "2018-08-28",
+      "title": "Inflight connection of aircraft",
+      "patent_id": "patent/US10059428B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10059428B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2506109B1",
+      "primary_language": "en",
+      "publication_date": "2020-06-17",
+      "title": "Flight path control system for aircraft",
+      "patent_id": "patent/EP2506109B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2506109B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210253239A1",
+      "primary_language": "en",
+      "publication_date": "2021-08-19",
+      "title": "Tail sitter stop-fold aircraft",
+      "patent_id": "patent/US20210253239A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210253239A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108657465A",
+      "primary_language": "en",
+      "publication_date": "2018-10-16",
+      "title": "It is a kind of take off vertically, the sub- In-Orbit Plane of horizontal landing",
+      "patent_id": "patent/CN108657465A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108657465A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4151525B1",
+      "primary_language": "en",
+      "publication_date": "2023-08-09",
+      "title": "Convertible staggerwing aircraft having optimized hover power",
+      "patent_id": "patent/EP4151525B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4151525B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11575614759022721752",
+      "scholar_authors": "Quinlan et al.",
+      "publication_date": "2019",
+      "title": "System and method for modular unmanned aerial system",
+      "patent_id": "scholar/11575614759022721752",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11575614759022721752"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11530035B2",
+      "primary_language": "en",
+      "publication_date": "2022-12-20",
+      "title": "VTOL aircraft having multiple wing planforms",
+      "patent_id": "patent/US11530035B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11530035B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14981645418259864458",
+      "scholar_authors": "Patterson et al.",
+      "publication_date": "2019",
+      "title": "Modular unmanned aerial system with multi-mode propulsion",
+      "patent_id": "scholar/14981645418259864458",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14981645418259864458"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6335101424238415004",
+      "scholar_authors": "Cabarbaye et al.",
+      "publication_date": "2016",
+      "title": "VTOL aircraft concept, suitable for unmanned applications, with equivalent performance compared to conventional aeroplane",
+      "patent_id": "scholar/6335101424238415004",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6335101424238415004"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-06-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "UNITED STATES OF AMERICA AS REPRESENTED BY THE ADM"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:QUINLAN, JESSE R.;PATTERSON, MICHAEL D.;SIGNING DATES FROM 20170621 TO 20170628;REEL/FRAME:042852/0579"
+        }
+      ]
+    },
+    {
+      "date": "2019-01-16",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-26",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-13",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-13",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-04",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20230205"
+        }
+      ]
+    }
+  ]
+}

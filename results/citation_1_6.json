@@ -1,0 +1,1542 @@
+{
+  "search_metadata": {
+    "id": "697a39c76372f38487f1883c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5851e4b88bfc0185/697a39c76372f38487f1883c.json",
+    "created_at": "2026-01-28 16:31:03 UTC",
+    "processed_at": "2026-01-28 16:31:03 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CA2476799A1/en",
+    "raw_html_file": "https://serpapi.com/searches/5851e4b88bfc0185/697a39c76372f38487f1883c.html",
+    "total_time_taken": 1.93
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CA2476799A1/en"
+  },
+  "title": "Biodegradable molded articles coated to impart hydrophobicity",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/fe/ba/67/cde604805eb21a/CA2476799A1.pdf",
+  "publication_number": "CA2476799A1",
+  "country": "Canada",
+  "prior_art_keywords": [
+    "molded article",
+    "biodegradable",
+    "starch",
+    "set forth",
+    "derivative"
+  ],
+  "prior_art_date": "2002-02-21",
+  "application_number": "CA 2476799",
+  "inventors": [
+    {
+      "name": "Akio Ozasa",
+      "link": "https://patents.google.com/?inventor=Akio+Ozasa",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Akio+Ozasa"
+    },
+    {
+      "name": "Akihisa Hashimoto",
+      "link": "https://patents.google.com/?inventor=Akihisa+Hashimoto",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Akihisa+Hashimoto"
+    },
+    {
+      "name": "Shinji Tanaka",
+      "link": "https://patents.google.com/?inventor=Shinji+Tanaka",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Shinji+Tanaka"
+    }
+  ],
+  "assignees": [
+    "Nissei Co Ltd"
+  ],
+  "priority_date": "2002-02-21",
+  "filing_date": "2003-02-20",
+  "publication_date": "2003-08-28",
+  "worldwide_applications": {
+    "2003": [
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "CN",
+        "application_number": "CN038043785A",
+        "document_id": "patent/CN1639243B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "US",
+        "application_number": "US10/505,157",
+        "document_id": "patent/US20050202229A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "JP",
+        "application_number": "JP2003569718A",
+        "document_id": "patent/JP4291699B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "KR",
+        "application_number": "KR1020047012884A",
+        "document_id": "patent/KR100777483B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "WO",
+        "application_number": "PCT/JP2003/001858",
+        "document_id": "patent/WO2003070814A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "AU",
+        "application_number": "AU2003211573A",
+        "document_id": "patent/AU2003211573B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "EP",
+        "application_number": "EP03705349A",
+        "document_id": "patent/EP1486532A4/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "NZ",
+        "application_number": "NZ535124A",
+        "document_id": "patent/NZ535124A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "2003-02-20",
+        "country_code": "CA",
+        "application_number": "CA 2476799",
+        "document_id": "patent/CA2476799C/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ],
+    "2008": [
+      {
+        "filing_date": "2008-09-03",
+        "country_code": "US",
+        "application_number": "US12/230,691",
+        "document_id": "patent/US8187514B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2008-11-20",
+        "country_code": "JP",
+        "application_number": "JP2008297336A",
+        "document_id": "patent/JP5043807B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-02-20",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2003-08-28",
+      "title": "Publication of CA2476799A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CA2476799A1/en"
+    },
+    {
+      "date": "2010-02-02",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-02-02",
+      "title": "Publication of CA2476799C",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CA2476799C/en"
+    },
+    {
+      "date": "2023-02-20",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CA&NR=2476799A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CA/2476799/1"
+    },
+    {
+      "text": "CIPO",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2476799/summary.html"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CA2476799A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "B29C43/206",
+      "description": "Making multilayered articles by pressing the material between two preformed layers, e.g. deformable layers",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/36",
+      "description": "After-treatment",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C43/003",
+      "description": "Compression moulding, i.e. applying external pressure to flow the moulding material; Apparatus therefor characterised by the choice of material",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C43/184",
+      "description": "Compression moulding, i.e. applying external pressure to flow the moulding material; Apparatus therefor of articles of definite length, i.e. discrete articles incorporating preformed parts or layers, e.g. compression moulding around inserts or for coating articles the preformed layer being a lining, e.g. shaped in the mould before compression moulding, or a preformed shell adapted to the shape of the mould shaped by the compression of the material during moulding",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C44/12",
+      "description": "Incorporating or moulding on preformed parts, e.g. inserts or reinforcements",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C44/3426",
+      "description": "Heating by introducing steam in the mould",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D65/466",
+      "description": "Bio- or photodegradable packaging materials",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J5/00",
+      "description": "Manufacture of articles or shaped materials containing macromolecular substances",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/12",
+      "description": "Working-up of macromolecular substances to porous or cellular articles or materials; After-treatment thereof using blowing gases generated by a previously added blowing agent by a physical blowing agent",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C2043/3615",
+      "description": "Forming elements, e.g.\u00a0mandrels or rams or stampers or pistons or plungers or punching devices",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C43/361",
+      "description": "Moulds for making articles of definite length, i.e. discrete articles with pressing members independently movable of the parts for opening or closing the mould, e.g. movable pistons",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29C44/14",
+      "description": "Incorporating or moulding on preformed parts, e.g. inserts or reinforcements the preformed part being a lining",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29K2003/00",
+      "description": "Use of starch or derivatives as moulding material",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29K2029/04",
+      "description": "PVOH, i.e. polyvinyl alcohol",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29K2105/04",
+      "description": "Condition, form or state of moulded material or of the material to be shaped cellular or porous",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29K2995/006",
+      "description": "Bio-degradable, e.g. bioabsorbable, bioresorbable or bioerodible",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29L2031/712",
+      "description": "Containers; Packaging elements or accessories, Packages",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B29L2031/7132",
+      "description": "Bowls, Cups, Glasses",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02W90/10",
+      "description": "Bio-packaging, e.g. packing containers made from renewable resources or bio-plastics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/249953",
+      "description": "Composite having voids in a component [e.g., porous, cellular, etc.]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/249987",
+      "description": "With nonvoid component of specified composition",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/249989",
+      "description": "Integrally formed skin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A bowl-shaped container (10a) which is as a biodegradable molded article adheres a coating film (12) mainly made of biodegradable plastic and having at least hydrophobicity to the surface of the main body (11a) of the container mainly made of starch. The main body (11a) is molded through steam expansion of a slurry or dough molding material containing high-amylose starch and water, or a slurry or dough molding material containing starch, polyvinyl alcohol and water. For these reasons, it is possible to accomplish sufficient strength and at least sufficient water resistance, to exert a very excellent biodegradability and further to provide a biodegradable molded article having excellent moisture absorption strength mainly made of starch even if the biodegradable molded article has a complicated shape.",
+  "claims": [
+    "1. A biodegradable molded article comprising:a biodegradable expanded molded article molded in a specified shape; and a coating film attached to a surface of the biodegradable expanded molded article, the film being mainly made of a biodegradable plastic and having at least hydrophobicity, the biodegradable expanded molded article being molded, through steam expansion, from a slurry or dough molding material mainly made of a starch and a derivative thereof and prepared by adding water to the starch or the derivative thereof, the starch and the derivative thereof containing high-amylose starch or a derivative thereof.",
+    "2. The biodegradable molded article as set forth in claim 1, wherein the starch and a derivative thereof contains not less than 50 weight % high-amylose starch or a derivative thereof.",
+    "3 A biodegradable molded article comprising:a biodegradable expanded molded article molded in a specified shape; and a coating film attached to a surface of the biodegradable expanded molded article, the film being mainly made of a biodegradable plastic and having at least hydrophobicity, said biodegradable expanded molded article being molded, through steam expansion, from a slurry or dough molding material mainly made of a starch and a derivative thereof and prepared by adding water and polyvinyl alcohol to the starch or the derivative thereof.",
+    "4. The biodegradable molded article as set forth in claim 3, wherein the polyvinyl alcohol has a polymerization degree of not less than 1500.",
+    "5. The biodegradable molded article as set forth in claim 3 or 4, wherein the polyvinyl alcohol has a saponification degree of not less than 75%.",
+    "6. The biodegradable molded article as set forth in any one of claims 1 to 5, wherein the coating film is mainly made of a modified polyester.",
+    "7. The biodegradable molded article as set forth in any one of claims 1 to 6, wherein the coating film is biaxially stretched.",
+    "8. The biodegradable molded article as set forth in any one of claims 1 to 7, wherein the molding material further contains a water-insoluble fiber.",
+    "9. The biodegradable molded article as set forth in any one of claims 1 to 8, wherein the expanded molded article accounts for not less than 60 weight % of total weight of the biodegradable molded article.",
+    "10. The biodegradable molded article as set forth in any one of claims 1 to 9, wherein the molding material contains water which accounts for 20 weight % to 70 weight %, assuming that the biodegradable molded article is 100 weight %.",
+    "11. The biodegradable molded article as set forth in any one of claims 1 to 10, wherein the coating film is directly and substantially adhered to the surface.",
+    "12. The biodegradable molded article as set forth in any one of claims 1 to 11 wherein the biodegradable expanded molded article has a final water content between 3 weight o and 20 weight %."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2002-45059",
+      "filing_date": "2002-02-21"
+    },
+    {
+      "application_number": "JP2002045059",
+      "filing_date": "2002-02-21"
+    },
+    {
+      "application_number": "PCT/JP2003/001858",
+      "representative_publication": "WO2003070814A1",
+      "primary_language": "en",
+      "priority_date": "2002-02-21",
+      "filing_date": "2003-02-20",
+      "title": "Biodegradable molding"
+    }
+  ],
+  "family_id": "27750568",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US5153037A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-12-30",
+        "publication_date": "1992-10-06",
+        "assignee_original": "National Starch And Chemical Investment Holding Corporation",
+        "title": "Biodegradable shaped products and the method of preparation thereof",
+        "patent_id": "patent/US5153037A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5153037A%2Fen"
+      },
+      {
+        "publication_number": "US4863655A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-12-30",
+        "publication_date": "1989-09-05",
+        "assignee_original": "National Starch And Chemical Corporation",
+        "title": "Biodegradable packaging material and the method of preparation thereof",
+        "patent_id": "patent/US4863655A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4863655A%2Fen"
+      },
+      {
+        "publication_number": "JPH05278738A",
+        "primary_language": "en",
+        "priority_date": "1992-04-06",
+        "publication_date": "1993-10-26",
+        "assignee_original": "Nishikawa Rubber Co Ltd",
+        "title": "Biologically decomposing vessel",
+        "patent_id": "patent/JPH05278738A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH05278738A%2Fen"
+      },
+      {
+        "publication_number": "JPH05294332A",
+        "primary_language": "en",
+        "priority_date": "1992-04-08",
+        "publication_date": "1993-11-09",
+        "assignee_original": "Nishikawa Rubber Co Ltd",
+        "title": "Manufacture of biodegradable container",
+        "patent_id": "patent/JPH05294332A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH05294332A%2Fen"
+      },
+      {
+        "publication_number": "JP2968391B2",
+        "primary_language": "en",
+        "priority_date": "1992-05-25",
+        "publication_date": "1999-10-25",
+        "assignee_original": "\u65e5\u4e16\u682a\u5f0f\u4f1a\u793e",
+        "title": "Biodegradable foam molded article and method for producing the same",
+        "patent_id": "patent/JP2968391B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2968391B2%2Fen"
+      },
+      {
+        "publication_number": "JPH08500547A",
+        "primary_language": "en",
+        "priority_date": "1992-08-28",
+        "publication_date": "1996-01-23",
+        "assignee_original": "\u30d3\u30aa\u30c6\u30c3\u30af\u30fb\u30d3\u30aa\u30ed\u30ae\u30c3\u30b7\u30e5\u30fb\u30ca\u30c8\u30a5\u30d5\u30a7\u30a2\u30d1\u30c3\u30af\u30f3\u30b2\u30f3\u30fb\u30b2\u30bc\u30eb\u30b7\u30e3\u30d5\u30c8\u30fb\u30df\u30c3\u30c8\u30fb\u30d9\u30b7\u30e5\u30ec\u30f3\u30af\u30c6\u30eb\u30fb\u30cf\u30d5\u30c4\u30f3\u30b0\u30fb\u30a6\u30f3\u30c8\u30fb\u30b3\u30f3\u30d1\u30cb\u30fb\u30d5\u30a9\u30eb\u30b7\u30e5\u30f3\u30af\u30b9\u2212\u30fb\u30a6\u30f3\u30c8\u30fb\u30a8\u30f3\u30c8\u30f4\u30a3\u30c3\u30af\u30eb\u30f3\u30af\u30b9\u30fb\u30b3\u30de\u30f3\u30c7\u30a3\u30c3\u30c8\u30fb\u30b2\u30bc\u30eb\u30b7\u30e3\u30d5\u30c8",
+        "title": "Biodegradable laminated composite material based on hardened starch foam and method of making same",
+        "patent_id": "patent/JPH08500547A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH08500547A%2Fen"
+      },
+      {
+        "publication_number": "US5888599A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-04-19",
+        "publication_date": "1999-03-30",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Multi-layer lidding film having improved heat seal properties and methods relating thereto",
+        "patent_id": "patent/US5888599A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5888599A%2Fen"
+      },
+      {
+        "publication_number": "JPH0710148A",
+        "primary_language": "en",
+        "priority_date": "1993-06-17",
+        "publication_date": "1995-01-13",
+        "assignee_original": "Nissei Kk",
+        "title": "Biodegradable molding and its production",
+        "patent_id": "patent/JPH0710148A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0710148A%2Fen"
+      },
+      {
+        "publication_number": "JPH0797545A",
+        "primary_language": "en",
+        "priority_date": "1993-09-30",
+        "publication_date": "1995-04-11",
+        "assignee_original": "Kanegafuchi Chem Ind Co Ltd",
+        "title": "Biodegradable coating agent having water resistance and biodegradable container for food",
+        "patent_id": "patent/JPH0797545A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0797545A%2Fen"
+      },
+      {
+        "publication_number": "WO1997010293A1",
+        "primary_language": "en",
+        "priority_date": "1995-09-12",
+        "publication_date": "1997-03-20",
+        "assignee_original": "Fvp Formverpackung Gmbh",
+        "title": "Process for producing mouldings with a barrier layer made of biodegradable material, and mouldings produced according to this process",
+        "patent_id": "patent/WO1997010293A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997010293A1%2Fen"
+      },
+      {
+        "publication_number": "JP2741476B2",
+        "primary_language": "en",
+        "priority_date": "1994-02-10",
+        "publication_date": "1998-04-15",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u5bcc\u58eb\u8a08\u5668",
+        "title": "Method for producing biodegradable raw materials for molded articles and method for producing biodegradable molded articles",
+        "patent_id": "patent/JP2741476B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2741476B2%2Fen"
+      },
+      {
+        "publication_number": "JP3474031B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-07-11",
+        "publication_date": "2003-12-08",
+        "assignee_original": "\u65e5\u4e16\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing biodegradable molded product",
+        "patent_id": "patent/JP3474031B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3474031B2%2Fen"
+      },
+      {
+        "publication_number": "JPH08143710A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-11-22",
+        "publication_date": "1996-06-04",
+        "assignee_original": "Evercorn Inc",
+        "title": "Biodegradable resin composition",
+        "patent_id": "patent/JPH08143710A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH08143710A%2Fen"
+      },
+      {
+        "publication_number": "KR100433815B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-06-14",
+        "publication_date": "2004-08-16",
+        "assignee_original": "\ud504\ub780\uce20 \ud558\uc2a4 \ubc14\ud3a0\ub9c8\uc2dc\ub128 \uc778\ub450\uc2a4\ud2b8\ub9ac\uac8c\uc824\uc0e4\ud504\ud2b8 \uc5e0.\ubca0.\ud558.",
+        "title": "Process for manufacturing degradable thin-walled mouldings",
+        "patent_id": "patent/KR100433815B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100433815B1%2Fen"
+      },
+      {
+        "publication_number": "US6106753A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-09-08",
+        "publication_date": "2000-08-22",
+        "assignee_original": "Environmental Packing Lp",
+        "title": "Method of forming a biodegradable molded packing",
+        "patent_id": "patent/US6106753A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6106753A%2Fen"
+      },
+      {
+        "publication_number": "US5861216A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-28",
+        "publication_date": "1999-01-19",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of Agriculture",
+        "title": "Biodegradable polyester and natural polymer laminates",
+        "patent_id": "patent/US5861216A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5861216A%2Fen"
+      },
+      {
+        "publication_number": "US6025417A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-28",
+        "publication_date": "2000-02-15",
+        "assignee_original": "Biotechnology Research & Development Corp.",
+        "title": "Biodegradable polyester compositions with natural polymers and articles thereof",
+        "patent_id": "patent/US6025417A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6025417A%2Fen"
+      },
+      {
+        "publication_number": "US6893527B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-28",
+        "publication_date": "2005-05-17",
+        "assignee_original": "William M. Doane",
+        "title": "Biodegradable polyester and natural polymer laminates",
+        "patent_id": "patent/US6893527B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6893527B1%2Fen"
+      },
+      {
+        "publication_number": "JPH11171238A",
+        "primary_language": "en",
+        "priority_date": "1997-12-10",
+        "publication_date": "1999-06-29",
+        "assignee_original": "Tomen Corp",
+        "title": "Food container and manufacture thereof",
+        "patent_id": "patent/JPH11171238A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH11171238A%2Fen"
+      },
+      {
+        "publication_number": "JP2000142783A",
+        "primary_language": "en",
+        "priority_date": "1998-11-05",
+        "publication_date": "2000-05-23",
+        "assignee_original": "Chiba Flour Milling Co Ltd",
+        "title": "Biodegradable high-temperature waterproof container and its manufacture",
+        "patent_id": "patent/JP2000142783A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000142783A%2Fen"
+      },
+      {
+        "publication_number": "JP2000169611A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-08",
+        "publication_date": "2000-06-20",
+        "assignee_original": "Nippon Synthetic Chem Ind Co Ltd:The",
+        "title": "Mold foam",
+        "patent_id": "patent/JP2000169611A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000169611A%2Fen"
+      },
+      {
+        "publication_number": "JP2001018909A",
+        "primary_language": "en",
+        "priority_date": "1999-07-07",
+        "publication_date": "2001-01-23",
+        "assignee_original": "Nihon Tetra Pak Kk",
+        "title": "Flushing device",
+        "patent_id": "patent/JP2001018909A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001018909A%2Fen"
+      },
+      {
+        "publication_number": "JP2001114912A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-09",
+        "publication_date": "2001-04-24",
+        "assignee_original": "Du Pont Kk",
+        "title": "Stretched aromatic polyester film and method for producing the same",
+        "patent_id": "patent/JP2001114912A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001114912A%2Fen"
+      },
+      {
+        "publication_number": "AU781686B2",
+        "primary_language": "en",
+        "priority_date": "1999-08-09",
+        "publication_date": "2005-06-09",
+        "assignee_original": "E.I. Du Pont De Nemours And Company",
+        "title": "Biodegradable oriented aromatic polyester film and method of manufacture",
+        "patent_id": "patent/AU781686B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU781686B2%2Fen"
+      },
+      {
+        "publication_number": "US6231970B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-11",
+        "publication_date": "2001-05-15",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Thermoplastic starch compositions incorporating a particulate filler component",
+        "patent_id": "patent/US6231970B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6231970B1%2Fen"
+      },
+      {
+        "publication_number": "IT1320163B1",
+        "primary_language": "en",
+        "priority_date": "2000-02-15",
+        "publication_date": "2003-11-18",
+        "assignee_original": "Novamont Spa",
+        "title": "FOIL AND PRODUCTS FORMATS BASED ON EXPANDED STARCH.",
+        "patent_id": "patent/IT1320163B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1320163B1%2Fen"
+      },
+      {
+        "publication_number": "KR100566714B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-09-13",
+        "publication_date": "2006-04-03",
+        "assignee_original": "\ub2c8\uc138\uc774 \uac00\ubd80\uc2dc\ub07c \uac00\uc774\uc0e4",
+        "title": "Biodegradable moldings and preparation method thereof",
+        "patent_id": "patent/KR100566714B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100566714B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2020034029A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-13",
+        "publication_date": "2020-02-20",
+        "assignee_original": "EcoPackers Inc.",
+        "title": "Composition and method of making biodegradable pellets",
+        "patent_id": "patent/WO2020034029A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020034029A1%2Fen"
+      },
+      {
+        "publication_number": "US12291636B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/US12291636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP4121874B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-13",
+        "publication_date": "2008-07-23",
+        "assignee_original": "\u65e5\u4e16\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing biodegradable molding and molding die used therefor",
+        "patent_id": "patent/JP4121874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4121874B2%2Fen"
+      },
+      {
+        "publication_number": "US8524790B2",
+        "primary_language": "en",
+        "priority_date": "2007-12-27",
+        "publication_date": "2013-09-03",
+        "assignee_original": "Industrial Technology Research Institute",
+        "title": "Starch film and method for manufacturing starch foam",
+        "patent_id": "patent/US8524790B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8524790B2%2Fen"
+      },
+      {
+        "publication_number": "TWI381010B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-27",
+        "publication_date": "2013-01-01",
+        "assignee_original": "Ind Tech Res Inst",
+        "title": "Method of manufacturing starch foam",
+        "patent_id": "patent/TWI381010B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI381010B%2Fen"
+      },
+      {
+        "publication_number": "GB0806271D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-07",
+        "publication_date": "2008-05-14",
+        "assignee_original": "Chemlink Specialities Ltd",
+        "title": "pakaging and method of manufacturing thereof",
+        "patent_id": "patent/GB0806271D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB0806271D0%2Fen"
+      },
+      {
+        "publication_number": "TWI496725B",
+        "primary_language": "en",
+        "priority_date": "2009-01-20",
+        "publication_date": "2015-08-21",
+        "assignee_original": "Chamness Biodegradables Llc",
+        "title": "Multi-level container",
+        "patent_id": "patent/TWI496725B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI496725B%2Fen"
+      },
+      {
+        "publication_number": "WO2010126018A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-28",
+        "publication_date": "2010-11-04",
+        "assignee_original": "\u6709\u9650\u4f1a\u793e\u8056\u548c\u30c7\u30f3\u30bf\u30eb",
+        "title": "Organ model",
+        "patent_id": "patent/WO2010126018A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010126018A1%2Fen"
+      },
+      {
+        "publication_number": "US9145224B2",
+        "primary_language": "en",
+        "priority_date": "2009-06-11",
+        "publication_date": "2015-09-29",
+        "assignee_original": "Ellery West",
+        "title": "Paper container having a reinforced neck",
+        "patent_id": "patent/US9145224B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9145224B2%2Fen"
+      },
+      {
+        "publication_number": "CN102092524A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-10",
+        "publication_date": "2011-06-15",
+        "assignee_original": "\u65b9\u536b\u826f\u54c1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable container",
+        "patent_id": "patent/CN102092524A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102092524A%2Fen"
+      },
+      {
+        "publication_number": "EP2354032A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-29",
+        "publication_date": "2011-08-10",
+        "assignee_original": "Goglio S.p.A.",
+        "title": "Biodegradable one-way venting valve for an airtight container",
+        "patent_id": "patent/EP2354032A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2354032A1%2Fen"
+      },
+      {
+        "publication_number": "CA2794011C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-22",
+        "publication_date": "2019-09-17",
+        "assignee_original": "Clear Lam Packaging, Inc.",
+        "title": "Biopolymer roll stock for form-fill-sealed article",
+        "patent_id": "patent/CA2794011C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2794011C%2Fen"
+      },
+      {
+        "publication_number": "US8347575B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-09-02",
+        "publication_date": "2013-01-08",
+        "assignee_original": "United States Gypsum Company",
+        "title": "Lightweight acoustical flooring underlayment",
+        "patent_id": "patent/US8347575B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8347575B2%2Fen"
+      },
+      {
+        "publication_number": "WO2012064798A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-09",
+        "publication_date": "2012-05-18",
+        "assignee_original": "Paper-Pak Industries",
+        "title": "Food package",
+        "patent_id": "patent/WO2012064798A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012064798A1%2Fen"
+      },
+      {
+        "publication_number": "US20140312279A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-01",
+        "publication_date": "2014-10-23",
+        "assignee_original": "Mattel, Inc.",
+        "title": "Play Composition Including Crosslinkable Binder",
+        "patent_id": "patent/US20140312279A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140312279A1%2Fen"
+      },
+      {
+        "publication_number": "US8603236B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-01",
+        "publication_date": "2013-12-10",
+        "assignee_original": "Mattel, Inc.",
+        "title": "Play composition including crosslinkable binder",
+        "patent_id": "patent/US8603236B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8603236B2%2Fen"
+      },
+      {
+        "publication_number": "CN102167845A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-09",
+        "publication_date": "2011-08-31",
+        "assignee_original": "\u697c\u4ef2\u5e73",
+        "title": "Method for preparing degradable biomass material and straw",
+        "patent_id": "patent/CN102167845A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102167845A%2Fen"
+      },
+      {
+        "publication_number": "KR101307108B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-17",
+        "publication_date": "2013-09-11",
+        "assignee_original": "\uc728\ucd0c\ud654\ud559 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Composition for starch bowl, starch bowl using the same and method for preparing starch bowl using the same",
+        "patent_id": "patent/KR101307108B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101307108B1%2Fen"
+      },
+      {
+        "publication_number": "US9284691B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-03",
+        "publication_date": "2016-03-15",
+        "assignee_original": "Friends Of Abilities First, Inc.",
+        "title": "Paper pulping process and composition",
+        "patent_id": "patent/US9284691B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9284691B2%2Fen"
+      },
+      {
+        "publication_number": "US20150224685A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-13",
+        "publication_date": "2015-08-13",
+        "assignee_original": "Caterpillar Inc.",
+        "title": "System and method for manufacturing an article",
+        "patent_id": "patent/US20150224685A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150224685A1%2Fen"
+      },
+      {
+        "publication_number": "ES2700209T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-31",
+        "publication_date": "2019-02-14",
+        "assignee_original": "Axel Nickel",
+        "title": "Capsule containing beverage powder, in particular for the preparation of coffee infusion",
+        "patent_id": "patent/ES2700209T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2700209T3%2Fen"
+      },
+      {
+        "publication_number": "WO2018044926A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-29",
+        "publication_date": "2018-03-08",
+        "assignee_original": "Broadway Systems And Technology Pte Ltd",
+        "title": "Improvements to molded fibers",
+        "patent_id": "patent/WO2018044926A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018044926A1%2Fen"
+      },
+      {
+        "publication_number": "US10046901B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-16",
+        "publication_date": "2018-08-14",
+        "assignee_original": "Vericool, Inc.",
+        "title": "Thermally insulating packaging",
+        "patent_id": "patent/US10046901B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10046901B1%2Fen"
+      },
+      {
+        "publication_number": "CA3059901A1",
+        "primary_language": "en",
+        "priority_date": "2017-02-23",
+        "publication_date": "2018-08-30",
+        "assignee_original": "Vericool, Inc.",
+        "title": "Thermally insulating packaging",
+        "patent_id": "patent/CA3059901A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3059901A1%2Fen"
+      },
+      {
+        "publication_number": "US10618690B2",
+        "primary_language": "en",
+        "priority_date": "2017-02-23",
+        "publication_date": "2020-04-14",
+        "assignee_original": "Vericool, Inc.",
+        "title": "Recyclable insulated stackable tray for cold wet materials",
+        "patent_id": "patent/US10618690B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10618690B2%2Fen"
+      },
+      {
+        "publication_number": "US11701872B1",
+        "primary_language": "en",
+        "priority_date": "2017-04-28",
+        "publication_date": "2023-07-18",
+        "assignee_original": "TemperPack Technologies, Inc.",
+        "title": "Insulation panel",
+        "patent_id": "patent/US11701872B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11701872B1%2Fen"
+      },
+      {
+        "publication_number": "US10357936B1",
+        "primary_language": "en",
+        "priority_date": "2017-04-28",
+        "publication_date": "2019-07-23",
+        "assignee_original": "TemperPack Technologies, Inc.",
+        "title": "Insulation panel",
+        "patent_id": "patent/US10357936B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10357936B1%2Fen"
+      },
+      {
+        "publication_number": "US10800596B1",
+        "primary_language": "en",
+        "priority_date": "2017-04-28",
+        "publication_date": "2020-10-13",
+        "assignee_original": "TemperPack Technologies, Inc.",
+        "title": "Insulation panel",
+        "patent_id": "patent/US10800596B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10800596B1%2Fen"
+      },
+      {
+        "publication_number": "CN107216673B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-13",
+        "publication_date": "2020-11-03",
+        "assignee_original": "\u90b5\u9633\u5b66\u9662",
+        "title": "Bean dreg-based food contact material and application thereof",
+        "patent_id": "patent/CN107216673B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107216673B%2Fen"
+      },
+      {
+        "publication_number": "US11339275B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-28",
+        "publication_date": "2022-05-24",
+        "assignee_original": "The United States Of America, As Represented By The Secretary Of Agriculture",
+        "title": "Compositions and methods for food packaging",
+        "patent_id": "patent/US11339275B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11339275B2%2Fen"
+      },
+      {
+        "publication_number": "CA3094089A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-29",
+        "publication_date": "2019-10-03",
+        "assignee_original": "Huhtamaki Molded Fiber Technology B.V.",
+        "title": "Packaging unit from a moulded pulp material with peelable laminated layer and method for manufacturing such packaging unit",
+        "patent_id": "patent/CA3094089A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3094089A1%2Fen"
+      },
+      {
+        "publication_number": "KR102034383B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-29",
+        "publication_date": "2019-10-18",
+        "assignee_original": "\ucda9\ub0a8\ub300\ud559\uad50\uc0b0\ud559\ud611\ub825\ub2e8",
+        "title": "Method for manufacturing pulp mold comprising with citrus or orange pomace, and the pulp mold manufactured by the method",
+        "patent_id": "patent/KR102034383B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102034383B1%2Fen"
+      },
+      {
+        "publication_number": "WO2020237205A1",
+        "primary_language": "en",
+        "priority_date": "2019-05-22",
+        "publication_date": "2020-11-26",
+        "assignee_original": "Cruz Foam, Inc.",
+        "title": "Biodegradable foam with laminate layers",
+        "patent_id": "patent/WO2020237205A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020237205A1%2Fen"
+      },
+      {
+        "publication_number": "US20220371237A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-30",
+        "publication_date": "2022-11-24",
+        "assignee_original": "Cruz Foam, Inc.",
+        "title": "Organic polymer processing",
+        "patent_id": "patent/US20220371237A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220371237A1%2Fen"
+      },
+      {
+        "publication_number": "IT201900022884A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-03",
+        "publication_date": "2020-03-03",
+        "assignee_original": "Univ Degli Studi Di Modena E Reggio Emilia",
+        "title": "Composite material consisting of a biofiller and a thermoplastic matrix and process for making an article with such a composite material",
+        "patent_id": "patent/IT201900022884A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT201900022884A1%2Fen"
+      },
+      {
+        "publication_number": "JP7026408B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-31",
+        "publication_date": "2022-02-28",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30c6\u30af\u30ce\u30e9\u30dc",
+        "title": "Resin molded product manufacturing method and resin molded product",
+        "patent_id": "patent/JP7026408B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7026408B2%2Fen"
+      },
+      {
+        "publication_number": "US20220250284A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-11",
+        "publication_date": "2022-08-11",
+        "assignee_original": "Too Charming Ent. Co., Ltd.",
+        "title": "Method of making a dispenser",
+        "patent_id": "patent/US20220250284A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220250284A1%2Fen"
+      },
+      {
+        "publication_number": "KR102385882B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-25",
+        "publication_date": "2022-04-14",
+        "assignee_original": "\uc774\uc601\uc9c4",
+        "title": "A process for the preparation of a biodegradable disposable container with excellent water resistance, heat resistance and oil resistance comprising the natural polymer and the biodegradable disposable container prepared therefrom",
+        "patent_id": "patent/KR102385882B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102385882B1%2Fen"
+      },
+      {
+        "publication_number": "JP2024120117A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-28",
+        "publication_date": "2024-09-04",
+        "assignee_original": "\u4e00\u82f1 \u5c71\u53e3",
+        "title": "Laminate",
+        "patent_id": "patent/JP2024120117A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024120117A%2Fen"
+      },
+      {
+        "publication_number": "WO2023028496A2",
+        "primary_language": "en",
+        "priority_date": "2021-08-24",
+        "publication_date": "2023-03-02",
+        "assignee_original": "Cruz Foam, Inc.",
+        "title": "Biodegradable foams and methods of foam production",
+        "patent_id": "patent/WO2023028496A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023028496A2%2Fen"
+      },
+      {
+        "publication_number": "EP4545298A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-26",
+        "publication_date": "2025-04-30",
+        "assignee_original": "Tchibo GmbH",
+        "title": "Package and method of manufacturing the same",
+        "patent_id": "patent/EP4545298A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4545298A1%2Fen"
+      },
+      {
+        "publication_number": "PL447697A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-02-05",
+        "publication_date": "2025-08-11",
+        "assignee_original": "Uniwersytet Przyrodniczy W Poznaniu",
+        "title": "Method of producing biodegradable packaging and packaging accessories",
+        "patent_id": "patent/PL447697A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL447697A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CA2476799A1",
+      "primary_language": "en",
+      "publication_date": "2003-08-28",
+      "title": "Biodegradable molded articles coated to impart hydrophobicity",
+      "patent_id": "patent/CA2476799A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2476799A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2472610C",
+      "primary_language": "en",
+      "publication_date": "2010-10-26",
+      "title": "Biodegradable or compostable containers",
+      "patent_id": "patent/CA2472610C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2472610C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2142134A1",
+      "primary_language": "en",
+      "publication_date": "1995-08-10",
+      "title": "Expanded articles of biodegradable plastic material and a process for the preparation thereof",
+      "patent_id": "patent/CA2142134A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2142134A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2421280A1",
+      "primary_language": "en",
+      "publication_date": "2003-03-03",
+      "title": "Biodegradable molded article, manufacturing method thereof, and composition for expansion molding",
+      "patent_id": "patent/CA2421280A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2421280A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "NO911288D0",
+      "primary_language": "en",
+      "publication_date": "1991-04-02",
+      "title": "EXPANDED GOODS OF BIODEGRADABLE PLASTIC MATERIALS AND PROCEDURE FOR THEIR PREPARATION.",
+      "patent_id": "patent/NO911288D0/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNO911288D0%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2155594A1",
+      "primary_language": "en",
+      "publication_date": "1996-02-09",
+      "title": "Biodegradable foamed plastic materials",
+      "patent_id": "patent/CA2155594A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2155594A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR19990087469A",
+      "primary_language": "en",
+      "publication_date": "1999-12-27",
+      "title": "How to make high starch sheet",
+      "patent_id": "patent/KR19990087469A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR19990087469A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "IT1232909B",
+      "primary_language": "en",
+      "publication_date": "1992-03-05",
+      "title": "POLYMERIC COMPOSITION FOR THE PRODUCTION OF BIODEGRADABLE PLASTIC ITEMS INCLUDING DESTRUCTURED STARCH AND ETHYLENE COPOLYMER",
+      "patent_id": "patent/IT1232909B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1232909B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR19990087468A",
+      "primary_language": "en",
+      "publication_date": "1999-12-27",
+      "title": "Compositions Containing High Content Ungelatinized Starch",
+      "patent_id": "patent/KR19990087468A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR19990087468A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20020086537A",
+      "primary_language": "en",
+      "publication_date": "2002-11-18",
+      "title": "A sheet and product based on foamed shaped starch",
+      "patent_id": "patent/KR20020086537A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20020086537A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH10503536A",
+      "primary_language": "en",
+      "publication_date": "1998-03-31",
+      "title": "Foamable plant fiber composition and foamed material and foamed product thereof",
+      "patent_id": "patent/JPH10503536A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH10503536A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1086963A4",
+      "primary_language": "en",
+      "publication_date": "2002-07-03",
+      "title": "USE OF ETHYLENE/$g(a)-OLEFIN COPOLYMER AND USE OF ETHYLENE COPOLYMER COMPOSITION",
+      "patent_id": "patent/EP1086963A4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1086963A4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001083597A3",
+      "primary_language": "en",
+      "publication_date": "2002-02-21",
+      "title": "Method of manufacturing corn zein resin films, sheets, and articles",
+      "patent_id": "patent/WO2001083597A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001083597A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2038359A1",
+      "primary_language": "en",
+      "publication_date": "1991-09-17",
+      "title": "Ethylene propylene rubber composition",
+      "patent_id": "patent/CA2038359A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2038359A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3066138B2",
+      "primary_language": "en",
+      "publication_date": "2000-07-17",
+      "title": "Easily collapsible multilayer body",
+      "patent_id": "patent/JP3066138B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3066138B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2008030697A3",
+      "primary_language": "en",
+      "publication_date": "2008-09-25",
+      "title": "Polymer particles and related articles",
+      "patent_id": "patent/WO2008030697A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008030697A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR960705879A",
+      "primary_language": "en",
+      "publication_date": "1996-11-08",
+      "title": "RUBBER-MODIFIED STYRENE RESIN COMPOSITION AND PRODUCT OF MOLDING THEREOF",
+      "patent_id": "patent/KR960705879A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR960705879A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017043512A1",
+      "primary_language": "en",
+      "publication_date": "2017-03-16",
+      "title": "Water-soluble film and chemical package",
+      "patent_id": "patent/WO2017043512A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017043512A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "TW328544B",
+      "primary_language": "en",
+      "publication_date": "1998-03-21",
+      "title": "Expanded articles of biodegradable plastic material and a process for the preparation thereof",
+      "patent_id": "patent/TW328544B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW328544B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "MX2011005508A",
+      "primary_language": "en",
+      "publication_date": "2012-11-26",
+      "title": "Biodegradable composite made with cellulose and corn fiber bracts, with and without infiltration of natural pine resin.",
+      "patent_id": "patent/MX2011005508A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX2011005508A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH0726028A",
+      "primary_language": "en",
+      "publication_date": "1995-01-27",
+      "title": "Moisture-shrinkable resin molding",
+      "patent_id": "patent/JPH0726028A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0726028A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU98111371A",
+      "primary_language": "en",
+      "publication_date": "2000-03-20",
+      "title": "POLYMER ADHESIVE",
+      "patent_id": "patent/RU98111371A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU98111371A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-03-13",
+      "code": "EEER",
+      "title": "Examination request"
+    },
+    {
+      "date": "2013-04-03",
+      "code": "MKLA",
+      "title": "Lapsed",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20130220"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 9
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 9
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000012778",
+        "name": "molding material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000004372",
+        "name": "Polyvinyl alcohol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920002451",
+        "name": "polyvinyl alcohol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000002002",
+        "name": "slurry",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920001685",
+        "name": "Amylomaize",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000704",
+        "name": "biodegradable plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000728",
+        "name": "polyester",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006116",
+        "name": "polymerization reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007127",
+        "name": "saponification reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010521",
+        "name": "absorption reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

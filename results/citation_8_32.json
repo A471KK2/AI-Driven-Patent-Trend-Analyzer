@@ -1,0 +1,1255 @@
+{
+  "search_metadata": {
+    "id": "697a34935922f4db0fd94510",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f8491ba80e619adf/697a34935922f4db0fd94510.json",
+    "created_at": "2026-01-28 16:08:51 UTC",
+    "processed_at": "2026-01-28 16:08:51 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20190185149A1/en",
+    "raw_html_file": "https://serpapi.com/searches/f8491ba80e619adf/697a34935922f4db0fd94510.html",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20190185149A1/en"
+  },
+  "title": "Multi-rotor tonal noise control for uav",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/0b/92/f2/c26a6a3b663903/US20190185149A1.pdf",
+  "publication_number": "US20190185149A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "rotor units",
+    "uav",
+    "rotor",
+    "phase",
+    "units"
+  ],
+  "prior_art_date": "2017-12-20",
+  "application_number": "US15/849,365",
+  "inventors": [
+    {
+      "name": "Giulia Pantalone",
+      "link": "https://patents.google.com/?inventor=Giulia+Pantalone",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Giulia+Pantalone"
+    },
+    {
+      "name": "Adam Woodworth",
+      "link": "https://patents.google.com/?inventor=Adam+Woodworth",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Adam+Woodworth"
+    },
+    {
+      "name": "Eric Teller",
+      "link": "https://patents.google.com/?inventor=Eric+Teller",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Eric+Teller"
+    },
+    {
+      "name": "Ealgoo Kim",
+      "link": "https://patents.google.com/?inventor=Ealgoo+Kim",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ealgoo+Kim"
+    },
+    {
+      "name": "Jacob Huffman",
+      "link": "https://patents.google.com/?inventor=Jacob+Huffman",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jacob+Huffman"
+    },
+    {
+      "name": "Martin Kubie",
+      "link": "https://patents.google.com/?inventor=Martin+Kubie",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Martin+Kubie"
+    }
+  ],
+  "assignees": [
+    "Wing Aviation LLC"
+  ],
+  "priority_date": "2017-12-20",
+  "filing_date": "2017-12-20",
+  "publication_date": "2019-06-20",
+  "worldwide_applications": {
+    "2017": [
+      {
+        "filing_date": "2017-12-20",
+        "country_code": "US",
+        "application_number": "US15/849,365",
+        "document_id": "patent/US10946953B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2018": [
+      {
+        "filing_date": "2018-12-11",
+        "country_code": "EP",
+        "application_number": "EP23185268.2A",
+        "document_id": "patent/EP4250553B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-12-11",
+        "country_code": "SG",
+        "application_number": "SG11202004747WA",
+        "document_id": "patent/SG11202004747WA/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2018-12-11",
+        "country_code": "CN",
+        "application_number": "CN201880083035.2A",
+        "document_id": "patent/CN111684705B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-12-11",
+        "country_code": "AU",
+        "application_number": "AU2018388449A",
+        "document_id": "patent/AU2018388449B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-12-11",
+        "country_code": "WO",
+        "application_number": "PCT/US2018/065029",
+        "document_id": "patent/WO2019125832A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2018-12-11",
+        "country_code": "CN",
+        "application_number": "CN202310825863.1A",
+        "document_id": "patent/CN116968951A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2018-12-11",
+        "country_code": "EP",
+        "application_number": "EP18834093.9A",
+        "document_id": "patent/EP3698464B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2017-12-20",
+      "title": "Priority to US15/849,365",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US10946953B2/en"
+    },
+    {
+      "date": "2017-12-20",
+      "title": "Application filed by Wing Aviation LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Wing Aviation LLC"
+    },
+    {
+      "date": "2018-01-26",
+      "title": "Assigned to X DEVELOPMENT LLC",
+      "type": "reassignment",
+      "assignee_search": "X DEVELOPMENT LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WOODWORTH, ADAM, KIM, EALGOO, HUFFMAN, JACOB, PANTALONE, Giulia, KUBIE, MARTIN, TELLER, ERIC"
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "title": "Assigned to WING AVIATION LLC",
+      "type": "reassignment",
+      "assignee_search": "WING AVIATION LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: X DEVELOPMENT LLC"
+      ]
+    },
+    {
+      "date": "2018-10-02",
+      "title": "Assigned to WING AVIATION LLC",
+      "type": "reassignment",
+      "assignee_search": "WING AVIATION LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: X DEVELOPMENT LLC"
+      ]
+    },
+    {
+      "date": "2018-12-11",
+      "title": "Priority to SG11202004747WA",
+      "type": "priority",
+      "document_id": "patent/SG11202004747WA/en"
+    },
+    {
+      "date": "2018-12-11",
+      "title": "Priority to PCT/US2018/065029",
+      "type": "priority",
+      "document_id": "patent/WO2019125832A1/en"
+    },
+    {
+      "date": "2018-12-11",
+      "title": "Priority to CN201880083035.2A",
+      "type": "priority",
+      "document_id": "patent/CN111684705B/en"
+    },
+    {
+      "date": "2018-12-11",
+      "title": "Priority to CN202310825863.1A",
+      "type": "priority",
+      "document_id": "patent/CN116968951A/en"
+    },
+    {
+      "date": "2018-12-11",
+      "title": "Priority to EP18834093.9A",
+      "type": "priority",
+      "document_id": "patent/EP3698464B1/en"
+    },
+    {
+      "date": "2018-12-11",
+      "title": "Priority to EP23185268.2A",
+      "type": "priority",
+      "document_id": "patent/EP4250553B1/en"
+    },
+    {
+      "date": "2018-12-11",
+      "title": "Priority to AU2018388449A",
+      "type": "priority",
+      "document_id": "patent/AU2018388449B2/en"
+    },
+    {
+      "date": "2019-06-20",
+      "title": "Publication of US20190185149A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20190185149A1/en"
+    },
+    {
+      "date": "2021-03-16",
+      "title": "Publication of US10946953B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10946953B2/en"
+    },
+    {
+      "date": "2021-03-16",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-03-13",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20190185149.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15849365"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20190185149"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2019185149A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15849365/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20190185149"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/4c/9c/62/817fd18e9283a0/US20190185149A1-20190620-D00000.png",
+    "https://patentimages.storage.googleapis.com/bb/fc/de/2d32dac104e4a0/US20190185149A1-20190620-D00001.png",
+    "https://patentimages.storage.googleapis.com/32/d8/53/3c99d0dd71c7e8/US20190185149A1-20190620-D00002.png",
+    "https://patentimages.storage.googleapis.com/e7/da/9d/f01258a1dfe130/US20190185149A1-20190620-D00003.png",
+    "https://patentimages.storage.googleapis.com/78/3a/32/889fa11e4618d7/US20190185149A1-20190620-D00004.png",
+    "https://patentimages.storage.googleapis.com/88/df/2d/706dbb630e2338/US20190185149A1-20190620-D00005.png",
+    "https://patentimages.storage.googleapis.com/75/a3/b8/dd6a4ece16ae6d/US20190185149A1-20190620-D00006.png",
+    "https://patentimages.storage.googleapis.com/95/d0/71/eaf874bdd97327/US20190185149A1-20190620-D00007.png",
+    "https://patentimages.storage.googleapis.com/b3/9c/ea/5e4509499fa050/US20190185149A1-20190620-D00008.png",
+    "https://patentimages.storage.googleapis.com/61/8f/9e/f915618d99a87f/US20190185149A1-20190620-D00009.png",
+    "https://patentimages.storage.googleapis.com/90/70/d7/25e30636290793/US20190185149A1-20190620-D00010.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64U20/20",
+      "description": "Constructional aspects of UAVs for noise reduction",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C27/001",
+      "description": "Vibration damping devices",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C27/14",
+      "description": "Direct drive between power plant and rotor hub",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D31/00",
+      "description": "Power plant control systems; Arrangement of power plant control systems in aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D31/06",
+      "description": "Initiating means actuated automatically",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D31/12",
+      "description": "Initiating means actuated automatically for equalising or synchronising power plants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/20",
+      "description": "Vertical take-off and landing [VTOL] aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/20",
+      "description": "Rotors; Rotor supports",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U40/10",
+      "description": "On-board mechanical arrangements for adjusting control surfaces or rotors; On-board mechanical arrangements for in-flight adjustment of the base configuration for adjusting control surfaces or rotors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/19",
+      "description": "Propulsion using electrically powered motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D19/02",
+      "description": "Control of mechanical oscillations, e.g. of amplitude, of frequency, of phase characterised by the use of electric means",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G10K11/1785",
+      "description": "Methods, e.g. algorithms; Devices",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02P5/46",
+      "description": "Arrangements specially adapted for regulating or controlling the speed or torque of two or more electric motors for speed regulation of two or more dynamo-electric motors in relation to one another",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/027",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/042",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/104",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/108",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/141",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/146",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2220/00",
+      "description": "Active noise reduction systems",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/13",
+      "description": "Flying platforms",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/25",
+      "description": "Fixed-wing aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/30",
+      "description": "UAVs specially adapted for particular uses or applications for imaging, photography or videography",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/60",
+      "description": "UAVs specially adapted for particular uses or applications for transporting passengers; for transporting goods other than weapons",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/10",
+      "description": "UAVs characterised by their flight controls autonomous, i.e. by navigating independently from ground or air stations, e.g. by using inertial navigation systems [INS]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/20",
+      "description": "Remote controls",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/10",
+      "description": "Wings",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G10K2210/121",
+      "description": "Rotating machines, e.g. engines, turbines, motors; Periodic or quasi-periodic signals in general",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G10K2210/1281",
+      "description": "Aircraft, e.g. spacecraft, airplane or helicopter",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G10K2210/3044",
+      "description": "Phase shift, e.g. complex envelope processing",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A technique of controlling tonal noises produced by an unmanned aerial vehicle (UAV) includes generating thrust with a plurality of rotor units mounted to the UAV to propel the UAV into flight. Each of the rotor units includes a bladed rotor. A rotation rate or a phase delay of at least one of the rotor units is adjusted relative to another of the rotor units. The adjustment causes a spread in the tonal noises generated by the rotor units.",
+  "description_link": "https://serpapi.com/searches/697a34935922f4db0fd94510/google_patents_details/description.html",
+  "claims": [
+    "1. An unmanned aerial vehicle (UAV), comprising:\na UAV body; a plurality of rotor units mounted to the UAV body, each of the rotor units including a bladed rotor that rotates to generate thrust; and a control system coupled to each of the rotor units to control rotation of the bladed rotor of each of the rotor units, wherein the control system includes a controller with logic that, when executed by the controller, will cause the UAV to perform operations including:\nadjusting at least one of a rotation rate or a phase delay of at least one of the rotor units relative to another of the rotor units, wherein adjusting the at least one of the rotation rate or the phase delay causes a spread in tonal noises generated by the rotor units.",
+    "2. The UAV of claim 1, wherein adjusting at least one of the rotation rate or the phase delay comprises offsetting phase delays of the rotor units relative to each other to offset phases of peak amplitudes of the tonal noises generated by different ones of the rotor units from each other.",
+    "3. The UAV of claim 2, wherein offsetting the phase delays of the rotor units relative to each other comprises:\ndetermining a revolution frequency for one or more of the rotor units to determine a rotation period for the one or more of the rotor units; dividing the rotation period by a number N of the rotor units to generate a phase delay value; and phase delaying each of the number N of the rotor units by a different integer multiple of the phase delay value.",
+    "4. The UAV of claim 3, wherein the number N comprises a total number of the rotor units mounted to the UAV body.",
+    "5. The UAV of claim 3, wherein offsetting the phase delays of the rotor units relative to each other further comprises:\ngrouping the plurality of rotor units into noise generating subgroups (i) based upon proximity of the rotor units to each other; generating a phase delay value D(i) for each of the noise generating subgroups (i) based upon a number N(i) of the rotors in each of the noise generating subgroups (i); and phase delaying each of the rotor units within a given one of the noise generating subgroups (i) relative to other ones of the rotor units within the given one of the noise generating subgroups (i) by a different integer multiple of the phase delay value D(i).",
+    "6. The UAV of claim 5, wherein the UAV body includes a wing assembly and first and second boom assemblies mounted to the wing assembly and wherein the rotor units are mounted to the first and second boom assemblies, wherein the rotor units mounted to the first boom assembly fore of the wing assembly comprise a first one of the noise generating subgroups (i), the rotor units mounted to the first boom assembly aft of the wing assembly comprise a second one of the noise generating subgroups (i), the rotor units mounted to the second boom assembly fore of the wing assembly comprise a third one of the noise generating subgroups (i), and the rotor units mounted to the second boom assembly aft of the wing assembly comprise a fourth one of the noise generating subgroups (i).",
+    "7. The UAV of claim 3, wherein offsetting the phase delays of the rotor units relative to each other further comprises:\nupdating the phase delay value in real-time based upon changes in the revolution frequency of the one or more of the rotor units.",
+    "8. The UAV of claim 3, wherein determining the revolution frequency for the one or more of the rotor units comprises monitoring one or both of a voltage or a current driving the one or more of the rotor units in real-time and wherein phase delaying each of the rotor units comprises adjusting a pulse width modulation of each of the rotor units in real-time.",
+    "9. The UAV of claim 1, wherein adjusting at least one of the rotation rate or the phase delay comprises varying rotation rates of the rotor units relative to each other to spectrally spread out component frequencies of the tonal noises collectively generated by the rotor units.",
+    "10. The UAV of claim 9, wherein one or more of the rotor units have different physical geometries relative to each other such that different rotation rates for different ones of the rotor units produce a common amount of thrust.",
+    "11. The UAV of claim 10, wherein the different physical geometries includes differences in one or more of a diameter of the bladed rotor, a surface area of the bladed rotor, a pitch of the bladed rotor, or a number of blades on the bladed rotor.",
+    "12. The UAV of claim 9, wherein varying the rotation rates of the rotor units relative to each other comprises varying the rotation rates in groups of the rotor units to spectrally spread out the component frequencies of the tonal noises while maintaining flight stability.",
+    "13. The UAV of claim 9, wherein varying the rotation rates of the rotor units relative to each other to spectrally spread out the component frequencies of the tonal noises comprises introducing a gyroscopic wobble about a stabilized center of the UAV by dynamically modulating the rotation rates of different ones of the rotor units.",
+    "14. The UAV of claim 1, wherein the controller includes further logic that, when executed by the controller, will cause the UAV to perform additional operations including:\ndynamically modulating the rotation rates of the rotor units to generate a melody with the tonal noises generated by the rotor units; associating the melody with a particular flight phase; and generating the melody with the rotor units while the UAV is operating in the particular flight phase.",
+    "15. The UAV of claim 14, wherein the particular flight phase comprises one of an arrival phase, a departure phase, or a transit phase.",
+    "16. The UAV of claim 1, further comprising:\ngenerating chords with the tonal noises by varying the rotation rates between the rotor units.",
+    "17. A method of controlling tonal noises produced by an unmanned aerial vehicle (UAV), the method comprising:\ngenerating thrust with a plurality of rotor units mounted to the UAV to propel the UAV into flight, each of the rotor units including a bladed rotor; and adjusting at least one of a rotation rate or a phase delay of at least one of the rotor units relative to one or more others of the rotor units, wherein adjusting the at least one of the rotation rate or the phase delay causes a spread in the tonal noises generated by the rotor units.",
+    "18. The method of claim 17, wherein adjusting at least one of the rotation rate or the phase delay comprises offsetting phase delays of the rotor units relative to each other to offset phases of peak amplitudes of the tonal noises generated by different ones of the rotor units from each other.",
+    "19. The method of claim 18, wherein offsetting the phase delays of the rotor units relative to each other comprises:\ndetermining a revolution frequency for one or more of the rotor units to determine a rotation period for the one or more of the rotor units; dividing the rotation period by a number N of the rotor units to generate a phase delay value; and phase delaying each of the number N of the rotor units by a different integer multiple of the phase delay value.",
+    "20. The method of claim 19, wherein offsetting the phase delays of the rotor units relative to each other further comprises:\ngrouping the plurality of rotor units into noise generating subgroups (i) based upon proximity of the rotor units to each other; generating a phase delay value D(i) for each of the noise generating subgroups (i) based upon a number N(i) of the rotors in each of the noise generating subgroups (i); and phase delaying each of the rotor units within a given one of the noise generating subgroups (i) relative to other ones of the rotor units within the given one of the noise generating subgroups (i) by a different integer multiple of the phase delay value D(i).",
+    "21. The method of claim 19, wherein offsetting the phase delays of the rotor units relative to each other further comprises:\nupdating the phase delay value in real-time based upon changes in the revolution frequency of the one or more of the rotor units.",
+    "22. The method of claim 17, wherein adjusting at least one of the rotation rate or the phase delay comprises varying rotation rates of the rotor units relative to each other to spectrally spread out component frequencies of the tonal noises collectively generated by the rotor units.",
+    "23. The method of claim 22, wherein one or more of the rotor units have different physical geometries relative to each other such that different rotation rates for different ones of the rotor units produce a common amount of thrust.",
+    "24. The method of claim 22, wherein varying the rotation rates of the rotor units relative to each other comprises varying the rotation rates in groups of the rotor units to spectrally spread out the component frequencies of the tonal noises while maintain flight stability.",
+    "25. The method of claim 22, wherein varying the rotation rates of the rotor units relative to each other comprises varying the rotation rates of the rotor units relative to each other to generate an interference pattern perceived as an acoustical beat.",
+    "26. The method of claim 17, further comprising:\ndynamically modulating the rotation rates of the rotor units to generate a melody with the tonal noises generated by the rotor units; associating the melody with a particular flight phase; and generating the melody with the rotor units while the UAV is operating in the particular flight phase."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/849,365",
+      "representative_publication": "US10946953B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2017-12-20",
+      "title": "Multi-rotor tonal noise control for UAV"
+    },
+    {
+      "application_number": "AU2018388449A",
+      "representative_publication": "AU2018388449B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2018-12-11",
+      "title": "Multi-rotor tonal noise control for UAV"
+    },
+    {
+      "application_number": "SG11202004747WA",
+      "representative_publication": "SG11202004747WA",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2018-12-11",
+      "title": "Multi-rotor tonal noise control for uav"
+    },
+    {
+      "application_number": "EP23185268.2A",
+      "representative_publication": "EP4250553B1",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2018-12-11",
+      "title": "Multi-rotor tonal noise control for uav"
+    },
+    {
+      "application_number": "PCT/US2018/065029",
+      "representative_publication": "WO2019125832A1",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2018-12-11",
+      "title": "Multi-rotor tonal noise control for uav"
+    },
+    {
+      "application_number": "CN201880083035.2A",
+      "representative_publication": "CN111684705B",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2018-12-11",
+      "title": "Multi-rotor pitch noise control for UAV"
+    },
+    {
+      "application_number": "CN202310825863.1A",
+      "representative_publication": "CN116968951A",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2018-12-11",
+      "title": "Multi-rotor tonal noise control for unmanned aerial vehicle"
+    },
+    {
+      "application_number": "EP18834093.9A",
+      "representative_publication": "EP3698464B1",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2018-12-11",
+      "title": "Multi-rotor tonal noise control for uav"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US15/849,365",
+      "representative_publication": "US10946953B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-20",
+      "filing_date": "2017-12-20",
+      "title": "Multi-rotor tonal noise control for UAV"
+    }
+  ],
+  "family_id": "65023984",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US8515656B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-02",
+        "publication_date": "2013-08-20",
+        "assignee_original": "Goodrich Corporation",
+        "title": "Integrated aircraft cargo loading and monitoring system",
+        "patent_id": "patent/US8515656B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8515656B2%2Fen"
+      },
+      {
+        "publication_number": "US20130317667A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-09-30",
+        "publication_date": "2013-11-28",
+        "assignee_original": "Empire Technology Development Llc",
+        "title": "Automatic flight control for uav based solid modeling",
+        "patent_id": "patent/US20130317667A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130317667A1%2Fen"
+      },
+      {
+        "publication_number": "US20160025551A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-28",
+        "publication_date": "2016-01-28",
+        "assignee_original": "Doosan Heavy Industries Construction Co., Ltd.",
+        "title": "Intelligent noise monitoring device and noise monitoring method using the same",
+        "patent_id": "patent/US20160025551A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160025551A1%2Fen"
+      },
+      {
+        "publication_number": "US20160083073A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-23",
+        "publication_date": "2016-03-24",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Vehicle noise control and communication",
+        "patent_id": "patent/US20160083073A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160083073A1%2Fen"
+      },
+      {
+        "publication_number": "US9415870B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-02",
+        "publication_date": "2016-08-16",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Unmanned aerial vehicle motor driving randomization and feedback for noise abatement",
+        "patent_id": "patent/US9415870B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9415870B1%2Fen"
+      },
+      {
+        "publication_number": "US9442496B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-18",
+        "publication_date": "2016-09-13",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Active airborne noise abatement",
+        "patent_id": "patent/US9442496B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9442496B1%2Fen"
+      },
+      {
+        "publication_number": "US9646597B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-21",
+        "publication_date": "2017-05-09",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Delivery sound masking and sound emission",
+        "patent_id": "patent/US9646597B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9646597B1%2Fen"
+      },
+      {
+        "publication_number": "US20170274981A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-28",
+        "publication_date": "2017-09-28",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Selectively thrusting propulsion units for aerial vehicles",
+        "patent_id": "patent/US20170274981A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170274981A1%2Fen"
+      },
+      {
+        "publication_number": "US9802702B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-02",
+        "publication_date": "2017-10-31",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Unmanned aerial vehicle motor driving randomization for noise abatement",
+        "patent_id": "patent/US9802702B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9802702B1%2Fen"
+      },
+      {
+        "publication_number": "US20180098052A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-30",
+        "publication_date": "2018-04-05",
+        "assignee_original": "Sony Interactive Entertainment Inc.",
+        "title": "Translation of physical object viewed by unmanned aerial vehicle into virtual world object",
+        "patent_id": "patent/US20180098052A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180098052A1%2Fen"
+      },
+      {
+        "publication_number": "US20180186448A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-30",
+        "publication_date": "2018-07-05",
+        "assignee_original": "X Development Llc",
+        "title": "Rotor Units Having Asymmetric Rotor Blades",
+        "patent_id": "patent/US20180186448A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180186448A1%2Fen"
+      },
+      {
+        "publication_number": "US20190189016A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-20",
+        "publication_date": "2019-06-20",
+        "assignee_original": "X Development Llc",
+        "title": "Mitigating noise exposure to unmanned aerial vehicles",
+        "patent_id": "patent/US20190189016A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190189016A1%2Fen"
+      },
+      {
+        "publication_number": "US20190237059A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-31",
+        "publication_date": "2019-08-01",
+        "assignee_original": "Walmart Apollo, Llc",
+        "title": "System and method for controlling the sound emitted by an unmanned aerial vehicle",
+        "patent_id": "patent/US20190237059A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190237059A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "FR2719549B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-04",
+        "publication_date": "1996-07-26",
+        "assignee_original": "Eurocopter France",
+        "title": "Anti-torque device with faired rotor and blade phase modulation, for helicopter.",
+        "patent_id": "patent/FR2719549B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2719549B1%2Fen"
+      },
+      {
+        "publication_number": "EP2913269B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-28",
+        "publication_date": "2019-01-16",
+        "assignee_original": "AIRBUS HELICOPTERS DEUTSCHLAND GmbH",
+        "title": "Rotorcraft with at least one main rotor and at least one counter-torque rotor",
+        "patent_id": "patent/EP2913269B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2913269B1%2Fen"
+      },
+      {
+        "publication_number": "US9489937B1",
+        "primary_language": "en",
+        "priority_date": "2014-03-07",
+        "publication_date": "2016-11-08",
+        "assignee_original": "Trace Live Network Inc.",
+        "title": "Real-time noise reduction system for dynamic motor frequencies aboard an unmanned aerial vehicle (UAV)",
+        "patent_id": "patent/US9489937B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9489937B1%2Fen"
+      },
+      {
+        "publication_number": "CN103995529B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-20",
+        "publication_date": "2016-08-17",
+        "assignee_original": "\u897f\u5357\u4ea4\u901a\u5927\u5b66",
+        "title": "A kind of rotor craft mechanical erection on-line fault diagnosis method",
+        "patent_id": "patent/CN103995529B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103995529B%2Fen"
+      },
+      {
+        "publication_number": "US9745050B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-18",
+        "publication_date": "2017-08-29",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Selecting propellers for performance and noise shaping",
+        "patent_id": "patent/US9745050B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9745050B2%2Fen"
+      },
+      {
+        "publication_number": "US20170274984A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-23",
+        "publication_date": "2017-09-28",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Coaxially aligned propellers of an aerial vehicle",
+        "patent_id": "patent/US20170274984A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170274984A1%2Fen"
+      },
+      {
+        "publication_number": "US10723440B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-23",
+        "publication_date": "2020-07-28",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Aerial vehicle with different propeller blade configurations",
+        "patent_id": "patent/US10723440B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10723440B2%2Fen"
+      },
+      {
+        "publication_number": "US10946953B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-20",
+        "publication_date": "2021-03-16",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Multi-rotor tonal noise control for UAV",
+        "patent_id": "patent/US10946953B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10946953B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20190377366A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-08",
+        "publication_date": "2019-12-12",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "System and Method for Rotorcraft Height Control",
+        "patent_id": "patent/US20190377366A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190377366A1%2Fen"
+      },
+      {
+        "publication_number": "US10604242B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-03",
+        "publication_date": "2020-03-31",
+        "assignee_original": "Hyperdronamics Pty. Ltd.",
+        "title": "Multi-rotor roto-craft flying machine",
+        "patent_id": "patent/US10604242B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10604242B2%2Fen"
+      },
+      {
+        "publication_number": "US10908618B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-31",
+        "publication_date": "2021-02-02",
+        "assignee_original": "The Boeing Company",
+        "title": "Rotor control law for multi-rotor vehicles systems and methods",
+        "patent_id": "patent/US10908618B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10908618B2%2Fen"
+      },
+      {
+        "publication_number": "US10946953B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-20",
+        "publication_date": "2021-03-16",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Multi-rotor tonal noise control for UAV",
+        "patent_id": "patent/US10946953B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10946953B2%2Fen"
+      },
+      {
+        "publication_number": "US20210291969A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-18",
+        "publication_date": "2021-09-23",
+        "assignee_original": "Airbus Helicopters",
+        "title": "Method and a system for reducing the in-flight noise from a hybrid helicopter by managing the angle of incidence of its main rotor and the thrust from each propeller",
+        "patent_id": "patent/US20210291969A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210291969A1%2Fen"
+      },
+      {
+        "publication_number": "US20220194566A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-21",
+        "publication_date": "2022-06-23",
+        "assignee_original": "Hyundai Motor Company",
+        "title": "Noise reduction system for air mobility",
+        "patent_id": "patent/US20220194566A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220194566A1%2Fen"
+      },
+      {
+        "publication_number": "US11414184B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-15",
+        "publication_date": "2022-08-16",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Electric distributed propulsion with different rotor rotational speeds",
+        "patent_id": "patent/US11414184B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11414184B2%2Fen"
+      },
+      {
+        "publication_number": "CN115027675A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-21",
+        "publication_date": "2022-09-09",
+        "assignee_original": "\u6c5f\u6c49\u5927\u5b66",
+        "title": "A blasting site noise measurement device based on UAV platform",
+        "patent_id": "patent/CN115027675A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115027675A%2Fen"
+      },
+      {
+        "publication_number": "US20230021800A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-13",
+        "publication_date": "2023-01-26",
+        "assignee_original": "Rolls-Royce Plc",
+        "title": "Multi-propulsor electric aircraft",
+        "patent_id": "patent/US20230021800A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230021800A1%2Fen"
+      },
+      {
+        "publication_number": "US11565790B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-09",
+        "publication_date": "2023-01-31",
+        "assignee_original": "United States Of America As Represented By The Administrator Of Nasa",
+        "title": "Low-noise multi-propeller system",
+        "patent_id": "patent/US11565790B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11565790B2%2Fen"
+      },
+      {
+        "publication_number": "EP4246798A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-14",
+        "publication_date": "2023-09-20",
+        "assignee_original": "J.C. Bamford Excavators Limited",
+        "title": "Control system",
+        "patent_id": "patent/EP4246798A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4246798A1%2Fen"
+      },
+      {
+        "publication_number": "EP4249373A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-24",
+        "publication_date": "2023-09-27",
+        "assignee_original": "Lilium eAircraft GmbH",
+        "title": "Aerial vehicle, method of operating an aerial vehicle, and controller",
+        "patent_id": "patent/EP4249373A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4249373A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "US20240270399A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-17",
+        "publication_date": "2024-08-15",
+        "assignee_original": "Verdego Aero, Inc.",
+        "title": "Hybrid control system spanning multiple operation modes",
+        "patent_id": "patent/US20240270399A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240270399A1%2Fen"
+      },
+      {
+        "publication_number": "DE102023121693A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-08-14",
+        "publication_date": "2025-02-20",
+        "assignee_original": "Rolls-Royce Deutschland Ltd & Co Kg",
+        "title": "Method for noise and vibration reducing control of a drive unit and corresponding drive unit",
+        "patent_id": "patent/DE102023121693A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102023121693A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102019208336A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-07",
+        "publication_date": "2020-12-10",
+        "assignee_original": "Rolls-Royce Deutschland Ltd & Co Kg",
+        "title": "Aircraft propulsion system, aircraft and method for minimizing a sound pressure of an aircraft",
+        "patent_id": "patent/DE102019208336A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019208336A1%2Fen"
+      },
+      {
+        "publication_number": "US20220024600A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-21",
+        "publication_date": "2022-01-27",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Noise signature proximity warning system and feedback mechanism for aircraft",
+        "patent_id": "patent/US20220024600A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220024600A1%2Fen"
+      },
+      {
+        "publication_number": "US12384552B2",
+        "primary_language": "en",
+        "priority_date": "2022-03-25",
+        "publication_date": "2025-08-12",
+        "assignee_original": "Pratt & Whitney Canada Corp.",
+        "title": "Method of reducing noise of aircraft having hybrid power plants",
+        "patent_id": "patent/US12384552B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12384552B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "AU2018388449B2",
+      "primary_language": "en",
+      "publication_date": "2021-02-18",
+      "title": "Multi-rotor tonal noise control for UAV",
+      "patent_id": "patent/AU2018388449B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2018388449B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2021269329B2",
+      "primary_language": "en",
+      "publication_date": "2024-03-07",
+      "title": "Rotor units having asymmetric rotor blades",
+      "patent_id": "patent/AU2021269329B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2021269329B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2017387019B2",
+      "primary_language": "en",
+      "publication_date": "2020-04-23",
+      "title": "Electrical system for unmanned aerial vehicles",
+      "patent_id": "patent/AU2017387019B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2017387019B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11447371B2",
+      "primary_language": "en",
+      "publication_date": "2022-09-20",
+      "title": "Perforated capsule hook for stable high speed retract",
+      "patent_id": "patent/US11447371B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11447371B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210276704A1",
+      "primary_language": "en",
+      "publication_date": "2021-09-09",
+      "title": "Rotor Units Having Asymmetric Rotor Blades",
+      "patent_id": "patent/US20210276704A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210276704A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12209884B2",
+      "primary_language": "en",
+      "publication_date": "2025-01-28",
+      "title": "Using unwound tether length to measure altitude",
+      "patent_id": "patent/US12209884B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12209884B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12164308B2",
+      "primary_language": "en",
+      "publication_date": "2024-12-10",
+      "title": "Tether-based wind estimation",
+      "patent_id": "patent/US12164308B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12164308B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025076408A1",
+      "primary_language": "en",
+      "publication_date": "2025-04-10",
+      "title": "Drag reduction device for externally carried payloads on aircraft",
+      "patent_id": "patent/WO2025076408A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025076408A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-12-20",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-26",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "X DEVELOPMENT LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PANTALONE, GIULIA;WOODWORTH, ADAM;TELLER, ERIC;AND OTHERS;SIGNING DATES FROM 20171220 TO 20180122;REEL/FRAME:044740/0060"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WING AVIATION LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:X DEVELOPMENT LLC;REEL/FRAME:047567/0433"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180627"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-02",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WING AVIATION LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:X DEVELOPMENT LLC;REEL/FRAME:047036/0355"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180701"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-31",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-17",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-12",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-21",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-24",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-03",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

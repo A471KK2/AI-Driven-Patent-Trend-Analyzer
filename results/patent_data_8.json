@@ -1,0 +1,1093 @@
+{
+  "search_metadata": {
+    "id": "697a362e95e950e5248f8e69",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/957c6f9523c3ed40/697a362e95e950e5248f8e69.json",
+    "created_at": "2026-01-28 16:15:42 UTC",
+    "processed_at": "2026-01-28 16:15:42 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN112471082A/en",
+    "raw_html_file": "https://serpapi.com/searches/957c6f9523c3ed40/697a362e95e950e5248f8e69.html",
+    "total_time_taken": 1.44
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN112471082A/en"
+  },
+  "title": "Broad-band optimized aphid fly breeding method",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/86/d5/ee/bd1035e939986f/CN112471082A.pdf",
+  "publication_number": "CN112471082A",
+  "country": "China",
+  "prior_art_keywords": [
+    "broadband",
+    "breeding",
+    "band",
+    "wide",
+    "aphid"
+  ],
+  "prior_art_date": "2020-12-17",
+  "application_number": "CN202011496048.8A",
+  "inventors": [
+    {
+      "name": "\u4f0d\u7ecd\u9f99",
+      "link": "https://patents.google.com/?inventor=%E4%BC%8D%E7%BB%8D%E9%BE%99",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%BC%8D%E7%BB%8D%E9%BE%99"
+    },
+    {
+      "name": "\u66fe\u7ef4\u7231",
+      "link": "https://patents.google.com/?inventor=%E6%9B%BE%E7%BB%B4%E7%88%B1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9B%BE%E7%BB%B4%E7%88%B1"
+    },
+    {
+      "name": "\u5468\u5fd7\u6210",
+      "link": "https://patents.google.com/?inventor=%E5%91%A8%E5%BF%97%E6%88%90",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%91%A8%E5%BF%97%E6%88%90"
+    },
+    {
+      "name": "\u8c2d\u7433",
+      "link": "https://patents.google.com/?inventor=%E8%B0%AD%E7%90%B3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%B0%AD%E7%90%B3"
+    },
+    {
+      "name": "\u8bb8\u6d2a\u660e",
+      "link": "https://patents.google.com/?inventor=%E8%AE%B8%E6%B4%AA%E6%98%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%AE%B8%E6%B4%AA%E6%98%8E"
+    },
+    {
+      "name": "\u8521\u6d77\u6797",
+      "link": "https://patents.google.com/?inventor=%E8%94%A1%E6%B5%B7%E6%9E%97",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%94%A1%E6%B5%B7%E6%9E%97"
+    },
+    {
+      "name": "\u9646\u4e2d\u5c71",
+      "link": "https://patents.google.com/?inventor=%E9%99%86%E4%B8%AD%E5%B1%B1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%99%86%E4%B8%AD%E5%B1%B1"
+    },
+    {
+      "name": "\u4f55\u547d\u519b",
+      "link": "https://patents.google.com/?inventor=%E4%BD%95%E5%91%BD%E5%86%9B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%BD%95%E5%91%BD%E5%86%9B"
+    },
+    {
+      "name": "\u8c22\u9e4f\u98de",
+      "link": "https://patents.google.com/?inventor=%E8%B0%A2%E9%B9%8F%E9%A3%9E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%B0%A2%E9%B9%8F%E9%A3%9E"
+    }
+  ],
+  "assignees": [
+    "TOBACCO AGRICULTURAL EXPERIMENT STATION OF CENTRAL-SOUTH CHINA",
+    "Changsha Co Of Hunan Tobacco Co",
+    "Hunan Agricultural University"
+  ],
+  "priority_date": "2020-12-17",
+  "filing_date": "2020-12-17",
+  "publication_date": "2021-03-12",
+  "worldwide_applications": {
+    "2020": [
+      {
+        "filing_date": "2020-12-17",
+        "country_code": "CN",
+        "application_number": "CN202011496048.8A",
+        "document_id": "patent/CN112471082B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2020-12-17",
+      "title": "Application filed by TOBACCO AGRICULTURAL EXPERIMENT STATION OF CENTRAL-SOUTH CHINA, Changsha Co Of Hunan Tobacco Co, Hunan Agricultural University",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "TOBACCO AGRICULTURAL EXPERIMENT STATION OF CENTRAL-SOUTH CHINA"
+    },
+    {
+      "date": "2020-12-17",
+      "title": "Priority to CN202011496048.8A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN112471082B/en"
+    },
+    {
+      "date": "2021-03-12",
+      "title": "Publication of CN112471082A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN112471082A/en"
+    },
+    {
+      "date": "2023-04-25",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2023-04-25",
+      "title": "Publication of CN112471082B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN112471082B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2040-12-17",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=112471082A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/202011496048/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN112471082A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01K67/30",
+      "description": "Rearing or breeding invertebrates",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A23K10/30",
+      "description": "Animal feeding-stuffs from material of plant origin, e.g. roots, seeds or hay; from material of fungal origin, e.g. mushrooms",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A23K10/37",
+      "description": "Animal feeding-stuffs from material of plant origin, e.g. roots, seeds or hay; from material of fungal origin, e.g. mushrooms from waste material",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A23K50/90",
+      "description": "Feeding-stuffs specially adapted for particular animals for insects, e.g. bees or silkworms",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02P60/87",
+      "description": "Re-use of by-products of food processing for fodder production",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention discloses a breeding method of broad-band superior aphid flies. The wide-band optimal aphid fly breeding method provided by the invention is suitable for artificial large-scale breeding of wide-band optimal aphid flies, the death rate of the wide-band optimal aphid fly breeding process can be reduced, the pupation rate and the eclosion rate of the wide-band optimal aphid flies are improved, and the survival rate of the wide-band optimal aphid fly larvae and imagoes in the long-term breeding process can reach 95%.",
+  "description_link": "https://serpapi.com/searches/697a362e95e950e5248f8e69/google_patents_details/description.html",
+  "claims": [
+    "1.\u4e00\u79cd\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u4ee5\u7c73\u86fe\u5e7c\u866b\u4e3a\u98df\u6e90\u8fdb\u884c\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u30021. a broadband syrphid breeding method, is characterized in that, carrying out broadband syrphid breeding with rice moth larvae as a food source.",
+    "2.\u6839\u636e\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u7c73\u86fe\u5e7c\u866b\u7684\u9972\u517b\u65b9\u6cd5\u4e3a\uff1a\u91c7\u53d6\u91cd\u91cf\u6bd4\u4f8b\u4e3a1:1.5-1:2.5\u7684\u7389\u7c73\u9762\u548c\u9ea6\u9eb8\u9972\u517b\u7c73\u86fe\uff0c\u83b7\u5f97\u7c73\u86fe\u5e7c\u866b\uff0c\u9972\u517b\u6e29\u5ea6\u4e3a26\u00b11\u2103\u30022. broadband syrphid breeding method according to claim 1, is characterized in that, the raising method of described rice moth larvae is: taking the cornmeal and wheat bran of 1:1.5-1:2.5 by weight ratio to raise rice moth , obtain rice moth larvae, rearing temperature is 26 \u00b1 1 \u2103.",
+    "3.\u6839\u636e\u6743\u5229\u8981\u6c422\u6240\u8ff0\u7684\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u4ee5\u7c73\u86fe\u5e7c\u866b\u4e3a\u98df\u6e90\u5bf92\uff5e3\u9f84\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u8fdb\u884c\u9972\u517b\u30023 . The method for breeding Syrphidae according to claim 2 , characterized in that 2-3 years old Syrphids are raised with the larvae of the rice moth as a food source. 4 .",
+    "4.\u6839\u636e\u6743\u5229\u8981\u6c423\u6240\u8ff0\u7684\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u7e41\u80b2\u65b9\u6cd5\u5305\u62ec\u4ee5\u4e0b\u6b65\u9aa4\uff1a4. broadband syrphid breeding method according to claim 3, is characterized in that, described breeding method comprises the following steps:\n      \n      \n         (1)\u7c73\u86fe\u5e7c\u866b\u9972\u517b\uff1b(1) Feeding of rice moth larvae;\n      \n      \n         (2)\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u91ce\u5916\u91c7\u96c6\u53ca\u9972\u517b\uff1a\u91ce\u5916\u91c7\u96c6\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u6210\u866b\u653e\u5165\u517b\u866b\u7b3c\u4e00\u4e2d\uff0c\u91c7\u752810\uff05\u8702\u871c\u6c34\u548c\u6cb9\u83dc\u82b1\u7c89\u9972\u517b\uff1b(2) Field collection and rearing of Syrphidae broadband: The adults of Syrphidae were collected in the wild and put into cage 1, and raised with 10% honey water and rape pollen;\n      \n      \n         (3)\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u4ea7\u5375\u914d\u5bf9\uff1a\u5c06\u5e26\u6709\u70df\u869c\u7684\u70df\u682a\u7f6e\u4e8e\u517b\u866b\u7b3c\u4e8c\u4e2d\uff0c\u7136\u540e\u63a5\u51651\u5bf9\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u6210\u866b\uff0c\u5f85\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u4ea7\u5375\uff0c\u6bcf\u5929\u6536\u96c6\u5375\u7c92\uff1b(3) Broadband syrphid egg-laying pairing: Place the tobacco plants with M. aphids in the second insect cage, and then connect a pair of broadband syrphid adults, and wait for the broadband syrphid to lay eggs, every day collection of eggs;\n      \n      \n         (4)\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u5375\u5b75\u5316\uff1a\u5f85\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u4ea7\u5375\u540e\uff0c\u5c06\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u5375\u53d6\u51fa\u653e\u7f6e\u4e8e\u57ab\u6709\u6ee4\u7eb8\u7684\u517b\u866b\u76d2\u4e2d\uff0c\u653e\u5165\u4eba\u5de5\u6c14\u5019\u7bb1\u8fdb\u884c\u5b75\u5316\uff1b(4) Incubation of Broadband Syrphids eggs: after Broadband Syrphids lay eggs, take out Broadband Syrphids eggs and place them in an insect raising box padded with filter paper, and put them into an artificial climate box for incubation;\n      \n      \n         (5)1\u9f84\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u9972\u517b\uff1a\u5f85\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u5375\u5f00\u59cb\u5b75\u5316\u65f6\uff0c\u5728\u57f9\u517b\u76bf\u4e2d\u6295\u5165\u70df\u869c\u9972\u517b\uff0c\u6bcf\u5929\u6dfb\u52a0\u70df\u869c\uff1b(5) Breeding of 1-year-old Broadband Syrphids: When the Broadband Syrphids eggs start to hatch, put them into the petri dish and feed them, and add Syrphids every day;\n      \n      \n         (6)2\uff5e3\u9f84\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u9972\u517b\uff1a\u5f85\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u53d1\u80b2\u81f32\u9f84\u540e\uff0c\u5c06\u6240\u8ff0\u7c73\u86fe\u5e7c\u866b\u6309\u6bcf\u5934\u5bbd\u5e26\u4f18\u98df\u869c\u87478\uff5e12\u5934\u7684\u6807\u51c6\u6295\u5165\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u517b\u6b96\u76d2\u4e2d\uff0c\u4f9b\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u53d6\u98df\uff0c\u6bcf\u5929\u66f4\u6362\u7c73\u86fe\u5e7c\u866b\uff1b(6) Breeding of 2-3-year-old Syrphids: After Syrphids develop to 2 instars, the larvae of the rice moth are put into broadband Syrphids according to the standard of 8-12 heads of Syrphids per head. In the hoverfly breeding box, it is fed by the broadband syrphid, and the rice moth larvae are replaced every day;\n      \n      \n         (7)\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u86f9\u6536\u96c6\u548c\u7fbd\u5316\uff1a\u5f85\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u5316\u86f9\u540e\uff0c\u5c06\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u86f9\u53d6\u51fa\u653e\u5165\u517b\u866b\u7b3c\u4e09\u4e2d\uff0c\u7136\u540e\u7f6e\u4e8e\u4eba\u5de5\u6c14\u5019\u5ba4\u4e2d\uff0c\u5f85\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7fbd\u5316\u3002(7) Collection and eclosion of the Broadband Syrphids Hoverfly eclosion.",
+    "5.\u6839\u636e\u6743\u5229\u8981\u6c424\u6240\u8ff0\u7684\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7684\u9972\u517b\u6e29\u5ea6\u4e3a25\uff5e27\u2103\u30025 . The method for breeding Syrphidae according to claim 4 , wherein the breeding temperature of Syrphidae is 25-27\u00b0 C. 6 .",
+    "6.\u6839\u636e\u6743\u5229\u8981\u6c424\u6240\u8ff0\u7684\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u517b\u866b\u7b3c\u4e00\u548c\u6240\u8ff0\u517b\u866b\u7b3c\u4e8c\u7684\u957f\u5bbd\u9ad8\u5747\u4e3a120cm*120cm*120cm\uff1b\u6240\u8ff0\u517b\u866b\u7b3c\u4e09\u7684\u957f\u5bbd\u9ad8\u4e3a30cm*30cm*30cm-60cm*60cm*60cm\u30026. The broadband excellent hoverfly breeding method according to claim 4, characterized in that, the length, width and height of the first insect cage and the second insect cage are 120cm*120cm*120cm; The length, width and height of cage three are 30cm*30cm*30cm-60cm*60cm*60cm.",
+    "7.\u6839\u636e\u6743\u5229\u8981\u6c424\u6240\u8ff0\u7684\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u6b65\u9aa4(2)\u4e2d\u5e26\u6709\u70df\u869c\u7684\u70df\u682a\u5355\u682a\u869c\u866b\u91cf>3000\u5934\u30027. The broadband syrphid breeding method according to claim 4, wherein in the step (2), the amount of aphids per plant of tobacco plants with Myzus persicae >3000.",
+    "8.\u6839\u636e\u6743\u5229\u8981\u6c424\u6240\u8ff0\u7684\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u7e41\u80b2\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u6240\u8ff0\u6b65\u9aa4(4)\u4e2d\u5728\u57f9\u517b\u76bf\u4e2d\u6309\u5bbd\u5e26\u4f18\u98df\u869c\u8747\u4e0e\u70df\u869c\u6bd41:100-1:150\u6295\u5165\u70df\u869c\u30028. The broadband syrphid breeding method according to claim 4, characterized in that, in the step (4), in the petri dish, put into the culture dish by the ratio of 1:100-1:150 of the broadband syrphid and H. Myzus persicae."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN202011496048.8A",
+      "representative_publication": "CN112471082B",
+      "primary_language": "en",
+      "priority_date": "2020-12-17",
+      "filing_date": "2020-12-17",
+      "title": "A kind of broadband optimal hoverfly breeding method"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN202011496048.8A",
+      "representative_publication": "CN112471082B",
+      "primary_language": "en",
+      "priority_date": "2020-12-17",
+      "filing_date": "2020-12-17",
+      "title": "A kind of broadband optimal hoverfly breeding method"
+    }
+  ],
+  "family_id": "74917255",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN103478117A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-21",
+        "publication_date": "2014-01-01",
+        "assignee_original": "\u4e91\u5357\u745e\u5347\u70df\u8349\u6280\u672f\uff08\u96c6\u56e2\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Diffusion breeding and releasing method for preventing myzus persicae through harmonia axyridis",
+        "patent_id": "patent/CN103478117A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103478117A%2Fen"
+      },
+      {
+        "publication_number": "CN106305227A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-23",
+        "publication_date": "2017-01-11",
+        "assignee_original": "\u9ad8\u555f\u8363",
+        "title": "Method for preventing and controlling aphids by breeding syrphidae",
+        "patent_id": "patent/CN106305227A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106305227A%2Fen"
+      },
+      {
+        "publication_number": "CN106577549A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-05",
+        "publication_date": "2017-04-26",
+        "assignee_original": "\u4e91\u5357\u7701\u70df\u8349\u516c\u53f8\u4e3d\u6c5f\u5e02\u516c\u53f8",
+        "title": "Insect disease prevention and control method during the Myzus persi cae (Sulzer) breeding process",
+        "patent_id": "patent/CN106577549A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106577549A%2Fen"
+      },
+      {
+        "publication_number": "CN108056070A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-16",
+        "publication_date": "2018-05-22",
+        "assignee_original": "\u5409\u6797\u519c\u4e1a\u5927\u5b66",
+        "title": "Utilize the method for white snow moths attracted by lamplight breeding trichogramma",
+        "patent_id": "patent/CN108056070A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108056070A%2Fen"
+      },
+      {
+        "publication_number": "CN209185442U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-12",
+        "publication_date": "2019-08-02",
+        "assignee_original": "\u6e56\u5357\u7701\u70df\u8349\u516c\u53f8\u957f\u6c99\u5e02\u516c\u53f8",
+        "title": "Greenhouse is raised outside a kind of Predacious syrphids room",
+        "patent_id": "patent/CN209185442U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209185442U%2Fen"
+      },
+      {
+        "publication_number": "CN110235860A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-13",
+        "publication_date": "2019-09-17",
+        "assignee_original": "\u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662\u690d\u7269\u4fdd\u62a4\u7814\u7a76\u6240",
+        "title": "Large-scale rearing method of hoverfly",
+        "patent_id": "patent/CN110235860A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110235860A%2Fen"
+      },
+      {
+        "publication_number": "CN111657235A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-08",
+        "publication_date": "2020-09-15",
+        "assignee_original": "\u4e2d\u56fd\u70df\u8349\u4e2d\u5357\u519c\u4e1a\u8bd5\u9a8c\u7ad9",
+        "title": "Armoracia chinensis breeding method",
+        "patent_id": "patent/CN111657235A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111657235A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\u674e\u6587\u5bbe;\u5434\u654f\u4e3d;\u5ec9\u632f\u6c11;: \"\u4e2d\u56fd\u98df\u869c\u8747\u79d1\u6606\u866b\u7814\u7a76\u8fdb\u5c55\"",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "\u80e1\u8fdb\u950b;\u6797\u4f1f;\u9648\u5fd7\u539a;\u5f90\u831c;\u6797\u52c7;: \"\u53d6\u98df\u4e0d\u540c\u5bc4\u4e3b\u70df\u869c\u5bf9\u9ed1\u5e26\u98df\u869c\u8747\u751f\u957f\u53d1\u80b2\u7684\u5f71\u54cd\"",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "\u8463\u5764,\u8463\u8273,\u7f57\u4f51\u73cd: \"\u6e29\u5ea6\u5bf9\u9ed1\u5e26\u98df\u869c\u8747\u751f\u957f\u53d1\u80b2\u7684\u5f71\u54cd\"",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN115349581A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-08",
+        "publication_date": "2022-11-18",
+        "assignee_original": "\u6e56\u5357\u519c\u4e1a\u5927\u5b66",
+        "title": "A kind of feeding substrate and artificial feeding method of P.",
+        "patent_id": "patent/CN115349581A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115349581A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN103891659B",
+      "primary_language": "en",
+      "publication_date": "2015-07-22",
+      "title": "The method of pond fish-rice symbiosis rearing pond snakehead",
+      "patent_id": "patent/CN103891659B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103891659B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101796940A",
+      "primary_language": "en",
+      "publication_date": "2010-08-11",
+      "title": "Super flour weevil culture technology",
+      "patent_id": "patent/CN101796940A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101796940A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105165734B",
+      "primary_language": "en",
+      "publication_date": "2017-10-20",
+      "title": "A kind of method of Adoxophyes spp cocoon honeybee biological control",
+      "patent_id": "patent/CN105165734B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105165734B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103782969A",
+      "primary_language": "en",
+      "publication_date": "2014-05-14",
+      "title": "Method for breeding trichogramma pintoi indoors and corcyra cephalonica raising fodder",
+      "patent_id": "patent/CN103782969A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103782969A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108077191A",
+      "primary_language": "en",
+      "publication_date": "2018-05-29",
+      "title": "A kind of Spodoptera litura larvae group breeding method",
+      "patent_id": "patent/CN108077191A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108077191A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113080147A",
+      "primary_language": "en",
+      "publication_date": "2021-07-09",
+      "title": "Method for preventing and treating yellow leaf borers by trichogramma",
+      "patent_id": "patent/CN113080147A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113080147A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105746435A",
+      "primary_language": "en",
+      "publication_date": "2016-07-13",
+      "title": "Method for propagating chrysopa pallens larvae through rice moth eggs",
+      "patent_id": "patent/CN105746435A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105746435A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113317091A",
+      "primary_language": "en",
+      "publication_date": "2021-08-31",
+      "title": "Method for breeding Spodoptera frugiperda advantage natural enemy gloeosporioides",
+      "patent_id": "patent/CN113317091A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113317091A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112602860B",
+      "primary_language": "en",
+      "publication_date": "2023-10-20",
+      "title": "Artificial feed for feeding broadband eudipleus aphis, and preparation method and application thereof",
+      "patent_id": "patent/CN112602860B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112602860B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107581161A",
+      "primary_language": "en",
+      "publication_date": "2018-01-16",
+      "title": "A kind of indoor propagation method of Adoxophyes spp cocoon honeybee",
+      "patent_id": "patent/CN107581161A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107581161A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104957107B",
+      "primary_language": "en",
+      "publication_date": "2018-05-18",
+      "title": "A kind of method of interior raising Propylaea japonica",
+      "patent_id": "patent/CN104957107B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104957107B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112385608A",
+      "primary_language": "en",
+      "publication_date": "2021-02-23",
+      "title": "Breeding method of lugworm",
+      "patent_id": "patent/CN112385608A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112385608A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110235860A",
+      "primary_language": "en",
+      "publication_date": "2019-09-17",
+      "title": "Large-scale rearing method of hoverfly",
+      "patent_id": "patent/CN110235860A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110235860A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112042598A",
+      "primary_language": "en",
+      "publication_date": "2020-12-08",
+      "title": "A complete method for efficiently rearing lady beetles",
+      "patent_id": "patent/CN112042598A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112042598A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108094768B",
+      "primary_language": "en",
+      "publication_date": "2021-05-28",
+      "title": "Fermentation substrate for cultivating larvae and straw and method for cultivating larvae",
+      "patent_id": "patent/CN108094768B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108094768B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102516514B1",
+      "primary_language": "en",
+      "publication_date": "2023-03-31",
+      "title": "Mass rearing method and packaging and storage method of Metasyrphus corollae (Fabricius) for aphid control.",
+      "patent_id": "patent/KR102516514B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102516514B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112471082A",
+      "primary_language": "en",
+      "publication_date": "2021-03-12",
+      "title": "Broad-band optimized aphid fly breeding method",
+      "patent_id": "patent/CN112471082A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112471082A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111066732B",
+      "primary_language": "en",
+      "publication_date": "2021-12-28",
+      "title": "Method for breeding orius sauteri",
+      "patent_id": "patent/CN111066732B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111066732B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12302906B2",
+      "primary_language": "en",
+      "publication_date": "2025-05-20",
+      "title": "Feed stuff for beneficial organisms that can be used in integrated pest management",
+      "patent_id": "patent/US12302906B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12302906B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102630647B",
+      "primary_language": "en",
+      "publication_date": "2014-05-07",
+      "title": "Method for propagating Diglyphus isaea",
+      "patent_id": "patent/CN102630647B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102630647B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114271240A",
+      "primary_language": "en",
+      "publication_date": "2022-04-05",
+      "title": "Breeding method of adelphocoris suturalis",
+      "patent_id": "patent/CN114271240A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114271240A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112471368A",
+      "primary_language": "en",
+      "publication_date": "2021-03-12",
+      "title": "Artificial feed for cowpea pod borer larvae and preparation method thereof",
+      "patent_id": "patent/CN112471368A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112471368A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111034684A",
+      "primary_language": "en",
+      "publication_date": "2020-04-21",
+      "title": "Semitrella semipenguii seed conservation and rejuvenation breeding method",
+      "patent_id": "patent/CN111034684A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111034684A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108142382B",
+      "primary_language": "en",
+      "publication_date": "2021-02-05",
+      "title": "A kind of method of large-scale rearing of peach borer borer",
+      "patent_id": "patent/CN108142382B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108142382B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113208014A",
+      "primary_language": "en",
+      "publication_date": "2021-08-06",
+      "title": "Feed with high spawning proliferation rate of natural enemy ladybug and application",
+      "patent_id": "patent/CN113208014A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113208014A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2021-03-12",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2021-03-12",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2021-03-30",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2021-03-30",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2023-04-25",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2023-04-25",
+      "code": "GR01",
+      "title": "Patent grant"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "241001124076",
+        "name": "Aphididae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 95
+      },
+      {
+        "id": "238000009395",
+        "name": "breeding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 63
+      },
+      {
+        "id": "230000001488",
+        "name": "breeding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 48
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000032669",
+        "name": "eclosion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "241000753145",
+        "name": "Sitotroga cerealella",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 63
+      },
+      {
+        "id": "235000013601",
+        "name": "eggs",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 48
+      },
+      {
+        "id": "241000238631",
+        "name": "Hexapoda",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 34
+      },
+      {
+        "id": "241000721621",
+        "name": "Myzus persicae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "230000003203",
+        "name": "everyday effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "230000000384",
+        "name": "rearing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "235000002637",
+        "name": "Nicotiana tabacum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "244000061176",
+        "name": "Nicotiana tabacum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "235000015099",
+        "name": "wheat brans",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "235000012907",
+        "name": "honey",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000017448",
+        "name": "oviposition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "241000196324",
+        "name": "Embryophyta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241001481659",
+        "name": "Syrphidae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 19
+      },
+      {
+        "id": "238000011534",
+        "name": "incubation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000167882",
+        "name": "Rhopalosiphum maidis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001142294",
+        "name": "Chamaemyiidae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 56
+      },
+      {
+        "id": "230000019617",
+        "name": "pupation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "230000004083",
+        "name": "survival effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000012447",
+        "name": "hatching",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "240000008042",
+        "name": "Zea mays",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000005824",
+        "name": "Zea mays ssp. parviglumis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000002017",
+        "name": "Zea mays subsp mays",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000005822",
+        "name": "corn",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000013312",
+        "name": "flour",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000013339",
+        "name": "cereals",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012216",
+        "name": "screening",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000208125",
+        "name": "Nicotiana",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000607479",
+        "name": "Yersinia pestis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000052",
+        "name": "comparative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001276",
+        "name": "controlling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008187",
+        "name": "granular material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012054",
+        "name": "meals",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000016709",
+        "name": "nutrition",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035764",
+        "name": "nutrition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000575",
+        "name": "pesticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "search_metadata": {
+    "id": "697a363602ab8c3f968def8b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aacb0010717ca5c8/697a363602ab8c3f968def8b.json",
+    "created_at": "2026-01-28 16:15:50 UTC",
+    "processed_at": "2026-01-28 16:15:50 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN209185442U/en",
+    "raw_html_file": "https://serpapi.com/searches/aacb0010717ca5c8/697a363602ab8c3f968def8b.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN209185442U/en"
+  },
+  "title": "Greenhouse is raised outside a kind of Predacious syrphids room",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/15/21/ee/8c78407fb14a2e/CN209185442U.pdf",
+  "publication_number": "CN209185442U",
+  "country": "China",
+  "prior_art_keywords": [
+    "door",
+    "syrphids",
+    "predacious",
+    "hoverflies",
+    "fly"
+  ],
+  "prior_art_date": "2018-11-12",
+  "application_number": "CN201821861503.8U",
+  "inventors": [
+    {
+      "name": "\u66fe\u7ef4\u7231",
+      "link": "https://patents.google.com/?inventor=%E6%9B%BE%E7%BB%B4%E7%88%B1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9B%BE%E7%BB%B4%E7%88%B1"
+    },
+    {
+      "name": "\u8c2d\u7433",
+      "link": "https://patents.google.com/?inventor=%E8%B0%AD%E7%90%B3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%B0%AD%E7%90%B3"
+    },
+    {
+      "name": "\u80e1\u79cb\u9f99",
+      "link": "https://patents.google.com/?inventor=%E8%83%A1%E7%A7%8B%E9%BE%99",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%83%A1%E7%A7%8B%E9%BE%99"
+    },
+    {
+      "name": "\u7a0b\u4e88\u5947",
+      "link": "https://patents.google.com/?inventor=%E7%A8%8B%E4%BA%88%E5%A5%87",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%A8%8B%E4%BA%88%E5%A5%87"
+    },
+    {
+      "name": "\u4f0d\u7ecd\u9f99",
+      "link": "https://patents.google.com/?inventor=%E4%BC%8D%E7%BB%8D%E9%BE%99",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%BC%8D%E7%BB%8D%E9%BE%99"
+    },
+    {
+      "name": "\u6768\u4e2d\u4fa0",
+      "link": "https://patents.google.com/?inventor=%E6%9D%A8%E4%B8%AD%E4%BE%A0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%A8%E4%B8%AD%E4%BE%A0"
+    },
+    {
+      "name": "\u8521\u6d77\u6797",
+      "link": "https://patents.google.com/?inventor=%E8%94%A1%E6%B5%B7%E6%9E%97",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%94%A1%E6%B5%B7%E6%9E%97"
+    },
+    {
+      "name": "\u6a0a\u5409\u541b",
+      "link": "https://patents.google.com/?inventor=%E6%A8%8A%E5%90%89%E5%90%9B",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%A8%8A%E5%90%89%E5%90%9B"
+    }
+  ],
+  "assignees": [
+    "CHANGSHA TOBACCO Co OF HUNAN TOBACCO Corp",
+    "Hunan Agricultural University"
+  ],
+  "priority_date": "2018-11-12",
+  "filing_date": "2018-11-12",
+  "publication_date": "2019-08-02",
+  "worldwide_applications": {
+    "2018": [
+      {
+        "filing_date": "2018-11-12",
+        "country_code": "CN",
+        "application_number": "CN201821861503.8U",
+        "document_id": "patent/CN209185442U/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2018-11-12",
+      "title": "Application filed by CHANGSHA TOBACCO Co OF HUNAN TOBACCO Corp, Hunan Agricultural University",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "CHANGSHA TOBACCO Co OF HUNAN TOBACCO Corp"
+    },
+    {
+      "date": "2018-11-12",
+      "title": "Priority to CN201821861503.8U",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN209185442U/en"
+    },
+    {
+      "date": "2019-08-02",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2019-08-02",
+      "title": "Publication of CN209185442U",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN209185442U/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2028-11-12",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=209185442U&KC=U&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201821861503/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN209185442U"
+    }
+  ],
+  "abstract": "The utility model discloses an outdoor breeding greenhouse for predatory hoverflies, which comprises a shed body, a shed body sealing door, a door curtain and a potted plant suspension device, the potted plant suspension device is arranged at the top of the shed body, and the shed body sealing doors are respectively arranged at At the end, the door curtains are arranged in the shed at intervals, and a hoverfly breeding interval is formed between adjacent door curtains. The utility model discloses an outdoor breeding greenhouse for predatory hoverflies, which can not only expand the breeding range, effectively multiply the predatory hoverflies, but also effectively improve the sealing performance of the breeding, and prevent staff from collecting predatory hoverflies while causing The rest of the predatory hoverflies took the opportunity to fly out of the problem.",
+  "abstract_original": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u6355\u98df\u6027\u98df\u869c\u8747\u5ba4\u5916\u9972\u517b\u5927\u68da\uff0c\u5305\u62ec\u68da\u4f53\u3001\u68da\u4f53\u5bc6\u5c01\u95e8\u3001\u95e8\u5e18\u548c\u76c6\u683d\u60ac\u6302\u88c5\u7f6e\uff0c\u76c6\u683d\u60ac\u6302\u88c5\u7f6e\u8bbe\u7f6e\u5728\u68da\u4f53\u9876\u7aef\uff0c\u68da\u4f53\u5bc6\u5c01\u95e8\u5206\u522b\u8bbe\u7f6e\u5728\u68da\u4f53\u4e24\u7aef\uff0c\u95e8\u5e18\u95f4\u9694\u8bbe\u7f6e\u5728\u68da\u4f53\u4e2d\uff0c\u4e14\u76f8\u90bb\u95e8\u5e18\u4e4b\u95f4\u5f62\u6210\u98df\u869c\u8747\u9972\u517b\u533a\u95f4\u3002\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u6355\u98df\u6027\u98df\u869c\u8747\u5ba4\u5916\u9972\u517b\u5927\u68da\uff0c\u4e0d\u4ec5\u80fd\u591f\u6269\u5927\u517b\u6b96\u8303\u56f4\uff0c\u6709\u6548\u6269\u7e41\u6355\u98df\u6027\u98df\u869c\u8747\uff0c\u800c\u4e14\u6709\u6548\u63d0\u9ad8\u517b\u6b96\u5bc6\u5c01\u6027\uff0c\u907f\u514d\u5de5\u4f5c\u4eba\u5458\u6536\u96c6\u6355\u98df\u6027\u98df\u869c\u8747\u7684\u540c\u65f6\u5bfc\u81f4\u5176\u4f59\u6355\u98df\u6027\u98df\u869c\u8747\u8d81\u673a\u98de\u51fa\u7684\u95ee\u9898\u3002",
+  "description_link": "https://serpapi.com/searches/697a363602ab8c3f968def8b/google_patents_details/description.html",
+  "claims": [
+    "1. raising greenhouse outside a kind of Predacious syrphids room, which is characterized in that including canopy body (1), canopy body hermatic door (2), door curtain\n(3) it is arranged with potting suspension arrangement (4), the potting suspension arrangement (4) in canopy body (1) top, the canopy body hermatic door\n(2) canopy body (1) both ends are separately positioned on, the door curtain (3) is arranged at intervals in the canopy body (1), and the adjacent door\nWasp fly raising section (11) is formed between curtain (3).",
+    "2. raising greenhouse outside a kind of Predacious syrphids room according to claim 1, which is characterized in that the wasp fly is raised\nIt supports section (11) bottom end kind and is implanted with aphid cultivating plant.",
+    "3. raising greenhouse outside a kind of Predacious syrphids room according to claim 1, which is characterized in that the canopy body sealing\nBuffering section (12) is formed between door (2) and the adjacent door curtain (3).",
+    "4. raising greenhouse outside a kind of Predacious syrphids room according to claim 3, which is characterized in that the potting suspension\nDevice (4) includes crossbeam (41) and several hooks (42), and the crossbeam (41) raises section across the wasp fly is fixed on\n(11) it is slidably connected on the crossbeam (41) with the top of buffering section (12), the hook (42), and corresponding in institute\nIt states in wasp fly raising section (11).",
+    "5. raising greenhouse outside a kind of Predacious syrphids room according to claim 4, which is characterized in that the hook (42)\nOn be hung with raising wasp fly potting (421).",
+    "6. raising greenhouse outside a kind of Predacious syrphids room according to claim 4, which is characterized in that the crossbeam (41)\nOn be fixed with drive fly fan (411), and the drives fly fan (411) correspondence in the buffering section (12).",
+    "7. raising greenhouse outside a kind of Predacious syrphids room according to claim 1, which is characterized in that the canopy body (1)\nIncluding frame and canopy film, the canopy film is covered on canopy body (1) top and two sides.",
+    "8. raising greenhouse outside a kind of Predacious syrphids room according to claim 7, which is characterized in that the canopy body sealing\nDoor (2) includes stainless steel door (21) and fly net (22), and the stainless steel door (21) and the fly net (22) are fixed on side by side\nThe frame both ends, and the stainless steel door (21) and the fly net (22) are tightly connected.",
+    "9. raising greenhouse outside a kind of Predacious syrphids room according to claim 8, which is characterized in that the stainless steel door\n(21) door lock is provided on.",
+    "10. raising greenhouse outside a kind of Predacious syrphids room according to claim 1, which is characterized in that the door curtain (3)\nIncluding self-priming door curtain and mobile door curtain."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201821861503.8U",
+      "representative_publication": "CN209185442U",
+      "primary_language": "en",
+      "priority_date": "2018-11-12",
+      "filing_date": "2018-11-12",
+      "title": "Greenhouse is raised outside a kind of Predacious syrphids room"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201821861503.8U",
+      "representative_publication": "CN209185442U",
+      "primary_language": "en",
+      "priority_date": "2018-11-12",
+      "filing_date": "2018-11-12",
+      "title": "Greenhouse is raised outside a kind of Predacious syrphids room"
+    }
+  ],
+  "family_id": "67411371",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN112471082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-17",
+        "publication_date": "2021-03-12",
+        "assignee_original": "\u6e56\u5357\u7701\u70df\u8349\u516c\u53f8\u957f\u6c99\u5e02\u516c\u53f8",
+        "title": "Broad-band optimized aphid fly breeding method",
+        "patent_id": "patent/CN112471082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112471082A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN104585135A",
+      "primary_language": "en",
+      "publication_date": "2015-05-06",
+      "title": "Overwintering breeding method for aphidiusgifuensis in northern area",
+      "patent_id": "patent/CN104585135A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104585135A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107484720B",
+      "primary_language": "en",
+      "publication_date": "2023-05-26",
+      "title": "Wild-like ecological centipede cultivation system and cultivation method",
+      "patent_id": "patent/CN107484720B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107484720B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104904671B",
+      "primary_language": "en",
+      "publication_date": "2018-04-24",
+      "title": "A kind of method of artificial induction wasp deinsectization",
+      "patent_id": "patent/CN104904671B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104904671B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207653341U",
+      "primary_language": "en",
+      "publication_date": "2018-07-27",
+      "title": "A kind of simple breeding apparatus of wood louse insect",
+      "patent_id": "patent/CN207653341U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207653341U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106172244B",
+      "primary_language": "en",
+      "publication_date": "2022-06-17",
+      "title": "Application of hermetia illucens adults as indicator organisms without pesticide in organic agriculture and breeding method thereof",
+      "patent_id": "patent/CN106172244B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106172244B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205648528U",
+      "primary_language": "en",
+      "publication_date": "2016-10-19",
+      "title": "A silver -colored line fly net for vegetable greenhouse",
+      "patent_id": "patent/CN205648528U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205648528U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN209185442U",
+      "primary_language": "en",
+      "publication_date": "2019-08-02",
+      "title": "Greenhouse is raised outside a kind of Predacious syrphids room",
+      "patent_id": "patent/CN209185442U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209185442U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101460099B1",
+      "primary_language": "en",
+      "publication_date": "2014-11-21",
+      "title": "System for Observating Growth of Insect",
+      "patent_id": "patent/KR101460099B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101460099B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107372363A",
+      "primary_language": "en",
+      "publication_date": "2017-11-24",
+      "title": "A kind of facility that can improve cultivation black soldier flies adult density in green house of vegetables",
+      "patent_id": "patent/CN107372363A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107372363A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107494460B",
+      "primary_language": "en",
+      "publication_date": "2019-12-10",
+      "title": "Small silkworm breeding method integrated with mulberry feeding and seat expansion",
+      "patent_id": "patent/CN107494460B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107494460B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204837586U",
+      "primary_language": "en",
+      "publication_date": "2015-12-09",
+      "title": "Diamond -back moth fine hair braconid wasp field hyperplasia expands numerous screen panel",
+      "patent_id": "patent/CN204837586U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204837586U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104604809A",
+      "primary_language": "en",
+      "publication_date": "2015-05-13",
+      "title": "Biological control method using encarsia formosa for controlling tobacco whitefly",
+      "patent_id": "patent/CN104604809A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104604809A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207544112U",
+      "primary_language": "en",
+      "publication_date": "2018-06-29",
+      "title": "Black soldier flies adult cultivation equipment",
+      "patent_id": "patent/CN207544112U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207544112U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107535440A",
+      "primary_language": "en",
+      "publication_date": "2018-01-05",
+      "title": "Reduce the silkworm artificial cultivating method of labor intensity",
+      "patent_id": "patent/CN107535440A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107535440A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN203290082U",
+      "primary_language": "en",
+      "publication_date": "2013-11-20",
+      "title": "Aphidius gifuensis breeding device",
+      "patent_id": "patent/CN203290082U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN203290082U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN214316718U",
+      "primary_language": "en",
+      "publication_date": "2021-10-01",
+      "title": "Utilize seedling to raise device of diamondback moth",
+      "patent_id": "patent/CN214316718U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN214316718U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN210987776U",
+      "primary_language": "en",
+      "publication_date": "2020-07-14",
+      "title": "Wild stocking structure for lugworm",
+      "patent_id": "patent/CN210987776U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN210987776U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN214229098U",
+      "primary_language": "en",
+      "publication_date": "2021-09-21",
+      "title": "Vertical curtain type movable unlimited growth type passion fruit vine guiding and growing frame",
+      "patent_id": "patent/CN214229098U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN214229098U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106719466B",
+      "primary_language": "en",
+      "publication_date": "2019-06-25",
+      "title": "The pupa of bat moth-moth integrated nursing care device and care method",
+      "patent_id": "patent/CN106719466B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106719466B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207284725U",
+      "primary_language": "en",
+      "publication_date": "2018-05-01",
+      "title": "A kind of henhouse device of woodland poultry",
+      "patent_id": "patent/CN207284725U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207284725U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN211881325U",
+      "primary_language": "en",
+      "publication_date": "2020-11-10",
+      "title": "Greenhouse of supporting formula factory production of natural enemy insect",
+      "patent_id": "patent/CN211881325U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN211881325U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN219395969U",
+      "primary_language": "en",
+      "publication_date": "2023-07-25",
+      "title": "Cultivation field for rice-raising American frog",
+      "patent_id": "patent/CN219395969U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN219395969U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN209436055U",
+      "primary_language": "en",
+      "publication_date": "2019-09-27",
+      "title": "The simple release aphid parasite of one kind is at bee deadlock aphid net cage",
+      "patent_id": "patent/CN209436055U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209436055U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN210382307U",
+      "primary_language": "en",
+      "publication_date": "2020-04-24",
+      "title": "Cultivation disinfection room of yellow mealworm pupae",
+      "patent_id": "patent/CN210382307U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN210382307U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204670173U",
+      "primary_language": "en",
+      "publication_date": "2015-09-30",
+      "title": "Aphidius gifuensis canopy room population survives the winter breeding device",
+      "patent_id": "patent/CN204670173U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204670173U%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2019-08-02",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2019-08-02",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2021-10-26",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee",
+      "attributes": [
+        {
+          "label": "Granted publication date",
+          "value": "20190802"
+        },
+        {
+          "label": "Termination date",
+          "value": "20201112"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-26",
+      "code": "CF01",
+      "title": "Termination of patent right due to non-payment of annual fee"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000725",
+        "name": "suspension",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000007789",
+        "name": "sealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "229910001220",
+        "name": "stainless steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "239000010935",
+        "name": "stainless steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "241001124076",
+        "name": "Aphididae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000004382",
+        "name": "potting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003139",
+        "name": "buffering effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241001481659",
+        "name": "Syrphidae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 100
+      },
+      {
+        "id": "238000009395",
+        "name": "breeding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "230000001488",
+        "name": "breeding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "241000607479",
+        "name": "Yersinia pestis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000012141",
+        "name": "concentrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "241000238631",
+        "name": "Hexapoda",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000013601",
+        "name": "eggs",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000575",
+        "name": "pesticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001846",
+        "name": "repelling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000255925",
+        "name": "Diptera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003181",
+        "name": "biological factor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000903",
+        "name": "blocking effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021393",
+        "name": "food security",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003071",
+        "name": "parasitic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002265",
+        "name": "prevention",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000750",
+        "name": "progressive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000035755",
+        "name": "proliferation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000384",
+        "name": "rearing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

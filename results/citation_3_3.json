@@ -1,0 +1,630 @@
+{
+  "search_metadata": {
+    "id": "697a336cc986af35d466e415",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/06a3ba01c84dd7b7/697a336cc986af35d466e415.json",
+    "created_at": "2026-01-28 16:03:56 UTC",
+    "processed_at": "2026-01-28 16:03:56 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/RU2548648C2/en",
+    "raw_html_file": "https://serpapi.com/searches/06a3ba01c84dd7b7/697a336cc986af35d466e415.html",
+    "total_time_taken": 0.49
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/RU2548648C2/en"
+  },
+  "title": "Track vehicle with aerodynamic surface",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/66/b2/12/67513d89e14bfc/RU2548648C2.pdf",
+  "publication_number": "RU2548648C2",
+  "country": "Russia",
+  "prior_art_keywords": [
+    "wings",
+    "vehicle",
+    "cars",
+    "rail",
+    "speed"
+  ],
+  "prior_art_date": "2010-10-15",
+  "application_number": "RU2013122398/11A",
+  "inventors": [
+    {
+      "name": "\u042f\u043e\u0448\u044d\u043d \u0427\u0416\u0410\u041d",
+      "link": "https://patents.google.com/?inventor=%D0%AF%D0%BE%D1%88%D1%8D%D0%BD+%D0%A7%D0%96%D0%90%D0%9D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%D0%AF%D0%BE%D1%88%D1%8D%D0%BD+%D0%A7%D0%96%D0%90%D0%9D"
+    }
+  ],
+  "priority_date": "2010-10-15",
+  "filing_date": "2010-10-15",
+  "publication_date": "2015-04-20",
+  "worldwide_applications": {
+    "2010": [
+      {
+        "filing_date": "2010-10-15",
+        "country_code": "CN",
+        "application_number": "CN2010800648777A",
+        "document_id": "patent/CN102781755A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2010-10-15",
+        "country_code": "WO",
+        "application_number": "PCT/CN2010/001624",
+        "document_id": "patent/WO2012048449A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2010-10-15",
+        "country_code": "RU",
+        "application_number": "RU2013122398/11A",
+        "document_id": "patent/RU2548648C2/en",
+        "legal_status_cat": "active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2010-10-15",
+      "title": "Application filed by \u042f\u043e\u0448\u044d\u043d \u0427\u0416\u0410\u041d",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "\u042f\u043e\u0448\u044d\u043d \u0427\u0416\u0410\u041d"
+    },
+    {
+      "date": "2014-11-20",
+      "title": "Publication of RU2013122398A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/RU2013122398A/en"
+    },
+    {
+      "date": "2015-04-20",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2015-04-20",
+      "title": "Publication of RU2548648C2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/RU2548648C2/en"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=RU&NR=2548648C2&KC=C2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/RU/2013122398/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/RU2548648C2"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "B61C11/06",
+      "description": "Locomotives or motor railcars characterised by the type of means applying the tractive effort; Arrangement or disposition of running gear other than normal driving wheel tractive effort applied or supplied by aerodynamic force or fluid reaction, e.g. air-screws and jet or rocket propulsion",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61B13/00",
+      "description": "Other railway systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61B13/04",
+      "description": "Monorail systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02A30/30",
+      "description": "Adapting or protecting infrastructure or their operation in transportation, e.g. on roads, waterways or railways",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "FIELD: transport.\nSUBSTANCE: invention relates to railway vehicle that feature the parameters of train and aircraft. Railway vehicle has wings, several cars (2, 6, 7) and moves on rail (1) located in air. Wings (4) to keep cars (2, 6, 7) suspended are located on both sides of the cars. Railway vehicle comprises starting motor at first car to actuate the drive wheels, primary jet engine to accelerated the vehicle from 300 to 500 km/h or higher to lift the cars by wings lift. Railway vehicle comprises the wings lift and balance ACS and wings automatic fold-and-retract mechanism.\nEFFECT: higher reliability and safety.\n6 cl, 1 dwg",
+  "description_link": "https://serpapi.com/searches/697a336cc986af35d466e415/google_patents_details/description.html",
+  "claims": [
+    "1. \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0435\u0435 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0432\u0430\u0433\u043e\u043d\u043e\u0432 \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u043d\u043e\u0435 \u0441 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f \u043f\u043e \u0440\u0435\u043b\u044c\u0441\u0430\u043c, \u043f\u0440\u0438\u0447\u0435\u043c \u0440\u0435\u043b\u044c\u0441 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d \u0432 \u0432\u043e\u0437\u0434\u0443\u0445\u0435, \u0438 \u043a\u0440\u044b\u043b\u044c\u044f \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0432\u0430\u0433\u043e\u043d\u043e\u0432 \u0432 \u043f\u043e\u0434\u0432\u0435\u0448\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0430 \u043e\u0431\u0435\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u0445 \u0432\u0430\u0433\u043e\u043d\u043e\u0432, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u043e\u043d\u043e \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u043f\u0443\u0441\u043a\u043e\u0432\u043e\u0439 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u0432 \u043f\u0435\u0440\u0432\u043e\u043c \u0432\u0430\u0433\u043e\u043d\u0435 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0433\u043e \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430, \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0432 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u043a\u043e\u043b\u0435\u0441, \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u0439 \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c \u0434\u043b\u044f \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u044f \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0433\u043e \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u043f\u0440\u0438 \u0434\u043e\u0441\u0442\u0438\u0436\u0435\u043d\u0438\u0438 \u0438\u043c \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438 300 \u043a\u043c/\u0447 \u0434\u043e \u0441\u043a\u043e\u0440\u043e\u0441\u0442\u0438 500 \u043a\u043c/\u0447 \u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 \u0441 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435\u043c \u043f\u043e\u0434\u0432\u0435\u0448\u0438\u0432\u0430\u043d\u0438\u044f \u0432\u0430\u0433\u043e\u043d\u043e\u0432 \u0437\u0430 \u0441\u0447\u0435\u0442 \u043f\u043e\u0434\u044a\u0435\u043c\u043d\u043e\u0439 \u0441\u0438\u043b\u044b \u043a\u0440\u044b\u043b\u044c\u0435\u0432, \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u043e\u0434\u044a\u0435\u043c\u043d\u043e\u0439 \u0441\u0438\u043b\u043e\u0439 \u043a\u0440\u044b\u043b\u044c\u0435\u0432 \u0438 \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u0435\u043c, \u0438 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u0434\u043b\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u043d\u0438\u044f \u0438 \u0443\u0431\u043e\u0440\u043a\u0438 \u043a\u0440\u044b\u043b\u044c\u0435\u0432.1. A vehicle comprising several wagons and configured to move on rails, the rail being installed in the air, and wings for bringing the cars into suspension, located on both sides of the cars, characterized in that it further comprises a starting engine installed in the first the vehicle\u2019s car, for driving the drive wheels, the main electric jet engine to accelerate the vehicle when it reaches a speed of 300 km / h to a speed of 500 km / h or olee secured hanging carriages due to the lift of the wings, the device automatically control the lifting force of the wings and balance, and a mechanism for automatically folding wings and cleaning.",
+    "2. \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u043f\u043e \u043f.1, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u043a\u043e\u043b\u0435\u0441\u0430, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0435 \u043f\u043e\u0434\u0432\u0435\u0441\u043a\u0438 \u0432\u0430\u0433\u043e\u043d\u043e\u0432, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043f\u043e\u0434 \u043e\u0431\u0435\u0438\u043c\u0438 \u0441\u0442\u043e\u0440\u043e\u043d\u0430\u043c \u0432\u0430\u0433\u043e\u043d\u043e\u0432.2. The vehicle according to claim 1, characterized in that it contains wheels limiting the suspension of wagons located under both sides of the wagons.",
+    "3. \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u043f\u043e \u043f.1, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u043a\u0440\u044b\u043b\u043e \u0441\u043d\u0430\u0431\u0436\u0435\u043d\u043e \u0432\u0441\u043f\u043e\u043c\u043e\u0433\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0440\u0435\u0430\u043a\u0442\u0438\u0432\u043d\u044b\u043c \u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u0435\u043c \u0434\u043b\u044f \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u044f \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0433\u043e \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430.3. The vehicle according to claim 1, characterized in that the wing is equipped with an auxiliary jet engine to accelerate the vehicle.",
+    "4. \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u043f\u043e \u043f.1, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u043e\u0434\u044a\u0435\u043c\u043d\u043e\u0439 \u0441\u0438\u043b\u043e\u0439 \u043a\u0440\u044b\u043b\u044c\u0435\u0432 \u0438 \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u0435\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u044b \u0437\u0430\u043a\u0440\u044b\u043b\u043a\u0438 \u0438 \u044d\u043b\u0435\u0440\u043e\u043d\u044b, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0435 \u0432 \u043a\u0440\u044b\u043b\u044c\u044f\u0445 \u0441 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u043e\u0434\u044a\u0435\u043c\u043d\u043e\u0439 \u0441\u0438\u043b\u044b \u0438 \u0440\u0430\u0432\u043d\u043e\u0432\u0435\u0441\u0438\u044f.4. The vehicle according to claim 1, characterized in that the flaps and ailerons installed in the wings with the possibility of adjusting the lifting force and balance are used as devices for automatically controlling the lift of the wings and balance.",
+    "5. \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u043f\u043e \u043f.1, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u0434\u043b\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u043d\u0438\u044f \u0438 \u0443\u0431\u043e\u0440\u043a\u0438 \u043a\u0440\u044b\u043b\u044c\u0435\u0432 \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d \u043d\u0430 \u0441\u0442\u044b\u043a\u0435 \u043c\u0435\u0436\u0434\u0443 \u043a\u0440\u044b\u043b\u043e\u043c \u0438 \u0432\u0430\u0433\u043e\u043d\u0430\u043c\u0438.5. The vehicle according to claim 1, characterized in that the mechanism for automatically folding and cleaning the wings is located at the junction between the wing and the cars.",
+    "6. \u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e \u043f\u043e \u043f.1, \u043e\u0442\u043b\u0438\u0447\u0430\u044e\u0449\u0435\u0435\u0441\u044f \u0442\u0435\u043c, \u0447\u0442\u043e \u043f\u043e\u0434 \u0440\u0435\u043b\u044c\u0441\u043e\u043c \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u043e \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043b\u044f \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0441\u0432\u0435\u0440\u0445\u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0449\u0438\u0445 \u0441\u0438\u043b\u043e\u0432\u044b\u0445 \u043a\u0430\u0431\u0435\u043b\u0435\u0439 \u0438 \u043e\u043f\u0442\u043e\u0432\u043e\u043b\u043e\u043a\u043e\u043d\u043d\u044b\u0445 \u043a\u0430\u0431\u0435\u043b\u0435\u0439 \u0441\u0432\u044f\u0437\u0438.\n6. The vehicle according to claim 1, characterized in that under the rail there is a space for installing superconducting power cables and fiber optic communication cables."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "PCT/CN2010/001624",
+      "representative_publication": "WO2012048449A1",
+      "primary_language": "en",
+      "priority_date": "2010-10-15",
+      "filing_date": "2010-10-15",
+      "title": "Railway vehicle with aerofoil"
+    }
+  ],
+  "family_id": "45937818",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4022403A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-01-28",
+        "publication_date": "1977-05-10",
+        "assignee_original": "Louis Francois Chiquet",
+        "title": "Convertible aircraft",
+        "patent_id": "patent/US4022403A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4022403A%2Fen"
+      },
+      {
+        "publication_number": "RU2046728C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-01-08",
+        "publication_date": "1995-10-27",
+        "assignee_original": "\u042f\u043a\u043e\u0432 \u0424\u0430\u0439\u0432\u0435\u043b\u0438\u0447 \u0424\u0438\u043d\u043a\u0435\u043b\u044c",
+        "title": "High-speed safe vehicle",
+        "patent_id": "patent/RU2046728C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2046728C1%2Fen"
+      },
+      {
+        "publication_number": "RU2048310C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-12-16",
+        "publication_date": "1995-11-20",
+        "assignee_original": "\u0425\u0438\u0442\u0430\u0447\u0438 \u041b\u0442\u0434.",
+        "title": "Vehicle with electromagnetic suspension",
+        "patent_id": "patent/RU2048310C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2048310C1%2Fen"
+      },
+      {
+        "publication_number": "RU2108932C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-02-21",
+        "publication_date": "1998-04-20",
+        "assignee_original": "\u0411\u043e\u0440\u0438\u0441 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0432\u0438\u0447 \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432",
+        "title": "Main-line high-speed ground vehicle",
+        "patent_id": "patent/RU2108932C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2108932C1%2Fen"
+      },
+      {
+        "publication_number": "CN101580066A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-23",
+        "publication_date": "2009-11-18",
+        "assignee_original": "\u6c5f\u9f99\u98de",
+        "title": "Intercity light rail fly train",
+        "patent_id": "patent/CN101580066A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101580066A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US4102272A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1975-05-27",
+        "publication_date": "1978-07-25",
+        "assignee_original": "Lehl Elvest L",
+        "title": "High-speed transportation system",
+        "patent_id": "patent/US4102272A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4102272A%2Fen"
+      },
+      {
+        "publication_number": "US4703697A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-04-19",
+        "publication_date": "1987-11-03",
+        "assignee_original": "Bell George S",
+        "title": "Transportation system",
+        "patent_id": "patent/US4703697A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4703697A%2Fen"
+      },
+      {
+        "publication_number": "DE3709986A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-02-12",
+        "publication_date": "1988-10-13",
+        "assignee_original": "Kurt Brunsch",
+        "title": "High-speed train with aerofoil and traction wheel",
+        "patent_id": "patent/DE3709986A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3709986A1%2Fen"
+      },
+      {
+        "publication_number": "DE4238474A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-11-14",
+        "publication_date": "1994-05-26",
+        "assignee_original": "Rudolf Schaper",
+        "title": "Hover motor vehicle for use on roads and/or rails which is esp. light in wt. - has relatively large aerofoil fitted on roof of vehicle or entire vehicle is designed as aerofoil so that little fuel is needed and harmful emissions are reduced",
+        "patent_id": "patent/DE4238474A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4238474A1%2Fen"
+      },
+      {
+        "publication_number": "JPH08282482A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-03",
+        "publication_date": "1996-10-29",
+        "assignee_original": "Masaru Tsuda",
+        "title": "Overhead running trolley and track device",
+        "patent_id": "patent/JPH08282482A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH08282482A%2Fen"
+      },
+      {
+        "publication_number": "CN1699085A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-18",
+        "publication_date": "2005-11-23",
+        "assignee_original": "\u66fe\u7a33\u6e05",
+        "title": "Vehicle capable of flying",
+        "patent_id": "patent/CN1699085A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1699085A%2Fen"
+      },
+      {
+        "publication_number": "CN201143891Y",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-07",
+        "publication_date": "2008-11-05",
+        "assignee_original": "\u5ba3\u5efa\u6c11",
+        "title": "Aliform type maglev train",
+        "patent_id": "patent/CN201143891Y/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201143891Y%2Fen"
+      },
+      {
+        "publication_number": "CN101618724B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-27",
+        "publication_date": "2011-01-12",
+        "assignee_original": "\u6731\u6653\u4e49",
+        "title": "train",
+        "patent_id": "patent/CN101618724B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101618724B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "RU2664091C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-02",
+        "publication_date": "2018-08-15",
+        "assignee_original": "\u0411\u043e\u0440\u0438\u0441 \u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0438\u0447 \u0411\u0430\u0431\u0438\u0446\u043a\u0438\u0439",
+        "title": "Air train and its travel tracks",
+        "patent_id": "patent/RU2664091C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2664091C1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "EP3313707A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-23",
+        "publication_date": "2018-05-02",
+        "assignee_original": "Benedikt Claas",
+        "title": "Drive for a track-guided vehicle",
+        "patent_id": "patent/EP3313707A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3313707A1%2Fen"
+      },
+      {
+        "publication_number": "CN107097801A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-02-20",
+        "publication_date": "2017-08-29",
+        "assignee_original": "\u5317\u4eac\u5eb7\u534e\u6e90\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
+        "title": "A kind of pipeline air-suspending conveying arrangement",
+        "patent_id": "patent/CN107097801A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107097801A%2Fen"
+      },
+      {
+        "publication_number": "CN106184749B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-21",
+        "publication_date": "2018-07-17",
+        "assignee_original": "\u82cf\u5dde\u673a\u7532\u9f99\u673a\u68b0\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of rail mounted aircraft and its conduit operating system",
+        "patent_id": "patent/CN106184749B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106184749B%2Fen"
+      },
+      {
+        "publication_number": "CN106379328B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-30",
+        "publication_date": "2019-02-05",
+        "assignee_original": "\u5f20\u6f47",
+        "title": "The showy taxi of driverless railway Split type electrical can be organized into groups",
+        "patent_id": "patent/CN106379328B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106379328B%2Fen"
+      },
+      {
+        "publication_number": "CN106541953A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-08",
+        "publication_date": "2017-03-29",
+        "assignee_original": "\u97e9\u946b\u5c97",
+        "title": "A kind of rail super low altitude flight vehicles",
+        "patent_id": "patent/CN106541953A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106541953A%2Fen"
+      },
+      {
+        "publication_number": "CN108423012B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-09",
+        "publication_date": "2020-05-19",
+        "assignee_original": "\u5b89\u5fbd\u6c5f\u6dee\u6c7d\u8f66\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Air rail train and control method thereof",
+        "patent_id": "patent/CN108423012B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108423012B%2Fen"
+      },
+      {
+        "publication_number": "RU2693423C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-01",
+        "publication_date": "2019-07-02",
+        "assignee_original": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041f\u043e\u043b\u0438\u043a\u0430\u0440\u043f\u043e\u0432\u0438\u0447 \u041b\u044f\u043b\u0438\u043d",
+        "title": "Aerodynamic railway car",
+        "patent_id": "patent/RU2693423C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2693423C1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "RU2548648C2",
+      "primary_language": "en",
+      "publication_date": "2015-04-20",
+      "title": "Track vehicle with aerodynamic surface",
+      "patent_id": "patent/RU2548648C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2548648C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101628583B",
+      "primary_language": "en",
+      "publication_date": "2011-03-30",
+      "title": "Novel public transportation networking system of high-speed fully-automatic fully-closed track train",
+      "patent_id": "patent/CN101628583B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101628583B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8589368321421231743",
+      "scholar_authors": "Holmer",
+      "publication_date": "2003",
+      "title": "Faster than a speeding bullet train",
+      "patent_id": "scholar/8589368321421231743",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8589368321421231743"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107839696B",
+      "primary_language": "en",
+      "publication_date": "2020-11-10",
+      "title": "Permanent magnet shaft type direct-drive air-ground sharing three-dimensional rapid rail transit system",
+      "patent_id": "patent/CN107839696B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107839696B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106864464A",
+      "primary_language": "en",
+      "publication_date": "2017-06-20",
+      "title": "Personal suspension type double track road is double dynamical to automatically control railway traffic system",
+      "patent_id": "patent/CN106864464A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106864464A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107139947B",
+      "primary_language": "en",
+      "publication_date": "2024-04-09",
+      "title": "Ultra-high speed vacuum pipeline aircraft system",
+      "patent_id": "patent/CN107139947B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107139947B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201951460U",
+      "primary_language": "en",
+      "publication_date": "2011-08-31",
+      "title": "Suspension type rail transit system",
+      "patent_id": "patent/CN201951460U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201951460U%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16486521527611904327",
+      "scholar_authors": "Yan",
+      "publication_date": "2009",
+      "title": "The linear motor powered transportation development and application in China",
+      "patent_id": "scholar/16486521527611904327",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16486521527611904327"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102704714B",
+      "primary_language": "en",
+      "publication_date": "2014-01-08",
+      "title": "Tension string inflatable membrane hybrid structure suspended air airport",
+      "patent_id": "patent/CN102704714B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102704714B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102910174A",
+      "primary_language": "en",
+      "publication_date": "2013-02-06",
+      "title": "Electric trolley for hanging empty rail",
+      "patent_id": "patent/CN102910174A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102910174A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106274506B",
+      "primary_language": "en",
+      "publication_date": "2018-11-27",
+      "title": "A kind of urban air public transportation system",
+      "patent_id": "patent/CN106274506B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106274506B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101607557A",
+      "primary_language": "en",
+      "publication_date": "2009-12-23",
+      "title": "A kind of high-speed magnetic suspension traffic system",
+      "patent_id": "patent/CN101607557A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101607557A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN202966295U",
+      "primary_language": "en",
+      "publication_date": "2013-06-05",
+      "title": "Air-rail hanging tramcar",
+      "patent_id": "patent/CN202966295U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN202966295U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111824186A",
+      "primary_language": "en",
+      "publication_date": "2020-10-27",
+      "title": "Full-time intelligent direct single-person suspension rail traffic",
+      "patent_id": "patent/CN111824186A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111824186A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104015934A",
+      "primary_language": "en",
+      "publication_date": "2014-09-03",
+      "title": "Aviation station for flying airplane by ground-based track catapult locomotive replacing undercarriage",
+      "patent_id": "patent/CN104015934A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104015934A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106467116B",
+      "primary_language": "en",
+      "publication_date": "2018-08-21",
+      "title": "Solar energy and hydrodynamic aerial rapid transportation system",
+      "patent_id": "patent/CN106467116B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106467116B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102910281A",
+      "primary_language": "en",
+      "publication_date": "2013-02-06",
+      "title": "City airship public traffic system",
+      "patent_id": "patent/CN102910281A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102910281A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206938750U",
+      "primary_language": "en",
+      "publication_date": "2018-01-30",
+      "title": "Ultrahigh speed pipeline aircraft system",
+      "patent_id": "patent/CN206938750U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206938750U%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10676969022406368123",
+      "scholar_authors": "Liu et al.",
+      "publication_date": "2006",
+      "title": "The developmental status and future prospects of Maglev technology",
+      "patent_id": "scholar/10676969022406368123",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10676969022406368123"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN201321047Y",
+      "primary_language": "en",
+      "publication_date": "2009-10-07",
+      "title": "City track traffic system",
+      "patent_id": "patent/CN201321047Y/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201321047Y%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101112898A",
+      "primary_language": "en",
+      "publication_date": "2008-01-30",
+      "title": "Super-light rail wing suspended power coaster",
+      "patent_id": "patent/CN101112898A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101112898A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "664252160471956712",
+      "scholar_authors": "Miller",
+      "publication_date": "2021",
+      "title": "High speed maglev systems",
+      "patent_id": "scholar/664252160471956712",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F664252160471956712"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017145189A1",
+      "primary_language": "en",
+      "publication_date": "2017-08-31",
+      "title": "System train air",
+      "patent_id": "patent/WO2017145189A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017145189A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114889663A",
+      "primary_language": "en",
+      "publication_date": "2022-08-12",
+      "title": "High-speed intelligent public traffic system based on composite special-shaped flange track",
+      "patent_id": "patent/CN114889663A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114889663A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102031737A",
+      "primary_language": "en",
+      "publication_date": "2011-04-27",
+      "title": "Uniform-speed driving system and urban rapid public transport network",
+      "patent_id": "patent/CN102031737A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102031737A%2Fen"
+    }
+  ]
+}

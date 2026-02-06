@@ -1,0 +1,1473 @@
+{
+  "search_metadata": {
+    "id": "697a364ae9639bfa87ae8a2e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b3480e9dd90f84a5/697a364ae9639bfa87ae8a2e.json",
+    "created_at": "2026-01-28 16:16:10 UTC",
+    "processed_at": "2026-01-28 16:16:10 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2003045877A1/en",
+    "raw_html_file": "https://serpapi.com/searches/b3480e9dd90f84a5/697a364ae9639bfa87ae8a2e.html",
+    "total_time_taken": 2.27
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2003045877A1/en"
+  },
+  "title": "Micro-granular composition with a combined fertilizing and phyto-protective action",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/9e/5b/e4/75bc6509a2522f/WO2003045877A1.pdf",
+  "publication_number": "WO2003045877A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "composition according",
+    "phyto",
+    "mixtures",
+    "micro",
+    "extracts"
+  ],
+  "prior_art_date": "2001-11-29",
+  "application_number": "PCT/EP2002/013554",
+  "inventors": [
+    {
+      "name": "Sergio Miele",
+      "link": "https://patents.google.com/?inventor=Sergio+Miele",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sergio+Miele"
+    },
+    {
+      "name": "Enrica Bargiacchi",
+      "link": "https://patents.google.com/?inventor=Enrica+Bargiacchi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Enrica+Bargiacchi"
+    },
+    {
+      "name": "Luigi Capuzzi",
+      "link": "https://patents.google.com/?inventor=Luigi+Capuzzi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Luigi+Capuzzi"
+    },
+    {
+      "name": "Edoardo Russo",
+      "link": "https://patents.google.com/?inventor=Edoardo+Russo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Edoardo+Russo"
+    }
+  ],
+  "assignees": [
+    "Agroqualita Srl"
+  ],
+  "priority_date": "2001-11-29",
+  "filing_date": "2002-11-28",
+  "publication_date": "2003-06-05",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-11-29",
+        "country_code": "IT",
+        "application_number": "IT2001MI002509A",
+        "document_id": "patent/ITMI20012509A1/en",
+        "legal_status_cat": "unknown"
+      }
+    ],
+    "2002": [
+      {
+        "filing_date": "2002-11-28",
+        "country_code": "AU",
+        "application_number": "AU2002352204A",
+        "document_id": "patent/AU2002352204A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2002-11-28",
+        "country_code": "EP",
+        "application_number": "EP02787891A",
+        "document_id": "patent/EP1451130A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2002-11-28",
+        "country_code": "US",
+        "application_number": "US10/496,474",
+        "document_id": "patent/US20050065034A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2002-11-28",
+        "country_code": "BR",
+        "application_number": "BR0214516-2A",
+        "document_id": "patent/BR0214516A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      },
+      {
+        "filing_date": "2002-11-28",
+        "country_code": "WO",
+        "application_number": "PCT/EP2002/013554",
+        "document_id": "patent/WO2003045877A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2002-11-28",
+      "title": "Application filed by Agroqualita Srl",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Agroqualita Srl"
+    },
+    {
+      "date": "2002-11-28",
+      "title": "Priority to US10/496,474",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20050065034A1/en"
+    },
+    {
+      "date": "2002-11-28",
+      "title": "Priority to EP02787891A",
+      "type": "priority",
+      "document_id": "patent/EP1451130A1/en"
+    },
+    {
+      "date": "2002-11-28",
+      "title": "Priority to BR0214516-2A",
+      "type": "priority",
+      "document_id": "patent/BR0214516A/en"
+    },
+    {
+      "date": "2002-11-28",
+      "title": "Priority to AU2002352204A",
+      "type": "priority",
+      "document_id": "patent/AU2002352204A1/en"
+    },
+    {
+      "date": "2003-06-05",
+      "title": "Publication of WO2003045877A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2003045877A1/en"
+    },
+    {
+      "date": "2004-05-29",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=03045877A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTEP2002013554/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2003045877"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2003045877A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01N25/12",
+      "description": "Powders or granules",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01N25/26",
+      "description": "Biocides, pest repellants or attractants, or plant growth regulators, characterised by their forms, or by their non-active ingredients or by their methods of application, e.g. seed treatment or sequential application; Substances for reducing the noxious effect of the active ingredients to organisms other than pests in coated particulate form",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C05G3/60",
+      "description": "Biocides or preservatives, e.g. disinfectants, pesticides or herbicides; Pest repellants or attractants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C05G5/12",
+      "description": "Granules or flakes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C05G5/38",
+      "description": "Layered or coated, e.g. dust-preventing coatings layered or coated with wax or resins",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention relates to a micro-granular composition with a combined fertilizing and phyto-protective activity wherein the diameter of the granules ranges from 0.1 to 2 mm and in which there is a combination of fertilizers and phyto-protective agents, suitably co-formulated thanks to the presence of co-adjuvants capable of maximizing the agronomic efficacy and/or efficiency of the above composition. The composition is suitable for localization at the moment of sowing and transplanting of crops, and in applications close to the seed, the seedling and the plant.",
+  "description_link": "https://serpapi.com/searches/697a364ae9639bfa87ae8a2e/google_patents_details/description.html",
+  "claims": [
+    "1. A composition for agricultural use in microgranular form having micro-granules with a diameter ranging from 0.1 to 2 mm comprising a mineral/inorganic fer- tilizer, a phyto-protective product and a co-adjuvant characterised by the fact that said co-adjuvant is selected from i) a wax when said phyto-protective product is in solid form; ii) a stabilizer when said phyto-protective product is in liquid form, said stabilizer being selected from the group comprising hydroxyanisolbu- tylate (BHA) , hydroxytoluenebutylate (BHT) , vegetable epoxylated oils and esters of epoxylated fatty acid, a glycol, preferably diethylene glycol, dipropylene glycol, a C2-C6 alkylene ether preferably ether of ethylene, diethylene, propylene, dipropylene glycol and mixtures thereof, iii) mixtures of i) and ii)",
+    "2. The composition according to claim 1, where said plant-protective product is a crop pesticide.",
+    "3. The composition according to claims 1-2, characterized in that said inorganic fertilizers comprise one or more elements selected from nitrogen, phosphorous, po- tassium, calcium, magnesium, sulfur, boron, cobalt, cop-  per, iron, manganese, molybdenum, selenium, zinc and their mixtures.",
+    "4. The composition according to anyone of claims 1-3, characterized in that it additionally comprises one or more natural organic fertilizers.",
+    "5. The composition according to one or more of claims 1-4, characterized in that it additionally comprises one or more fertilizers with synthesis nitrogen obtained from aldehydes condensed with urea.",
+    "6. The composition according to one or more of the previous claims 2-5, characterized in that said crop pesticides are selected from insecticides, acaricides, fungicides, nematocides and nematostatics and their mixtures.",
+    "7. The composition according to one or more of the previous claim 2-6, wherein said pesticides are animal or vegetable extracts, selected from essential oils, garlic extracts, nettle extracts, macro-algae extracts, pyre- thrum, azadiractine, rotenone, nicotine extracts, chito- san and mixtures thereof.",
+    "8. The composition according to one or more of the previous claims 1-7, characterized in that the diameter of the micro-granules ranges from 0.1 to 1.5 mm.",
+    "9. The composition according to one or more of the previous claims 1-8, characterized in that at least 90%  of the micro-granules has a diameter ranging from 0.1 to 0.9 mm.",
+    "10. The composition according to claim 1, wherein said waxes are selected from carnauba and candelilla waxes .",
+    "11. The composition according to claim 1 , wherein said waxes incorporates esters of fatty acids.",
+    "12. The composition according to one or more of the previous claims 1-11, characterized in that said phyto- protetive products are micro-encapsulated.",
+    "13. The composition according to claim 1, wherein the phyto-protective product is encapsuled in a film based on polyureas.",
+    "14. The composition according to one or more of the previous claims 1-13, characterized in that said composition further comprises one or more substances selected from: silica, volcanic sands, pozzolans, zeolites, sul- fates and carbonates, chalk, leonardite, humic substances, humates and humic extracts; lignin-sulfonates, starches, modified and non-modified; cellulose, modified and non-modified, natural vegetable extracts, natural or synthetic tannins and mixtures thereof.",
+    "15. The composition according to claim 6, characterized in that said insecticides are selected from carba- mates, neonicotinoids, phenylpyrazoles, phosphoric esters  and their mixtures.",
+    "16. The composition according to claim 15, characterized in that said carbamates comprise carbofuran, benfuracarb, carbosulfan, oxamyl, aldicarb and mixtures thereof.",
+    "17. The composition according to claim 15, characterized in that said neonicotinoids comprise imidacloprid, acetamiprid and their mixtures.",
+    "18. The composition according to claim 15, charac- terized in that said phenylpyrazole is fipronil.",
+    "19. The composition according to claim 15, characterized in that said phosphoric ester is chlormephos.",
+    "20 The composition according to claim 6, characterized in that said fungicides comprise phenylamides, tri- azoles, thiophanates, isophthalonitriles, fosetyl aluminum and their mixtures.",
+    "21. The composition according to claim 20, characterized in that said phenylamides comprise benalaxyl or its raceme.",
+    "22. The composition according to claim 20, characterized in that said triazoles comprise tetraconazole, triticonazole, myclobutanil and their mixtures.",
+    "23. The composition according to claim 20, characterized in that said thiophanate is thiophanate-methyl.",
+    "24. The composition according to claim 20, charac-  terized in that said isophthalonitrile is chlorotalonil.",
+    "25. The composition according to claim 6, wherein said nematocides or nematostatics comprise phosphoric esters.",
+    "26. The composition according to claim 25, characterized in that said phosphoric esters comprise cadusa- phos, fostiazate, etoprophos and their mixtures.",
+    "27. The composition according to one or more of claims 1 to 26, characterized in that it further com- prises potassium phosphite.",
+    "28. A method for the combined fertilizing and phyto- protective treatment of crops, comprising the application to the soil of an effective quantity of a composition according to one or more of claims 1-27.",
+    "29. The method according to claim 28, characterized in that said application takes place by localization at the seed, seedling and plant.",
+    "30. The method according to claim 28, characterized in that said application takes place contemporaneously with the sowing and transplanting of crops."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/496,474",
+      "representative_publication": "US20050065034A1",
+      "primary_language": "en",
+      "priority_date": "2001-11-29",
+      "filing_date": "2002-11-28",
+      "title": "Micro-granular composition with a combined fertilizing and phyto-protective action"
+    },
+    {
+      "application_number": "EP02787891A",
+      "representative_publication": "EP1451130A1",
+      "primary_language": "en",
+      "priority_date": "2001-11-29",
+      "filing_date": "2002-11-28",
+      "title": "Micro-granular composition with a combined fertilizing and phyto-protective action"
+    },
+    {
+      "application_number": "BR0214516-2A",
+      "representative_publication": "BR0214516A",
+      "primary_language": "en",
+      "priority_date": "2001-11-29",
+      "filing_date": "2002-11-28",
+      "title": "Composition for agricultural use in microgranular form, and method for the combined treatment of fertilizer and crop protector"
+    },
+    {
+      "application_number": "AU2002352204A",
+      "representative_publication": "AU2002352204A1",
+      "primary_language": "en",
+      "priority_date": "2001-11-29",
+      "filing_date": "2002-11-28",
+      "title": "Micro-granular composition with a combined fertilizing and phyto-protective action"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "IT2001MI002509A",
+      "representative_publication": "ITMI20012509A1",
+      "primary_language": "en",
+      "priority_date": "2001-11-29",
+      "filing_date": "2001-11-29",
+      "title": "MICROGRANULAR COMPOSITION WITH COMBINED ACTION FERTILIZER AND PHYTOPROTECTIVE"
+    },
+    {
+      "application_number": "ITMI2001A002509",
+      "filing_date": "2001-11-29"
+    }
+  ],
+  "family_id": "11448639",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5747416A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-07-08",
+        "publication_date": "1998-05-05",
+        "assignee_original": "Mcardle; Blaise",
+        "title": "Herbicidal and insecticidal protein-polysaccharide delivery compositions and methods for controlling plant and insect populations",
+        "patent_id": "patent/US5747416A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5747416A%2Fen"
+      },
+      {
+        "publication_number": "US5750130A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-02-07",
+        "publication_date": "1998-05-12",
+        "assignee_original": "Ferrell; Paul",
+        "title": "Presticide compositions",
+        "patent_id": "patent/US5750130A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5750130A%2Fen"
+      },
+      {
+        "publication_number": "EP0968980A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-07-02",
+        "publication_date": "2000-01-05",
+        "assignee_original": "Agroqualita S.r.l.",
+        "title": "Microgranular fertiliser composition for local applicaton during sowing or transplanting",
+        "patent_id": "patent/EP0968980A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0968980A2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US3096171A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-10-10",
+        "publication_date": "1963-07-02",
+        "assignee_original": "Int Minerals & Chem Corp",
+        "title": "Process for preparing slow release fertilizer composition",
+        "patent_id": "patent/US3096171A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3096171A%2Fen"
+      },
+      {
+        "publication_number": "US3274052A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1963-06-19",
+        "publication_date": "1966-09-20",
+        "assignee_original": "Fmc Corp",
+        "title": "Preparation of pesticide granules",
+        "patent_id": "patent/US3274052A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3274052A%2Fen"
+      },
+      {
+        "publication_number": "US3356484A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1965-06-30",
+        "publication_date": "1967-12-05",
+        "assignee_original": "Velsicol Chemical Corp",
+        "title": "Method for the control of undesirable plant life",
+        "patent_id": "patent/US3356484A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3356484A%2Fen"
+      },
+      {
+        "publication_number": "SU520881A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1970-01-22",
+        "publication_date": "1976-07-05",
+        "assignee_original": "\u041c\u0438\u0446\u0443\u0438 \u0422\u043e\u0430\u0446\u0443 \u041a\u0435\u043c\u0438\u043a\u0430\u043b\u0437 \u0418\u043d\u043a\u043e\u0440\u043f\u043e\u0440\u0435\u0439\u0442\u0435\u0434 (\u0424\u0438\u0440\u043c\u0430)",
+        "title": "The method of obtaining granulated urea",
+        "patent_id": "patent/SU520881A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSU520881A3%2Fen"
+      },
+      {
+        "publication_number": "PH13196A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-10-15",
+        "publication_date": "1980-01-18",
+        "assignee_original": "Mitsubishi Chem Ind",
+        "title": "Insecticidal composition",
+        "patent_id": "patent/PH13196A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPH13196A%2Fen"
+      },
+      {
+        "publication_number": "US4070347A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-08-16",
+        "publication_date": "1978-01-24",
+        "assignee_original": "Alza Corporation",
+        "title": "Poly(orthoester) co- and homopolymers and poly(orthocarbonate) co- and homopolymers having carbonyloxy functionality",
+        "patent_id": "patent/US4070347A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4070347A%2Fen"
+      },
+      {
+        "publication_number": "DE3406473A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-02-23",
+        "publication_date": "1985-09-19",
+        "assignee_original": "Basf Ag, 6700 Ludwigshafen",
+        "title": "METHOD FOR PRODUCING AQUEOUS DISPERSIONS OF CONDENSATION PRODUCTS FROM UREA AND CH-ACIDEN ALDEHYDES AND THE USE THEREOF",
+        "patent_id": "patent/DE3406473A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3406473A1%2Fen"
+      },
+      {
+        "publication_number": "JPH0798713B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-05-16",
+        "publication_date": "1995-10-25",
+        "assignee_original": "\u4f4f\u53cb\u5316\u5b66\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Granular fertilizer composition and method for producing the same",
+        "patent_id": "patent/JPH0798713B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0798713B2%2Fen"
+      },
+      {
+        "publication_number": "FR2655816B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-12-14",
+        "publication_date": "1994-04-29",
+        "assignee_original": "Rhone Poulenc Agrochimie",
+        "title": "DISPERSABLE GRANULES OF FUNGICIDE PRODUCTS.",
+        "patent_id": "patent/FR2655816B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2655816B1%2Fen"
+      },
+      {
+        "publication_number": "FR2732592B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-04-07",
+        "publication_date": "1997-05-16",
+        "assignee_original": "Oreal",
+        "title": "SELF-TANNING COSMETIC COMPOSITIONS",
+        "patent_id": "patent/FR2732592B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2732592B1%2Fen"
+      },
+      {
+        "publication_number": "US5716604A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-17",
+        "publication_date": "1998-02-10",
+        "assignee_original": "The Gillette Company",
+        "title": "Clear cosmetic stick composition with 2-methyl-1,3-propanediol",
+        "patent_id": "patent/US5716604A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5716604A%2Fen"
+      },
+      {
+        "publication_number": "FR2740042B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-23",
+        "publication_date": "1997-11-14",
+        "assignee_original": "Oreal",
+        "title": "SUPPORT, AND COMPOSITION CONTAINING THIS SUPPORT AND A STABILIZED COSMETIC OR DERMATOLOGICAL ACTIVE",
+        "patent_id": "patent/FR2740042B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2740042B1%2Fen"
+      },
+      {
+        "publication_number": "US5876739A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-13",
+        "publication_date": "1999-03-02",
+        "assignee_original": "Novartis Ag",
+        "title": "Insecticidal seed coating",
+        "patent_id": "patent/US5876739A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5876739A%2Fen"
+      },
+      {
+        "publication_number": "EP0867422A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-03-26",
+        "publication_date": "1999-10-13",
+        "assignee_original": "Central Glass Company, Limited",
+        "title": "Coated granular fertilizer and method for producing same",
+        "patent_id": "patent/EP0867422A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0867422A3%2Fen"
+      },
+      {
+        "publication_number": "US5798111A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-06-27",
+        "publication_date": "1998-08-25",
+        "assignee_original": "Chesebrough-Pond's Usa Co., Division Of Conopco, Inc.",
+        "title": "Clear emulsion cosmetic compositions",
+        "patent_id": "patent/US5798111A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5798111A%2Fen"
+      },
+      {
+        "publication_number": "JPH11158026A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-12-01",
+        "publication_date": "1999-06-15",
+        "assignee_original": "Shiseido Co Ltd",
+        "title": "Moisturizing agent and skin lotion",
+        "patent_id": "patent/JPH11158026A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH11158026A%2Fen"
+      },
+      {
+        "publication_number": "US6036964A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-03-05",
+        "publication_date": "2000-03-14",
+        "assignee_original": "Colgate-Palmolive Company",
+        "title": "Personal hygiene product with enhanced fragrance delivery",
+        "patent_id": "patent/US6036964A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6036964A%2Fen"
+      },
+      {
+        "publication_number": "US6013248A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-01",
+        "publication_date": "2000-01-11",
+        "assignee_original": "The Procter & Gamble Company",
+        "title": "Deodorant compositions containing 1,2-hexanediol",
+        "patent_id": "patent/US6013248A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6013248A%2Fen"
+      },
+      {
+        "publication_number": "FR2786689A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-12-03",
+        "publication_date": "2000-06-09",
+        "assignee_original": "Oreal",
+        "title": "COSMETIC OR DERMATOLOGICAL COMPOSITION COMPRISING AT LEAST ONE ALKYNYL CARBAMATE AND AT LEAST ONE POLYOL",
+        "patent_id": "patent/FR2786689A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2786689A1%2Fen"
+      },
+      {
+        "publication_number": "US6113888A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-15",
+        "publication_date": "2000-09-05",
+        "assignee_original": "Neutrogena Corporation",
+        "title": "Self-tanning mousse",
+        "patent_id": "patent/US6113888A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6113888A%2Fen"
+      },
+      {
+        "publication_number": "US6468943B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-24",
+        "publication_date": "2002-10-22",
+        "assignee_original": "Aisin Takaoka Co., Ltd.",
+        "title": "Plant-cultivating artificial material and process for producing the same",
+        "patent_id": "patent/US6468943B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6468943B1%2Fen"
+      },
+      {
+        "publication_number": "AU2002243599A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-22",
+        "publication_date": "2002-07-30",
+        "assignee_original": "Unified Environmental Services Group",
+        "title": "Production and use of biosolid granules",
+        "patent_id": "patent/AU2002243599A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2002243599A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "WO2005112624A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-13",
+        "publication_date": "2006-01-05",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Method for improving plant growth",
+        "patent_id": "patent/WO2005112624A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005112624A3%2Fen"
+      },
+      {
+        "publication_number": "WO2006029718A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-14",
+        "publication_date": "2006-03-23",
+        "assignee_original": "Bayer Cropscience Gmbh",
+        "title": "Emulsifiable granules formulations with boron containing fertilisers",
+        "patent_id": "patent/WO2006029718A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006029718A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007067042A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-07",
+        "publication_date": "2007-06-14",
+        "assignee_original": "Incotec International B.V.",
+        "title": "Protection of germinating seed and pills containing pesticides",
+        "patent_id": "patent/WO2007067042A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007067042A1%2Fen"
+      },
+      {
+        "publication_number": "WO2008083709A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-01-10",
+        "publication_date": "2008-07-17",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Insecticidal fertilizer mixtures",
+        "patent_id": "patent/WO2008083709A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008083709A1%2Fen"
+      },
+      {
+        "publication_number": "WO2008037376A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-09-30",
+        "publication_date": "2009-03-26",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Improvement of the biological action of agrochemical compositions when applied to the cultivation substrate, suitable formulations and use thereof",
+        "patent_id": "patent/WO2008037376A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008037376A3%2Fen"
+      },
+      {
+        "publication_number": "ITMI20100817A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-07",
+        "publication_date": "2011-11-08",
+        "assignee_original": "Diachem S P A",
+        "title": "A GRANULAR FUNGICIDE FORMULATION FOR USE WHICH INCLUDES TEBUCONAZOLE AND A FERTILIZING FERTILIZER TO BIOSTIMULANT ACTIVITY.",
+        "patent_id": "patent/ITMI20100817A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITMI20100817A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012080188A1",
+        "primary_language": "en",
+        "priority_date": "2010-12-17",
+        "publication_date": "2012-06-21",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Composition containing insecticide-wax particles",
+        "patent_id": "patent/WO2012080188A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012080188A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012101659A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-28",
+        "publication_date": "2012-08-02",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticide composition comprising sulphur, an insecticide and an agrochemical excipient.",
+        "patent_id": "patent/WO2012101659A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012101659A1%2Fen"
+      },
+      {
+        "publication_number": "CN103102224A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-11",
+        "publication_date": "2013-05-15",
+        "assignee_original": "\u53f6\u957f\u4e1c",
+        "title": "Insecticide-fertilizer composition containing benfuracarb",
+        "patent_id": "patent/CN103102224A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103102224A%2Fen"
+      },
+      {
+        "publication_number": "CN103274848A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-09",
+        "publication_date": "2013-09-04",
+        "assignee_original": "\u4e4c\u9c81\u6728\u9f50\u82f1\u6377\u9886\u5148\u5546\u8d38\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Preparation method and application of selenium-enriched foliar fertilizer",
+        "patent_id": "patent/CN103274848A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103274848A%2Fen"
+      },
+      {
+        "publication_number": "EP2683247A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-03-10",
+        "publication_date": "2014-09-24",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "AGROCHEMICAL COMPOSITION COMPRISING ZINC, SULFUR AND AN ACTIVE INGREDIENT PESTICIDE",
+        "patent_id": "patent/EP2683247A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2683247A4%2Fen"
+      },
+      {
+        "publication_number": "US9028856B2",
+        "primary_language": "en",
+        "priority_date": "2008-04-02",
+        "publication_date": "2015-05-12",
+        "assignee_original": "Bayer Cropscience Lp",
+        "title": "Synergistic pesticide compositions",
+        "patent_id": "patent/US9028856B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9028856B2%2Fen"
+      },
+      {
+        "publication_number": "EP1696725B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-23",
+        "publication_date": "2015-06-03",
+        "assignee_original": "Novozymes BioAg, Inc.",
+        "title": "Methods and compositions providing agronomically benefical effects in legumes and non-legumes",
+        "patent_id": "patent/EP1696725B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1696725B1%2Fen"
+      },
+      {
+        "publication_number": "CN107188737A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-27",
+        "publication_date": "2017-09-22",
+        "assignee_original": "\u6cb3\u5357\u67cf\u88d5\u690d\u7269\u514d\u75ab\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Peach yellow disease vaccine",
+        "patent_id": "patent/CN107188737A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107188737A%2Fen"
+      },
+      {
+        "publication_number": "CN107353092A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-21",
+        "publication_date": "2017-11-17",
+        "assignee_original": "\u534e\u4e2d\u519c\u4e1a\u5927\u5b66",
+        "title": "F type multifunctional ecological liquid fertilizers containing organic active substance and preparation method thereof",
+        "patent_id": "patent/CN107353092A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107353092A%2Fen"
+      },
+      {
+        "publication_number": "CN107821411A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-20",
+        "publication_date": "2018-03-23",
+        "assignee_original": "\u56db\u5ddd\u7701\u519c\u4e1a\u79d1\u5b66\u9662\u690d\u7269\u4fdd\u62a4\u7814\u7a76\u6240",
+        "title": "A kind of spacetabs type nano insecticidal agent and preparation method thereof",
+        "patent_id": "patent/CN107821411A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107821411A%2Fen"
+      },
+      {
+        "publication_number": "CN108191516A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-25",
+        "publication_date": "2018-06-22",
+        "assignee_original": "\u5c71\u4e1c\u7406\u5de5\u5927\u5b66",
+        "title": "A kind of Chinese littleleaf box imitates blade face protective agent and preparation method entirely",
+        "patent_id": "patent/CN108191516A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108191516A%2Fen"
+      },
+      {
+        "publication_number": "CN109694277A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-27",
+        "publication_date": "2019-04-30",
+        "assignee_original": "\u9655\u897f\u79d1\u6280\u5927\u5b66",
+        "title": "A kind of humic acid slow release selenium fertilizer and preparation method thereof",
+        "patent_id": "patent/CN109694277A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109694277A%2Fen"
+      },
+      {
+        "publication_number": "US10314300B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-28",
+        "publication_date": "2019-06-11",
+        "assignee_original": "Sumitomo Chemical Company, Limited",
+        "title": "Method for controlling arthropod pests",
+        "patent_id": "patent/US10314300B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10314300B2%2Fen"
+      },
+      {
+        "publication_number": "CN110511095A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-14",
+        "publication_date": "2019-11-29",
+        "assignee_original": "\u8d75\u65f6\u73ca",
+        "title": "A kind of mill water culture nutrient solution",
+        "patent_id": "patent/CN110511095A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110511095A%2Fen"
+      },
+      {
+        "publication_number": "EP3693351A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-05",
+        "publication_date": "2020-12-09",
+        "assignee_original": "SABIC Global Technologies B.V.",
+        "title": "Coated granular fertilizers, methods of manufacture thereof, and uses",
+        "patent_id": "patent/EP3693351A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3693351A3%2Fen"
+      },
+      {
+        "publication_number": "US11021409B2",
+        "primary_language": "en",
+        "priority_date": "2017-08-09",
+        "publication_date": "2021-06-01",
+        "assignee_original": "Sabic Global Technologies B.V.",
+        "title": "Extruded fertilizer granules with urease and/or nitrification inhibitors",
+        "patent_id": "patent/US11021409B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11021409B2%2Fen"
+      },
+      {
+        "publication_number": "US11104618B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-20",
+        "publication_date": "2021-08-31",
+        "assignee_original": "Sabic Global Technologies B.V.",
+        "title": "Fertilizer composition and methods of making and using same",
+        "patent_id": "patent/US11104618B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11104618B2%2Fen"
+      },
+      {
+        "publication_number": "US11124463B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-16",
+        "publication_date": "2021-09-21",
+        "assignee_original": "Sabic Global Technologies B.V.",
+        "title": "Coated granular fertilizers, methods of manufacture thereof, and uses thereof",
+        "patent_id": "patent/US11124463B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11124463B2%2Fen"
+      },
+      {
+        "publication_number": "US11306037B2",
+        "primary_language": "en",
+        "priority_date": "2017-04-19",
+        "publication_date": "2022-04-19",
+        "assignee_original": "Sabic Global Technologies B.V.",
+        "title": "Enhanced efficiency fertilizer with urease inhibitor and nitrification separated within the same particle",
+        "patent_id": "patent/US11306037B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11306037B2%2Fen"
+      },
+      {
+        "publication_number": "US11345645B2",
+        "primary_language": "en",
+        "priority_date": "2017-04-20",
+        "publication_date": "2022-05-31",
+        "assignee_original": "Sabic Global Technologies B.V.",
+        "title": "Enhanced efficiency fertilizer with embedded powder composition",
+        "patent_id": "patent/US11345645B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11345645B2%2Fen"
+      },
+      {
+        "publication_number": "US11358908B2",
+        "primary_language": "en",
+        "priority_date": "2017-04-19",
+        "publication_date": "2022-06-14",
+        "assignee_original": "Sabic Global Technologies B.V.",
+        "title": "Enhanced efficiency fertilizer with urease inhibitor and nitrification inhibitor in separate particles",
+        "patent_id": "patent/US11358908B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11358908B2%2Fen"
+      },
+      {
+        "publication_number": "RU2798125C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-21",
+        "publication_date": "2023-06-15",
+        "assignee_original": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0441 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e \"\u0411\u0418\u041e\u0422\u0415\u0425\u041a\u041e\u041c\u041f\"",
+        "title": "Composition for drageeing seeds of agricultural crops",
+        "patent_id": "patent/RU2798125C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2798125C2%2Fen"
+      },
+      {
+        "publication_number": "US11806689B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-08",
+        "publication_date": "2023-11-07",
+        "assignee_original": "Sabic Global Technologies B.V.",
+        "title": "Method of making a fertilizer seed core",
+        "patent_id": "patent/US11806689B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11806689B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US8097559B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-07-12",
+        "publication_date": "2012-01-17",
+        "assignee_original": "Remediation Products, Inc.",
+        "title": "Compositions for removing halogenated hydrocarbons from contaminated environments",
+        "patent_id": "patent/US8097559B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8097559B2%2Fen"
+      },
+      {
+        "publication_number": "US20100068299A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-27",
+        "publication_date": "2010-03-18",
+        "assignee_original": "Van Der Krieken Wilhelmus Maria",
+        "title": "Lignosulfonate compositions for control of plant pathogens",
+        "patent_id": "patent/US20100068299A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100068299A1%2Fen"
+      },
+      {
+        "publication_number": "US7927616B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-01-16",
+        "publication_date": "2011-04-19",
+        "assignee_original": "Thomas T. Yamashita",
+        "title": "Pesticide compositions and methods for their use",
+        "patent_id": "patent/US7927616B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7927616B2%2Fen"
+      },
+      {
+        "publication_number": "DE102004032418A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-07",
+        "publication_date": "2005-10-27",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Drug combinations with insecticidal properties",
+        "patent_id": "patent/DE102004032418A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102004032418A1%2Fen"
+      },
+      {
+        "publication_number": "US7666234B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-20",
+        "publication_date": "2010-02-23",
+        "assignee_original": "Council Of Scientific And Industrial Research",
+        "title": "Process for the preparation of fatty acid methyl ester from triglyceride oil by transesterification",
+        "patent_id": "patent/US7666234B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7666234B2%2Fen"
+      },
+      {
+        "publication_number": "CA2600079A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-21",
+        "publication_date": "2006-09-28",
+        "assignee_original": "Basf Aktiengesellschaft",
+        "title": "Insecticidal mixtures",
+        "patent_id": "patent/CA2600079A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2600079A1%2Fen"
+      },
+      {
+        "publication_number": "US7851499B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-13",
+        "publication_date": "2010-12-14",
+        "assignee_original": "Bayer Cropscience Lp",
+        "title": "Insecticidal fertilizer mixtures",
+        "patent_id": "patent/US7851499B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7851499B2%2Fen"
+      },
+      {
+        "publication_number": "CL2007003745A1",
+        "primary_language": "en",
+        "priority_date": "2006-12-22",
+        "publication_date": "2008-07-11",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "PESTICIDE COMPOSITION INCLUDING FOSETIL-AL, PROPAMOCARB-HCL AND AN ACTIVE INSECTED SUBSTANCE; AND METHOD FOR CONTROLLING FITOPATOGEN FUNDS OR DANIN INSECTICIDES OF THE PLANTS, CROPS OR SEEDS THAT INCLUDE APPLYING SUCH COMPOSITION.",
+        "patent_id": "patent/CL2007003745A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCL2007003745A1%2Fen"
+      },
+      {
+        "publication_number": "US20080293571A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-05-25",
+        "publication_date": "2008-11-27",
+        "assignee_original": "William Dean Holz",
+        "title": "Insecticide organic fertilizer composition, process and method",
+        "patent_id": "patent/US20080293571A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080293571A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009039560A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-26",
+        "publication_date": "2009-04-02",
+        "assignee_original": "Hitec Energy Limited",
+        "title": "A micronutrient fertiliser and method for producing same",
+        "patent_id": "patent/WO2009039560A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009039560A1%2Fen"
+      },
+      {
+        "publication_number": "US20110052720A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-20",
+        "publication_date": "2011-03-03",
+        "assignee_original": "Wim Van Der Krieken",
+        "title": "Compositions for the control of plant pathogens and for use as plant fertilizer",
+        "patent_id": "patent/US20110052720A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110052720A1%2Fen"
+      },
+      {
+        "publication_number": "EP2473034B1",
+        "primary_language": "en",
+        "priority_date": "2009-09-03",
+        "publication_date": "2020-11-04",
+        "assignee_original": "FBSciences Holdings, Inc.",
+        "title": "Seed treatment compositions & methods",
+        "patent_id": "patent/EP2473034B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2473034B1%2Fen"
+      },
+      {
+        "publication_number": "AU2010297936A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-28",
+        "publication_date": "2012-05-03",
+        "assignee_original": "Fbsciences, Holdings, Inc.",
+        "title": "Fertilizer compositions and methods",
+        "patent_id": "patent/AU2010297936A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2010297936A1%2Fen"
+      },
+      {
+        "publication_number": "CN101948358B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-25",
+        "publication_date": "2012-10-03",
+        "assignee_original": "\u6c49\u67ab\u7f13\u91ca\u80a5\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Fertilizer synergist and preparation method thereof",
+        "patent_id": "patent/CN101948358B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101948358B%2Fen"
+      },
+      {
+        "publication_number": "JP5843882B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-20",
+        "publication_date": "2016-01-13",
+        "assignee_original": "\u30a8\u30e0\u30d4\u30fc\u30c6\u30a3\u30fc \u30de\u30b9\u30bf\u30fc\u30c9 \u30d7\u30ed\u30c0\u30af\u30c4 \u30a2\u30f3\u30c9 \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30fc\u30c6\u30a3\u30c3\u30c9",
+        "title": "Mixtures and methods of making mustard plant materials for pest control",
+        "patent_id": "patent/JP5843882B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5843882B2%2Fen"
+      },
+      {
+        "publication_number": "GB201106759D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-20",
+        "publication_date": "2011-06-01",
+        "assignee_original": "Exosect Ltd",
+        "title": "Compositions for growth and vigour in soybean",
+        "patent_id": "patent/GB201106759D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201106759D0%2Fen"
+      },
+      {
+        "publication_number": "JP6276197B2",
+        "primary_language": "en",
+        "priority_date": "2012-01-12",
+        "publication_date": "2018-02-07",
+        "assignee_original": "\u30a8\u30d5\u30d3\u30fc\u30b5\u30a4\u30a8\u30f3\u30b7\u30ba\u30fb\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "Method, composition, granule, and seed coating for contacting a composition comprising a mixture of complex polymeric polyhydroxy acid (CPPA) and cationic species with a plant or vegetation site thereof",
+        "patent_id": "patent/JP6276197B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6276197B2%2Fen"
+      },
+      {
+        "publication_number": "US10766828B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-01",
+        "publication_date": "2020-09-08",
+        "assignee_original": "Compass Minerals Am\u00e9rica do Sul Ind\u00fastria e Com\u00e9rcio S.A.",
+        "title": "Liquid fertilizer compositions comprising nickel, cobalt, and molybdenum, and methods of forming and using the same",
+        "patent_id": "patent/US10766828B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10766828B2%2Fen"
+      },
+      {
+        "publication_number": "CN107721646A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-23",
+        "publication_date": "2018-02-23",
+        "assignee_original": "\u9655\u897f\u5609\u76ca\u84dd\u5fb7\u751f\u7269\u5de5\u7a0b\u6709\u9650\u516c\u53f8",
+        "title": "A kind of Bactericide fertilizer granule",
+        "patent_id": "patent/CN107721646A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107721646A%2Fen"
+      },
+      {
+        "publication_number": "CN108752089B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-30",
+        "publication_date": "2021-04-02",
+        "assignee_original": "\u5e7f\u897f\u9996\u63a7\u751f\u7269\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Dinotefuran insecticide-fertilizer granules and application thereof",
+        "patent_id": "patent/CN108752089B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108752089B%2Fen"
+      },
+      {
+        "publication_number": "JP7511892B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-01",
+        "publication_date": "2024-07-08",
+        "assignee_original": "\uff2f\uff41\uff54\u30a2\u30b0\u30ea\u30aa\u682a\u5f0f\u4f1a\u793e",
+        "title": "Pesticide composition with suppressed elution",
+        "patent_id": "patent/JP7511892B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7511892B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20050065034A1",
+      "primary_language": "en",
+      "publication_date": "2005-03-24",
+      "title": "Micro-granular composition with a combined fertilizing and phyto-protective action",
+      "patent_id": "patent/US20050065034A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050065034A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5174804A",
+      "primary_language": "en",
+      "publication_date": "1992-12-29",
+      "title": "Fertilizer/pesticide composition and method of treating plants",
+      "patent_id": "patent/US5174804A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5174804A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ES2521092T3",
+      "primary_language": "en",
+      "publication_date": "2014-11-12",
+      "title": "Composition of microgranular fertilizer for sowing or transplantation",
+      "patent_id": "patent/ES2521092T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2521092T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5173848B2",
+      "primary_language": "en",
+      "publication_date": "2013-04-03",
+      "title": "Stabilized granular pesticide",
+      "patent_id": "patent/JP5173848B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5173848B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12077480B2",
+      "primary_language": "en",
+      "publication_date": "2024-09-03",
+      "title": "High solids suspension fertilizer",
+      "patent_id": "patent/US12077480B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12077480B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9986738B2",
+      "primary_language": "en",
+      "publication_date": "2018-06-05",
+      "title": "Controlled release of seed and soil treatments triggered by pH change of growing media",
+      "patent_id": "patent/US9986738B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9986738B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "UA127565C2",
+      "primary_language": "en",
+      "publication_date": "2023-10-11",
+      "title": "AGRICULTURAL COMPOSITION",
+      "patent_id": "patent/UA127565C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUA127565C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050022569A1",
+      "primary_language": "en",
+      "publication_date": "2005-02-03",
+      "title": "Organic-based fertilizer",
+      "patent_id": "patent/US20050022569A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050022569A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210323885A1",
+      "primary_language": "en",
+      "publication_date": "2021-10-21",
+      "title": "Seaweed extract coated fertilizer for better crops and soil health",
+      "patent_id": "patent/US20210323885A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210323885A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11117842B2",
+      "primary_language": "en",
+      "publication_date": "2021-09-14",
+      "title": "Encapsulated seed",
+      "patent_id": "patent/US11117842B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11117842B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0079668B1",
+      "primary_language": "en",
+      "publication_date": "1986-02-26",
+      "title": "Pesticide product and use and manufacture thereof",
+      "patent_id": "patent/EP0079668B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0079668B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103960241A",
+      "primary_language": "en",
+      "publication_date": "2014-08-06",
+      "title": "Pesticide composition and method for curing cruciferae crop clubroot",
+      "patent_id": "patent/CN103960241A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103960241A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113372163A",
+      "primary_language": "en",
+      "publication_date": "2021-09-10",
+      "title": "Clothianidin special pesticide fertilizer and preparation method thereof",
+      "patent_id": "patent/CN113372163A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113372163A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3558899A1",
+      "primary_language": "en",
+      "publication_date": "2019-10-30",
+      "title": "Granular composition for agricultural use capable of increasing the amount of oxygen in the growth medium",
+      "patent_id": "patent/EP3558899A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3558899A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA1262525A",
+      "primary_language": "en",
+      "publication_date": "1989-10-31",
+      "title": "Timed release composition and means",
+      "patent_id": "patent/CA1262525A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA1262525A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000512987A",
+      "primary_language": "en",
+      "publication_date": "2000-10-03",
+      "title": "How to treat plant diseases",
+      "patent_id": "patent/JP2000512987A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000512987A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO1990011265A2",
+      "primary_language": "en",
+      "publication_date": "1990-10-04",
+      "title": "General purpose fertiliser",
+      "patent_id": "patent/WO1990011265A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1990011265A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2007148992A1",
+      "primary_language": "en",
+      "publication_date": "2007-12-27",
+      "title": "Plant beneficial composition",
+      "patent_id": "patent/WO2007148992A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007148992A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HU229702B1",
+      "primary_language": "en",
+      "publication_date": "2014-05-28",
+      "title": "Process for the preparation of carriers for agricultural compositions and soil disinfecting and conditioning compositions with controlled effect",
+      "patent_id": "patent/HU229702B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHU229702B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101380775B1",
+      "primary_language": "en",
+      "publication_date": "2014-04-04",
+      "title": "A mixed granular agricultural chemical composition",
+      "patent_id": "patent/KR101380775B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101380775B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH01157493A",
+      "primary_language": "en",
+      "publication_date": "1989-06-20",
+      "title": "Particle-like agricultural medicine manure",
+      "patent_id": "patent/JPH01157493A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH01157493A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "NZ754997A",
+      "primary_language": "en",
+      "title": "Granule composition and process for preparation thereof",
+      "patent_id": "patent/NZ754997A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ754997A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "UA140315U",
+      "primary_language": "en",
+      "publication_date": "2020-02-10",
+      "title": "SOLID PROTECTIVE-NUTRITIONAL COMPOSITION",
+      "patent_id": "patent/UA140315U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUA140315U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2019204626A1",
+      "primary_language": "en",
+      "publication_date": "2020-01-23",
+      "title": "Granule composition and process for preparation thereof",
+      "patent_id": "patent/AU2019204626A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2019204626A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2019232818A1",
+      "primary_language": "en",
+      "publication_date": "2021-04-01",
+      "title": "Granular insecticide composition and method for preparation",
+      "patent_id": "patent/AU2019232818A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2019232818A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2003-06-05",
+      "code": "AK",
+      "title": "Designated states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AE AG AL AM AT AU AZ BA BB BG BR BY BZ CA CH CN CO CR CU CZ DE DK DM DZ EC EE ES FI GB GD GE GH GM HR HU ID IL IN IS JP KE KG KP KR KZ LC LK LR LS LT LU LV MA MD MG MK MN MW MX MZ NO NZ OM PH PL PT RO RU SC SD SE SG SI SK SL TJ TM TN TR TT TZ UA UG US UZ VC VN YU ZA ZM ZW"
+        }
+      ]
+    },
+    {
+      "date": "2003-06-05",
+      "code": "AL",
+      "title": "Designated countries for regional patents",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "GH GM KE LS MW MZ SD SL SZ TZ UG ZM ZW AM AZ BY KG KZ MD RU TJ TM AT BE BG CH CY CZ DE DK EE ES FI FR GB GR IE IT LU MC NL PT SE SK TR BF BJ CF CG CI CM GA GN GQ GW ML MR NE SN TD TG"
+        }
+      ]
+    },
+    {
+      "date": "2003-07-30",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application"
+    },
+    {
+      "date": "2003-08-07",
+      "code": "DFPE",
+      "title": "Request for preliminary examination filed prior to expiration of 19th month from priority date (pct application filed before 20040101)"
+    },
+    {
+      "date": "2004-05-21",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2002787891"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2004-09-01",
+      "code": "WWP",
+      "title": "Wipo information: published in national office",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2002787891"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2004-10-28",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "10496474"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "date": "2006-05-06",
+      "code": "WWW",
+      "title": "Wipo information: withdrawn in national office",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2002787891"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2006-06-01",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "JP"
+        }
+      ]
+    },
+    {
+      "date": "2006-06-01",
+      "code": "WWW",
+      "title": "Wipo information: withdrawn in national office",
+      "attributes": [
+        {
+          "label": "Country of ref document",
+          "value": "JP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "search_metadata": {
+    "id": "697a3a2ad3982c5a04b36bb5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cef8eec60606dc15/697a3a2ad3982c5a04b36bb5.json",
+    "created_at": "2026-01-28 16:32:42 UTC",
+    "processed_at": "2026-01-28 16:32:42 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20240093023A1/en",
+    "raw_html_file": "https://serpapi.com/searches/cef8eec60606dc15/697a3a2ad3982c5a04b36bb5.html",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20240093023A1/en"
+  },
+  "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use thereof",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/a9/e8/79/a6b0f4886b4797/US20240093023A1.pdf",
+  "publication_number": "US20240093023A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "biodegradable",
+    "composition",
+    "starch",
+    "biodegradable composition",
+    "compositions"
+  ],
+  "prior_art_date": "2022-09-16",
+  "application_number": "US18/468,261",
+  "inventors": [
+    {
+      "name": "Nima ZARRINBAKHSH",
+      "link": "https://patents.google.com/?inventor=Nima+ZARRINBAKHSH",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Nima+ZARRINBAKHSH"
+    },
+    {
+      "name": "Hossein ABDOLI",
+      "link": "https://patents.google.com/?inventor=Hossein+ABDOLI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hossein+ABDOLI"
+    },
+    {
+      "name": "Emmanuel OGUNSONA",
+      "link": "https://patents.google.com/?inventor=Emmanuel+OGUNSONA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Emmanuel+OGUNSONA"
+    },
+    {
+      "name": "Kritika Tyagi",
+      "link": "https://patents.google.com/?inventor=Kritika+Tyagi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kritika+Tyagi"
+    }
+  ],
+  "assignees": [
+    "Erthos Inc USA"
+  ],
+  "priority_date": "2022-09-16",
+  "filing_date": "2023-09-15",
+  "publication_date": "2024-03-21",
+  "worldwide_applications": {
+    "2023": [
+      {
+        "filing_date": "2023-09-15",
+        "country_code": "US",
+        "application_number": "US18/468,261",
+        "document_id": "patent/US20240093023A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      },
+      {
+        "filing_date": "2023-09-16",
+        "country_code": "WO",
+        "application_number": "PCT/IB2023/059203",
+        "document_id": "patent/WO2024057286A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2023-09-15",
+      "title": "Application filed by Erthos Inc USA",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Erthos Inc USA"
+    },
+    {
+      "date": "2023-09-15",
+      "title": "Priority to US18/468,261",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20240093023A1/en"
+    },
+    {
+      "date": "2023-10-12",
+      "title": "Assigned to ERTHOS, INC.",
+      "type": "reassignment",
+      "assignee_search": "ERTHOS, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ABDOLI, HOSSEIN, OGUNSONA, Emmanuel, TYAGI, KRITIKA, ZARRINBAKHSH, Nima"
+      ]
+    },
+    {
+      "date": "2024-03-21",
+      "title": "Publication of US20240093023A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20240093023A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20240093023.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/18468261"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20240093023"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2024093023A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/18468261/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20240093023"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "C08L67/02",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/00",
+      "description": "Compositions of polyesters obtained by reactions forming a carboxylic ester link in the main chain; Compositions of derivatives of such polymers",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J3/203",
+      "description": "Solid polymers with solid and/or liquid additives",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/04",
+      "description": "Polyesters derived from hydroxycarboxylic acids, e.g. lactones",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2367/04",
+      "description": "Polyesters derived from hydroxy carboxylic acids, e.g. lactones",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2403/02",
+      "description": "Starch; Degradation products thereof, e.g. dextrin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2201/06",
+      "description": "Biodegradable",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2205/025",
+      "description": "Polymer mixtures characterised by other features containing two or more polymers of the same C08L -group containing two or more polymers of the same hierarchy C08L, and differing only in parameters such as density, comonomer content, molecular weight, structure",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2205/03",
+      "description": "Polymer mixtures characterised by other features containing three or more polymers in a blend",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention encompasses biodegradable compositions (e.g., biodegradable plastics) and methods of preparation and use thereof, and disposable products made from the claimed compositions. Raw materials for preparing the biodegradable plastic include one or more polymers and thermoplastic starch, fiber, starch, a plasticizer, and a coupling agent. The biodegradable composition has the advantages of short degradation cycle, good mechanical properties, and a low manufacturing cost.",
+  "description_link": "https://serpapi.com/searches/697a3a2ad3982c5a04b36bb5/google_patents_details/description.html",
+  "claims": [
+    "1. A biodegradable composition comprising:\n(i) about 10-95 (w/w) of polymer blend comprising a thermoplastic starch and one or more biodegradable polyesters; (ii) about 0.1-50 (w/w) of starch; (iii) about 0.1-50 (w/w) of one or more of inorganic filler; and (iv) about 0.1-50 (w/w) of fiber comprising one or more of biomass, wherein the composition exhibits a 90% disintegration completion within about 180 to about 365 days in soil at ambient temperature.",
+    "2. The biodegradable composition of claim 1, further comprising one or more of additives selected from the group consisting of one or more of: (i) a plasticizer in an amount of from about 0.1 to about 15% (w/w); (ii) a coupling agent in an amount of from about 0.1 to about 1% (w/w); (iii) a compatibilizer in an amount of from about 0.1 to about 5% (w/w); (iv) an impact modifier in an amount of about 0.1 to about 30% (w/w), (v) a chain extender in an amount of about 0.1 to about 10% (w/w), (vi) lubricant in an amount of about 0.1 to about 10% (w/w), (vii) a stabilizer in an amount of about 0.1 to about 10% (w/w), (viii) toner in an amount of about 0.1 to about 10% (w/w), and (ix) pigment in an amount of about 0.1 to about 10% (w/w), or combinations thereof.",
+    "3. The biodegradable composition of claim 1, wherein composition exhibits a disintegration onset within 7 days, on average, in soil at ambient temperature.",
+    "4. The biodegradable composition of claim 1, wherein composition exhibits a bio-based carbon content of more than 50%.",
+    "5. The biodegradable composition of claim 1, wherein composition exhibits a rigidity (represented by 1% secant flexural modulus) of greater than 1000 Mpa.",
+    "6. The biodegradable composition of claim 1, wherein composition exhibits a strength (represented by maximum flexural stress) of greater than 30 Mpa.",
+    "7. The biodegradable composition of claim 1, wherein composition exhibits an impact strength (represented by notched Izod energy) of more than 30 J/m.",
+    "8. The biodegradable composition of claim 1, wherein composition exhibits a MFI (melt flow index or melt flow rate) of greater than 10 g/10 min.",
+    "9. The biodegradable composition of claim 1, wherein composition exhibits a MFI (melt flow index or melt flow rate) of less than 10 g/10 min.",
+    "10. The biodegradable composition of claim 1, wherein the biodegradable polyester is selected from the group consisting of polylactic acid, polycaprolactone, polybutylene succinate, polybutylene succinate adipate, polybutylene succinate terephthalate, polybutylene adipate terephthalate, or polyhydroxyalkanoates.",
+    "11. The biodegradable composition of claim 1, wherein the starch is in native form or modified form.",
+    "12. The biodegradable composition of claim 1, wherein the biomass comprises vinasse, vinegar residues, wood fiber, agricultural cellulosic matter from including straw, stalk, shive, hurd, bast, leaf, seed, fruit, and perennial grass, all in a non-continuous non-woven form including chopped pieces, particulates, dust or flour.",
+    "13. The biodegradable composition of claim 1, wherein the inorganic filler comprises wollastonite, mica, clay, calcium carbonate, glass fiber, talc, aluminum silicate, zirconium oxide, and gypsum.",
+    "14. The biodegradable composition of claim 2, wherein the plasticizer comprises glycerin, ethylene glycol, xylitol, vegetable oils (virgin or epoxidized), and natural waxes.",
+    "15. The biodegradable composition of claim 2, wherein the coupling agent or compatibilizer comprises titanate, aluminate, \u03b3-aminopropyltriethoxysilane, \u03b3-(2,3)epoxy (propoxy)propyltrimethoxysilane and \u03b3-methacryloxypropyltrimethoxysilane.",
+    "16. The biodegradable composition of claim 14, wherein the toner or pigment is at least one selected from the group consisting of fluorescent brightener and titanium dioxide.",
+    "17. A method for preparing the biodegradable composition comprising the following steps:\na. plasticizing a starch with the plasticizer optionally in presence of one or more additional raw materials of the biodegradable composition; b. mixing uniformly with the additional raw materials of the biodegradable composition to prepare a premix; c. mixing the premix thoroughly at higher than ambient temperatures to prepare the biodegradable composition.",
+    "18. (canceled)",
+    "19. (canceled)",
+    "20. The method of claim 19, further comprising forming rigid parts using conventional polymer processing techniques comprising injection molding, compression molding, blow molding and extrusion molding.",
+    "21. The method of claim 19, further comprising forming thin sheets or films using conventional polymer processing techniques comprising hot press, vacuum forming, cast extrusion, film blowing, or compression molding.",
+    "22. A disposable product, comprising the biodegradable composition of claim 1, wherein the disposable product is packing material or a consumer product.",
+    "23-25. (canceled)"
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US18/468,261",
+      "representative_publication": "US20240093023A1",
+      "primary_language": "en",
+      "priority_date": "2022-09-16",
+      "filing_date": "2023-09-15",
+      "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use thereof"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US202263407586P",
+      "priority_date": "2022-09-16",
+      "filing_date": "2022-09-16"
+    },
+    {
+      "application_number": "US18/468,261",
+      "representative_publication": "US20240093023A1",
+      "primary_language": "en",
+      "priority_date": "2022-09-16",
+      "filing_date": "2023-09-15",
+      "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use thereof"
+    }
+  ],
+  "family_id": "90245534",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "EP2920244B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-15",
+        "publication_date": "2017-01-11",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polyester composition",
+        "patent_id": "patent/EP2920244B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2920244B1%2Fen"
+      },
+      {
+        "publication_number": "CN112940471A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-29",
+        "publication_date": "2021-06-11",
+        "assignee_original": "\u58f9\u79d1\u73af\u5851\u65b0\u6750\u6599\u79d1\u6280(\u6df1\u5733)\u6709\u9650\u516c\u53f8",
+        "title": "Degradable plastic, preparation method thereof and disposable product",
+        "patent_id": "patent/CN112940471A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112940471A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20220228320A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-19",
+        "publication_date": "2022-07-21",
+        "assignee_original": "Solenis Technologies, L.P.",
+        "title": "Treated substrates and methods of producing the same",
+        "patent_id": "patent/US20220228320A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220228320A1%2Fen"
+      },
+      {
+        "publication_number": "CN118144201A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-03-31",
+        "publication_date": "2024-06-07",
+        "assignee_original": "\u676d\u5dde\u4e2d\u5e73\u5316\u5de5\u6709\u9650\u516c\u53f8",
+        "title": "Manufacturing process of environment-friendly degradable plastic",
+        "patent_id": "patent/CN118144201A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118144201A%2Fen"
+      },
+      {
+        "publication_number": "CN118667314A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-06-20",
+        "publication_date": "2024-09-20",
+        "assignee_original": "\u5317\u4eac\u4e30\u6536\u5728\u671b\u73af\u4fdd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Degradable plastic master batch and preparation and application thereof",
+        "patent_id": "patent/CN118667314A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118667314A%2Fen"
+      },
+      {
+        "publication_number": "US12291636B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/US12291636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+      },
+      {
+        "publication_number": "WO2025264670A1",
+        "primary_language": "en",
+        "priority_date": "2024-06-17",
+        "publication_date": "2025-12-26",
+        "assignee_original": "Pakitgreen, Inc.",
+        "title": "A biodegradable, repulpable, compostable and recyclable composition comprising a modified polyester for a barrier coating for packaging, articles including the barrier coating, and methods thereof",
+        "patent_id": "patent/WO2025264670A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025264670A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US12291636B2",
+      "primary_language": "en",
+      "publication_date": "2025-05-06",
+      "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+      "patent_id": "patent/US12291636B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2003200086B2",
+      "primary_language": "en",
+      "publication_date": "2009-01-15",
+      "title": "Biodegradable or compostable containers",
+      "patent_id": "patent/AU2003200086B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2003200086B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240093023A1",
+      "primary_language": "en",
+      "publication_date": "2024-03-21",
+      "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use thereof",
+      "patent_id": "patent/US20240093023A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240093023A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070148384A1",
+      "primary_language": "en",
+      "publication_date": "2007-06-28",
+      "title": "Processes for filming biodegradable or compostable containers",
+      "patent_id": "patent/US20070148384A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070148384A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2524382C2",
+      "primary_language": "en",
+      "publication_date": "2014-07-27",
+      "title": "Method of preparing thermoplastic compositions based on plasticised starch and resulting compositions",
+      "patent_id": "patent/RU2524382C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2524382C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2009103052A1",
+      "primary_language": "en",
+      "publication_date": "2009-08-20",
+      "title": "Flash-gel method for forming biodegradable or compostable containers",
+      "patent_id": "patent/WO2009103052A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009103052A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220275202A1",
+      "primary_language": "en",
+      "publication_date": "2022-09-01",
+      "title": "Flexible wood composite material",
+      "patent_id": "patent/US20220275202A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220275202A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16397754981386809808",
+      "scholar_authors": "Imam et al.",
+      "publication_date": "2012",
+      "title": "Utilization of biobased polymers in food packaging: assessment of materials, production and commercialization",
+      "patent_id": "scholar/16397754981386809808",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16397754981386809808"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14462715789534573840",
+      "scholar_authors": "Imam et al.",
+      "publication_date": "2008",
+      "title": "Types, production and assessment of biobased food packaging materials",
+      "patent_id": "scholar/14462715789534573840",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14462715789534573840"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK40105777A",
+      "primary_language": "en",
+      "publication_date": "2024-08-23",
+      "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+      "patent_id": "patent/HK40105777A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK40105777A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2020164577A",
+      "primary_language": "en",
+      "publication_date": "2020-10-08",
+      "title": "Polyester resin composition and molded product",
+      "patent_id": "patent/JP2020164577A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2020164577A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1059426B",
+      "primary_language": "en",
+      "publication_date": "2009-07-03",
+      "title": "Biodegradable or compostable containers",
+      "patent_id": "patent/HK1059426B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1059426B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2023-10-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ERTHOS, INC., CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ZARRINBAKHSH, NIMA;ABDOLI, HOSSEIN;OGUNSONA, EMMANUEL;AND OTHERS;REEL/FRAME:065192/0285"
+        },
+        {
+          "label": "Effective date",
+          "value": "20230927"
+        }
+      ]
+    },
+    {
+      "date": "2023-11-29",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    }
+  ]
+}

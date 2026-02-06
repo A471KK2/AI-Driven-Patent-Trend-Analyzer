@@ -1,0 +1,4157 @@
+{
+  "search_metadata": {
+    "id": "697a348428b27b60cdf57ca7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7cac2195c41f88b9/697a348428b27b60cdf57ca7.json",
+    "created_at": "2026-01-28 16:08:36 UTC",
+    "processed_at": "2026-01-28 16:08:36 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20190023390A1/en",
+    "raw_html_file": "https://serpapi.com/searches/7cac2195c41f88b9/697a348428b27b60cdf57ca7.html",
+    "total_time_taken": 1.91
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20190023390A1/en"
+  },
+  "title": "Vertical Takeoff and Landing Aircraft",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/c9/fe/19/7f2b3284e57234/US20190023390A1.pdf",
+  "publication_number": "US20190023390A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "wing",
+    "assembly",
+    "vertical thrust",
+    "variable component",
+    "fans"
+  ],
+  "prior_art_date": "2017-07-21",
+  "application_number": "US16/042,299",
+  "inventors": [
+    {
+      "name": "Kurt David Murrow",
+      "link": "https://patents.google.com/?inventor=Kurt+David+Murrow",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kurt+David+Murrow"
+    },
+    {
+      "name": "Andrew Breeze-Stringfellow",
+      "link": "https://patents.google.com/?inventor=Andrew+Breeze-Stringfellow",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Andrew+Breeze-Stringfellow"
+    },
+    {
+      "name": "Darek Tomasz Zatorski",
+      "link": "https://patents.google.com/?inventor=Darek+Tomasz+Zatorski",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Darek+Tomasz+Zatorski"
+    },
+    {
+      "name": "Dominic Barone",
+      "link": "https://patents.google.com/?inventor=Dominic+Barone",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Dominic+Barone"
+    }
+  ],
+  "assignees": [
+    "General Electric Co"
+  ],
+  "priority_date": "2017-07-21",
+  "filing_date": "2018-07-23",
+  "publication_date": "2019-01-24",
+  "worldwide_applications": {
+    "2017": [
+      {
+        "filing_date": "2017-09-08",
+        "country_code": "US",
+        "application_number": "US15/699,349",
+        "document_id": "patent/US10822101B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2017-09-08",
+        "country_code": "US",
+        "application_number": "US15/699,315",
+        "document_id": "patent/US10737797B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2018": [
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810811789.7A",
+        "document_id": "patent/CN109279005B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810811057.8A",
+        "document_id": "patent/CN109279001B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,370",
+        "document_id": "patent/US11040779B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810811735.0A",
+        "document_id": "patent/CN109279004B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,328",
+        "document_id": "patent/US11124306B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810811734.6A",
+        "document_id": "patent/CN109279003B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,299",
+        "document_id": "patent/US11053014B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,439",
+        "document_id": "patent/US10710735B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810811060.XA",
+        "document_id": "patent/CN109279002B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,216",
+        "document_id": "patent/US11117675B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810810711.3A",
+        "document_id": "patent/CN109278998B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN202211205636.0A",
+        "document_id": "patent/CN115535231A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,522",
+        "document_id": "patent/US11124308B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810811056.3A",
+        "document_id": "patent/CN109279000B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,267",
+        "document_id": "patent/US11117676B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810810661.9A",
+        "document_id": "patent/CN109278997B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "CN",
+        "application_number": "CN201810811040.2A",
+        "document_id": "patent/CN109278999B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,487",
+        "document_id": "patent/US11084595B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "EP",
+        "application_number": "EP18184890.4A",
+        "document_id": "patent/EP3431385B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-23",
+        "country_code": "US",
+        "application_number": "US16/042,403",
+        "document_id": "patent/US11124307B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-08-15",
+        "country_code": "EP",
+        "application_number": "EP23198080.6A",
+        "document_id": "patent/EP4306427A3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2018-08-23",
+        "country_code": "CA",
+        "application_number": "CA3015096A",
+        "document_id": "patent/CA3015096C/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-09-07",
+        "country_code": "CN",
+        "application_number": "CN201811044142.2A",
+        "document_id": "patent/CN109466764B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2021": [
+      {
+        "filing_date": "2021-07-02",
+        "country_code": "US",
+        "application_number": "US17/366,749",
+        "document_id": "patent/US12006031B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2024": [
+      {
+        "filing_date": "2024-06-10",
+        "country_code": "US",
+        "application_number": "US18/738,167",
+        "document_id": "patent/US12503228B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2018-07-23",
+      "title": "Application filed by General Electric Co",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "General Electric Co"
+    },
+    {
+      "date": "2018-07-23",
+      "title": "Priority to US16/042,299",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US11053014B2/en"
+    },
+    {
+      "date": "2018-07-23",
+      "title": "Assigned to GENERAL ELECTRIC COMPANY",
+      "type": "reassignment",
+      "assignee_search": "GENERAL ELECTRIC COMPANY",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ZATORSKI, DAREK TOMASZ, BARONE, Dominic, MURROW, KURT DAVID, BREEZE-STRINGFELLOW, ANDREW"
+      ]
+    },
+    {
+      "date": "2019-01-24",
+      "title": "Publication of US20190023390A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20190023390A1/en"
+    },
+    {
+      "date": "2021-07-02",
+      "title": "Priority to US17/366,749",
+      "type": "priority",
+      "document_id": "patent/US12006031B2/en"
+    },
+    {
+      "date": "2021-07-06",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2021-07-06",
+      "title": "Publication of US11053014B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US11053014B2/en"
+    },
+    {
+      "date": "2024-06-10",
+      "title": "Priority to US18/738,167",
+      "type": "priority",
+      "document_id": "patent/US12503228B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-05-10",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20190023390.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/16042299"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20190023390"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2019023390A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/16042299/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20190023390"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/6b/7b/fa/18823e3e851189/US20190023390A1-20190124-D00000.png",
+    "https://patentimages.storage.googleapis.com/77/1e/53/57698a162aa2be/US20190023390A1-20190124-D00001.png",
+    "https://patentimages.storage.googleapis.com/5f/fe/cb/c013e09e094d9e/US20190023390A1-20190124-D00002.png",
+    "https://patentimages.storage.googleapis.com/a3/5c/0e/3ae4a44aeb9312/US20190023390A1-20190124-D00003.png",
+    "https://patentimages.storage.googleapis.com/a0/1f/fd/b41bb62157901b/US20190023390A1-20190124-D00004.png",
+    "https://patentimages.storage.googleapis.com/99/ea/ef/ffcbd2cbf8161b/US20190023390A1-20190124-D00005.png",
+    "https://patentimages.storage.googleapis.com/a0/af/f3/d92bad2cb4a65f/US20190023390A1-20190124-D00006.png",
+    "https://patentimages.storage.googleapis.com/81/ad/3d/0f19554be8e071/US20190023390A1-20190124-D00007.png",
+    "https://patentimages.storage.googleapis.com/5c/9e/8e/f4d8fa0e0af141/US20190023390A1-20190124-D00008.png",
+    "https://patentimages.storage.googleapis.com/38/3a/d8/642e4f83411d10/US20190023390A1-20190124-D00009.png",
+    "https://patentimages.storage.googleapis.com/d3/37/cd/465e25f7d16d34/US20190023390A1-20190124-D00010.png",
+    "https://patentimages.storage.googleapis.com/a3/0a/0a/961e63dcf207c5/US20190023390A1-20190124-D00011.png",
+    "https://patentimages.storage.googleapis.com/19/e5/d6/1ff299bc7eff55/US20190023390A1-20190124-D00012.png",
+    "https://patentimages.storage.googleapis.com/00/f7/f7/4d930762f6ab07/US20190023390A1-20190124-D00013.png",
+    "https://patentimages.storage.googleapis.com/63/ac/53/098e733d2d0b45/US20190023390A1-20190124-D00014.png",
+    "https://patentimages.storage.googleapis.com/34/ba/37/5007a9ca1b81e3/US20190023390A1-20190124-D00015.png",
+    "https://patentimages.storage.googleapis.com/06/d6/dd/d9576be1040c75/US20190023390A1-20190124-D00016.png",
+    "https://patentimages.storage.googleapis.com/b6/09/3d/50b1af0d719a07/US20190023390A1-20190124-D00017.png",
+    "https://patentimages.storage.googleapis.com/7b/cd/c9/3750ae39844621/US20190023390A1-20190124-D00018.png",
+    "https://patentimages.storage.googleapis.com/3b/a7/ba/ee661f062cec88/US20190023390A1-20190124-D00019.png",
+    "https://patentimages.storage.googleapis.com/b2/b0/7b/3bc5ac85402ba8/US20190023390A1-20190124-D00020.png",
+    "https://patentimages.storage.googleapis.com/fc/39/d8/60ef74e6dce5d3/US20190023390A1-20190124-D00021.png",
+    "https://patentimages.storage.googleapis.com/c3/2e/ab/fd519a72ad929f/US20190023390A1-20190124-D00022.png",
+    "https://patentimages.storage.googleapis.com/52/22/9c/ecf4e90e7dc378/US20190023390A1-20190124-D00023.png",
+    "https://patentimages.storage.googleapis.com/aa/2f/29/af45553d844fb3/US20190023390A1-20190124-D00024.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64C29/00",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C29/0025",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft having its flight directional axis horizontal when grounded the lift during taking-off being created by free or ducted propellers or by blowers the propellers being fixed relative to the fuselage",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C11/46",
+      "description": "Arrangements of, or constructional features peculiar to, multiple propellers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C3/10",
+      "description": "Shape of wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C3/32",
+      "description": "Wings specially adapted for mounting power plant",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C3/38",
+      "description": "Adjustment of complete wings or parts thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/24",
+      "description": "Aircraft characterised by the type or position of power plants using steam or spring force",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/31",
+      "description": "Aircraft characterised by electric power plants within, or attached to, wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/33",
+      "description": "Hybrid electric aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/357",
+      "description": "Arrangements for on-board electric energy production, distribution, recovery or storage using batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/406",
+      "description": "Suspension arrangements specially adapted for supporting thrust loads, e.g. thrust links",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D29/04",
+      "description": "Power-plant nacelles, fairings or cowlings associated with fuselages",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D35/023",
+      "description": "Transmitting power from power plants to propellers or rotors; Arrangements of transmissions specially adapted for specific power plants for electric power plants of hybrid-electric type of series-parallel type",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/02",
+      "description": "Aircraft characterised by the type or position of power plants",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F05D2220/76",
+      "description": "Application in combination with an electrical generator",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F05D2270/093",
+      "description": "Purpose of the control system to cope with emergencies of one engine in a multi-engine system",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H02K7/1823",
+      "description": "Rotary generators structurally associated with turbines or similar engines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/60",
+      "description": "Efficient propulsion technologies, e.g. for aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method for operating a vertical takeoff and landing aircraft includes modifying a first variable component of a wing associated with a first portion of the plurality of vertical thrust electric fans relative to a second variable component of the wing associated with a second portion of the plurality of vertical thrust electric fans to adjust an exposure ratio of the first portion of the plurality of vertical thrust electric fans relative to the second portion of the plurality of vertical thrust electric fans.",
+  "description_link": "https://serpapi.com/searches/697a348428b27b60cdf57ca7/google_patents_details/description.html",
+  "claims": [
+    "1. A method for operating a vertical takeoff and landing aircraft, the aircraft comprising a fuselage, a wing extending from the fuselage, and a propulsion system having a plurality of vertical thrust electric fans arranged along the wing, the method comprising:\nmodifying a first variable component of the wing associated with a first portion of the plurality of vertical thrust electric fans relative to a second variable component of the wing associated with a second portion of the plurality of vertical thrust electric fans to adjust an exposure ratio of the first portion of the plurality of vertical thrust electric fans relative to the second portion of the plurality of vertical thrust electric fans.",
+    "2. The method of claim 1, wherein modifying the first variable component relative to the second variable component comprises positioning the first variable component in a forward thrust position.",
+    "3. The method of claim 2, wherein positioning the first variable component in the vertical thrust position comprises substantially completely enclosing the first portion of the plurality of forward thrust electric fans.",
+    "4. The method of claim 2, wherein modifying the first variable component relative to the second variable component further comprises positioning the second variable component in a vertical thrust position.",
+    "5. The method of claim 4, wherein positioning the second variable component in the vertical thrust position comprises substantially completely exposing the second portion of the plurality of vertical thrust electric fans in the wing.",
+    "6. The method of claim 4, further comprising:\nproviding the first portion of the plurality of vertical thrust electric fans with a first amount of electrical power and providing the second portion of the plurality of vertical thrust electric fans with a second amount of electrical power, and wherein the first amount of electrical power is less than the second amount of electrical power.",
+    "7. The method of claim 1, wherein modifying the first variable component relative to the second variable component comprises positioning the first variable component in a middle position, and wherein positioning the first variable component in the middle position comprises partially exposing the first portion of the plurality of vertical thrust electric fans and partially enclosing the first portion of the plurality of vertical thrust electric fans.",
+    "8. The method of claim 1, wherein the first variable component is spaced from the second variable component along a length of the wing.",
+    "9. The method of claim 1, wherein each of the plurality of vertical thrust electric fans are fixed in orientation within the wing and arranged substantially linearly along the length of the wing.",
+    "10. The method of claim 1, wherein the first variable component of the wing is a first partial wing assembly, wherein the second variable component of the wing is a second partial wing assembly.",
+    "11. The method of claim 1, wherein the wing is a starboard wing, wherein the plurality of vertical thrust electric fans is a first plurality of vertical thrust electric fans, wherein the aircraft further comprises a port wing extending from the fuselage, wherein the propulsion system includes a second plurality of vertical thrust electric fans arranged along the port wing, and wherein the method further comprises:\nmodifying a first variable component of the port wing associated with a first portion of the second plurality of vertical thrust electric fans relative to a second variable component of the port wing associated with a second portion of the second plurality of vertical thrust electric fans to adjust an exposure ratio of the first portion of the second plurality of vertical thrust electric fans relative to the second portion of the second plurality of vertical thrust electric fans.",
+    "12. A method for operating a vertical takeoff and landing aircraft, the aircraft comprising a fuselage, a wing extending from the fuselage, and a propulsion system having a plurality of vertical thrust electric fans arranged along the wing, the method comprising:\nmodifying a first variable component of the wing associated with a first portion of the plurality of vertical thrust electric fans relative to a second variable component of the wing associated with a second portion of the plurality of vertical thrust electric fans to adjust an effective thrust profile of the first portion of the plurality of vertical thrust electric fans relative to an effective thrust profile of the second portion of the plurality of vertical thrust electric fans.",
+    "13. The method of claim 12, wherein the first variable component is a first diffusion assembly, and wherein the second variable component is a second diffusion assembly.",
+    "14. The method of claim 13, wherein modifying the first variable component relative to the second variable component comprises positioning the first diffusion assembly in an extended position.",
+    "15. The method of claim 14, wherein modifying the first variable component relative to the second variable component further comprises positioning the second diffusion assembly in a retracted position.",
+    "16. The method of claim 13, wherein modifying the first variable component relative to the second variable component comprises modifying a diffusion area ratio of the first diffusion assembly relative to a diffusion area ratio of the second diffusion assembly.",
+    "17. The method of claim 12, wherein the first variable component is spaced from the second variable component along a length of the wing.",
+    "18. The method of claim 12, wherein each of the plurality of vertical thrust electric fans are fixed in orientation within the wing and arranged substantially linearly along the length of the wing.",
+    "19. The method of claim 12, wherein the first variable component of the wing is a first partial wing assembly, wherein the second variable component of the wing is a second partial wing assembly.",
+    "20. An aircraft defining a vertical direction comprising:\na fuselage; a propulsion system comprising a power source and a plurality of vertical thrust electric fans driven by the power source; and a wing extending from the fuselage, the plurality of vertical thrust electric fans arranged along a length of the wing, the wing comprising a variable geometry assembly comprising a first variable component associated with a first portion of the plurality of vertical thrust electric fans and a second variable component associated with a second portion of the plurality of vertical thrust electric fans, the first variable component moveable relative to the second variable component to adjust an exposure ratio of the first portion of the plurality of vertical thrust electric fans relative to the second portion of the plurality of vertical thrust electric fans."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US17/366,749",
+      "relation_type": "Continuation",
+      "representative_publication": "US12006031B2",
+      "primary_language": "en",
+      "priority_date": "2017-07-21",
+      "filing_date": "2021-07-02",
+      "title": "Vertical takeoff and landing aircraft"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US16/042,299",
+      "representative_publication": "US11053014B2",
+      "primary_language": "en",
+      "priority_date": "2017-07-21",
+      "filing_date": "2018-07-23",
+      "title": "Vertical takeoff and landing aircraft"
+    },
+    {
+      "application_number": "US17/366,749",
+      "representative_publication": "US12006031B2",
+      "primary_language": "en",
+      "priority_date": "2017-07-21",
+      "filing_date": "2021-07-02",
+      "title": "Vertical takeoff and landing aircraft"
+    },
+    {
+      "application_number": "US18/738,167",
+      "representative_publication": "US12503228B2",
+      "primary_language": "en",
+      "priority_date": "2017-07-21",
+      "filing_date": "2024-06-10",
+      "title": "Vertical takeoff and landing aircraft"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201762535444P",
+      "priority_date": "2017-07-21",
+      "filing_date": "2017-07-21"
+    },
+    {
+      "application_number": "US16/042,299",
+      "representative_publication": "US11053014B2",
+      "primary_language": "en",
+      "priority_date": "2017-07-21",
+      "filing_date": "2018-07-23",
+      "title": "Vertical takeoff and landing aircraft"
+    }
+  ],
+  "family_id": "63035884",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US3128970A",
+        "primary_language": "en",
+        "publication_date": "1964-04-14",
+        "title": "Vehicle soft landing system",
+        "patent_id": "patent/US3128970A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3128970A%2Fen"
+      },
+      {
+        "publication_number": "US2330907A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1938-09-10",
+        "publication_date": "1943-10-05",
+        "assignee_original": "J H Everest",
+        "title": "Aerodynamic device",
+        "patent_id": "patent/US2330907A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2330907A%2Fen"
+      },
+      {
+        "publication_number": "US2558501A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1947-06-14",
+        "publication_date": "1951-06-26",
+        "assignee_original": "Charline Elizabeth Turner",
+        "title": "Aircraft propeller rotatable about the external periphery of the aircraft body",
+        "patent_id": "patent/US2558501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2558501A%2Fen"
+      },
+      {
+        "publication_number": "US2973166A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1955-04-21",
+        "publication_date": "1961-02-28",
+        "assignee_original": "Stahmer Bernhardt",
+        "title": "Turbine principle helicopter-type blade for aircraft",
+        "patent_id": "patent/US2973166A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2973166A%2Fen"
+      },
+      {
+        "publication_number": "US3054578A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1957-10-08",
+        "publication_date": "1962-09-18",
+        "assignee_original": "Cie De Rech S Et D Etudes Aero",
+        "title": "Annular aircraft with elastic collector ring rim",
+        "patent_id": "patent/US3054578A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3054578A%2Fen"
+      },
+      {
+        "publication_number": "US3179353A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1958-02-04",
+        "publication_date": "1965-04-20",
+        "assignee_original": "Ryan Aeronautical Co",
+        "title": "Jet powered ducted fan convertiplane",
+        "patent_id": "patent/US3179353A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3179353A%2Fen"
+      },
+      {
+        "publication_number": "US3056565A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1958-04-01",
+        "publication_date": "1962-10-02",
+        "assignee_original": "Rolls Royce",
+        "title": "Vertical take-off aircraft",
+        "patent_id": "patent/US3056565A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3056565A%2Fen"
+      },
+      {
+        "publication_number": "US3045947A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1959-04-24",
+        "publication_date": "1962-07-24",
+        "assignee_original": "Bertin & Cie",
+        "title": "Ejectors, particularly for producing lift in aircraft",
+        "patent_id": "patent/US3045947A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3045947A%2Fen"
+      },
+      {
+        "publication_number": "FR1254416A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1959-10-16",
+        "publication_date": "1961-02-24",
+        "assignee_original": "Bertin & Cie",
+        "title": "Diffuser for fluid and devices including application",
+        "patent_id": "patent/FR1254416A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR1254416A%2Fen"
+      },
+      {
+        "publication_number": "US3013744A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-03-11",
+        "publication_date": "1961-12-19",
+        "assignee_original": "Gen Electric",
+        "title": "Vtol boundary layer control system",
+        "patent_id": "patent/US3013744A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3013744A%2Fen"
+      },
+      {
+        "publication_number": "US3088694A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-12-29",
+        "publication_date": "1963-05-07",
+        "assignee_original": "Gen Electric",
+        "title": "Wing-fan doors",
+        "patent_id": "patent/US3088694A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3088694A%2Fen"
+      },
+      {
+        "publication_number": "GB1018581A",
+        "primary_language": "en",
+        "priority_date": "1961-01-12",
+        "publication_date": "1966-01-26",
+        "assignee_original": "Bristol Siddeley Engines Ltd",
+        "title": "Improvements in aircraft jet propulsion nozzles",
+        "patent_id": "patent/GB1018581A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1018581A%2Fen"
+      },
+      {
+        "publication_number": "US3117748A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1961-04-20",
+        "publication_date": "1964-01-14",
+        "assignee_original": "Gen Electric",
+        "title": "Tip-turbine ducted fan powered aircraft",
+        "patent_id": "patent/US3117748A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3117748A%2Fen"
+      },
+      {
+        "publication_number": "FR1305028A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1961-11-06",
+        "publication_date": "1962-09-28",
+        "assignee_original": "English Electric Co Ltd",
+        "title": "Vertical take-off plane",
+        "patent_id": "patent/FR1305028A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR1305028A%2Fen"
+      },
+      {
+        "publication_number": "US3083935A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1962-01-15",
+        "publication_date": "1963-04-02",
+        "assignee_original": "Piasecki Aircraft Corp",
+        "title": "Convertible aircraft",
+        "patent_id": "patent/US3083935A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3083935A%2Fen"
+      },
+      {
+        "publication_number": "US3249323A",
+        "primary_language": "en",
+        "priority_date": "1962-04-25",
+        "publication_date": "1966-05-03",
+        "assignee_original": "Piasecki Aircraft Corp",
+        "title": "Closure for vtol aircraft",
+        "patent_id": "patent/US3249323A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3249323A%2Fen"
+      },
+      {
+        "publication_number": "US3194516A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1962-10-22",
+        "publication_date": "1965-07-13",
+        "assignee_original": "Messerschmitt Ag",
+        "title": "Arrangement for jet engines at the tail end of aircraft",
+        "patent_id": "patent/US3194516A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3194516A%2Fen"
+      },
+      {
+        "publication_number": "US3161374A",
+        "primary_language": "en",
+        "priority_date": "1962-10-22",
+        "publication_date": "1964-12-15",
+        "assignee_original": "Boeing Co",
+        "title": "Vertical lift aircraft",
+        "patent_id": "patent/US3161374A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3161374A%2Fen"
+      },
+      {
+        "publication_number": "GB1076152A",
+        "primary_language": "en",
+        "priority_date": "1963-03-26",
+        "publication_date": "1967-07-19",
+        "assignee_original": "Bristol Siddeley Engines Ltd",
+        "title": "Improvements in aircraft power plants",
+        "patent_id": "patent/GB1076152A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1076152A%2Fen"
+      },
+      {
+        "publication_number": "US3212731A",
+        "primary_language": "en",
+        "priority_date": "1963-09-09",
+        "publication_date": "1965-10-19",
+        "assignee_original": "Gen Electric",
+        "title": "Fan powered aircraft",
+        "patent_id": "patent/US3212731A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3212731A%2Fen"
+      },
+      {
+        "publication_number": "GB1101262A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1964-01-31",
+        "publication_date": "1968-01-31",
+        "assignee_original": "Hawker Siddeley Aviation Ltd",
+        "title": "Improvements in or relating to aircraft",
+        "patent_id": "patent/GB1101262A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1101262A%2Fen"
+      },
+      {
+        "publication_number": "US3171613A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1964-05-15",
+        "publication_date": "1965-03-02",
+        "assignee_original": "Ryan Aeronautical Co",
+        "title": "Combined ducted fan door and wing flap",
+        "patent_id": "patent/US3171613A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3171613A%2Fen"
+      },
+      {
+        "publication_number": "US3312448A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1965-03-01",
+        "publication_date": "1967-04-04",
+        "assignee_original": "Gen Electric",
+        "title": "Seal arrangement for preventing leakage of lubricant in gas turbine engines",
+        "patent_id": "patent/US3312448A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3312448A%2Fen"
+      },
+      {
+        "publication_number": "US3388878A",
+        "primary_language": "en",
+        "priority_date": "1965-06-01",
+        "publication_date": "1968-06-18",
+        "assignee_original": "Ryan Aeronautical Co",
+        "title": "Vtol aircraft with balanced power, retractible lift fan system",
+        "patent_id": "patent/US3388878A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3388878A%2Fen"
+      },
+      {
+        "publication_number": "DE1481542A1",
+        "primary_language": "en",
+        "priority_date": "1967-01-18",
+        "publication_date": "1969-03-20",
+        "assignee_original": "Entwicklungsring Sued Gmbh",
+        "title": "Especially designed for VTOL aircraft",
+        "patent_id": "patent/DE1481542A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE1481542A1%2Fen"
+      },
+      {
+        "publication_number": "US3618875A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1969-02-24",
+        "publication_date": "1971-11-09",
+        "assignee_original": "Gen Electric",
+        "title": "V/stol aircraft",
+        "patent_id": "patent/US3618875A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3618875A%2Fen"
+      },
+      {
+        "publication_number": "DE2118786A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1970-04-14",
+        "publication_date": "1971-10-28",
+        "assignee_original": "Hawker Siddeley Aviation Ltd., Kingston-Upon-Thames, Surrey (Grossbritannien)",
+        "title": "VSTOL aircraft",
+        "patent_id": "patent/DE2118786A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE2118786A1%2Fen"
+      },
+      {
+        "publication_number": "US3762667A",
+        "primary_language": "en",
+        "priority_date": "1971-12-29",
+        "publication_date": "1973-10-02",
+        "assignee_original": "D Pender",
+        "title": "Vertical take-off and landing aircraft",
+        "patent_id": "patent/US3762667A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3762667A%2Fen"
+      },
+      {
+        "publication_number": "DE2242048A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-08-26",
+        "publication_date": "1974-03-07",
+        "assignee_original": "Motoren Turbinen Union",
+        "title": "TURBINE JET IN MULTI-FLOW AND MULTI-SHAFT DESIGN",
+        "patent_id": "patent/DE2242048A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE2242048A1%2Fen"
+      },
+      {
+        "publication_number": "US3819134A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1972-11-30",
+        "publication_date": "1974-06-25",
+        "assignee_original": "Rockwell International Corp",
+        "title": "Aircraft system lift ejector",
+        "patent_id": "patent/US3819134A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3819134A%2Fen"
+      },
+      {
+        "publication_number": "FR2271982B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1973-12-20",
+        "publication_date": "1979-10-12",
+        "assignee_original": "Dornier System Gmbh",
+        "patent_id": "patent/FR2271982B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2271982B1%2Fen"
+      },
+      {
+        "publication_number": "US4222233A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1977-08-02",
+        "publication_date": "1980-09-16",
+        "assignee_original": "General Electric Company",
+        "title": "Auxiliary lift propulsion system with oversized front fan",
+        "patent_id": "patent/US4222233A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4222233A%2Fen"
+      },
+      {
+        "publication_number": "US4371133A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-05-01",
+        "publication_date": "1983-02-01",
+        "assignee_original": "Edgley Aircraft Limited",
+        "title": "Ducted propeller aircraft",
+        "patent_id": "patent/US4371133A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4371133A%2Fen"
+      },
+      {
+        "publication_number": "US4469294A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-05-20",
+        "publication_date": "1984-09-04",
+        "assignee_original": "Clifton Robert T",
+        "title": "V/STOL Aircraft",
+        "patent_id": "patent/US4469294A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4469294A%2Fen"
+      },
+      {
+        "publication_number": "US5035377A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-02-28",
+        "publication_date": "1991-07-30",
+        "assignee_original": "Technolizenz Establishment",
+        "title": "Free standing or aircraft lift generator",
+        "patent_id": "patent/US5035377A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5035377A%2Fen"
+      },
+      {
+        "publication_number": "US4796836A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1985-02-28",
+        "publication_date": "1989-01-10",
+        "assignee_original": "Dieter Schatzmayr",
+        "title": "Lifting engine for VTOL aircrafts",
+        "patent_id": "patent/US4796836A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4796836A%2Fen"
+      },
+      {
+        "publication_number": "US4789115A",
+        "primary_language": "en",
+        "priority_date": "1986-08-29",
+        "publication_date": "1988-12-06",
+        "assignee_original": "Theodore Koutsoupidis",
+        "title": "VTOL aircraft",
+        "patent_id": "patent/US4789115A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4789115A%2Fen"
+      },
+      {
+        "publication_number": "IL83205A0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-07-16",
+        "publication_date": "1987-12-31",
+        "assignee_original": "Kimberley Vere Sadleir",
+        "title": "Vtol aircraft and its components",
+        "patent_id": "patent/IL83205A0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL83205A0%2Fen"
+      },
+      {
+        "publication_number": "US4828203A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-12-16",
+        "publication_date": "1989-05-09",
+        "assignee_original": "Vulcan Aircraft Corporation",
+        "title": "Vertical/short take-off and landing aircraft",
+        "patent_id": "patent/US4828203A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4828203A%2Fen"
+      },
+      {
+        "publication_number": "FR2622507B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-10-28",
+        "publication_date": "1990-01-26",
+        "assignee_original": "Snecma",
+        "patent_id": "patent/FR2622507B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2622507B1%2Fen"
+      },
+      {
+        "publication_number": "US5054716A",
+        "primary_language": "en",
+        "priority_date": "1989-10-16",
+        "publication_date": "1991-10-08",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Drive system for tiltrotor aircraft",
+        "patent_id": "patent/US5054716A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5054716A%2Fen"
+      },
+      {
+        "publication_number": "US5209428A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-05-07",
+        "publication_date": "1993-05-11",
+        "assignee_original": "Lockheed Corporation",
+        "title": "Propulsion system for a vertical and short takeoff and landing aircraft",
+        "patent_id": "patent/US5209428A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5209428A%2Fen"
+      },
+      {
+        "publication_number": "WO1992001603A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-07-25",
+        "publication_date": "1992-02-06",
+        "assignee_original": "Sadleir Vtol Aircraft Co. Pty. Ltd.",
+        "title": "Thrust unit for vtol aircraft",
+        "patent_id": "patent/WO1992001603A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1992001603A1%2Fen"
+      },
+      {
+        "publication_number": "US5141176A",
+        "primary_language": "en",
+        "priority_date": "1991-06-12",
+        "publication_date": "1992-08-25",
+        "assignee_original": "Grumman Aerospace Corporation",
+        "title": "Tilt wing VTOL aircraft",
+        "patent_id": "patent/US5141176A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5141176A%2Fen"
+      },
+      {
+        "publication_number": "US5244167A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-08-20",
+        "publication_date": "1993-09-14",
+        "assignee_original": "John Turk",
+        "title": "Lift augmentation system for aircraft",
+        "patent_id": "patent/US5244167A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5244167A%2Fen"
+      },
+      {
+        "publication_number": "US5765777A",
+        "primary_language": "en",
+        "priority_date": "1991-11-20",
+        "publication_date": "1998-06-16",
+        "assignee_original": "Freewing Aerial Robotics Corporation",
+        "title": "STOL/VTOL free wing aircraft with variable pitch propulsion means",
+        "patent_id": "patent/US5765777A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5765777A%2Fen"
+      },
+      {
+        "publication_number": "US5312069A",
+        "primary_language": "en",
+        "priority_date": "1992-07-15",
+        "publication_date": "1994-05-17",
+        "assignee_original": "Lockheed Corporation",
+        "title": "Propulsion system for an aircraft providing V/STOL capability",
+        "patent_id": "patent/US5312069A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5312069A%2Fen"
+      },
+      {
+        "publication_number": "US5320305A",
+        "primary_language": "en",
+        "priority_date": "1992-07-22",
+        "publication_date": "1994-06-14",
+        "assignee_original": "Lockheed Corporation",
+        "title": "Propulsion system for an aircraft providing V/STOL capability",
+        "patent_id": "patent/US5320305A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5320305A%2Fen"
+      },
+      {
+        "publication_number": "GB2323065B",
+        "primary_language": "en",
+        "priority_date": "1993-03-13",
+        "publication_date": "1998-12-09",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Vectorable nozzle for aircraft",
+        "patent_id": "patent/GB2323065B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2323065B%2Fen"
+      },
+      {
+        "publication_number": "US5542625A",
+        "primary_language": "en",
+        "priority_date": "1993-03-26",
+        "publication_date": "1996-08-06",
+        "assignee_original": "Grumman Aerospace Corporation",
+        "title": "Gull wing aircraft",
+        "patent_id": "patent/US5542625A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5542625A%2Fen"
+      },
+      {
+        "publication_number": "US5454531A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-04-19",
+        "publication_date": "1995-10-03",
+        "assignee_original": "Melkuti; Attila",
+        "title": "Ducted propeller aircraft (V/STOL)",
+        "patent_id": "patent/US5454531A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5454531A%2Fen"
+      },
+      {
+        "publication_number": "FR2719549B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-05-04",
+        "publication_date": "1996-07-26",
+        "assignee_original": "Eurocopter France",
+        "title": "Anti-torque device with faired rotor and blade phase modulation, for helicopter.",
+        "patent_id": "patent/FR2719549B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2719549B1%2Fen"
+      },
+      {
+        "publication_number": "US5769317A",
+        "primary_language": "en",
+        "priority_date": "1995-05-04",
+        "publication_date": "1998-06-23",
+        "assignee_original": "Allison Engine Company, Inc.",
+        "title": "Aircraft thrust vectoring system",
+        "patent_id": "patent/US5769317A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5769317A%2Fen"
+      },
+      {
+        "publication_number": "US5758844A",
+        "primary_language": "en",
+        "priority_date": "1996-05-28",
+        "publication_date": "1998-06-02",
+        "assignee_original": "Boeing North American, Inc.",
+        "title": "Vertical/short take-off and landing (V/STOL) air vehicle capable of providing high speed horizontal flight",
+        "patent_id": "patent/US5758844A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5758844A%2Fen"
+      },
+      {
+        "publication_number": "IT1297108B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-12-10",
+        "publication_date": "1999-08-03",
+        "assignee_original": "Franco Capanna",
+        "title": "SYSTEM FOR THE TRANSFORMATION OF A SELF-SUPPORTED HORIZONTAL FLIGHT AIRCRAFT INTO AN INTEGRATED, HYBRID TAKE-OFF AIRCRAFT",
+        "patent_id": "patent/IT1297108B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1297108B1%2Fen"
+      },
+      {
+        "publication_number": "DE19847729C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-10-16",
+        "publication_date": "2001-07-19",
+        "assignee_original": "Georg Triebel",
+        "title": "Transport vehicle, in particular hovercraft and method for controlling a hovercraft",
+        "patent_id": "patent/DE19847729C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19847729C2%2Fen"
+      },
+      {
+        "publication_number": "US6270037B1",
+        "primary_language": "en",
+        "priority_date": "1998-12-16",
+        "publication_date": "2001-08-07",
+        "assignee_original": "United Technologies Corporation",
+        "title": "Rapid response attitude control logic for shaft-driven lift fan STOVL engine",
+        "patent_id": "patent/US6270037B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6270037B1%2Fen"
+      },
+      {
+        "publication_number": "US6616094B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-21",
+        "publication_date": "2003-09-09",
+        "assignee_original": "Vortex Holding Company",
+        "title": "Lifting platform",
+        "patent_id": "patent/US6616094B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6616094B2%2Fen"
+      },
+      {
+        "publication_number": "US6343768B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-16",
+        "publication_date": "2002-02-05",
+        "assignee_original": "Patrick John Muldoon",
+        "title": "Vertical/short take-off and landing aircraft",
+        "patent_id": "patent/US6343768B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6343768B1%2Fen"
+      },
+      {
+        "publication_number": "US20030062442A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-02",
+        "publication_date": "2003-04-03",
+        "assignee_original": "Milde Karl F.",
+        "title": "VTOL personal aircraft",
+        "patent_id": "patent/US20030062442A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030062442A1%2Fen"
+      },
+      {
+        "publication_number": "JP2003137192A",
+        "primary_language": "en",
+        "priority_date": "2001-10-31",
+        "publication_date": "2003-05-14",
+        "assignee_original": "Mitsubishi Heavy Ind Ltd",
+        "title": "Vertical taking-off/landing craft",
+        "patent_id": "patent/JP2003137192A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003137192A%2Fen"
+      },
+      {
+        "publication_number": "US6561456B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-12-06",
+        "publication_date": "2003-05-13",
+        "assignee_original": "Michael Thomas Devine",
+        "title": "Vertical/short take-off and landing aircraft",
+        "patent_id": "patent/US6561456B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6561456B1%2Fen"
+      },
+      {
+        "publication_number": "US6808140B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-02-08",
+        "publication_date": "2004-10-26",
+        "assignee_original": "Moller Paul S",
+        "title": "Vertical take-off and landing vehicles",
+        "patent_id": "patent/US6808140B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6808140B2%2Fen"
+      },
+      {
+        "publication_number": "US6729575B2",
+        "primary_language": "en",
+        "priority_date": "2002-04-01",
+        "publication_date": "2004-05-04",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Propulsion system for a vertical and short takeoff and landing aircraft",
+        "patent_id": "patent/US6729575B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6729575B2%2Fen"
+      },
+      {
+        "publication_number": "US6860449B1",
+        "primary_language": "en",
+        "priority_date": "2002-07-16",
+        "publication_date": "2005-03-01",
+        "assignee_original": "Zhuo Chen",
+        "title": "Hybrid flying wing",
+        "patent_id": "patent/US6860449B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6860449B1%2Fen"
+      },
+      {
+        "publication_number": "US7104499B1",
+        "primary_language": "en",
+        "priority_date": "2002-09-25",
+        "publication_date": "2006-09-12",
+        "assignee_original": "Northrop Grumman Corporation",
+        "title": "Rechargeable compressed air system and method for supplemental aircraft thrust",
+        "patent_id": "patent/US7104499B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7104499B1%2Fen"
+      },
+      {
+        "publication_number": "US6843447B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-01-06",
+        "publication_date": "2005-01-18",
+        "assignee_original": "Brian H. Morgan",
+        "title": "Vertical take-off and landing aircraft",
+        "patent_id": "patent/US6843447B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6843447B2%2Fen"
+      },
+      {
+        "publication_number": "US7857253B2",
+        "primary_language": "en",
+        "priority_date": "2003-10-27",
+        "publication_date": "2010-12-28",
+        "assignee_original": "Urban Aeronautics Ltd.",
+        "title": "Ducted fan VTOL vehicles",
+        "patent_id": "patent/US7857253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7857253B2%2Fen"
+      },
+      {
+        "publication_number": "FR2864029B1",
+        "primary_language": "en",
+        "priority_date": "2003-12-23",
+        "publication_date": "2006-04-07",
+        "assignee_original": "Eurocopter France",
+        "title": "CONVERTIBLE AIRCRAFT COMPRISING TWO \"FAN TILT\" ON EITHER FUSELAGE AND FIXED \"FAN\" INSERTED IN FUSELAGE",
+        "patent_id": "patent/FR2864029B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2864029B1%2Fen"
+      },
+      {
+        "publication_number": "FR2864030B1",
+        "primary_language": "en",
+        "priority_date": "2003-12-23",
+        "publication_date": "2006-02-17",
+        "assignee_original": "Eurocopter France",
+        "title": "CONVERTIBLE AIRCRAFT HAVING TWO \"FAN TILT\" ON EITHER OF THE FUSELAGE AND A THIRD \"TILT FAN\" AGENCY ON THE TAIL OF THE AIRCRAFT",
+        "patent_id": "patent/FR2864030B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2864030B1%2Fen"
+      },
+      {
+        "publication_number": "US7249734B2",
+        "primary_language": "en",
+        "priority_date": "2004-03-16",
+        "publication_date": "2007-07-31",
+        "assignee_original": "The Boeing Company",
+        "title": "Aerodynamic vehicle having a variable geometry, co-planar, joined wing",
+        "patent_id": "patent/US7249734B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7249734B2%2Fen"
+      },
+      {
+        "publication_number": "EP1602575B1",
+        "primary_language": "en",
+        "priority_date": "2004-06-01",
+        "publication_date": "2011-08-10",
+        "assignee_original": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e.V.",
+        "title": "Supporting or guiding element",
+        "patent_id": "patent/EP1602575B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1602575B1%2Fen"
+      },
+      {
+        "publication_number": "US20070246601A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-07",
+        "publication_date": "2007-10-25",
+        "assignee_original": "Layton Otis F",
+        "title": "Manned/unmanned V.T.O.L. flight vehicle",
+        "patent_id": "patent/US20070246601A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070246601A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006073634A2",
+        "primary_language": "en",
+        "priority_date": "2004-12-02",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Richard H Lugg",
+        "title": "Vtol aircraft with forward-swept fixed wing",
+        "patent_id": "patent/WO2006073634A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006073634A2%2Fen"
+      },
+      {
+        "publication_number": "US7857254B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-22",
+        "publication_date": "2010-12-28",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "System and method for utilizing stored electrical energy for VTOL aircraft thrust enhancement and attitude control",
+        "patent_id": "patent/US7857254B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7857254B2%2Fen"
+      },
+      {
+        "publication_number": "CA2605111A1",
+        "primary_language": "en",
+        "priority_date": "2005-01-10",
+        "publication_date": "2006-07-13",
+        "assignee_original": "Raphael Yoeli",
+        "title": "Ducted fan vtol vehicles",
+        "patent_id": "patent/CA2605111A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2605111A1%2Fen"
+      },
+      {
+        "publication_number": "US7159817B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-13",
+        "publication_date": "2007-01-09",
+        "assignee_original": "Vandermey Timothy",
+        "title": "Vertical take-off and landing (VTOL) aircraft with distributed thrust and control",
+        "patent_id": "patent/US7159817B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7159817B2%2Fen"
+      },
+      {
+        "publication_number": "US7267300B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-02-25",
+        "publication_date": "2007-09-11",
+        "assignee_original": "The Boeing Company",
+        "title": "Aircraft capable of vertical and short take-off and landing",
+        "patent_id": "patent/US7267300B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7267300B2%2Fen"
+      },
+      {
+        "publication_number": "US20070018035A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-20",
+        "publication_date": "2007-01-25",
+        "assignee_original": "Saiz Manuel M",
+        "title": "Lifting and Propulsion System For Aircraft With Vertical Take-Off and Landing",
+        "patent_id": "patent/US20070018035A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070018035A1%2Fen"
+      },
+      {
+        "publication_number": "ES2288083B1",
+        "primary_language": "en",
+        "priority_date": "2005-07-20",
+        "publication_date": "2008-10-16",
+        "assignee_original": "Manuel Mu\u00f1oz Saiz",
+        "title": "SUSTAINING PROVISION FOR AIRCRAFT AIRCRAFT AND VERTICAL LANDING.",
+        "patent_id": "patent/ES2288083B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2288083B1%2Fen"
+      },
+      {
+        "publication_number": "CN100549388C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-08-22",
+        "publication_date": "2009-10-14",
+        "assignee_original": "\u6cf0\u91cc\u8fea\u5c3c\u6280\u672f\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Turbine engine with two off-axis rotor shafts valved between high and low power modes",
+        "patent_id": "patent/CN100549388C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100549388C%2Fen"
+      },
+      {
+        "publication_number": "US7412825B2",
+        "primary_language": "en",
+        "priority_date": "2005-10-06",
+        "publication_date": "2008-08-19",
+        "assignee_original": "The Boeing Company",
+        "title": "Flow path splitter duct",
+        "patent_id": "patent/US7412825B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7412825B2%2Fen"
+      },
+      {
+        "publication_number": "WO2007099543A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-01",
+        "publication_date": "2007-09-07",
+        "assignee_original": "Urban Aeronautics Ltd.",
+        "title": "Ground effect vanes arrangement",
+        "patent_id": "patent/WO2007099543A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007099543A2%2Fen"
+      },
+      {
+        "publication_number": "EP2004483B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-03",
+        "publication_date": "2012-05-23",
+        "assignee_original": "David Posva",
+        "title": "Aircraft having the characteristic of hovering flight, fast forward flight, gliding flight, short take off, short landing, vertical take off and vertical landing",
+        "patent_id": "patent/EP2004483B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2004483B1%2Fen"
+      },
+      {
+        "publication_number": "US7410122B2",
+        "primary_language": "en",
+        "priority_date": "2006-03-20",
+        "publication_date": "2008-08-12",
+        "assignee_original": "The Boeing Company",
+        "title": "VTOL UAV with lift fans in joined wings",
+        "patent_id": "patent/US7410122B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7410122B2%2Fen"
+      },
+      {
+        "publication_number": "US20080230656A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-11",
+        "publication_date": "2008-09-25",
+        "assignee_original": "Moshe Kretchmer",
+        "title": "Aircraft wings having hinged vanes and aircraft having said wings",
+        "patent_id": "patent/US20080230656A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080230656A1%2Fen"
+      },
+      {
+        "publication_number": "EA016402B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-10-20",
+        "publication_date": "2012-04-30",
+        "assignee_original": "\u042d\u043b\u0422\u0438\u042d\u0439 \u041a\u041e\u0420\u041f\u041e\u0420\u0415\u0419\u0428\u041d",
+        "title": "Lenticular airship",
+        "patent_id": "patent/EA016402B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEA016402B1%2Fen"
+      },
+      {
+        "publication_number": "US7665689B2",
+        "primary_language": "en",
+        "priority_date": "2006-11-24",
+        "publication_date": "2010-02-23",
+        "assignee_original": "The Boeing Company",
+        "title": "Unconventional integrated propulsion systems and methods for blended wing body aircraft",
+        "patent_id": "patent/US7665689B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7665689B2%2Fen"
+      },
+      {
+        "publication_number": "US8016226B1",
+        "primary_language": "en",
+        "priority_date": "2007-07-10",
+        "publication_date": "2011-09-13",
+        "assignee_original": "Wood Victor A",
+        "title": "Vertical take off and landing aircraft system with energy recapture technology",
+        "patent_id": "patent/US8016226B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8016226B1%2Fen"
+      },
+      {
+        "publication_number": "CN101795939B",
+        "primary_language": "en",
+        "priority_date": "2007-08-29",
+        "publication_date": "2015-02-25",
+        "assignee_original": "\u9ad8\u7ea7\u4ea7\u54c1\u5f00\u53d1\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Oblique blended wing body aircraft",
+        "patent_id": "patent/CN101795939B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101795939B%2Fen"
+      },
+      {
+        "publication_number": "ES2581931T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-11-21",
+        "publication_date": "2016-09-08",
+        "assignee_original": "Qinetiq Limited",
+        "title": "Aircraft",
+        "patent_id": "patent/ES2581931T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2581931T3%2Fen"
+      },
+      {
+        "publication_number": "US8931732B2",
+        "primary_language": "en",
+        "priority_date": "2007-11-30",
+        "publication_date": "2015-01-13",
+        "assignee_original": "Sikorsky Aircraft Corporation",
+        "title": "Electric powered rotary-wing aircraft",
+        "patent_id": "patent/US8931732B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8931732B2%2Fen"
+      },
+      {
+        "publication_number": "WO2009111705A1",
+        "primary_language": "en",
+        "priority_date": "2008-03-06",
+        "publication_date": "2009-09-11",
+        "assignee_original": "Karem Aircraft, Inc.",
+        "title": "Rotorcraft engine and rotor speed synchronization",
+        "patent_id": "patent/WO2009111705A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009111705A1%2Fen"
+      },
+      {
+        "publication_number": "US8220737B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-06",
+        "publication_date": "2012-07-17",
+        "assignee_original": "Frontline Aerospace, Inc.",
+        "title": "VTOL aerial vehicle",
+        "patent_id": "patent/US8220737B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8220737B2%2Fen"
+      },
+      {
+        "publication_number": "NZ569455A",
+        "primary_language": "en",
+        "priority_date": "2008-06-27",
+        "publication_date": "2009-10-30",
+        "assignee_original": "Martin Aircraft Company Ltd",
+        "title": "Propulsion device incorporating radiator cooling passage",
+        "patent_id": "patent/NZ569455A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNZ569455A%2Fen"
+      },
+      {
+        "publication_number": "CN101353084A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-05",
+        "publication_date": "2009-01-28",
+        "assignee_original": "\u9f99\u5ddd",
+        "title": "Light aerobat capable of landing or taking-off vertically",
+        "patent_id": "patent/CN101353084A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101353084A%2Fen"
+      },
+      {
+        "publication_number": "US8857191B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-08",
+        "publication_date": "2014-10-14",
+        "assignee_original": "The Invention Science Fund I, Llc",
+        "title": "Hybrid propulsive engine including at least one independently rotatable propeller/fan",
+        "patent_id": "patent/US8857191B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8857191B2%2Fen"
+      },
+      {
+        "publication_number": "US8128019B2",
+        "primary_language": "en",
+        "priority_date": "2008-12-12",
+        "publication_date": "2012-03-06",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Hybrid power for ducted fan unmanned aerial systems",
+        "patent_id": "patent/US8128019B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8128019B2%2Fen"
+      },
+      {
+        "publication_number": "US8336806B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2012-12-25",
+        "assignee_original": "Rolls-Royce North American Technologies, Inc.",
+        "title": "Lift fan flow path device",
+        "patent_id": "patent/US8336806B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8336806B2%2Fen"
+      },
+      {
+        "publication_number": "US20100193643A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-31",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Sidelkovskiy Dmitriy B",
+        "title": "Lift fan system",
+        "patent_id": "patent/US20100193643A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100193643A1%2Fen"
+      },
+      {
+        "publication_number": "GB0904875D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-20",
+        "publication_date": "2009-05-06",
+        "assignee_original": "Geola Technologies Ltd",
+        "title": "Electric vtol aircraft",
+        "patent_id": "patent/GB0904875D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB0904875D0%2Fen"
+      },
+      {
+        "publication_number": "US8640985B2",
+        "primary_language": "en",
+        "priority_date": "2009-05-22",
+        "publication_date": "2014-02-04",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Co-rotating stacked rotor disks for improved hover performance",
+        "patent_id": "patent/US8640985B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8640985B2%2Fen"
+      },
+      {
+        "publication_number": "IL199009A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-27",
+        "publication_date": "2013-11-28",
+        "assignee_original": "Israel Aerospace Ind Ltd",
+        "title": "Air vehicle",
+        "patent_id": "patent/IL199009A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL199009A%2Fen"
+      },
+      {
+        "publication_number": "FR2946014B1",
+        "primary_language": "en",
+        "priority_date": "2009-05-28",
+        "publication_date": "2011-05-20",
+        "assignee_original": "Sagem Defense Securite",
+        "title": "AIRCRAFT ENGINE NACELLE COMPRISING A MOBILE COVER MU BY ELECTRIC MOTORS",
+        "patent_id": "patent/FR2946014B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2946014B1%2Fen"
+      },
+      {
+        "publication_number": "KR101308348B1",
+        "primary_language": "en",
+        "priority_date": "2009-07-03",
+        "publication_date": "2013-09-17",
+        "assignee_original": "\uc790\uc640\ud558\ub784 \ub124\ub8e8 \uc13c\ud130 \ud3ec \uc5b4\ub4dc\ubc34\uc2a4\ub4dc \uc0ac\uc774\uc5b8\ud2f0\ud53d \ub9ac\uc11c\uce58",
+        "title": "Optimal wing planforms for reducing the induced or total drag of the wing of an aircraft driven by wing-mounted tractor propellers/rotors",
+        "patent_id": "patent/KR101308348B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101308348B1%2Fen"
+      },
+      {
+        "publication_number": "US8733690B2",
+        "primary_language": "en",
+        "priority_date": "2009-08-24",
+        "publication_date": "2014-05-27",
+        "assignee_original": "Joby Aviation, Inc.",
+        "title": "Lightweight vertical take-off and landing aircraft and flight control paradigm using thrust differentials",
+        "patent_id": "patent/US8733690B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8733690B2%2Fen"
+      },
+      {
+        "publication_number": "US9889928B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-26",
+        "publication_date": "2018-02-13",
+        "assignee_original": "Manuel Salz",
+        "title": "Lift, propulsion and stabilising system for vertical take-off and landing aircraft",
+        "patent_id": "patent/US9889928B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9889928B2%2Fen"
+      },
+      {
+        "publication_number": "US9132915B2",
+        "primary_language": "en",
+        "priority_date": "2010-05-07",
+        "publication_date": "2015-09-15",
+        "assignee_original": "Ohio Univeristy",
+        "title": "Multi-modal vehicle",
+        "patent_id": "patent/US9132915B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9132915B2%2Fen"
+      },
+      {
+        "publication_number": "CA2796432A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-07",
+        "publication_date": "2011-11-10",
+        "assignee_original": "Flodesign Wind Turbine Corp.",
+        "title": "Fluid turbine with moveable fluid control member",
+        "patent_id": "patent/CA2796432A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2796432A1%2Fen"
+      },
+      {
+        "publication_number": "DE102010021025B4",
+        "primary_language": "en",
+        "priority_date": "2010-05-19",
+        "publication_date": "2014-05-08",
+        "assignee_original": "Eads Deutschland Gmbh",
+        "title": "Hybrid helicopter",
+        "patent_id": "patent/DE102010021025B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010021025B4%2Fen"
+      },
+      {
+        "publication_number": "PL2577071T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-06-01",
+        "publication_date": "2018-06-29",
+        "assignee_original": "Esg Mbh",
+        "title": "Duct having a flow-guiding surface",
+        "patent_id": "patent/PL2577071T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL2577071T3%2Fen"
+      },
+      {
+        "publication_number": "KR20130126756A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-19",
+        "publication_date": "2013-11-20",
+        "assignee_original": "\uc9c0.\uc5d0\uc5b4\ub85c \uc544\uc774\uc5d4\uc528.",
+        "title": "Personal aircraft",
+        "patent_id": "patent/KR20130126756A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20130126756A%2Fen"
+      },
+      {
+        "publication_number": "WO2012035178A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-09-14",
+        "publication_date": "2012-03-22",
+        "assignee_original": "Munoz Saiz Manuel",
+        "title": "System and method for lifting, propelling and stabilizing vertical-takeoff-and-landing aircraft",
+        "patent_id": "patent/WO2012035178A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012035178A1%2Fen"
+      },
+      {
+        "publication_number": "US9187174B2",
+        "primary_language": "en",
+        "priority_date": "2010-10-06",
+        "publication_date": "2015-11-17",
+        "assignee_original": "Donald Orval Shaw",
+        "title": "Aircraft with wings and movable propellers",
+        "patent_id": "patent/US9187174B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9187174B2%2Fen"
+      },
+      {
+        "publication_number": "DE102010048139A1",
+        "primary_language": "en",
+        "priority_date": "2010-10-11",
+        "publication_date": "2012-04-12",
+        "assignee_original": "Eads Deutschland Gmbh",
+        "title": "Aircraft with variable geometry",
+        "patent_id": "patent/DE102010048139A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102010048139A1%2Fen"
+      },
+      {
+        "publication_number": "CN201923319U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-15",
+        "publication_date": "2011-08-10",
+        "assignee_original": "\u5317\u4eac\u7406\u5de5\u5927\u5b66",
+        "title": "High-efficient duct with variable lip and variable spread angles",
+        "patent_id": "patent/CN201923319U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201923319U%2Fen"
+      },
+      {
+        "publication_number": "DE202010016820U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-21",
+        "publication_date": "2012-03-26",
+        "assignee_original": "Ebm-Papst Mulfingen Gmbh & Co. Kg",
+        "title": "Diffuser for a fan and fan assembly with such a diffuser",
+        "patent_id": "patent/DE202010016820U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202010016820U1%2Fen"
+      },
+      {
+        "publication_number": "US8602347B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-04",
+        "publication_date": "2013-12-10",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Tilt rotor aircraft with fixed engine arrangement",
+        "patent_id": "patent/US8602347B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8602347B2%2Fen"
+      },
+      {
+        "publication_number": "CN102120491A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-02-24",
+        "publication_date": "2011-07-13",
+        "assignee_original": "\u96f7\u826f\u6986",
+        "title": "Upper-surface circulating jet fixed-wing helicopter",
+        "patent_id": "patent/CN102120491A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102120491A%2Fen"
+      },
+      {
+        "publication_number": "US9010693B1",
+        "primary_language": "en",
+        "priority_date": "2011-05-03",
+        "publication_date": "2015-04-21",
+        "assignee_original": "James Emmett Dee Barbieri",
+        "title": "Collapsible wing and unmanned aircraft system including collapsible wing",
+        "patent_id": "patent/US9010693B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9010693B1%2Fen"
+      },
+      {
+        "publication_number": "TWI538852B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-19",
+        "publication_date": "2016-06-21",
+        "assignee_original": "\u5b63\u822a\u7a7a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Personal aircraft",
+        "patent_id": "patent/TWI538852B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI538852B%2Fen"
+      },
+      {
+        "publication_number": "PT2551190E",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-29",
+        "publication_date": "2014-01-23",
+        "assignee_original": "Agustawestland Spa",
+        "title": "Convertiplane",
+        "patent_id": "patent/PT2551190E/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPT2551190E%2Fen"
+      },
+      {
+        "publication_number": "EP2551193B1",
+        "primary_language": "en",
+        "priority_date": "2011-07-29",
+        "publication_date": "2016-04-13",
+        "assignee_original": "AGUSTAWESTLAND S.p.A.",
+        "title": "Convertiplane",
+        "patent_id": "patent/EP2551193B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2551193B1%2Fen"
+      },
+      {
+        "publication_number": "KR101125870B1",
+        "primary_language": "en",
+        "priority_date": "2011-07-29",
+        "publication_date": "2012-03-28",
+        "assignee_original": "\ud55c\uad6d\ud56d\uacf5\uc6b0\uc8fc\uc5f0\uad6c\uc6d0",
+        "title": "The tiltrotor aircraft",
+        "patent_id": "patent/KR101125870B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101125870B1%2Fen"
+      },
+      {
+        "publication_number": "FR2979900B1",
+        "primary_language": "en",
+        "priority_date": "2011-09-12",
+        "publication_date": "2013-08-30",
+        "assignee_original": "Eurocopter France",
+        "title": "RAPID AIRCRAFT WITH EXTENDABLE HIGH DISTANCE",
+        "patent_id": "patent/FR2979900B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2979900B1%2Fen"
+      },
+      {
+        "publication_number": "US20140060004A1",
+        "primary_language": "en",
+        "priority_date": "2011-09-20",
+        "publication_date": "2014-03-06",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Tiltrotor vectored exhaust system",
+        "patent_id": "patent/US20140060004A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140060004A1%2Fen"
+      },
+      {
+        "publication_number": "FR2980454B1",
+        "primary_language": "en",
+        "priority_date": "2011-09-27",
+        "publication_date": "2014-01-31",
+        "assignee_original": "Eurocopter France",
+        "title": "METHOD FOR REGULATING THE PROPULSION SPEED OF A HYBRID HELICOPTER",
+        "patent_id": "patent/FR2980454B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2980454B1%2Fen"
+      },
+      {
+        "publication_number": "US9227721B1",
+        "primary_language": "en",
+        "priority_date": "2011-10-07",
+        "publication_date": "2016-01-05",
+        "assignee_original": "The United States of America as represented by the Administrator of the National Aeronautics & Space Administration (NASA)",
+        "title": "Variable camber continuous aerodynamic control surfaces and methods for active wing shaping control",
+        "patent_id": "patent/US9227721B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9227721B1%2Fen"
+      },
+      {
+        "publication_number": "WO2013056493A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-17",
+        "publication_date": "2013-04-25",
+        "assignee_original": "Tian Yu",
+        "title": "Composite aircraft consisting of fixed-wing and electrically driven propellers",
+        "patent_id": "patent/WO2013056493A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013056493A1%2Fen"
+      },
+      {
+        "publication_number": "CN103043212B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-17",
+        "publication_date": "2016-06-08",
+        "assignee_original": "\u4f18\u5229\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Composite aircraft composed of fixed wing and electric multi-rotor",
+        "patent_id": "patent/CN103043212B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103043212B%2Fen"
+      },
+      {
+        "publication_number": "WO2013069397A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-10",
+        "publication_date": "2013-05-16",
+        "assignee_original": "\u4e09\u83f1\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "External cooling unit of vehicular air-conditioning device",
+        "patent_id": "patent/WO2013069397A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013069397A1%2Fen"
+      },
+      {
+        "publication_number": "US10427784B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-05",
+        "publication_date": "2019-10-01",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "System and method for improving transition lift-fan performance",
+        "patent_id": "patent/US10427784B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10427784B2%2Fen"
+      },
+      {
+        "publication_number": "EP2610176B1",
+        "primary_language": "en",
+        "priority_date": "2011-12-28",
+        "publication_date": "2018-02-07",
+        "assignee_original": "AIRBUS HELICOPTERS DEUTSCHLAND GmbH",
+        "title": "Electrical powered tail rotor of a helicopter",
+        "patent_id": "patent/EP2610176B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2610176B1%2Fen"
+      },
+      {
+        "publication_number": "IL217501A",
+        "primary_language": "en",
+        "priority_date": "2012-01-12",
+        "publication_date": "2017-09-28",
+        "assignee_original": "Israel Aerospace Ind Ltd",
+        "title": "System and method for maneuvering of an air vehicle",
+        "patent_id": "patent/IL217501A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL217501A%2Fen"
+      },
+      {
+        "publication_number": "US20130206921A1",
+        "primary_language": "en",
+        "priority_date": "2012-02-15",
+        "publication_date": "2013-08-15",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "System, apparatus and method for long endurance vertical takeoff and landing vehicle",
+        "patent_id": "patent/US20130206921A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130206921A1%2Fen"
+      },
+      {
+        "publication_number": "DE102012003336A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-02-17",
+        "publication_date": "2013-08-22",
+        "assignee_original": "Ziehl-Abegg Ag",
+        "title": "Diffuser, fan with such a diffuser and device with such fans",
+        "patent_id": "patent/DE102012003336A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012003336A1%2Fen"
+      },
+      {
+        "publication_number": "EP2644497B1",
+        "primary_language": "en",
+        "priority_date": "2012-03-29",
+        "publication_date": "2016-01-20",
+        "assignee_original": "Airbus Operations GmbH",
+        "title": "Wing for an aircraft, aircraft and method for reducing aerodynamic drag and improving maximum lift",
+        "patent_id": "patent/EP2644497B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2644497B1%2Fen"
+      },
+      {
+        "publication_number": "US9296288B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-07",
+        "publication_date": "2016-03-29",
+        "assignee_original": "Separation Design Group Llc",
+        "title": "Hybrid radiant energy aircraft engine",
+        "patent_id": "patent/US9296288B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9296288B2%2Fen"
+      },
+      {
+        "publication_number": "FR2993243B1",
+        "primary_language": "en",
+        "priority_date": "2012-07-12",
+        "publication_date": "2014-07-11",
+        "assignee_original": "Eurocopter France",
+        "title": "HYBRID POWER SUPPLY ARCHITECTURE MECHANICAL OF A ROTOR, MANAGED FROM THE FLIGHT NETWORK OF A GIRAVION",
+        "patent_id": "patent/FR2993243B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2993243B1%2Fen"
+      },
+      {
+        "publication_number": "CN102826220B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-14",
+        "publication_date": "2015-03-11",
+        "assignee_original": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66",
+        "title": "Thrust device capable of balancing reactive torque",
+        "patent_id": "patent/CN102826220B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102826220B%2Fen"
+      },
+      {
+        "publication_number": "US9346542B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-05",
+        "publication_date": "2016-05-24",
+        "assignee_original": "Skykar Inc.",
+        "title": "Electrically powered aerial vehicles and flight control methods",
+        "patent_id": "patent/US9346542B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9346542B2%2Fen"
+      },
+      {
+        "publication_number": "FR2997382B1",
+        "primary_language": "en",
+        "priority_date": "2012-10-29",
+        "publication_date": "2014-11-21",
+        "assignee_original": "Eurocopter France",
+        "title": "METHOD FOR MANAGING AN ENGINE FAILURE ON A MULTI-ENGINE AIRCRAFT PROVIDED WITH A HYBRID POWER PLANT",
+        "patent_id": "patent/FR2997382B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2997382B1%2Fen"
+      },
+      {
+        "publication_number": "FR2997681B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-08",
+        "publication_date": "2015-05-15",
+        "assignee_original": "Snecma",
+        "title": "PLANE PROPELLED BY A TURBOREACTOR WITH CONTRAROTATIVE BLOWERS",
+        "patent_id": "patent/FR2997681B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2997681B1%2Fen"
+      },
+      {
+        "publication_number": "EP2738091B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-30",
+        "publication_date": "2015-07-22",
+        "assignee_original": "AIRBUS HELICOPTERS DEUTSCHLAND GmbH",
+        "title": "Vertical take-off and landing (VTOL) aerial vehicle and method of operating such a VTOL aerial vehicle",
+        "patent_id": "patent/EP2738091B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2738091B1%2Fen"
+      },
+      {
+        "publication_number": "US9085355B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-07",
+        "publication_date": "2015-07-21",
+        "assignee_original": "Delorean Aerospace, Llc",
+        "title": "Vertical takeoff and landing aircraft",
+        "patent_id": "patent/US9085355B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9085355B2%2Fen"
+      },
+      {
+        "publication_number": "FR2999150B1",
+        "primary_language": "en",
+        "priority_date": "2012-12-10",
+        "publication_date": "2015-10-09",
+        "assignee_original": "Bermond Gerome Maurice Paul",
+        "title": "CONVERTIBLE AIRCRAFT COMPRISING TWO CAREN ROTORS AT THE END OF A WING AND A HORIZONTAL FAN IN FUSELAGE",
+        "patent_id": "patent/FR2999150B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2999150B1%2Fen"
+      },
+      {
+        "publication_number": "CN103921933A",
+        "primary_language": "en",
+        "priority_date": "2013-01-10",
+        "publication_date": "2014-07-16",
+        "assignee_original": "\u6df1\u5733\u5e02\u5927\u7586\u521b\u65b0\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Deformation structure of air vehicle and micro air vehicle",
+        "patent_id": "patent/CN103921933A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103921933A%2Fen"
+      },
+      {
+        "publication_number": "JP6108077B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-29",
+        "publication_date": "2017-04-05",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eIhi",
+        "title": "Vertical take-off and landing aircraft",
+        "patent_id": "patent/JP6108077B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6108077B2%2Fen"
+      },
+      {
+        "publication_number": "US9327822B1",
+        "primary_language": "en",
+        "priority_date": "2013-02-14",
+        "publication_date": "2016-05-03",
+        "assignee_original": "The United States of America as represented by the Administrator of the National Aeronautics & Space Administration (NASA)",
+        "title": "Variable geometry aircraft wing supported by struts and/or trusses",
+        "patent_id": "patent/US9327822B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9327822B1%2Fen"
+      },
+      {
+        "publication_number": "US9376206B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-12",
+        "publication_date": "2016-06-28",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Tiltrotor aircraft with inboard wing mounted fixed engine arrangement",
+        "patent_id": "patent/US9376206B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9376206B2%2Fen"
+      },
+      {
+        "publication_number": "US9126678B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-13",
+        "publication_date": "2015-09-08",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Spindle mounted tiltrotor pylon with fixed engine arrangement",
+        "patent_id": "patent/US9126678B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9126678B2%2Fen"
+      },
+      {
+        "publication_number": "FR3006292B1",
+        "primary_language": "en",
+        "priority_date": "2013-05-30",
+        "publication_date": "2017-01-27",
+        "assignee_original": "Eurocopter France",
+        "title": "ROTARY SAILING GIRAVION WITH A PLURALITY OF PROPELLERS",
+        "patent_id": "patent/FR3006292B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3006292B1%2Fen"
+      },
+      {
+        "publication_number": "US9248908B1",
+        "primary_language": "en",
+        "priority_date": "2013-06-12",
+        "publication_date": "2016-02-02",
+        "assignee_original": "The Boeing Company",
+        "title": "Hybrid electric power helicopter",
+        "patent_id": "patent/US9248908B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9248908B1%2Fen"
+      },
+      {
+        "publication_number": "FR3006997B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-14",
+        "publication_date": "2016-12-23",
+        "assignee_original": "Airbus",
+        "title": "AIRCRAFT WITH ELECTRICAL PROPULSION MEANS",
+        "patent_id": "patent/FR3006997B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3006997B1%2Fen"
+      },
+      {
+        "publication_number": "FR3008383B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-12",
+        "publication_date": "2017-11-24",
+        "assignee_original": "Hutchinson",
+        "title": "AXIS (S) BLOWING SUSPENDING DEVICE, AND AERODYNE EQUIPPED WITH SUCH A DEVICE",
+        "patent_id": "patent/FR3008383B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3008383B1%2Fen"
+      },
+      {
+        "publication_number": "ITRM20130473A1",
+        "primary_language": "en",
+        "priority_date": "2013-08-12",
+        "publication_date": "2013-11-11",
+        "assignee_original": "Unit 1 Srl",
+        "title": "CONVERTIPLATE WITH NEW TECHNICAL AND AERODYNAMIC SOLUTIONS THAT CAN MAKE THE MEANS ALSO IN SAFE AND ULTRA-LIGHT AIRCRAFT SOLUTIONS",
+        "patent_id": "patent/ITRM20130473A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITRM20130473A1%2Fen"
+      },
+      {
+        "publication_number": "US9475579B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-13",
+        "publication_date": "2016-10-25",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+        "title": "Vertical take-off and landing vehicle with increased cruise efficiency",
+        "patent_id": "patent/US9475579B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9475579B2%2Fen"
+      },
+      {
+        "publication_number": "DE102013109392A1",
+        "primary_language": "en",
+        "priority_date": "2013-08-29",
+        "publication_date": "2015-03-05",
+        "assignee_original": "Airbus Defence and Space GmbH",
+        "title": "Fast-flying, vertically launchable aircraft",
+        "patent_id": "patent/DE102013109392A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102013109392A1%2Fen"
+      },
+      {
+        "publication_number": "CN103448910A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-31",
+        "publication_date": "2013-12-18",
+        "assignee_original": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66",
+        "title": "Aircraft capable of vertically taking off and landing at high speed",
+        "patent_id": "patent/CN103448910A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103448910A%2Fen"
+      },
+      {
+        "publication_number": "WO2015056124A1",
+        "primary_language": "en",
+        "priority_date": "2013-10-14",
+        "publication_date": "2015-04-23",
+        "assignee_original": "Navis S.R.L.",
+        "title": "Propulsion system for vertical or substantially vertical takeoff aircraft",
+        "patent_id": "patent/WO2015056124A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015056124A1%2Fen"
+      },
+      {
+        "publication_number": "GB201320988D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-28",
+        "publication_date": "2014-01-15",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "An aircraft",
+        "patent_id": "patent/GB201320988D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201320988D0%2Fen"
+      },
+      {
+        "publication_number": "GB201322401D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-18",
+        "publication_date": "2014-02-05",
+        "assignee_original": "Geola Technologies Ltd",
+        "title": "Modular electric VTOL aircraft",
+        "patent_id": "patent/GB201322401D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201322401D0%2Fen"
+      },
+      {
+        "publication_number": "US9694911B2",
+        "primary_language": "en",
+        "priority_date": "2014-03-18",
+        "publication_date": "2017-07-04",
+        "assignee_original": "Joby Aviation, Inc.",
+        "title": "Aerodynamically efficient lightweight vertical take-off and landing aircraft with pivoting rotors and stowing rotor blades",
+        "patent_id": "patent/US9694911B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9694911B2%2Fen"
+      },
+      {
+        "publication_number": "DE112015001472T5",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-27",
+        "publication_date": "2016-12-29",
+        "assignee_original": "Trane International Inc.",
+        "title": "diffuser ring",
+        "patent_id": "patent/DE112015001472T5/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE112015001472T5%2Fen"
+      },
+      {
+        "publication_number": "US20150274289A1",
+        "primary_language": "en",
+        "priority_date": "2014-03-31",
+        "publication_date": "2015-10-01",
+        "assignee_original": "The Boeing Corporation",
+        "title": "Vertically landing aircraft",
+        "patent_id": "patent/US20150274289A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150274289A1%2Fen"
+      },
+      {
+        "publication_number": "US9481457B2",
+        "primary_language": "en",
+        "priority_date": "2014-04-02",
+        "publication_date": "2016-11-01",
+        "assignee_original": "Sikorsky Aircraft Corporation",
+        "title": "Vertical take-off and landing aircraft with variable wing geometry",
+        "patent_id": "patent/US9481457B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9481457B2%2Fen"
+      },
+      {
+        "publication_number": "CA2947974C",
+        "primary_language": "en",
+        "priority_date": "2014-05-07",
+        "publication_date": "2020-06-23",
+        "assignee_original": "XTI Aircraft Company",
+        "title": "Vtol aircraft",
+        "patent_id": "patent/CA2947974C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2947974C%2Fen"
+      },
+      {
+        "publication_number": "CN103963959B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-12",
+        "publication_date": "2015-12-30",
+        "assignee_original": "\u5317\u4eac\u7406\u5de5\u5927\u5b66",
+        "title": "Based on Moving technology can floating type folded wing lifting body aircraft",
+        "patent_id": "patent/CN103963959B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103963959B%2Fen"
+      },
+      {
+        "publication_number": "AU2015269672B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-06",
+        "publication_date": "2019-05-16",
+        "assignee_original": "Airius Ip Holdings, Llc",
+        "title": "Columnar air moving devices, systems and methods",
+        "patent_id": "patent/AU2015269672B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2015269672B2%2Fen"
+      },
+      {
+        "publication_number": "US10381889B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-27",
+        "publication_date": "2019-08-13",
+        "assignee_original": "General Electric Company",
+        "title": "Permanent magnet machine with segmented sleeve for magnets",
+        "patent_id": "patent/US10381889B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10381889B2%2Fen"
+      },
+      {
+        "publication_number": "CN105292444A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-08",
+        "publication_date": "2016-02-03",
+        "assignee_original": "\u5434\u5efa\u4f1f",
+        "title": "Vertical take-off and landing aircraft",
+        "patent_id": "patent/CN105292444A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105292444A%2Fen"
+      },
+      {
+        "publication_number": "EP3169586B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-18",
+        "publication_date": "2020-04-08",
+        "assignee_original": "Pegasus Universal Aerospace (Pty) Ltd.",
+        "title": "Vertical take-off and landing aircraft",
+        "patent_id": "patent/EP3169586B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3169586B1%2Fen"
+      },
+      {
+        "publication_number": "IL233902B",
+        "primary_language": "en",
+        "priority_date": "2014-07-31",
+        "publication_date": "2020-07-30",
+        "assignee_original": "Israel Aerospace Ind Ltd",
+        "title": "egnition system",
+        "patent_id": "patent/IL233902B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL233902B%2Fen"
+      },
+      {
+        "publication_number": "CN104290907B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-15",
+        "publication_date": "2016-04-13",
+        "assignee_original": "\u897f\u5357\u79d1\u6280\u5927\u5b66",
+        "title": "Novel hybrid vertical/short take off and landing unmanned vehicle",
+        "patent_id": "patent/CN104290907B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104290907B%2Fen"
+      },
+      {
+        "publication_number": "CN204264452U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-27",
+        "publication_date": "2015-04-15",
+        "assignee_original": "\u54c8\u5c14\u6ee8\u76db\u4e16\u7279\u79cd\u98de\u884c\u5668\u6709\u9650\u516c\u53f8",
+        "title": "Electric single-rotor ducted unmanned aerial vehicle",
+        "patent_id": "patent/CN204264452U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204264452U%2Fen"
+      },
+      {
+        "publication_number": "US10059437B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-08",
+        "publication_date": "2018-08-28",
+        "assignee_original": "Robert Stanley Cooper",
+        "title": "Multi-rotor safety shield",
+        "patent_id": "patent/US10059437B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10059437B2%2Fen"
+      },
+      {
+        "publication_number": "US10000293B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-23",
+        "publication_date": "2018-06-19",
+        "assignee_original": "General Electric Company",
+        "title": "Gas-electric propulsion system for an aircraft",
+        "patent_id": "patent/US10000293B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10000293B2%2Fen"
+      },
+      {
+        "publication_number": "DE102015207445B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-23",
+        "publication_date": "2023-08-17",
+        "assignee_original": "Lilium GmbH",
+        "title": "Aerofoil for an aircraft and aircraft",
+        "patent_id": "patent/DE102015207445B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102015207445B4%2Fen"
+      },
+      {
+        "publication_number": "FR3036096A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-11",
+        "publication_date": "2016-11-18",
+        "assignee_original": "Christian Roger Rene Deslypper",
+        "title": "CONVERTIBLE AIRCRAFT AT ROTORS DISCOVERABLE",
+        "patent_id": "patent/FR3036096A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3036096A1%2Fen"
+      },
+      {
+        "publication_number": "GB201508138D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-13",
+        "publication_date": "2015-06-24",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Aircraft",
+        "patent_id": "patent/GB201508138D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201508138D0%2Fen"
+      },
+      {
+        "publication_number": "US10030608B2",
+        "primary_language": "en",
+        "priority_date": "2015-05-15",
+        "publication_date": "2018-07-24",
+        "assignee_original": "Rohr Inc.",
+        "title": "Variable area fan nozzle actuation system",
+        "patent_id": "patent/US10030608B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10030608B2%2Fen"
+      },
+      {
+        "publication_number": "DE102015006511A1",
+        "primary_language": "en",
+        "priority_date": "2015-05-26",
+        "publication_date": "2016-12-01",
+        "assignee_original": "Airbus Defence and Space GmbH",
+        "title": "Vertical launching aircraft",
+        "patent_id": "patent/DE102015006511A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102015006511A1%2Fen"
+      },
+      {
+        "publication_number": "DE202015003815U1",
+        "primary_language": "en",
+        "priority_date": "2015-05-27",
+        "publication_date": "2015-07-22",
+        "assignee_original": "Maximilian Salbaum",
+        "title": "Vertical launching and landing aircraft with electric ducted propellers",
+        "patent_id": "patent/DE202015003815U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202015003815U1%2Fen"
+      },
+      {
+        "publication_number": "US9714090B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-12",
+        "publication_date": "2017-07-25",
+        "assignee_original": "Sunlight Photonics Inc.",
+        "title": "Aircraft for vertical take-off and landing",
+        "patent_id": "patent/US9714090B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9714090B2%2Fen"
+      },
+      {
+        "publication_number": "CN107849928B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-22",
+        "publication_date": "2019-04-02",
+        "assignee_original": "\u8d5b\u5cf0\u98de\u673a\u53d1\u52a8\u673a\u516c\u53f8",
+        "title": "Aircraft including turbine engine with variable feed integrated into aft fuselage",
+        "patent_id": "patent/CN107849928B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107849928B%2Fen"
+      },
+      {
+        "publication_number": "FR3039228B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-22",
+        "publication_date": "2020-01-03",
+        "assignee_original": "Safran Aircraft Engines",
+        "title": "AIRCRAFT COMPRISING A CARENE REAR PROPELLER WITH INLET STATOR INCLUDING A BLOWING FUNCTION",
+        "patent_id": "patent/FR3039228B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3039228B1%2Fen"
+      },
+      {
+        "publication_number": "FR3039227B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-22",
+        "publication_date": "2019-12-27",
+        "assignee_original": "Safran Aircraft Engines",
+        "title": "AIRCRAFT COMPRISING A CARENE REAR PROPELLER WITH MOBILE SHUTTERS INPUT STATOR",
+        "patent_id": "patent/FR3039227B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3039227B1%2Fen"
+      },
+      {
+        "publication_number": "CN204916182U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-29",
+        "publication_date": "2015-12-30",
+        "assignee_original": "\u738b\u5fd7\u51b2",
+        "title": "High -speed vertical take -off and landing aircraft",
+        "patent_id": "patent/CN204916182U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204916182U%2Fen"
+      },
+      {
+        "publication_number": "EP3124379B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-29",
+        "publication_date": "2019-05-01",
+        "assignee_original": "Airbus Defence and Space GmbH",
+        "title": "Hybrid-electric drive train for vtol drones",
+        "patent_id": "patent/EP3124379B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3124379B1%2Fen"
+      },
+      {
+        "publication_number": "EP3141478B1",
+        "primary_language": "en",
+        "priority_date": "2015-09-11",
+        "publication_date": "2018-11-07",
+        "assignee_original": "AIRBUS HELICOPTERS DEUTSCHLAND GmbH",
+        "title": "Compound helicopter",
+        "patent_id": "patent/EP3141478B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3141478B1%2Fen"
+      },
+      {
+        "publication_number": "US9637217B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-21",
+        "publication_date": "2017-05-02",
+        "assignee_original": "General Electric Company",
+        "title": "Aircraft having an aft engine",
+        "patent_id": "patent/US9637217B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9637217B2%2Fen"
+      },
+      {
+        "publication_number": "US9957055B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-21",
+        "publication_date": "2018-05-01",
+        "assignee_original": "General Electric Company",
+        "title": "Aft engine for an aircraft",
+        "patent_id": "patent/US9957055B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9957055B2%2Fen"
+      },
+      {
+        "publication_number": "US9821917B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-21",
+        "publication_date": "2017-11-21",
+        "assignee_original": "General Electric Company",
+        "title": "Aft engine for an aircraft",
+        "patent_id": "patent/US9821917B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9821917B2%2Fen"
+      },
+      {
+        "publication_number": "US9815560B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-21",
+        "publication_date": "2017-11-14",
+        "assignee_original": "General Electric Company",
+        "title": "AFT engine nacelle shape for an aircraft",
+        "patent_id": "patent/US9815560B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9815560B2%2Fen"
+      },
+      {
+        "publication_number": "US9884687B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-21",
+        "publication_date": "2018-02-06",
+        "assignee_original": "General Electric Company",
+        "title": "Non-axis symmetric aft engine",
+        "patent_id": "patent/US9884687B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9884687B2%2Fen"
+      },
+      {
+        "publication_number": "CN105217027A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-24",
+        "publication_date": "2016-01-06",
+        "assignee_original": "\u82cf\u5dde\u5927\u95f9\u5929\u5bab\u673a\u5668\u4eba\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Vertical takeoff and landing formula bimodal airflight equipment and control method thereof",
+        "patent_id": "patent/CN105217027A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105217027A%2Fen"
+      },
+      {
+        "publication_number": "FR3041933B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-05",
+        "publication_date": "2018-07-13",
+        "assignee_original": "Safran Aircraft Engines",
+        "title": "AIRCRAFT WITH A PROPULSIVE ASSEMBLY COMPRISING A PROPELLER DOUBLET ON THE REAR OF THE FUSELAGE",
+        "patent_id": "patent/FR3041933B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3041933B1%2Fen"
+      },
+      {
+        "publication_number": "US10017270B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-09",
+        "publication_date": "2018-07-10",
+        "assignee_original": "General Electric Company",
+        "title": "Aft engine for an aircraft",
+        "patent_id": "patent/US10017270B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10017270B2%2Fen"
+      },
+      {
+        "publication_number": "CN205203366U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-22",
+        "publication_date": "2016-05-04",
+        "assignee_original": "\u9f99\u5ddd",
+        "title": "Approximate level is rotated propeller wing flap lift -rising and is connected wing aircraft",
+        "patent_id": "patent/CN205203366U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205203366U%2Fen"
+      },
+      {
+        "publication_number": "CN105270621A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-30",
+        "publication_date": "2016-01-27",
+        "assignee_original": "\u4f5b\u5c71\u5e02\u795e\u98ce\u822a\u7a7a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Aircraft with skylight on wing",
+        "patent_id": "patent/CN105270621A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105270621A%2Fen"
+      },
+      {
+        "publication_number": "US10131427B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-04",
+        "publication_date": "2018-11-20",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Tilt-rotor over-torque protection from asymmetric gust",
+        "patent_id": "patent/US10131427B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10131427B2%2Fen"
+      },
+      {
+        "publication_number": "FR3043984B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-25",
+        "publication_date": "2017-12-22",
+        "assignee_original": "Snecma",
+        "title": "PLANE PROPELLED BY TURBOMACHINE WITH ACOUSTIC SCREEN",
+        "patent_id": "patent/FR3043984B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3043984B1%2Fen"
+      },
+      {
+        "publication_number": "US10246184B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-02",
+        "publication_date": "2019-04-02",
+        "assignee_original": "Jon M. Ragland",
+        "title": "Aircraft with internally housed propellor units",
+        "patent_id": "patent/US10246184B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10246184B2%2Fen"
+      },
+      {
+        "publication_number": "US10570926B2",
+        "primary_language": "en",
+        "priority_date": "2015-12-03",
+        "publication_date": "2020-02-25",
+        "assignee_original": "The Boeing Company",
+        "title": "Variable-geometry ducted fan",
+        "patent_id": "patent/US10570926B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10570926B2%2Fen"
+      },
+      {
+        "publication_number": "US20180162525A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-08",
+        "publication_date": "2018-06-14",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Double-Blown Wing Vertical Takeoff and Landing Aircraft",
+        "patent_id": "patent/US20180162525A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180162525A1%2Fen"
+      },
+      {
+        "publication_number": "US20170327219A1",
+        "primary_language": "en",
+        "priority_date": "2015-12-11",
+        "publication_date": "2017-11-16",
+        "assignee_original": "Sikorsky Aircraft Corporation",
+        "title": "Vertical take-off and landing aircraft with hybrid power and method",
+        "patent_id": "patent/US20170327219A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170327219A1%2Fen"
+      },
+      {
+        "publication_number": "CN106915458A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-26",
+        "publication_date": "2017-07-04",
+        "assignee_original": "\u8d75\u6da6\u751f",
+        "title": "Double mode lifting is manned/without human-like multipurpose aircraft",
+        "patent_id": "patent/CN106915458A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106915458A%2Fen"
+      },
+      {
+        "publication_number": "US9856018B2",
+        "primary_language": "en",
+        "priority_date": "2016-01-11",
+        "publication_date": "2018-01-02",
+        "assignee_original": "The Boeing Company",
+        "title": "Ducted fan doors for aircraft",
+        "patent_id": "patent/US9856018B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9856018B2%2Fen"
+      },
+      {
+        "publication_number": "US10926874B2",
+        "primary_language": "en",
+        "priority_date": "2016-01-15",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Hybrid propulsion vertical take-off and landing aircraft",
+        "patent_id": "patent/US10926874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926874B2%2Fen"
+      },
+      {
+        "publication_number": "US20170234447A1",
+        "primary_language": "en",
+        "priority_date": "2016-02-12",
+        "publication_date": "2017-08-17",
+        "assignee_original": "United Technologies Corporation",
+        "title": "Methods and systems for modulating airflow",
+        "patent_id": "patent/US20170234447A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170234447A1%2Fen"
+      },
+      {
+        "publication_number": "CN105857624A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-08",
+        "publication_date": "2016-08-17",
+        "assignee_original": "\u5357\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "title": "Distributed type hybrid power system based on aviation piston engine",
+        "patent_id": "patent/CN105857624A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105857624A%2Fen"
+      },
+      {
+        "publication_number": "CN105775119B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-08",
+        "publication_date": "2018-01-23",
+        "assignee_original": "\u5357\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "title": "Combine duct aircraft",
+        "patent_id": "patent/CN105775119B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105775119B%2Fen"
+      },
+      {
+        "publication_number": "CN105818980A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-06",
+        "publication_date": "2016-08-03",
+        "assignee_original": "\u5218\u884c\u4f1f",
+        "title": "Novel large-lift-force vertical take-off and landing aircraft",
+        "patent_id": "patent/CN105818980A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105818980A%2Fen"
+      },
+      {
+        "publication_number": "CN106005391A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-13",
+        "publication_date": "2016-10-12",
+        "assignee_original": "\u674e\u5b81",
+        "title": "Duct helicopter",
+        "patent_id": "patent/CN106005391A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106005391A%2Fen"
+      },
+      {
+        "publication_number": "US10106265B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-24",
+        "publication_date": "2018-10-23",
+        "assignee_original": "General Electric Company",
+        "title": "Stabilizer assembly for an aircraft AFT engine",
+        "patent_id": "patent/US10106265B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10106265B2%2Fen"
+      },
+      {
+        "publication_number": "CN206087295U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-08",
+        "publication_date": "2017-04-12",
+        "assignee_original": "\u8881\u6d2a\u8dc3",
+        "title": "Interior rotor craft structure",
+        "patent_id": "patent/CN206087295U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206087295U%2Fen"
+      },
+      {
+        "publication_number": "CN106167096A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-17",
+        "publication_date": "2016-11-30",
+        "assignee_original": "\u9f99\u5ddd",
+        "title": "Modified model level of approximation rotates propeller wing flap lift-rising and connects wing aircraft",
+        "patent_id": "patent/CN106167096A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106167096A%2Fen"
+      },
+      {
+        "publication_number": "FR3054526B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-26",
+        "publication_date": "2018-08-03",
+        "assignee_original": "Safran Aircraft Engines",
+        "title": "AIRCRAFT COMPRISING AN INTEGRATED REAR-FUSELAGE TURBOREACTOR COMPRISING A FITTING FOR EJECTING OF BLADES",
+        "patent_id": "patent/FR3054526B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3054526B1%2Fen"
+      },
+      {
+        "publication_number": "DE202016005012U1",
+        "primary_language": "en",
+        "priority_date": "2016-08-16",
+        "publication_date": "2016-09-15",
+        "assignee_original": "Maximilian Salbaum",
+        "title": "Vertical takeoff and landing airplane with swivel wings",
+        "patent_id": "patent/DE202016005012U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202016005012U1%2Fen"
+      },
+      {
+        "publication_number": "GB201615900D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-19",
+        "publication_date": "2016-11-02",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Aircraft propulsion system",
+        "patent_id": "patent/GB201615900D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201615900D0%2Fen"
+      },
+      {
+        "publication_number": "CN106184741B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-30",
+        "publication_date": "2020-04-07",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5de5\u7a0b\u70ed\u7269\u7406\u7814\u7a76\u6240",
+        "title": "Vertical take-off and landing unmanned aerial vehicle with flying wing type ducted fan",
+        "patent_id": "patent/CN106184741B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106184741B%2Fen"
+      },
+      {
+        "publication_number": "US10364024B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-18",
+        "publication_date": "2019-07-30",
+        "assignee_original": "Kitty Corporation",
+        "title": "Multicopter with angled rotors",
+        "patent_id": "patent/US10364024B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10364024B2%2Fen"
+      },
+      {
+        "publication_number": "GB2555439A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-27",
+        "publication_date": "2018-05-02",
+        "assignee_original": "Mono Aerospace Ip Ltd",
+        "title": "Vertical take-off and landing aircraft and control method",
+        "patent_id": "patent/GB2555439A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2555439A%2Fen"
+      },
+      {
+        "publication_number": "GB2555440A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-27",
+        "publication_date": "2018-05-02",
+        "assignee_original": "Mono Aerospace Ip Ltd",
+        "title": "Vertical take off and landing aircraft",
+        "patent_id": "patent/GB2555440A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2555440A%2Fen"
+      },
+      {
+        "publication_number": "AU2017399688A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-02",
+        "publication_date": "2019-05-30",
+        "assignee_original": "Joby Aero, Inc.",
+        "title": "VTOL aircraft using rotors to simulate rigid wing dynamics",
+        "patent_id": "patent/AU2017399688A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2017399688A1%2Fen"
+      },
+      {
+        "publication_number": "CN106628120B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-06",
+        "publication_date": "2019-08-27",
+        "assignee_original": "\u6e56\u5357\u661f\u601d\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of efficient aerodynamic duct body",
+        "patent_id": "patent/CN106628120B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106628120B%2Fen"
+      },
+      {
+        "publication_number": "KR101938459B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-15",
+        "publication_date": "2019-01-14",
+        "assignee_original": "\ud55c\uad6d\ud56d\uacf5\uc6b0\uc8fc\uc5f0\uad6c\uc6d0",
+        "title": "Aircraft",
+        "patent_id": "patent/KR101938459B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101938459B1%2Fen"
+      },
+      {
+        "publication_number": "CN106904271B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-03",
+        "publication_date": "2019-05-07",
+        "assignee_original": "\u5317\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "title": "A variant mechanism for vertical take-off and landing drones",
+        "patent_id": "patent/CN106904271B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106904271B%2Fen"
+      },
+      {
+        "publication_number": "US10273019B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-06",
+        "publication_date": "2019-04-30",
+        "assignee_original": "Rolls-Royce Corporation",
+        "title": "Distributed propulsion system power unit control",
+        "patent_id": "patent/US10273019B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10273019B2%2Fen"
+      },
+      {
+        "publication_number": "US10723470B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-12",
+        "publication_date": "2020-07-28",
+        "assignee_original": "Raytheon Technologies Corporation",
+        "title": "Aft fan counter-rotating turbine engine",
+        "patent_id": "patent/US10723470B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10723470B2%2Fen"
+      },
+      {
+        "publication_number": "US10006375B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-11",
+        "publication_date": "2018-06-26",
+        "assignee_original": "General Electric Company",
+        "title": "Propulsion system for an aircraft",
+        "patent_id": "patent/US10006375B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10006375B1%2Fen"
+      },
+      {
+        "publication_number": "US10822101B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-21",
+        "publication_date": "2020-11-03",
+        "assignee_original": "General Electric Company",
+        "title": "Vertical takeoff and landing aircraft having a forward thrust propulsor",
+        "patent_id": "patent/US10822101B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10822101B2%2Fen"
+      },
+      {
+        "publication_number": "EP3470332B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-13",
+        "publication_date": "2020-04-22",
+        "assignee_original": "AIRBUS HELICOPTERS DEUTSCHLAND GmbH",
+        "title": "A multirotor aircraft with an airframe and at least one wing",
+        "patent_id": "patent/EP3470332B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3470332B1%2Fen"
+      },
+      {
+        "publication_number": "KR102502582B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-23",
+        "publication_date": "2023-02-22",
+        "assignee_original": "\uc0bc\uc131\uc804\uc790\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Unmanned aerial vehicle having safety guard",
+        "patent_id": "patent/KR102502582B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102502582B1%2Fen"
+      },
+      {
+        "publication_number": "US11352132B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-07-23",
+        "publication_date": "2022-06-07",
+        "assignee_original": "General Electric Company",
+        "title": "Lift fan with diffuser duct",
+        "patent_id": "patent/US11352132B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11352132B2%2Fen"
+      },
+      {
+        "publication_number": "US11001377B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-21",
+        "publication_date": "2021-05-11",
+        "assignee_original": "Horizon Aircraft Inc.",
+        "title": "Aircraft airfoil and aircraft having the same",
+        "patent_id": "patent/US11001377B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11001377B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20190023389A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-21",
+        "publication_date": "2019-01-24",
+        "assignee_original": "General Electric Company",
+        "title": "Vertical Takeoff and Landing Aircraft",
+        "patent_id": "patent/US20190023389A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190023389A1%2Fen"
+      },
+      {
+        "publication_number": "US20200148374A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-08",
+        "publication_date": "2020-05-14",
+        "assignee_original": "Honda Motor Co., Ltd.",
+        "title": "Hybrid flight vehicle",
+        "patent_id": "patent/US20200148374A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200148374A1%2Fen"
+      },
+      {
+        "publication_number": "US10926874B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-15",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Hybrid propulsion vertical take-off and landing aircraft",
+        "patent_id": "patent/US10926874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926874B2%2Fen"
+      },
+      {
+        "publication_number": "US11352132B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-07-23",
+        "publication_date": "2022-06-07",
+        "assignee_original": "General Electric Company",
+        "title": "Lift fan with diffuser duct",
+        "patent_id": "patent/US11352132B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11352132B2%2Fen"
+      },
+      {
+        "publication_number": "US11597509B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-04",
+        "publication_date": "2023-03-07",
+        "assignee_original": "Reynaldo Thomas Alfaro",
+        "title": "Vertical take-off and landing aircraft and methods of taking-off, landing, and aircraft control",
+        "patent_id": "patent/US11597509B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11597509B1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US10967981B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-05",
+        "publication_date": "2021-04-06",
+        "assignee_original": "Textron Innovations, Inc.",
+        "title": "Hybrid aircraft with transversely oriented engine",
+        "patent_id": "patent/US10967981B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10967981B2%2Fen"
+      },
+      {
+        "publication_number": "US11673676B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-23",
+        "publication_date": "2023-06-13",
+        "assignee_original": "William J. Neff",
+        "title": "Hybrid VTOL aerial vehicle",
+        "patent_id": "patent/US11673676B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11673676B2%2Fen"
+      },
+      {
+        "publication_number": "US12043377B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-30",
+        "publication_date": "2024-07-23",
+        "assignee_original": "Joseph Raymond RENTERIA",
+        "title": "Rotatable thruster aircraft",
+        "patent_id": "patent/US12043377B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12043377B2%2Fen"
+      },
+      {
+        "publication_number": "JP6731604B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-31",
+        "publication_date": "2020-07-29",
+        "assignee_original": "\u4e2d\u677e\u3000\u7fa9\u90ce",
+        "title": "High-speed drones and other aircraft",
+        "patent_id": "patent/JP6731604B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6731604B2%2Fen"
+      },
+      {
+        "publication_number": "US11453513B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-26",
+        "publication_date": "2022-09-27",
+        "assignee_original": "Skydio, Inc.",
+        "title": "Autonomous aerial vehicle hardware configuration",
+        "patent_id": "patent/US11453513B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11453513B2%2Fen"
+      },
+      {
+        "publication_number": "US10906637B2",
+        "primary_language": "en",
+        "priority_date": "2018-05-17",
+        "publication_date": "2021-02-02",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Assisted landing systems for rotorcraft",
+        "patent_id": "patent/US10906637B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10906637B2%2Fen"
+      },
+      {
+        "publication_number": "US11152131B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-20",
+        "publication_date": "2021-10-19",
+        "assignee_original": "The Boeing Company",
+        "title": "Conductive compositions of conductive polymer and metal coated fiber",
+        "patent_id": "patent/US11152131B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11152131B2%2Fen"
+      },
+      {
+        "publication_number": "FR3083206A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-29",
+        "publication_date": "2020-01-03",
+        "assignee_original": "Airbus Operations",
+        "title": "AIRCRAFT PROPELLER COMPRISING AN ASSEMBLY OF AT LEAST TWO COAXIAL SHAFTS, ONE OF WHICH IS CONNECTED TO THE BLOWER AND THE OTHER TO THE SET OF FIXED BLADES",
+        "patent_id": "patent/FR3083206A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3083206A1%2Fen"
+      },
+      {
+        "publication_number": "US11325698B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-07-27",
+        "publication_date": "2022-05-10",
+        "assignee_original": "Walmart Apollo, Llc",
+        "title": "Hybrid unmanned aerial vehicle for delivering cargo",
+        "patent_id": "patent/US11325698B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11325698B2%2Fen"
+      },
+      {
+        "publication_number": "US11370554B2",
+        "primary_language": "en",
+        "priority_date": "2018-11-08",
+        "publication_date": "2022-06-28",
+        "assignee_original": "Rolls-Royce North American Technologies, Inc.",
+        "title": "Hybrid propulsion systems",
+        "patent_id": "patent/US11370554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11370554B2%2Fen"
+      },
+      {
+        "publication_number": "US11225881B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-08",
+        "publication_date": "2022-01-18",
+        "assignee_original": "Rolls-Royce North American Technologies, Inc.",
+        "title": "Hybrid propulsion systems",
+        "patent_id": "patent/US11225881B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11225881B2%2Fen"
+      },
+      {
+        "publication_number": "US11159024B2",
+        "primary_language": "en",
+        "priority_date": "2018-11-08",
+        "publication_date": "2021-10-26",
+        "assignee_original": "Rolls-Royce North American Technologies, Inc.",
+        "title": "Electrical architecture for hybrid propulsion",
+        "patent_id": "patent/US11159024B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11159024B2%2Fen"
+      },
+      {
+        "publication_number": "US20220055743A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-27",
+        "publication_date": "2022-02-24",
+        "assignee_original": "Honda Motor Co., Ltd.",
+        "title": "Flying object",
+        "patent_id": "patent/US20220055743A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220055743A1%2Fen"
+      },
+      {
+        "publication_number": "FR3094314B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2021-07-09",
+        "assignee_original": "Airbus Helicopters",
+        "title": "Method for optimizing the noise generated in flight by a rotorcraft.",
+        "patent_id": "patent/FR3094314B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3094314B1%2Fen"
+      },
+      {
+        "publication_number": "CN109854378B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-08",
+        "publication_date": "2023-10-24",
+        "assignee_original": "\u6c88\u9633\u5efa\u7b51\u5927\u5b66",
+        "title": "Turbofan engine with mode adjustment capability",
+        "patent_id": "patent/CN109854378B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109854378B%2Fen"
+      },
+      {
+        "publication_number": "EP3730404B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-23",
+        "publication_date": "2021-08-18",
+        "assignee_original": "LEONARDO S.p.A.",
+        "title": "Vertical take-off and landing aircraft and related control method",
+        "patent_id": "patent/EP3730404B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3730404B1%2Fen"
+      },
+      {
+        "publication_number": "US11807371B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-14",
+        "publication_date": "2023-11-07",
+        "assignee_original": "Hamilton Sundstrand Corporation",
+        "title": "Aircraft having hybrid-electric propulsion system with electric storage located in fuselage",
+        "patent_id": "patent/US11807371B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11807371B2%2Fen"
+      },
+      {
+        "publication_number": "CN119058972A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-28",
+        "publication_date": "2024-12-03",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u7535\u88c5",
+        "title": "Functional test method",
+        "patent_id": "patent/CN119058972A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119058972A%2Fen"
+      },
+      {
+        "publication_number": "US11718395B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-13",
+        "publication_date": "2023-08-08",
+        "assignee_original": "Rolls-Royce Corporation",
+        "title": "Electrically controlled vertical takeoff and landing aircraft system and method",
+        "patent_id": "patent/US11718395B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11718395B2%2Fen"
+      },
+      {
+        "publication_number": "JP7224039B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-04",
+        "publication_date": "2023-02-17",
+        "assignee_original": "\u56fd\u7acb\u7814\u7a76\u958b\u767a\u6cd5\u4eba\u5b87\u5b99\u822a\u7a7a\u7814\u7a76\u958b\u767a\u6a5f\u69cb",
+        "title": "Electric aircraft and its aerodynamic performance control method",
+        "patent_id": "patent/JP7224039B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7224039B2%2Fen"
+      },
+      {
+        "publication_number": "JP7541830B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-04",
+        "publication_date": "2024-08-29",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eSubaru",
+        "title": "Vertical take-off and landing aircraft",
+        "patent_id": "patent/JP7541830B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7541830B2%2Fen"
+      },
+      {
+        "publication_number": "US12187443B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-14",
+        "publication_date": "2025-01-07",
+        "assignee_original": "Bombardier Inc.",
+        "title": "Excess thrust control for an aircraft",
+        "patent_id": "patent/US12187443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12187443B2%2Fen"
+      },
+      {
+        "publication_number": "WO2021222776A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-30",
+        "publication_date": "2021-11-04",
+        "assignee_original": "Volansi, Inc.",
+        "title": "Hybrid fixed vtol aircraft powered by heavy fuel engine",
+        "patent_id": "patent/WO2021222776A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021222776A1%2Fen"
+      },
+      {
+        "publication_number": "US11624319B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-15",
+        "publication_date": "2023-04-11",
+        "assignee_original": "Pratt & Whitney Canada Corp.",
+        "title": "Reverse-flow gas turbine engine with electric motor",
+        "patent_id": "patent/US11624319B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11624319B2%2Fen"
+      },
+      {
+        "publication_number": "US11001377B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-21",
+        "publication_date": "2021-05-11",
+        "assignee_original": "Horizon Aircraft Inc.",
+        "title": "Aircraft airfoil and aircraft having the same",
+        "patent_id": "patent/US11001377B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11001377B1%2Fen"
+      },
+      {
+        "publication_number": "CN111619823A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-02",
+        "publication_date": "2020-09-04",
+        "assignee_original": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66",
+        "title": "A test bed for distributed propulsion system for short-range/vertical take-off and landing aircraft",
+        "patent_id": "patent/CN111619823A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111619823A%2Fen"
+      },
+      {
+        "publication_number": "US11591081B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-08",
+        "publication_date": "2023-02-28",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Vertical-lift augmentation system",
+        "patent_id": "patent/US11591081B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11591081B2%2Fen"
+      },
+      {
+        "publication_number": "US12227166B2",
+        "primary_language": "en",
+        "priority_date": "2020-07-17",
+        "publication_date": "2025-02-18",
+        "assignee_original": "Rolls-Royce Corporation",
+        "title": "Hybrid propulsion system power management",
+        "patent_id": "patent/US12227166B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12227166B2%2Fen"
+      },
+      {
+        "publication_number": "US11448135B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-23",
+        "publication_date": "2022-09-20",
+        "assignee_original": "Ge Aviation Systems Llc",
+        "title": "Systems and methods of power allocation for turboprop and turboshaft aircraft",
+        "patent_id": "patent/US11448135B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11448135B2%2Fen"
+      },
+      {
+        "publication_number": "WO2022040463A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-19",
+        "publication_date": "2022-02-24",
+        "assignee_original": "Levanta Tech Llc",
+        "title": "Airfoils and vehicles incorporating the same",
+        "patent_id": "patent/WO2022040463A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022040463A1%2Fen"
+      },
+      {
+        "publication_number": "US20240278904A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-17",
+        "publication_date": "2024-08-22",
+        "assignee_original": "Levanta Tech Inc.",
+        "title": "Airfoils and vehicles incorporating the same",
+        "patent_id": "patent/US20240278904A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240278904A1%2Fen"
+      },
+      {
+        "publication_number": "CN112046762B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-07",
+        "publication_date": "2021-10-22",
+        "assignee_original": "\u5357\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "title": "Hybrid unmanned aerial vehicle based on turboprop engine and its take-off and landing control method",
+        "patent_id": "patent/CN112046762B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112046762B%2Fen"
+      },
+      {
+        "publication_number": "US12377973B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-17",
+        "publication_date": "2025-08-05",
+        "assignee_original": "Doroni Aerospace Inc.",
+        "title": "Flight control of lift plus cruise quadcopter aircraft",
+        "patent_id": "patent/US12377973B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12377973B1%2Fen"
+      },
+      {
+        "publication_number": "US11964753B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-17",
+        "publication_date": "2024-04-23",
+        "assignee_original": "Doroni Aerospace Inc.",
+        "title": "Personal quadcopter aircraft",
+        "patent_id": "patent/US11964753B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11964753B2%2Fen"
+      },
+      {
+        "publication_number": "US20240217653A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-17",
+        "publication_date": "2024-07-04",
+        "assignee_original": "Doroni Aerospace",
+        "title": "Control of lift plus cruise quadcopter aircraft",
+        "patent_id": "patent/US20240217653A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240217653A1%2Fen"
+      },
+      {
+        "publication_number": "US11319062B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-11",
+        "publication_date": "2022-05-03",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Contra-rotating rotors with dissimilar numbers of blades",
+        "patent_id": "patent/US11319062B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11319062B1%2Fen"
+      },
+      {
+        "publication_number": "KR20220055991A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-27",
+        "publication_date": "2022-05-04",
+        "assignee_original": "\ud604\ub300\uc790\ub3d9\ucc28\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Device for generating thrust for air transport",
+        "patent_id": "patent/KR20220055991A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220055991A%2Fen"
+      },
+      {
+        "publication_number": "KR20220062178A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-06",
+        "publication_date": "2022-05-16",
+        "assignee_original": "\ud604\ub300\uc790\ub3d9\ucc28\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Hybrid air mobility",
+        "patent_id": "patent/KR20220062178A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220062178A%2Fen"
+      },
+      {
+        "publication_number": "CN112373702B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-24",
+        "publication_date": "2022-07-05",
+        "assignee_original": "\u4e2d\u56fd\u822a\u7a7a\u53d1\u52a8\u673a\u7814\u7a76\u9662",
+        "title": "Back-support type wing-body fusion body aircraft propulsion system and control method thereof",
+        "patent_id": "patent/CN112373702B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112373702B%2Fen"
+      },
+      {
+        "publication_number": "KR20220087212A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-17",
+        "publication_date": "2022-06-24",
+        "assignee_original": "\ud604\ub300\uc790\ub3d9\ucc28\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Air mobility",
+        "patent_id": "patent/KR20220087212A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220087212A%2Fen"
+      },
+      {
+        "publication_number": "KR20220089223A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-21",
+        "publication_date": "2022-06-28",
+        "assignee_original": "\ud604\ub300\uc790\ub3d9\ucc28\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Propulsion module for air mobility",
+        "patent_id": "patent/KR20220089223A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220089223A%2Fen"
+      },
+      {
+        "publication_number": "FR3119159B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-23",
+        "publication_date": "2022-12-09",
+        "assignee_original": "Bernard Etcheparre",
+        "title": "Wing for aircraft, with concave dynamic discs.",
+        "patent_id": "patent/FR3119159B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3119159B1%2Fen"
+      },
+      {
+        "publication_number": "JP7752692B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-19",
+        "publication_date": "2025-10-10",
+        "assignee_original": "\u30ea\u30ea\u30a6\u30e0 \u30b2\u30fc\u30a8\u30e0\u30d9\u30fc\u30cf\u30fc",
+        "title": "Wing assembly for an aircraft",
+        "patent_id": "patent/JP7752692B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7752692B2%2Fen"
+      },
+      {
+        "publication_number": "EP4086167B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-04",
+        "publication_date": "2025-12-24",
+        "assignee_original": "General Electric Company",
+        "title": "Aircraft having distributed fans for boundary layer ingestion",
+        "patent_id": "patent/EP4086167B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4086167B1%2Fen"
+      },
+      {
+        "publication_number": "WO2022251046A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-19",
+        "publication_date": "2022-12-01",
+        "assignee_original": "Jetoptera, Inc.",
+        "title": "Adaptive fluidic propulsive system",
+        "patent_id": "patent/WO2022251046A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022251046A2%2Fen"
+      },
+      {
+        "publication_number": "US20230002034A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-01",
+        "publication_date": "2023-01-05",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System for fixed-pitch lift configured for use in an electric aircraft",
+        "patent_id": "patent/US20230002034A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230002034A1%2Fen"
+      },
+      {
+        "publication_number": "US12420922B2",
+        "primary_language": "en",
+        "priority_date": "2021-07-31",
+        "publication_date": "2025-09-23",
+        "assignee_original": "Supernal, Llc",
+        "title": "Vertical take-off and landing craft systems and methods",
+        "patent_id": "patent/US12420922B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12420922B2%2Fen"
+      },
+      {
+        "publication_number": "CN113320693A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-04",
+        "publication_date": "2021-08-31",
+        "assignee_original": "\u4e2d\u56fd\u7a7a\u6c14\u52a8\u529b\u7814\u7a76\u4e0e\u53d1\u5c55\u4e2d\u5fc3\u7a7a\u5929\u6280\u672f\u7814\u7a76\u6240",
+        "title": "Novel retractable tandem rotor wing composite wing aircraft layout",
+        "patent_id": "patent/CN113320693A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113320693A%2Fen"
+      },
+      {
+        "publication_number": "CN115993078B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-18",
+        "publication_date": "2025-02-18",
+        "assignee_original": "\u5317\u4eac\u7406\u5de5\u5927\u5b66",
+        "title": "A high-speed cruise missile that can be quickly recovered",
+        "patent_id": "patent/CN115993078B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115993078B%2Fen"
+      },
+      {
+        "publication_number": "US12221210B2",
+        "primary_language": "en",
+        "priority_date": "2021-10-25",
+        "publication_date": "2025-02-11",
+        "assignee_original": "Levanta Tech Inc.",
+        "title": "Wing-in-ground effect vehicles and uses thereof",
+        "patent_id": "patent/US12221210B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12221210B2%2Fen"
+      },
+      {
+        "publication_number": "US11548621B1",
+        "primary_language": "en",
+        "priority_date": "2021-11-04",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Horizon Aircraft Inc.",
+        "title": "Aircraft airfoil having an internal thrust unit, and aircraft having the same",
+        "patent_id": "patent/US11548621B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11548621B1%2Fen"
+      },
+      {
+        "publication_number": "CN113859530B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-05",
+        "publication_date": "2022-07-19",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u529b\u5b66\u7814\u7a76\u6240",
+        "title": "Multi-purpose cross-medium aircraft carrying AUV",
+        "patent_id": "patent/CN113859530B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113859530B%2Fen"
+      },
+      {
+        "publication_number": "CN114044150B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-29",
+        "publication_date": "2024-01-02",
+        "assignee_original": "\u4e2d\u56fd\u822a\u53d1\u6c88\u9633\u53d1\u52a8\u673a\u7814\u7a76\u6240",
+        "title": "Optimization method and device for distributed hybrid electric propulsion system",
+        "patent_id": "patent/CN114044150B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114044150B%2Fen"
+      },
+      {
+        "publication_number": "CN114194412B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-15",
+        "publication_date": "2024-06-18",
+        "assignee_original": "\u4e2d\u56fd\u822a\u7a7a\u5de5\u4e1a\u96c6\u56e2\u516c\u53f8\u6210\u90fd\u98de\u673a\u8bbe\u8ba1\u7814\u7a76\u6240",
+        "title": "A cruise propeller-engine matching optimization method for piston-powered UAVs",
+        "patent_id": "patent/CN114194412B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114194412B%2Fen"
+      },
+      {
+        "publication_number": "IL289487B2",
+        "primary_language": "en",
+        "priority_date": "2021-12-28",
+        "publication_date": "2024-01-01",
+        "assignee_original": "Israel Aerospace Ind Ltd",
+        "title": "System and method for operating an aircraft",
+        "patent_id": "patent/IL289487B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL289487B2%2Fen"
+      },
+      {
+        "publication_number": "US12459630B2",
+        "primary_language": "en",
+        "priority_date": "2022-01-14",
+        "publication_date": "2025-11-04",
+        "assignee_original": "Paul Budge",
+        "title": "Aircraft with lift thrust system concealed in an airfoil",
+        "patent_id": "patent/US12459630B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12459630B2%2Fen"
+      },
+      {
+        "publication_number": "US12107459B2",
+        "primary_language": "en",
+        "priority_date": "2022-03-25",
+        "publication_date": "2024-10-01",
+        "assignee_original": "Beta Air Llc",
+        "title": "Rotor for an electric aircraft motor comprising a plurality of magnets",
+        "patent_id": "patent/US12107459B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12107459B2%2Fen"
+      },
+      {
+        "publication_number": "US20230312115A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-29",
+        "publication_date": "2023-10-05",
+        "assignee_original": "Pratt & Whitney Canada Corp.",
+        "title": "Aircraft powerplant(s) for an aircraft with electric machine controlled propulsor speed",
+        "patent_id": "patent/US20230312115A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230312115A1%2Fen"
+      },
+      {
+        "publication_number": "WO2023205476A1",
+        "primary_language": "en",
+        "priority_date": "2022-04-22",
+        "publication_date": "2023-10-26",
+        "assignee_original": "Supernal, Llc",
+        "title": "Rotor assembly",
+        "patent_id": "patent/WO2023205476A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023205476A1%2Fen"
+      },
+      {
+        "publication_number": "US11993368B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-29",
+        "publication_date": "2024-05-28",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Hybrid electric vertical takeoff and landing aircraft",
+        "patent_id": "patent/US11993368B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11993368B2%2Fen"
+      },
+      {
+        "publication_number": "JP7783785B2",
+        "primary_language": "en",
+        "priority_date": "2022-06-07",
+        "publication_date": "2025-12-10",
+        "assignee_original": "\u672c\u7530\u6280\u7814\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "aircraft",
+        "patent_id": "patent/JP7783785B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7783785B2%2Fen"
+      },
+      {
+        "publication_number": "US12292005B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-12",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Rtx Corporation",
+        "title": "Aircraft propulsion system geartrain",
+        "patent_id": "patent/US12292005B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12292005B2%2Fen"
+      },
+      {
+        "publication_number": "EP4325087B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-12",
+        "publication_date": "2025-07-23",
+        "assignee_original": "RTX Corporation",
+        "title": "Aircraft propulsion system geartrain",
+        "patent_id": "patent/EP4325087B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4325087B1%2Fen"
+      },
+      {
+        "publication_number": "CN115056972A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-17",
+        "publication_date": "2022-09-16",
+        "assignee_original": "\u4e2d\u56fd\u7a7a\u6c14\u52a8\u529b\u7814\u7a76\u4e0e\u53d1\u5c55\u4e2d\u5fc3\u7a7a\u5929\u6280\u672f\u7814\u7a76\u6240",
+        "title": "Liftable rotor wing fairing of composite wing aircraft",
+        "patent_id": "patent/CN115056972A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115056972A%2Fen"
+      },
+      {
+        "publication_number": "WO2024112772A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-23",
+        "publication_date": "2024-05-30",
+        "assignee_original": "General Electric Company",
+        "title": "Aeronautical propulsion system having electric fans",
+        "patent_id": "patent/WO2024112772A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024112772A1%2Fen"
+      },
+      {
+        "publication_number": "FR3143549A1",
+        "primary_language": "en",
+        "priority_date": "2022-12-19",
+        "publication_date": "2024-06-21",
+        "assignee_original": "Ascendance Flight Technologies",
+        "title": "vertical takeoff and landing aircraft wing",
+        "patent_id": "patent/FR3143549A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3143549A1%2Fen"
+      },
+      {
+        "publication_number": "US12384556B2",
+        "primary_language": "en",
+        "priority_date": "2023-01-25",
+        "publication_date": "2025-08-12",
+        "assignee_original": "Rolls-Royce Corporation",
+        "title": "Hybrid propulsion systems with power sharing",
+        "patent_id": "patent/US12384556B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12384556B2%2Fen"
+      },
+      {
+        "publication_number": "US12371177B2",
+        "primary_language": "en",
+        "priority_date": "2023-01-25",
+        "publication_date": "2025-07-29",
+        "assignee_original": "Rolls-Royce Corporation",
+        "title": "Hybrid propulsion systems with power sharing",
+        "patent_id": "patent/US12371177B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12371177B2%2Fen"
+      },
+      {
+        "publication_number": "US12428986B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-03",
+        "publication_date": "2025-09-30",
+        "assignee_original": "Rtx Corporation",
+        "title": "Aircraft propulsion system engine with multiple independent rotating structures",
+        "patent_id": "patent/US12428986B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12428986B2%2Fen"
+      },
+      {
+        "publication_number": "US12188551B1",
+        "primary_language": "en",
+        "priority_date": "2023-09-29",
+        "publication_date": "2025-01-07",
+        "assignee_original": "Rtx Corporation",
+        "title": "Reduced clearance interface between a fluid device and a rotating structure for a geartrain",
+        "patent_id": "patent/US12188551B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12188551B1%2Fen"
+      },
+      {
+        "publication_number": "US12292107B2",
+        "primary_language": "en",
+        "priority_date": "2023-09-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Rtx Corporation",
+        "title": "Fluid damper for turbine engine geartrain assembly",
+        "patent_id": "patent/US12292107B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12292107B2%2Fen"
+      },
+      {
+        "publication_number": "US12135076B1",
+        "primary_language": "en",
+        "priority_date": "2023-09-29",
+        "publication_date": "2024-11-05",
+        "assignee_original": "Rtx Corporation",
+        "title": "Fluid device(s) for supporting rotating structure(s) of a turbine engine",
+        "patent_id": "patent/US12135076B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12135076B1%2Fen"
+      },
+      {
+        "publication_number": "US12331683B2",
+        "primary_language": "en",
+        "priority_date": "2023-09-29",
+        "publication_date": "2025-06-17",
+        "assignee_original": "Rtx Corporation",
+        "title": "Bearing arrangement for turbine engine geartrain",
+        "patent_id": "patent/US12331683B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12331683B2%2Fen"
+      },
+      {
+        "publication_number": "US12448142B1",
+        "primary_language": "en",
+        "priority_date": "2024-10-17",
+        "publication_date": "2025-10-21",
+        "assignee_original": "General Electric Company",
+        "title": "Electric propulsion system for a flight vehicle",
+        "patent_id": "patent/US12448142B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12448142B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US12503228B2",
+      "primary_language": "en",
+      "publication_date": "2025-12-23",
+      "title": "Vertical takeoff and landing aircraft",
+      "patent_id": "patent/US12503228B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12503228B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11046428B2",
+      "primary_language": "en",
+      "publication_date": "2021-06-29",
+      "title": "Tiltrotor propulsion system for an aircraft",
+      "patent_id": "patent/US11046428B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11046428B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10252797B2",
+      "primary_language": "en",
+      "publication_date": "2019-04-09",
+      "title": "Tiltrotor propulsion system for an aircraft",
+      "patent_id": "patent/US10252797B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10252797B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10384773B2",
+      "primary_language": "en",
+      "publication_date": "2019-08-20",
+      "title": "Tiltrotor propulsion system for an aircraft",
+      "patent_id": "patent/US10384773B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10384773B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10392106B2",
+      "primary_language": "en",
+      "publication_date": "2019-08-27",
+      "title": "Tiltrotor propulsion system for an aircraft",
+      "patent_id": "patent/US10392106B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10392106B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20180065739A1",
+      "primary_language": "en",
+      "publication_date": "2018-03-08",
+      "title": "Tiltrotor propulsion system for an aircraft",
+      "patent_id": "patent/US20180065739A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180065739A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3453616B1",
+      "primary_language": "en",
+      "publication_date": "2023-10-25",
+      "title": "Vertical takeoff and landing aircraft",
+      "patent_id": "patent/EP3453616B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3453616B1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2018-07-23",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "GENERAL ELECTRIC COMPANY, NEW YORK"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MURROW, KURT DAVID;BREEZE-STRINGFELLOW, ANDREW;ZATORSKI, DAREK TOMASZ;AND OTHERS;SIGNING DATES FROM 20180716 TO 20180723;REEL/FRAME:046428/0150"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-23",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-21",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-17",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-14",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2020-10-22",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-01",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-04",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-16",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2024-12-21",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

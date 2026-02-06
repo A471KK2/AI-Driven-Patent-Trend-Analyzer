@@ -1,0 +1,847 @@
+{
+  "search_metadata": {
+    "id": "697a34613d87015dc75da7c4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/54a773120810b40b/697a34613d87015dc75da7c4.json",
+    "created_at": "2026-01-28 16:08:01 UTC",
+    "processed_at": "2026-01-28 16:08:01 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20170197719A1/en",
+    "raw_html_file": "https://serpapi.com/searches/54a773120810b40b/697a34613d87015dc75da7c4.html",
+    "total_time_taken": 0.6
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20170197719A1/en"
+  },
+  "title": "Unmanned aerial vehicle for evacuating people from skyscraper and managing method for the same",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b8/bd/e8/46348b3491d799/US20170197719A1.pdf",
+  "publication_number": "US20170197719A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "unit",
+    "body unit",
+    "building",
+    "aerial",
+    "aerial body"
+  ],
+  "prior_art_date": "2016-01-12",
+  "application_number": "US15/404,500",
+  "inventors": [
+    {
+      "name": "Yong Jin Kwon",
+      "link": "https://patents.google.com/?inventor=Yong+Jin+Kwon",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yong+Jin+Kwon"
+    },
+    {
+      "name": "Eung Hyun LEE",
+      "link": "https://patents.google.com/?inventor=Eung+Hyun+LEE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Eung+Hyun+LEE"
+    }
+  ],
+  "assignees": [
+    "Ajou University Industry Academic Cooperation Foundation"
+  ],
+  "priority_date": "2016-01-12",
+  "filing_date": "2017-01-12",
+  "publication_date": "2017-07-13",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-01-12",
+        "country_code": "KR",
+        "application_number": "KR1020160003815A",
+        "document_id": "patent/KR101765074B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2017": [
+      {
+        "filing_date": "2017-01-12",
+        "country_code": "US",
+        "application_number": "US15/404,500",
+        "document_id": "patent/US20170197719A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2017-01-12",
+      "title": "Application filed by Ajou University Industry Academic Cooperation Foundation",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Ajou University Industry Academic Cooperation Foundation"
+    },
+    {
+      "date": "2017-01-13",
+      "title": "Assigned to AJOU UNIVERSITY INDUSTRY-ACADEMIC COOPERATION FOUNDATION",
+      "type": "reassignment",
+      "assignee_search": "AJOU UNIVERSITY INDUSTRY-ACADEMIC COOPERATION FOUNDATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KWON, YONG JIN, LEE, EUNG HYUN"
+      ]
+    },
+    {
+      "date": "2017-07-13",
+      "title": "Publication of US20170197719A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20170197719A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20170197719.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15404500"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20170197719"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017197719A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15404500/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20170197719"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/1a/33/db/12c0bdad626652/US20170197719A1-20170713-D00000.png",
+    "https://patentimages.storage.googleapis.com/03/bb/88/45641bd0895a2c/US20170197719A1-20170713-D00001.png",
+    "https://patentimages.storage.googleapis.com/4e/39/0c/5c9c5896f8f7c3/US20170197719A1-20170713-D00002.png",
+    "https://patentimages.storage.googleapis.com/c1/f8/20/61daadf97d7505/US20170197719A1-20170713-D00003.png",
+    "https://patentimages.storage.googleapis.com/d7/e8/5a/e087d0b41dae8a/US20170197719A1-20170713-D00004.png",
+    "https://patentimages.storage.googleapis.com/0c/98/63/e508d7d809e9c9/US20170197719A1-20170713-D00005.png",
+    "https://patentimages.storage.googleapis.com/07/aa/c3/669132c1b80e89/US20170197719A1-20170713-D00006.png",
+    "https://patentimages.storage.googleapis.com/8e/3d/66/5d894af6e83a04/US20170197719A1-20170713-D00007.png",
+    "https://patentimages.storage.googleapis.com/71/65/11/fdb88cabfbbcfd/US20170197719A1-20170713-D00008.png",
+    "https://patentimages.storage.googleapis.com/79/e9/57/8b97c50d709e6d/US20170197719A1-20170713-D00009.png",
+    "https://patentimages.storage.googleapis.com/12/00/f4/f81430f48716ab/US20170197719A1-20170713-D00010.png",
+    "https://patentimages.storage.googleapis.com/21/2b/6c/49d241e0d7572e/US20170197719A1-20170713-D00011.png",
+    "https://patentimages.storage.googleapis.com/7e/b3/b5/df71083e99ab0f/US20170197719A1-20170713-D00012.png",
+    "https://patentimages.storage.googleapis.com/a1/3c/0f/9dea0a6e53e161/US20170197719A1-20170713-D00013.png",
+    "https://patentimages.storage.googleapis.com/77/72/2a/59d790888788da/US20170197719A1-20170713-D00014.png",
+    "https://patentimages.storage.googleapis.com/b3/f4/c4/2e114fcbaa3ac2/US20170197719A1-20170713-D00015.png",
+    "https://patentimages.storage.googleapis.com/d9/14/38/5bdab6ef99f9e9/US20170197719A1-20170713-D00016.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64D9/00",
+      "description": "Equipment for handling freight; Equipment for facilitating passenger embarkation or the like",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C15/02",
+      "description": "Attitude, flight direction, or altitude control by jet reaction the jets being propulsion jets",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C29/0025",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft having its flight directional axis horizontal when grounded the lift during taking-off being created by free or ducted propellers or by blowers the propellers being fixed relative to the fuselage",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/24",
+      "description": "Aircraft characterised by the type or position of power plants using steam or spring force",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D47/08",
+      "description": "Arrangements of cameras",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64F1/12",
+      "description": "Ground or aircraft-carrier-deck installations for anchoring aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/13",
+      "description": "Flying platforms",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/26",
+      "description": "Ducted or shrouded rotors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U70/30",
+      "description": "Launching, take-off or landing arrangements for capturing UAVs in flight by ground or sea-based arresting gear, e.g. by a cable or a net",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/30",
+      "description": "UAVs specially adapted for particular uses or applications for imaging, photography or videography",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/60",
+      "description": "UAVs specially adapted for particular uses or applications for transporting passengers; for transporting goods other than weapons",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/00",
+      "description": "UAVs characterised by their flight controls",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Provided is an unmanned aerial vehicle for evacuating people from a skyscraper, including: an aerial body unit including an evacuating cage in which a boarding space for evacuating people is formed; a main thrust unit having a form in which a propeller is coupled in a cylindrical structure and installed on both sides of the aerial body unit to take off and raise the aerial body unit by main thrust generated by the propeller; an auxiliary thrust unit having the form in which the propeller is coupled in the cylindrical structure and installed on a rear surface of the aerial body unit and horizontally moving the aerial body unit by auxiliary thrust generated in a vertical direction to an outer wall of the building by the propeller to approach the aerial body unit to the outer wall of the building; and a vacuum adsorption unit installed on a front surface of the aerial body unit and detachably fixed to the outer wall of the building through vacuum adsorption.",
+  "description_link": "https://serpapi.com/searches/697a34613d87015dc75da7c4/google_patents_details/description.html",
+  "claims": [
+    "1. An unmanned aerial vehicle for evacuating people from a skyscraper, the unmanned aerial vehicle comprising:\nan aerial body unit including an evacuating cage in which a boarding space for evacuating people is formed; a main thrust unit having a form in which a propeller is coupled in a cylindrical structure and installed on both sides of the aerial body unit to take off and raise the aerial body unit by main thrust generated by the propeller; an auxiliary thrust unit having the form in which the propeller is coupled in the cylindrical structure and installed on a rear surface of the aerial body unit and horizontally moving the aerial body unit by auxiliary thrust generated in a vertical direction to an outer wall of the building by the propeller to approach the aerial body unit to the outer wall of the building; and a vacuum adsorption unit installed on a front surface of the aerial body unit and detachably fixed to the outer wall of the building through vacuum adsorption.",
+    "2. The unmanned aerial vehicle according to claim 1, wherein the main thrust unit is constituted by at least a pair on two sides of the aerial body unit, in which each pair of propellers rotates clockwise and counterclockwise and controls freedom degrees of the aerial body unit by a rotation operation for each pair of propellers.",
+    "3. The unmanned aerial vehicle according to claim 1, further comprising:\nan aerial control unit detecting a distance between the aerial body unit and the outer wall of the building by using an ultrasonic sensor, determining that the aerial body unit approaches the outer wall of the building when the detected distance is included in a predetermined range, and controlling an operation of the vacuum adsorption unit according to the determined result.",
+    "4. The unmanned aerial vehicle according to claim 3, wherein the aerial control unit detects the building window frame by tracking an outline of the building window frame by using a camera when the aerial body unit approaches the outer wall of the building and controls the operation of the main thrust unit and the auxiliary thrust unit to approach the aerial body unit to the building window frame and then controls the operation of the vacuum adsorption unit to attach the aerial body unit to the outer wall of the building surrounding the building window frame.",
+    "5. The unmanned aerial vehicle according to claim 3, wherein the aerial control unit controls the operation of the main thrust unit to fly the aerial body unit in place in the air when the aerial body unit reaches the corresponding altitude of the building, controls the operation of the auxiliary thrust unit to approach the aerial body unit to the outer wall of the building until a distance between the aerial body unit and the outer wall of the building is included in a predetermined range.",
+    "6. The unmanned aerial vehicle according to claim 4, wherein the main thrust unit allows each pair of propellers rotating clockwise and counterclockwise to produce the same output and the sum of yaw becomes 0 and maintains a balance of the aerial body unit to fly the aerial body unit in place in the air, according to the control of the aerial control unit.",
+    "7. The unmanned aerial vehicle according to claim 3, wherein the aerial control unit activates an approach mode when the aerial body unit approaches the outer wall of the building and reduces controllability according to a console input of the operator to prevent the aerial body unit from being sensitively operated.",
+    "8. The unmanned aerial vehicle according to claim 1, further comprising:\nan altitude information database unit making into a database and storing altitude information for each layer with respect to a plurality of buildings; and an aerial control unit controlling the operation of the main thrust unit so that the unmanned aerial vehicle is automatically positioned on the corresponding layer of the building by searching the altitude information for the corresponding layer from the altitude information database when information on the corresponding layer of the building for evacuating people is input.",
+    "9. The unmanned aerial vehicle according to claim 1, further comprising:\na power supply unit supplying power to the main thrust unit and the auxiliary thrust unit, wherein the power supply unit includes a rechargeable battery.",
+    "10. The unmanned aerial vehicle according to claim 9, further comprising:\nan aerial control unit interrupting the power supplied to the main thrust unit and the auxiliary thrust unit until the boarding of the evacuated people in the evacuating cage is completed when the aerial body unit is attached to the outer wall of the building through the vacuum adsorption of the vacuum adsorption unit to stop an operation of a motor which drives the propellers of the main thrust unit and the auxiliary thrust unit.",
+    "11. The unmanned aerial vehicle according to claim 1, wherein the aerial body unit further includes an air curtain installed in a boarding entrance of the evacuating cage, and an air curtain operator which operates the air curtain for safety of the evacuated person when the boarding of the evacuated person in the evacuating cage is completed.",
+    "12. The unmanned aerial vehicle according to claim 1, wherein the aerial body unit further includes folding stairs installed on a front side of the evacuating cage for easy boarding of evacuated people which board the evacuating cage.",
+    "13. A managing method of an unmanned aerial vehicle for evacuating people from a skyscraper, the managing method comprising:\ntaking off and raising an aerial body unit by main thrust generated by a propeller by controlling an operation of a main thrust unit installed on both sides of the aerial body unit and having a form in which a propeller is coupled in a cylindrical structure; horizontally moving the aerial body unit by auxiliary thrust generated in a vertical direction to an outer wall of the building by the propeller to approach the aerial body unit to an outer wall of a building by controlling the operation of an auxiliary thrust unit installed on a rear surface of the aerial body unit and having the form in which the propeller is coupled in the cylindrical structure; and attaching the aerial body unit to the outer wall of the building through vacuum adsorption of a vacuum adsorption unit by providing vacuum pressure to the vacuum adsorption unit installed on a front surface of the aerial body unit.",
+    "14. The managing method according to claim 13, further comprising:\nafter the taking off and raising the aerial body unit, controlling freedom degrees of the aerial body unit by performing a rotation operation for each pair of propellers of the main thrust unit constituted by at least a pair on two sides of the aerial body unit clockwise and counterclockwise.",
+    "15. The managing method according to claim 13, further comprising:\nafter the approaching of the aerial body unit to the outer wall of the building, detecting a distance between the aerial body unit and the outer wall of the building by using an ultrasonic sensor; and determining that the aerial body unit approaches the outer wall of the building when the detected distance is included in a predetermined range.",
+    "16. The managing method according to claim 13, wherein the approaching of the aerial body unit to the outer wall of the building includes\ndetecting the building window frame by tracking an outline of the building window frame by using a camera when the aerial body unit approaches the outer wall of the building, and controlling the operation of the main thrust unit and the auxiliary thrust unit to approach the aerial body unit to the building window frame, and the attaching of the aerial body unit to the outer wall of the building includes controlling the operation of the vacuum adsorption unit to attach the aerial body unit to the outer wall of the building surrounding the building window frame.",
+    "17. The managing method according to claim 13, further comprising:\nafter the taking off and raising of the aerial body unit, controlling the operation of the main thrust unit to fly the aerial body unit in place in the air when the aerial body unit reaches the corresponding altitude of the building, and the attaching of the aerial body unit to the outer wall of the building includes controlling the operation of the auxiliary thrust unit to approach the aerial body unit to the outer wall of the building until a distance between the aerial body unit and the outer wall of the building is included in a predetermined range.",
+    "18. The managing method according to claim 17, wherein the flying of the aerial body unit in place in the air includes\nallowing, by the main thrust unit, each pair of propellers rotating clockwise and counterclockwise to produce the same output and the sum of yaw becomes 0 and maintains a balance of the aerial body unit to fly the aerial body unit in place in the air.",
+    "19. The managing method according to claim 13, wherein the approaching of the aerial body unit to the outer wall of the building includes\nactivating an approach mode when the aerial body unit approaches the outer wall of the building, and reducing controllability according to a console input of the operator to prevent the aerial body unit from being sensitively operated.",
+    "20. The managing method according to claim 13, further comprising:\nmaking altitude information for each layer into a database with respect to a plurality of buildings and storing the altitude information in an altitude information database unit; and controlling the operation of the main thrust unit so that the unmanned aerial vehicle is automatically positioned on the corresponding layer of the building by searching the altitude information for the corresponding layer from the altitude information database when information on the corresponding layer of the building for evacuating people is input.",
+    "21. The managing method according to claim 13, further comprising:\ninterrupting the power supplied to the main thrust unit and the auxiliary thrust unit until the boarding of the evacuated people in the evacuating cage provided in the aerial body unit is completed when the aerial body unit is attached to the outer wall of the building through the vacuum adsorption of the vacuum adsorption unit to stop an operation of a motor which drives the propellers of the main thrust unit and the auxiliary thrust unit.",
+    "22. The managing method according to claim 21, further comprising:\nafter the stopping of the operation of the motor, operating the air curtain installed in a boarding entrance of the evacuating cage for safety of the evacuated person when the boarding of the evacuated person in the evacuating cage is completed."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "KR1020160003815A",
+      "representative_publication": "KR101765074B1",
+      "primary_language": "en",
+      "priority_date": "2016-01-12",
+      "filing_date": "2016-01-12",
+      "title": "Unmanned aerial vehicle for evacuating people from skyscraper and managing method for the same"
+    },
+    {
+      "application_number": "KR10-2016-0003815",
+      "filing_date": "2016-01-12"
+    }
+  ],
+  "family_id": "59274747",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US9290267B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-22",
+        "publication_date": "2016-03-22",
+        "assignee_original": "David Metreveli",
+        "title": "Vertical take-off and landing aerial rescue and firefighting platform",
+        "patent_id": "patent/US9290267B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9290267B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "EP3492379A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-04",
+        "publication_date": "2019-06-05",
+        "assignee_original": "Politechnika Slaska",
+        "title": "Unmanned aerial vehicle with docking module",
+        "patent_id": "patent/EP3492379A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3492379A1%2Fen"
+      },
+      {
+        "publication_number": "CN111071441A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-29",
+        "publication_date": "2020-04-28",
+        "assignee_original": "\u9655\u897f\u5317\u6597\u91d1\u7bad\u822a\u7a7a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Flying robot for high-rise building rescue",
+        "patent_id": "patent/CN111071441A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111071441A%2Fen"
+      },
+      {
+        "publication_number": "DE102019202976A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-05",
+        "publication_date": "2020-09-10",
+        "assignee_original": "Volkswagen Aktiengesellschaft",
+        "title": "Evacuation drone",
+        "patent_id": "patent/DE102019202976A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019202976A1%2Fen"
+      },
+      {
+        "publication_number": "US10926874B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-15",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Hybrid propulsion vertical take-off and landing aircraft",
+        "patent_id": "patent/US10926874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926874B2%2Fen"
+      },
+      {
+        "publication_number": "US20210347476A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-06",
+        "publication_date": "2021-11-11",
+        "assignee_original": "Hishida R&D Co., Ltd.",
+        "title": "Unmanned aerial vehicle",
+        "patent_id": "patent/US20210347476A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210347476A1%2Fen"
+      },
+      {
+        "publication_number": "KR102370785B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-17",
+        "publication_date": "2022-03-04",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc720\uc778\ud504\ub77c\uc6e8\uc774",
+        "title": "Balloon type 6 degrees of freedom dron",
+        "patent_id": "patent/KR102370785B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102370785B1%2Fen"
+      },
+      {
+        "publication_number": "US20220073204A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-10",
+        "publication_date": "2022-03-10",
+        "assignee_original": "Matternet, Inc.",
+        "title": "Methods and systems for transportation using unmanned aerial vehicles",
+        "patent_id": "patent/US20220073204A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220073204A1%2Fen"
+      },
+      {
+        "publication_number": "US11559906B1",
+        "primary_language": "en",
+        "priority_date": "2022-05-25",
+        "publication_date": "2023-01-24",
+        "assignee_original": "Neil Buttermore",
+        "title": "Apparatus and method for object mounting system",
+        "patent_id": "patent/US11559906B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11559906B1%2Fen"
+      },
+      {
+        "publication_number": "US11648883B1",
+        "primary_language": "en",
+        "priority_date": "2020-12-21",
+        "publication_date": "2023-05-16",
+        "assignee_original": "Neil Thomas Buttermore",
+        "title": "Apparatus and method for active cargo carrier mounting system",
+        "patent_id": "patent/US11648883B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11648883B1%2Fen"
+      },
+      {
+        "publication_number": "WO2023229586A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-25",
+        "publication_date": "2023-11-30",
+        "assignee_original": "Neil Buttermore",
+        "title": "Apparatus and method for object mounting system",
+        "patent_id": "patent/WO2023229586A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023229586A1%2Fen"
+      },
+      {
+        "publication_number": "US11845553B1",
+        "primary_language": "en",
+        "priority_date": "2022-05-25",
+        "publication_date": "2023-12-19",
+        "assignee_original": "Neil Buttermore",
+        "title": "Apparatus and method for ordinance mounting system",
+        "patent_id": "patent/US11845553B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11845553B1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "US20240239531A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-09",
+        "publication_date": "2024-07-18",
+        "assignee_original": "Pete Bitar",
+        "title": "Compact and Lightweight Drone Delivery Device called an ArcSpear Electric Jet Drone System Having an Electric Ducted Air Propulsion System and Being Relatively Difficult to Track in Flight",
+        "patent_id": "patent/US20240239531A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240239531A1%2Fen"
+      },
+      {
+        "publication_number": "US12131656B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-09",
+        "publication_date": "2024-10-29",
+        "assignee_original": "Singularity University",
+        "title": "Transportation using network of unmanned aerial vehicles",
+        "patent_id": "patent/US12131656B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12131656B2%2Fen"
+      },
+      {
+        "publication_number": "CN119872891A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2025-03-24",
+        "publication_date": "2025-04-25",
+        "assignee_original": "\u57fa\u51c6\u65b9\u4e2d(\u6210\u90fd)\u5efa\u7b51\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "High-rise building rapid rescue lifting unmanned aerial vehicle",
+        "patent_id": "patent/CN119872891A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119872891A%2Fen"
+      },
+      {
+        "publication_number": "US12434682B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-26",
+        "publication_date": "2025-10-07",
+        "assignee_original": "Owen Richard Wiseman",
+        "title": "Hover drone system",
+        "patent_id": "patent/US12434682B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12434682B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN110949671B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-26",
+        "publication_date": "2022-06-07",
+        "assignee_original": "\u5317\u4eac\u4eac\u4e1c\u4e7e\u77f3\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Drone cargo hold, drone and method of loading and unloading cargo",
+        "patent_id": "patent/CN110949671B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110949671B%2Fen"
+      },
+      {
+        "publication_number": "CN109481859A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-19",
+        "publication_date": "2019-03-19",
+        "assignee_original": "\u8c37\u96e8",
+        "title": "A kind of manned steadily hovering and lifting device for high-rise building life saving",
+        "patent_id": "patent/CN109481859A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109481859A%2Fen"
+      },
+      {
+        "publication_number": "CN109513124A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-29",
+        "publication_date": "2019-03-26",
+        "assignee_original": "\u71d5\u5c71\u5927\u5b66",
+        "title": "An over-limit high-altitude fire rescue device",
+        "patent_id": "patent/CN109513124A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109513124A%2Fen"
+      },
+      {
+        "publication_number": "KR102653855B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-26",
+        "publication_date": "2024-04-03",
+        "assignee_original": "\ud55c\uad6d\uc6d0\uc790\ub825\uc5f0\uad6c\uc6d0",
+        "title": "Air Floating Personal Mobility Device",
+        "patent_id": "patent/KR102653855B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102653855B1%2Fen"
+      },
+      {
+        "publication_number": "KR102569499B1",
+        "primary_language": "en",
+        "priority_date": "2022-06-21",
+        "publication_date": "2023-08-25",
+        "assignee_original": "\ub300\ud55c\ubbfc\uad6d",
+        "title": "Buried person search device using detachable module",
+        "patent_id": "patent/KR102569499B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102569499B1%2Fen"
+      },
+      {
+        "publication_number": "KR102473045B1",
+        "primary_language": "en",
+        "priority_date": "2022-06-21",
+        "publication_date": "2022-12-06",
+        "assignee_original": "\ub300\ud55c\ubbfc\uad6d",
+        "title": "Disaster situation communication network infrastructure supplementation method and system using unmanned mobile device",
+        "patent_id": "patent/KR102473045B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102473045B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20170197719A1",
+      "primary_language": "en",
+      "publication_date": "2017-07-13",
+      "title": "Unmanned aerial vehicle for evacuating people from skyscraper and managing method for the same",
+      "patent_id": "patent/US20170197719A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170197719A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2019156397A",
+      "primary_language": "en",
+      "publication_date": "2019-09-19",
+      "title": "Flight unit and control method of flight unit",
+      "patent_id": "patent/JP2019156397A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019156397A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20170097819A",
+      "primary_language": "en",
+      "publication_date": "2017-08-29",
+      "title": "Dron for flying and ground moving",
+      "patent_id": "patent/KR20170097819A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20170097819A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2024172830A1",
+      "primary_language": "en",
+      "publication_date": "2024-08-22",
+      "title": "Aerial firefighting and rescue hovercraft",
+      "patent_id": "patent/WO2024172830A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024172830A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-01-13",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "AJOU UNIVERSITY INDUSTRY-ACADEMIC COOPERATION FOUN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KWON, YONG JIN;LEE, EUNG HYUN;REEL/FRAME:040964/0550"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170110"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-19",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-29",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-21",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "FINAL REJECTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-16",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000001179",
+        "name": "sorption measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 42
+      },
+      {
+        "id": "230000003213",
+        "name": "activating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "102100027004",
+        "name": "Inhibin beta A chain",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003380",
+        "name": "propellant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001629",
+        "name": "suppression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001931",
+        "name": "thermography",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007257",
+        "name": "malfunction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001151",
+        "name": "other effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

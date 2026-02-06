@@ -1,0 +1,613 @@
+{
+  "search_metadata": {
+    "id": "697a236b822c5fc581d22987",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/13b687ff773e271b/697a236b822c5fc581d22987.json",
+    "created_at": "2026-01-28 14:55:39 UTC",
+    "processed_at": "2026-01-28 14:55:39 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2019242958A1/en",
+    "raw_html_file": "https://serpapi.com/searches/13b687ff773e271b/697a236b822c5fc581d22987.html",
+    "total_time_taken": 1.11
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2019242958A1/en"
+  },
+  "title": "Rail vehicle group",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/27/ac/b9/db131e9da5b165/WO2019242958A1.pdf",
+  "publication_number": "WO2019242958A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "vehicle",
+    "rail",
+    "rail vehicle",
+    "longitudinal direction",
+    "rail vehicles"
+  ],
+  "prior_art_date": "2018-06-18",
+  "application_number": "PCT/EP2019/062810",
+  "inventors": [
+    {
+      "name": "Helmut Treutler",
+      "link": "https://patents.google.com/?inventor=Helmut+Treutler",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Helmut+Treutler"
+    },
+    {
+      "name": "Markus Wilhelm",
+      "link": "https://patents.google.com/?inventor=Markus+Wilhelm",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Markus+Wilhelm"
+    },
+    {
+      "name": "Martin Krause",
+      "link": "https://patents.google.com/?inventor=Martin+Krause",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Martin+Krause"
+    }
+  ],
+  "assignees": [
+    "Siemens Mobility GmbH"
+  ],
+  "priority_date": "2018-06-18",
+  "filing_date": "2019-05-17",
+  "publication_date": "2019-12-26",
+  "worldwide_applications": {
+    "2018": [
+      {
+        "filing_date": "2018-06-18",
+        "country_code": "DE",
+        "application_number": "DE102018209748.8A",
+        "document_id": "patent/DE102018209748A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ],
+    "2019": [
+      {
+        "filing_date": "2019-05-17",
+        "country_code": "CN",
+        "application_number": "CN201990000794.8U",
+        "document_id": "patent/CN215513656U/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2019-05-17",
+        "country_code": "WO",
+        "application_number": "PCT/EP2019/062810",
+        "document_id": "patent/WO2019242958A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      },
+      {
+        "filing_date": "2019-05-17",
+        "country_code": "ES",
+        "application_number": "ES19727886T",
+        "document_id": "patent/ES2948773T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2019-05-17",
+        "country_code": "EP",
+        "application_number": "EP19727886.4A",
+        "document_id": "patent/EP3784544B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-05-17",
+      "title": "Application filed by Siemens Mobility GmbH",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Siemens Mobility GmbH"
+    },
+    {
+      "date": "2019-05-17",
+      "title": "Priority to ES19727886T",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/ES2948773T3/en"
+    },
+    {
+      "date": "2019-05-17",
+      "title": "Priority to CN201990000794.8U",
+      "type": "priority",
+      "document_id": "patent/CN215513656U/en"
+    },
+    {
+      "date": "2019-05-17",
+      "title": "Priority to EP19727886.4A",
+      "type": "priority",
+      "document_id": "patent/EP3784544B1/en"
+    },
+    {
+      "date": "2019-12-26",
+      "title": "Publication of WO2019242958A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2019242958A1/en"
+    },
+    {
+      "date": "2020-12-18",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2019242958A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTEP2019062810/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2019242958"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2019242958A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "B61C17/00",
+      "description": "Arrangement or disposition of parts; Details or accessories not otherwise provided for; Use of control gear and control systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T30/00",
+      "description": "Transportation of goods or passengers via railways, e.g. energy recovery or reducing air resistance",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention relates to a rail vehicle group (2a, 2b, 2c), which comprises m rail vehicles (4a-4d), each of which has an underfloor region (8), n device units (26, 26a-26e) arranged one behind the other in the vehicle longitudinal direction (28) in the underfloor region (8), and a first and a second drive (22, 24), wherein m and n are natural numbers greater than 1, and for each of the m rail vehicles (4a-4d), each of the n device units (26, 26a-26e) is the same type as one of the n device units (26, 26a-26e) of each of the other m rail vehicles (4a-4d). The aim of the invention is to achieve a lower degree of production complexity of the rail vehicle group (2a, 2b, 2c). This is achieved in that the position of the device units of the same type relative to the first drive is standard for the different rail vehicles.",
+  "description_link": "https://serpapi.com/searches/697a236b822c5fc581d22987/google_patents_details/description.html",
+  "claims": [
+    "1. Schienenfahrzeuggruppe (2a, 2b, 2c), umfassend m Schienen fahrzeuge (4a-4d) , von denen jedes einen Unterflurbereich (8), n in seinem Unterflurbereich (8) in Fahrzeugl\u00e4ngsrich tung (28) hintereinander angeordnete Ger\u00e4teeinheiten (26, 26a-26e) sowie ein erstes und ein zweites Laufwerk (22, 24) aufweist, wobei m und n nat\u00fcrliche Zahlen gr\u00f6\u00dfer als 1 sind und bei jedem der m Schienenfahrzeuge (4a-4d) jede seiner n Ger\u00e4teeinheiten (26, 26a-26e) typgleich zu einer der n Ger\u00e4 teeinheiten (26, 26a-26e) jedes anderen der m Schienenfahr zeuge (4a-4d) ist, 1. rail vehicle group (2a, 2b, 2c), comprising m rail vehicles (4a-4d), each of which has an underfloor area (8), n in its underfloor area (8) in the vehicle longitudinal direction (28) device units (26, 26a) arranged one behind the other -26e) and a first and a second drive (22, 24), wherein m and n natural numbers are greater than 1 and each of its m device units (26, 26a-26e) of the same type in each of the m rail vehicles (4a-4d) to one of the n device units (26, 26a-26e) of each other of the m rail vehicles (4a-4d),\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         f\u00fcr alle i von 1 bis n for all i from 1 to n\n      \n      \n          - bei jedem der m Schienenfahrzeuge (4a-4d) die in Fahr zeugl\u00e4ngsrichtung (28) i-te seiner n Ger\u00e4teeinheiten (26, 26a-26e) typgleich zur in Fahrzeugl\u00e4ngsrichtung (28) i-ten der n Ger\u00e4teeinheiten (26, 26a-26e) jedes anderen der m Schienenfahrzeuge (4a-4d) ist und \u00a0- In each of the m rail vehicles (4a-4d) the i in the vehicle longitudinal direction (28) i-th of its n device units (26, 26a-26e) of the same type as in the vehicle longitudinal direction (28) i-th of the n device units (26, 26a-26e ) any other of the m rail vehicles (4a-4d) and\n      \n      \n          - bei jedem der m Schienenfahrzeuge (4a-4d) die in Fahr zeugl\u00e4ngsrichtung (28) i-te seiner n Ger\u00e4teeinheiten (26, 26a-26e) einen vorgegebenen Abstand zu dessen erstem Lauf werk (22) aufweist, wobei der Abstand, den die in Fahr zeugl\u00e4ngsrichtung (28) i-te Ger\u00e4teeinheit (26, 26a-26e) des jeweiligen Schienenfahrzeugs (4a-4d) zu dessen erstem Laufwerk (22) aufweist, bei allen m Schienenfahrzeugen (4a-4d) gleich ist, \u00a0- In each of the m rail vehicles (4a-4d) in the vehicle longitudinal direction (28) i-th of its n device units (26, 26a-26e) has a predetermined distance from its first running gear (22), the distance that the in the vehicle longitudinal direction (28) has i-th device unit (26, 26a-26e) of the respective rail vehicle (4a-4d) to its first drive (22), is the same for all m rail vehicles (4a-4d),\n      \n      \n         wobei i eine nat\u00fcrliche Zahl ist und bei jedem der m Schie nenfahrzeuge (4a-4d) die Fahrzeugl\u00e4ngsrichtung (28) von sei nem ersten Laufwerk (22) zu seinem zweiten Laufwerk (24) ori entiert ist. where i is a natural number and in each of the m rail vehicles (4a-4d) the vehicle longitudinal direction (28) is oriented from its first drive (22) to its second drive (24).",
+    "2. Schienenfahrzeuggruppe (2a, 2b, 2c) nach Anspruch 1, dadurch gekennzeichnet, dass 2. Rail vehicle group (2a, 2b, 2c) according to claim 1, characterized in that\n      \n      \n         mindestens eine der n Ger\u00e4teeinheiten (26, 26a-26e) des je weiligen Schienenfahrzeugs (4a-4d) ein Druckluftbeh\u00e4lter (30, 40) ist oder einen Druckluftbeh\u00e4lter (30, 40) umfasst. \n\nat least one of the n device units (26, 26a-26e) of the respective rail vehicle (4a-4d) is a compressed air tank (30, 40) or comprises a compressed air tank (30, 40).",
+    "3. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 3. rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         eine der n Ger\u00e4teeinheiten (26, 26a-26e) des jeweiligen Schienenfahrzeugs (4a-4d) ein Ger\u00e4tecontainer (36) zur Auf nahme einer oder mehrerer elektrischer Fahrzeugkomponenten und/oder einer oder mehrerer pneumatischer Fahrzeugkomponen ten ist oder einen solchen Ger\u00e4tecontainer (36) umfasst. one of the n device units (26, 26a-26e) of the respective rail vehicle (4a-4d) is a device container (36) for receiving one or more electrical vehicle components and / or one or more pneumatic vehicle components or comprises such a device container (36) ,",
+    "4. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 4. Rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         eine der n Ger\u00e4teeinheiten (26, 26a-26e) des jeweiligen Schienenfahrzeugs (4a-4d) ein Tragger\u00fcst (38) f\u00fcr Kleinkompo nenten ist oder ein Tragger\u00fcst (38) f\u00fcr Kleinkomponenten um fasst . one of the n device units (26, 26a-26e) of the respective rail vehicle (4a-4d) is a supporting structure (38) for small components or comprises a supporting structure (38) for small components.",
+    "5. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 5. rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         eine der n Ger\u00e4teeinheiten (26, 26a-26e) des jeweiligen Schienenfahrzeugs (4a-4d) ein Abwassertank (34) ist oder ei nen Abwassertank (34) umfasst. one of the n device units (26, 26a-26e) of the respective rail vehicle (4a-4d) is a waste water tank (34) or comprises a waste water tank (34).",
+    "6. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 6. rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         der Unterflurbereich (8) des jeweiligen Schienenfahrzeugs (4a-4d) einen Teilbereich (44) zur individuellen Ausr\u00fcstung mit Fahrzeugkomponenten aufweist. the underfloor area (8) of the respective rail vehicle (4a-4d) has a partial area (44) for individual equipment with vehicle components.",
+    "7. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 7. rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         die n Ger\u00e4teeinheiten (26, 26a-26e) des jeweiligen Schienen fahrzeugs (4a-4d) zwischen dessen beiden Laufwerken (22, 24) angeordnet sind. \n\nthe n device units (26, 26a-26e) of the respective rail vehicle (4a-4d) are arranged between its two drives (22, 24).",
+    "8. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 8. rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         mindestens eines der m Schienenfahrzeuge (4a-4d) ein Mittel- wagen (12) ist und mindestens eines der m Schienenfahrzeuge (4a-4d) ein Endwagen (10) ist. at least one of the m rail vehicles (4a-4d) is a center car (12) and at least one of the m rail vehicles (4a-4d) is an end car (10).",
+    "9. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 9. rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         mindestens eines der m Schienenfahrzeuge (4a-4d) ein Triebwa gen (14) ist und mindestens eines der m Schienenfahrzeuge (4a-4d) ein Laufwagen (16) ist. at least one of the m rail vehicles (4a-4d) is a railcar (14) and at least one of the m rail vehicles (4a-4d) is a carriage (16).",
+    "10. Schienenfahrzeuggruppe (2a, 2b, 2c) nach einem der voran stehenden Anspr\u00fcche, 10. rail vehicle group (2a, 2b, 2c) according to one of the preceding claims,\n      \n      \n         dadurch gekennzeichnet, dass characterized in that\n      \n      \n         die m Schienenfahrzeuge (4a-4d) miteinander gekuppelt sind, sodass die Schienenfahrzeuge (4a-4d) zusammen einen Schienen- fahrzeugverbund bilden. \nthe m rail vehicles (4a-4d) are coupled to one another so that the rail vehicles (4a-4d) together form a rail vehicle network."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "ES19727886T",
+      "representative_publication": "ES2948773T3",
+      "primary_language": "en",
+      "priority_date": "2018-06-18",
+      "filing_date": "2019-05-17",
+      "title": "Rail vehicle group"
+    },
+    {
+      "application_number": "CN201990000794.8U",
+      "representative_publication": "CN215513656U",
+      "primary_language": "en",
+      "priority_date": "2018-06-18",
+      "filing_date": "2019-05-17",
+      "title": "Rail vehicle group"
+    },
+    {
+      "application_number": "EP19727886.4A",
+      "representative_publication": "EP3784544B1",
+      "primary_language": "en",
+      "priority_date": "2018-06-18",
+      "filing_date": "2019-05-17",
+      "title": "Rail vehicle group"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "DE102018209748.8",
+      "filing_date": "2018-06-18"
+    },
+    {
+      "application_number": "DE102018209748.8A",
+      "representative_publication": "DE102018209748A1",
+      "primary_language": "en",
+      "priority_date": "2018-06-18",
+      "filing_date": "2018-06-18",
+      "title": "Rail Vehicle Group"
+    }
+  ],
+  "family_id": "66685589",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "EP1340662A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-01",
+        "publication_date": "2003-09-03",
+        "assignee_original": "Bombardier Transportation (Technology) Germany GmbH",
+        "title": "Undercar assembly for a railcar",
+        "patent_id": "patent/EP1340662A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1340662A1%2Fen"
+      },
+      {
+        "publication_number": "CN201264607Y",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-24",
+        "publication_date": "2009-07-01",
+        "assignee_original": "\u5510\u5c71\u8f68\u9053\u5ba2\u8f66\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Balance stable under-vehicle equipment layout",
+        "patent_id": "patent/CN201264607Y/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201264607Y%2Fen"
+      },
+      {
+        "publication_number": "DE102013202236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-12",
+        "publication_date": "2014-08-14",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "track vehicle",
+        "patent_id": "patent/DE102013202236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102013202236A1%2Fen"
+      },
+      {
+        "publication_number": "EP3100928A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-01",
+        "publication_date": "2016-12-07",
+        "assignee_original": "Bombardier Transportation GmbH",
+        "title": "Vehicle with a support system",
+        "patent_id": "patent/EP3100928A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3100928A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102007032776A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-13",
+        "publication_date": "2009-01-15",
+        "assignee_original": "Siemens Ag",
+        "title": "Electric drive system",
+        "patent_id": "patent/DE102007032776A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102007032776A1%2Fen"
+      },
+      {
+        "publication_number": "DE102009009116B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-16",
+        "publication_date": "2021-02-25",
+        "assignee_original": "Bombardier Transportation Gmbh",
+        "title": "Multiple unit and process for its manufacture",
+        "patent_id": "patent/DE102009009116B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102009009116B4%2Fen"
+      },
+      {
+        "publication_number": "DE102014217430A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-01",
+        "publication_date": "2016-03-03",
+        "assignee_original": "Siemens Ag \u00d6sterreich",
+        "title": "Rail vehicle in articulated train design",
+        "patent_id": "patent/DE102014217430A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102014217430A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN112849162A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-03",
+        "publication_date": "2021-05-28",
+        "assignee_original": "\u4e2d\u8f66\u5510\u5c71\u673a\u8f66\u8f66\u8f86\u6709\u9650\u516c\u53f8",
+        "title": "Motor train unit train",
+        "patent_id": "patent/CN112849162A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112849162A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "DE102009024157A1",
+      "primary_language": "en",
+      "publication_date": "2011-03-03",
+      "title": "System and method for manufacturing a vehicle cabin",
+      "patent_id": "patent/DE102009024157A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102009024157A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2536630A2",
+      "primary_language": "en",
+      "publication_date": "2012-12-26",
+      "title": "Toilet assembly for a means of transportation",
+      "patent_id": "patent/EP2536630A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2536630A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102009009116B4",
+      "primary_language": "en",
+      "publication_date": "2021-02-25",
+      "title": "Multiple unit and process for its manufacture",
+      "patent_id": "patent/DE102009009116B4/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102009009116B4%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102011016031A1",
+      "primary_language": "en",
+      "publication_date": "2012-10-04",
+      "title": "Cabin segment, cabin and vehicle with a cabin",
+      "patent_id": "patent/DE102011016031A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102011016031A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102015116414A1",
+      "primary_language": "en",
+      "publication_date": "2017-03-30",
+      "title": "Passenger seating system with sliding seats for a means of transport and an aircraft cabin with such a passenger seat system",
+      "patent_id": "patent/DE102015116414A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102015116414A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102016104794A1",
+      "primary_language": "en",
+      "publication_date": "2017-09-21",
+      "title": "Partition module for a cabin of a vehicle for the optical and mechanical separation of different cabin areas",
+      "patent_id": "patent/DE102016104794A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102016104794A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102013110500A1",
+      "primary_language": "en",
+      "publication_date": "2015-04-16",
+      "title": "Apparatus for supporting a vehicle attendant seat in a cabin of a vehicle, cabin assembly in a vehicle and vehicle having at least one cabin assembly",
+      "patent_id": "patent/DE102013110500A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102013110500A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2406115B1",
+      "primary_language": "en",
+      "publication_date": "2013-10-02",
+      "title": "Ceiling panel having curtain rail in a transport means cabin, method and use",
+      "patent_id": "patent/EP2406115B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2406115B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2009150223A1",
+      "primary_language": "en",
+      "publication_date": "2009-12-17",
+      "title": "Autonomous o2 channel extending in the longitudinal direction",
+      "patent_id": "patent/WO2009150223A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009150223A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102014101895A1",
+      "primary_language": "en",
+      "publication_date": "2015-08-20",
+      "title": "Interior component for a vehicle with a modular passenger supply unit",
+      "patent_id": "patent/DE102014101895A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102014101895A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102019102476A1",
+      "primary_language": "en",
+      "publication_date": "2020-08-06",
+      "title": "Passenger cabin for a vehicle and a vehicle with at least one such cabin",
+      "patent_id": "patent/DE102019102476A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019102476A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1786646B2",
+      "primary_language": "en",
+      "publication_date": "2022-08-31",
+      "title": "Method for train formation from individual cars",
+      "patent_id": "patent/EP1786646B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1786646B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102017210750A1",
+      "primary_language": "en",
+      "publication_date": "2018-12-27",
+      "title": "Vehicle electrical system for a rail vehicle, method for operating the electrical system and rail vehicle",
+      "patent_id": "patent/DE102017210750A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102017210750A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2016139167A1",
+      "primary_language": "en",
+      "publication_date": "2016-09-09",
+      "title": "Rail vehicle, method for driving a rail vehicle and method for producing a rail vehicle",
+      "patent_id": "patent/WO2016139167A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016139167A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1926648B1",
+      "primary_language": "en",
+      "publication_date": "2010-01-06",
+      "title": "Production of a locomotive",
+      "patent_id": "patent/EP1926648B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1926648B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102020134235A1",
+      "primary_language": "en",
+      "publication_date": "2022-06-23",
+      "title": "PROCEDURE FOR MANUFACTURING A SPECIFIC VEHICLE OF A SET OF VEHICLES, A SPECIFIC VEHICLE, AND A SET OF VEHICLES",
+      "patent_id": "patent/DE102020134235A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102020134235A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2019242958A1",
+      "primary_language": "en",
+      "publication_date": "2019-12-26",
+      "title": "Rail vehicle group",
+      "patent_id": "patent/WO2019242958A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019242958A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102006034862A1",
+      "primary_language": "en",
+      "publication_date": "2008-01-31",
+      "title": "Vehicle cabin i.e. passenger aircraft, reconfiguring method, involves inserting cabin module through vehicle opening into vehicle cabin, fastening inserted module to vehicle cabin, and moving module from driven rollers to vehicle cabin",
+      "patent_id": "patent/DE102006034862A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102006034862A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102018213760A1",
+      "primary_language": "en",
+      "publication_date": "2020-02-20",
+      "title": "elevator system",
+      "patent_id": "patent/DE102018213760A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018213760A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102018115776A1",
+      "primary_language": "en",
+      "publication_date": "2020-01-02",
+      "title": "Seat frame mounting assembly, seat frame, vehicle section and vehicle with a seat frame mounting assembly",
+      "patent_id": "patent/DE102018115776A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018115776A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102017008684A1",
+      "primary_language": "en",
+      "publication_date": "2018-03-22",
+      "title": "Rail-bound transport",
+      "patent_id": "patent/DE102017008684A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102017008684A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102012002611A1",
+      "primary_language": "en",
+      "publication_date": "2013-08-14",
+      "title": "Rail vehicle with at least two car parts",
+      "patent_id": "patent/DE102012002611A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012002611A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE102018208452A1",
+      "primary_language": "en",
+      "publication_date": "2019-12-05",
+      "title": "Rail vehicle for passenger transport",
+      "patent_id": "patent/DE102018208452A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018208452A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2008034830A1",
+      "primary_language": "en",
+      "publication_date": "2008-03-27",
+      "title": "Rail vehicle with a drive unit",
+      "patent_id": "patent/WO2008034830A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008034830A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0891909A1",
+      "primary_language": "en",
+      "publication_date": "1999-01-20",
+      "title": "Streamlined two level driving cab vehicle",
+      "patent_id": "patent/EP0891909A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0891909A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2020-02-05",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "19727886"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-04",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2019727886"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201124"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-19",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    }
+  ]
+}

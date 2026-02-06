@@ -1,0 +1,1072 @@
+{
+  "search_metadata": {
+    "id": "697a34d0b6a8674562a8fc70",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/559b89a7ce48fc78/697a34d0b6a8674562a8fc70.json",
+    "created_at": "2026-01-28 16:09:52 UTC",
+    "processed_at": "2026-01-28 16:09:52 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US11383849B2/en",
+    "raw_html_file": "https://serpapi.com/searches/559b89a7ce48fc78/697a34d0b6a8674562a8fc70.html",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US11383849B2/en"
+  },
+  "title": "Solar drone comprising two aerofoils in tandem to which photovoltaic cells are coupled",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/2f/a1/2f/1d83eacbe6f324/US11383849.pdf",
+  "publication_number": "US11383849B2",
+  "country": "United States",
+  "prior_art_keywords": [
+    "aerofoil",
+    "aft",
+    "drone",
+    "photovoltaic cells",
+    "fuselage"
+  ],
+  "prior_art_date": "2016-12-23",
+  "application_number": "US16/471,992",
+  "inventors": [
+    {
+      "name": "Benjamin David",
+      "link": "https://patents.google.com/?inventor=Benjamin+David",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Benjamin+David"
+    }
+  ],
+  "assignees": [
+    "Xsun"
+  ],
+  "priority_date": "2016-12-23",
+  "filing_date": "2017-12-19",
+  "publication_date": "2022-07-12",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-12-23",
+        "country_code": "FR",
+        "application_number": "FR1663272A",
+        "document_id": "patent/FR3061143B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2017": [
+      {
+        "filing_date": "2017-12-19",
+        "country_code": "US",
+        "application_number": "US16/471,992",
+        "document_id": "patent/US11383849B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2017-12-19",
+        "country_code": "WO",
+        "application_number": "PCT/FR2017/053708",
+        "document_id": "patent/WO2018115724A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2017-12-19",
+        "country_code": "RU",
+        "application_number": "RU2019120326A",
+        "document_id": "patent/RU2746185C2/en",
+        "legal_status_cat": "active"
+      },
+      {
+        "filing_date": "2017-12-19",
+        "country_code": "CN",
+        "application_number": "CN201780074676.7A",
+        "document_id": "patent/CN110023189A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2017-12-19",
+        "country_code": "EP",
+        "application_number": "EP17828978.1A",
+        "document_id": "patent/EP3558821B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2017-12-19",
+      "title": "Application filed by Xsun",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Xsun"
+    },
+    {
+      "date": "2020-03-26",
+      "title": "Publication of US20200094978A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20200094978A1/en"
+    },
+    {
+      "date": "2021-01-14",
+      "title": "Assigned to XSUN",
+      "type": "reassignment",
+      "assignee_search": "XSUN",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DAVID, BENJAMIN"
+      ]
+    },
+    {
+      "date": "2022-07-12",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2022-07-12",
+      "title": "Publication of US11383849B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US11383849B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2038-12-21",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=11383849.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/16471992"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=11383849"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=11383849B2&KC=B2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/16471992/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US11383849"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/2a/10/29/fee1c53cd33955/US11383849-20220712-D00000.png",
+    "https://patentimages.storage.googleapis.com/50/59/f9/2abd9d99297b78/US11383849-20220712-D00001.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64U10/25",
+      "description": "Fixed-wing aircraft",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C3/10",
+      "description": "Shape of wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/08",
+      "description": "Aircraft not otherwise provided for having multiple wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/24",
+      "description": "Aircraft characterised by the type or position of power plants using steam or spring force",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/10",
+      "description": "Wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/19",
+      "description": "Propulsion using electrically powered motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/31",
+      "description": "Supply or distribution of electrical power generated by photovoltaics",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/021",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/042",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/104",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D2211/00",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A flying drone, which includes: a fuselage composed of a single central body; wings composed of a forward aerofoil and an aft aerofoil, the aft aerofoil being offset in height and in length along the fuselage relative to the forward aerofoil; propulsion powered at least by electrical accumulators and/or photovoltaic cells; and photovoltaic cells essentially covering the upper faces of the forward aerofoil and the aft aerofoil.",
+  "description_link": "https://serpapi.com/searches/697a34d0b6a8674562a8fc70/google_patents_details/description.html",
+  "claims": [
+    "1. A drone comprising:\na fuselage composed of a single central body;\nwings composed solely of:\na forward aerofoil defined by a wing surface area A1, a wingspan E1 and a chord C1, in which A1=E1\u00d7C1;\nan aft aerofoil defined by a wing surface area A2, a wingspan E2 and a chord C2, in which A2=E2\u00d7C2;\nwherein the aft aerofoil is offset in height and in length on the fuselage from the forward aerofoil, the forward aerofoil and the aft aerofoil is a straight wing aerofoil;\n\nat least one electrical accumulator;\nphotovoltaic cells essentially covering upper faces of the forward aerofoil and the aft aerofoil; and\na propulsion element powered at least by the at least one electrical accumulator and/or the photovoltaic cells;\nwherein:\nthe drone is a fixed wing drone;\nthe forward aerofoil is directly attached to a lower height on the central body, extends from the central body, and has a zero or negative dihedral angle;\nthe aft aerofoil is directly attached to an upper height on the central body, extends from the central body, and has a zero or positive dihedral angle;\nE1>E2 and C2>C1; and\nthe wing surface area A2 is essentially equal to the wing surface area A1.",
+    "2. The drone according to claim 1, wherein the aft aerofoil has a positive dihedral angle and in that the forward aerofoil has a zero dihedral angle.",
+    "3. The drone according to claim 2, wherein the positive dihedral angle presented by the aft aerofoil is between 1 degree and 5 degrees.",
+    "4. The drone according to claim 1, wherein the forward aerofoil and the aft aerofoil are offset in length along the fuselage with a longitudinal separation distance DL equal to between 2.5\u00d7C1 and 3.5\u00d7C1.",
+    "5. The drone according to claim 1, wherein the forward aerofoil and the aft aerofoil are offset in height along the fuselage with a separation distance in height DH equal to between 0.4\u00d7C1 and 0.6\u00d7C1.",
+    "6. The drone according to claim 1, wherein the forward aerofoil has a negative twist equal to between \u22121 degree to \u22124 degrees."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "FR1663272",
+      "filing_date": "2016-12-23"
+    },
+    {
+      "application_number": "FR1663272A",
+      "representative_publication": "FR3061143B1",
+      "primary_language": "en",
+      "priority_date": "2016-12-23",
+      "filing_date": "2016-12-23",
+      "title": "SOLAR FLYING DRONE COMPRISING TWO TANDEM BEARING WINGS ON WHICH PHOTOVOLTAIC CELLS ARE COUPLED"
+    },
+    {
+      "application_number": "PCT/FR2017/053708",
+      "representative_publication": "WO2018115724A1",
+      "primary_language": "en",
+      "priority_date": "2016-12-23",
+      "filing_date": "2017-12-19",
+      "title": "Solar-powered flying drone comprising two foils in tandem on which photovoltaic cells are coupled"
+    }
+  ],
+  "family_id": "59152942",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US3159361A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1962-02-14",
+        "publication_date": "1964-12-01",
+        "assignee_original": "Carl W Weiland",
+        "title": "Aircraft",
+        "patent_id": "patent/US3159361A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3159361A%2Fen"
+      },
+      {
+        "publication_number": "US3358946A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1966-05-06",
+        "publication_date": "1967-12-19",
+        "assignee_original": "Shye Andre Jack",
+        "title": "Aircraft",
+        "patent_id": "patent/US3358946A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3358946A%2Fen"
+      },
+      {
+        "publication_number": "US3834654A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1973-03-19",
+        "publication_date": "1974-09-10",
+        "assignee_original": "Lockheed Aircraft Corp",
+        "title": "Boxplane wing and aircraft",
+        "patent_id": "patent/US3834654A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3834654A%2Fen"
+      },
+      {
+        "publication_number": "US4165058A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-01-13",
+        "publication_date": "1979-08-21",
+        "assignee_original": "The Boeing Company",
+        "title": "Tandem wing airplane",
+        "patent_id": "patent/US4165058A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4165058A%2Fen"
+      },
+      {
+        "publication_number": "US4390150A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-01-13",
+        "publication_date": "1983-06-28",
+        "assignee_original": "The Boeing Company",
+        "title": "Tandem wing airplane",
+        "patent_id": "patent/US4390150A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4390150A%2Fen"
+      },
+      {
+        "publication_number": "US5899409A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-12-16",
+        "publication_date": "1999-05-04",
+        "assignee_original": "Frediani; Aldo",
+        "title": "Large dimension aircraft",
+        "patent_id": "patent/US5899409A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5899409A%2Fen"
+      },
+      {
+        "publication_number": "US6378803B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-12-20",
+        "publication_date": "2002-04-30",
+        "assignee_original": "Manuel Munoz Saiz",
+        "title": "Aircraft lift arrangement",
+        "patent_id": "patent/US6378803B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6378803B1%2Fen"
+      },
+      {
+        "publication_number": "US20030080242A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-31",
+        "publication_date": "2003-05-01",
+        "assignee_original": "Hideharu Kawai",
+        "title": "Vertical takeoff and landing aircraft",
+        "patent_id": "patent/US20030080242A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030080242A1%2Fen"
+      },
+      {
+        "publication_number": "US20030172922A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-01-27",
+        "publication_date": "2003-09-18",
+        "assignee_original": "Haber Michael B",
+        "title": "Solar panel tilt mechanism",
+        "patent_id": "patent/US20030172922A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030172922A1%2Fen"
+      },
+      {
+        "publication_number": "FR2880867A1",
+        "primary_language": "en",
+        "priority_date": "2005-01-19",
+        "publication_date": "2006-07-21",
+        "assignee_original": "Georges Gazuit",
+        "title": "Short take-off and landing aircraft, has spoon shaped fuselage and hyper-hovering tandem wing, where fuselage`s rear base evolves from trapezoidal shape at front to half ring at rear to form channel to circulate air from pusher propeller",
+        "patent_id": "patent/FR2880867A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2880867A1%2Fen"
+      },
+      {
+        "publication_number": "US20090292407A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-05-22",
+        "publication_date": "2009-11-26",
+        "assignee_original": "Orbital Sciences Corporation",
+        "title": "Solar-powered aircraft with rotating flight surfaces",
+        "patent_id": "patent/US20090292407A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090292407A1%2Fen"
+      },
+      {
+        "publication_number": "US20110168835A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-09",
+        "publication_date": "2011-07-14",
+        "assignee_original": "Richard David Oliver",
+        "title": "Three Wing, Six Tilt-Propulsion Units, VTOL Aircraft",
+        "patent_id": "patent/US20110168835A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110168835A1%2Fen"
+      },
+      {
+        "publication_number": "US20110315809A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-09",
+        "publication_date": "2011-12-29",
+        "assignee_original": "Richard David Oliver",
+        "title": "Three wing, six-tilt propulsion unit, vtol aircraft",
+        "patent_id": "patent/US20110315809A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110315809A1%2Fen"
+      },
+      {
+        "publication_number": "US8128023B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-11-30",
+        "publication_date": "2012-03-06",
+        "assignee_original": "Airbus Operations Sas",
+        "title": "Aircraft with jet engines arranged at the rear",
+        "patent_id": "patent/US8128023B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8128023B2%2Fen"
+      },
+      {
+        "publication_number": "US8262017B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-04-12",
+        "publication_date": "2012-09-11",
+        "assignee_original": "Fraser Norman T L",
+        "title": "Aircraft with forward lifting elevator and rudder, with the main lifting surface aft, containing ailerons and flaps, and airbrake",
+        "patent_id": "patent/US8262017B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8262017B2%2Fen"
+      },
+      {
+        "publication_number": "US8356770B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-14",
+        "publication_date": "2013-01-22",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Tail-mounted pointable solar panels for solar-powered aircraft",
+        "patent_id": "patent/US8356770B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8356770B2%2Fen"
+      },
+      {
+        "publication_number": "US20150183518A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-11",
+        "publication_date": "2015-07-02",
+        "assignee_original": "Airbus Defence and Space GmbH",
+        "title": "Aircraft configuration",
+        "patent_id": "patent/US20150183518A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150183518A1%2Fen"
+      },
+      {
+        "publication_number": "CN104890859A",
+        "primary_language": "en",
+        "priority_date": "2015-06-23",
+        "publication_date": "2015-09-09",
+        "assignee_original": "\u4e2d\u56fd\u822a\u7a7a\u5de5\u4e1a\u96c6\u56e2\u516c\u53f8\u897f\u5b89\u98de\u673a\u8bbe\u8ba1\u7814\u7a76\u6240",
+        "title": "Solar drone",
+        "patent_id": "patent/CN104890859A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104890859A%2Fen"
+      },
+      {
+        "publication_number": "US20150256123A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-05-03",
+        "publication_date": "2015-09-10",
+        "assignee_original": "Korea Aerospace Research Institute",
+        "title": "Solar propelled aircraft structure and solar panels control method",
+        "patent_id": "patent/US20150256123A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150256123A1%2Fen"
+      },
+      {
+        "publication_number": "US20150344134A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-06-03",
+        "publication_date": "2015-12-03",
+        "assignee_original": "Juan Gabriel Cruz Ayoroa",
+        "title": "High Performance VTOL Aircraft",
+        "patent_id": "patent/US20150344134A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150344134A1%2Fen"
+      },
+      {
+        "publication_number": "US9352832B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-24",
+        "publication_date": "2016-05-31",
+        "assignee_original": "Google Inc.",
+        "title": "Bridles for stability of a powered kite and a system and method for use of same",
+        "patent_id": "patent/US9352832B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9352832B2%2Fen"
+      },
+      {
+        "publication_number": "US10315760B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-18",
+        "publication_date": "2019-06-11",
+        "assignee_original": "Joby Aero, Inc.",
+        "title": "Articulated electric propulsion system with fully stowing blades and lightweight vertical take-off and landing aircraft using same",
+        "patent_id": "patent/US10315760B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10315760B2%2Fen"
+      },
+      {
+        "publication_number": "US10384774B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-08",
+        "publication_date": "2019-08-20",
+        "assignee_original": "General Electric Company",
+        "title": "Tiltrotor propulsion system for an aircraft",
+        "patent_id": "patent/US10384774B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10384774B2%2Fen"
+      },
+      {
+        "publication_number": "US10543917B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-13",
+        "publication_date": "2020-01-28",
+        "assignee_original": "Benjamin David",
+        "title": "Flying drone comprising two wings in tandem to which photovoltaic cells are coupled",
+        "patent_id": "patent/US10543917B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10543917B2%2Fen"
+      },
+      {
+        "publication_number": "US10562626B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-03",
+        "publication_date": "2020-02-18",
+        "assignee_original": "Robert N. Dunn",
+        "title": "Tandem wing aircraft with variable lift and enhanced safety",
+        "patent_id": "patent/US10562626B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10562626B2%2Fen"
+      },
+      {
+        "publication_number": "US10640212B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-18",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Faruk Dizdarevic",
+        "title": "Double wing aircraft",
+        "patent_id": "patent/US10640212B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10640212B1%2Fen"
+      },
+      {
+        "publication_number": "US10814975B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-09",
+        "publication_date": "2020-10-27",
+        "assignee_original": "James Dean Zongker",
+        "title": "Fixed-wing flying device configured to fly in multiple directions",
+        "patent_id": "patent/US10814975B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10814975B1%2Fen"
+      },
+      {
+        "publication_number": "US10926874B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-15",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Hybrid propulsion vertical take-off and landing aircraft",
+        "patent_id": "patent/US10926874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926874B2%2Fen"
+      },
+      {
+        "publication_number": "US11111010B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-15",
+        "publication_date": "2021-09-07",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Multimodal unmanned aerial systems having tiltable wings",
+        "patent_id": "patent/US11111010B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11111010B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "KR100869633B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-20",
+        "publication_date": "2008-11-21",
+        "assignee_original": "\uc774\ud76c\uc131",
+        "title": "Tandem / Canard Wigs",
+        "patent_id": "patent/KR100869633B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100869633B1%2Fen"
+      },
+      {
+        "publication_number": "CN102616096A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-04-24",
+        "publication_date": "2012-08-01",
+        "assignee_original": "\u8d75\u8f89",
+        "title": "Solar flying automobile with folding wings",
+        "patent_id": "patent/CN102616096A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102616096A%2Fen"
+      },
+      {
+        "publication_number": "RU2544453C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-08",
+        "publication_date": "2015-03-20",
+        "assignee_original": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u0415\u0432\u0433\u0435\u043d\u044c\u0435\u0432\u0438\u0447 \u0421\u0442\u0430\u0440\u043e\u0432\u0435\u0440\u043e\u0432",
+        "title": "Staroverov's aircraft-2",
+        "patent_id": "patent/RU2544453C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2544453C1%2Fen"
+      },
+      {
+        "publication_number": "RU140499U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-30",
+        "publication_date": "2014-05-10",
+        "assignee_original": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u0410\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \"\u041d\u0430\u0443\u0447\u043d\u043e-\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \"\u0418\u0440\u043a\u0443\u0442\"",
+        "title": "UNMANNED AERIAL VEHICLE",
+        "patent_id": "patent/RU140499U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU140499U1%2Fen"
+      },
+      {
+        "publication_number": "ITPI20150003A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-30",
+        "publication_date": "2016-07-30",
+        "assignee_original": "Stefanutti Leopoldo",
+        "title": "IMPROVED DRONE STRUCTURE WITH MOVABLE AERODYNAMIC SURFACES",
+        "patent_id": "patent/ITPI20150003A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITPI20150003A1%2Fen"
+      },
+      {
+        "publication_number": "CN106184708A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-30",
+        "publication_date": "2016-12-07",
+        "assignee_original": "\u90d1\u5dde\u822a\u7a7a\u5de5\u4e1a\u7ba1\u7406\u5b66\u9662",
+        "title": "A kind of tandem arrangement wing solar energy unmanned plane",
+        "patent_id": "patent/CN106184708A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106184708A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "English translation of the Written Opinion of the International Searching Authority dated Mar. 7, 2018 for corresponding International Application No. PCT/FR2017/053708, filed Dec. 19, 2017."
+    },
+    {
+      "title": "International Search Report dated Feb. 13, 2018 for corresponding International Application No. PCT/FR2017/053708, filed Dec. 19, 2017."
+    },
+    {
+      "title": "Written Opinion of the International Searching Authority dated Feb. 13, 2018 for corresponding International Application No. PCT/FR2017/053708, filed Dec. 19, 2017."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20230264838A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-26",
+        "publication_date": "2023-08-24",
+        "assignee_original": "Ucal Fuel Systems Limited",
+        "title": "Multipurpose and long endurance hybrid unmanned aerial vehicle",
+        "patent_id": "patent/US20230264838A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230264838A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "FR3046597B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-13",
+        "publication_date": "2019-08-09",
+        "assignee_original": "Xsun",
+        "title": "FLYING DRONE COMPRISING TWO TANDEM CARRIER ON WHICH ARE COUPLED PHOTOVOLTAIC CELLS",
+        "patent_id": "patent/FR3046597B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3046597B1%2Fen"
+      },
+      {
+        "publication_number": "US10933973B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-26",
+        "publication_date": "2021-03-02",
+        "assignee_original": "Solaero Technologies Corp.",
+        "title": "Airfoil body",
+        "patent_id": "patent/US10933973B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10933973B2%2Fen"
+      },
+      {
+        "publication_number": "US12431835B1",
+        "primary_language": "en",
+        "priority_date": "2023-03-28",
+        "publication_date": "2025-09-30",
+        "assignee_original": "Fushun Ma",
+        "title": "Aerodynamic solar cell system",
+        "patent_id": "patent/US12431835B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12431835B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11383849B2",
+      "primary_language": "en",
+      "publication_date": "2022-07-12",
+      "title": "Solar drone comprising two aerofoils in tandem to which photovoltaic cells are coupled",
+      "patent_id": "patent/US11383849B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11383849B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8322650B2",
+      "primary_language": "en",
+      "publication_date": "2012-12-04",
+      "title": "Aircraft",
+      "patent_id": "patent/US8322650B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8322650B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10543917B2",
+      "primary_language": "en",
+      "publication_date": "2020-01-28",
+      "title": "Flying drone comprising two wings in tandem to which photovoltaic cells are coupled",
+      "patent_id": "patent/US10543917B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10543917B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106184737B",
+      "primary_language": "en",
+      "publication_date": "2017-06-23",
+      "title": "Combined type is laid out vertically taking off and landing flyer and VTOL flying method",
+      "patent_id": "patent/CN106184737B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106184737B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11485490B2",
+      "primary_language": "en",
+      "publication_date": "2022-11-01",
+      "title": "System and methods for providing vertical take off and landing and forward flight in a small personal aircraft",
+      "patent_id": "patent/US11485490B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11485490B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9884682B2",
+      "primary_language": "en",
+      "publication_date": "2018-02-06",
+      "title": "Aircraft configuration",
+      "patent_id": "patent/US9884682B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9884682B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104670503B",
+      "primary_language": "en",
+      "publication_date": "2018-03-30",
+      "title": "Aircraft",
+      "patent_id": "patent/CN104670503B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104670503B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2760739B1",
+      "primary_language": "en",
+      "publication_date": "2017-11-22",
+      "title": "Control of an unmanned aerial vehicle",
+      "patent_id": "patent/EP2760739B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2760739B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20180244381A1",
+      "primary_language": "en",
+      "publication_date": "2018-08-30",
+      "title": "Vertical take off and landing closed wing aircraft",
+      "patent_id": "patent/US20180244381A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180244381A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1429165A",
+      "primary_language": "en",
+      "publication_date": "2003-07-09",
+      "title": "Liquid hydrogen stratospheric aircraft",
+      "patent_id": "patent/CN1429165A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1429165A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110254720B",
+      "primary_language": "en",
+      "publication_date": "2024-08-06",
+      "title": "A flying wing layout solar-powered drone",
+      "patent_id": "patent/CN110254720B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110254720B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200108909A1",
+      "primary_language": "en",
+      "publication_date": "2020-04-09",
+      "title": "Aircraft longitudinal stability",
+      "patent_id": "patent/US20200108909A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200108909A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204846384U",
+      "primary_language": "en",
+      "publication_date": "2015-12-09",
+      "title": "Solar drive unmanned aerial vehicle",
+      "patent_id": "patent/CN204846384U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204846384U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206068150U",
+      "primary_language": "en",
+      "publication_date": "2017-04-05",
+      "title": "Combined type layout vertically taking off and landing flyer",
+      "patent_id": "patent/CN206068150U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206068150U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2019212744A1",
+      "primary_language": "en",
+      "publication_date": "2019-11-07",
+      "title": "Aircraft",
+      "patent_id": "patent/WO2019212744A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019212744A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107804469B",
+      "primary_language": "en",
+      "publication_date": "2024-04-19",
+      "title": "airplane",
+      "patent_id": "patent/CN107804469B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107804469B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109774916A",
+      "primary_language": "en",
+      "publication_date": "2019-05-21",
+      "title": "A solar-powered aircraft with a three-dimensional layout design",
+      "patent_id": "patent/CN109774916A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109774916A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115158674A",
+      "primary_language": "en",
+      "publication_date": "2022-10-11",
+      "title": "Support wing new energy unmanned aerial vehicle considering layout of hydrogen storage device",
+      "patent_id": "patent/CN115158674A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115158674A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12037125B1",
+      "primary_language": "en",
+      "publication_date": "2024-07-16",
+      "title": "Structure of an electric aircraft including a boom joint with an airfoil-shaped hole, and method of manufacturing the same",
+      "patent_id": "patent/US12037125B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12037125B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240239481A1",
+      "primary_language": "en",
+      "publication_date": "2024-07-18",
+      "title": "A system and a method of vibration mitigation for an propulsor and a boom in an electric aircraft",
+      "patent_id": "patent/US20240239481A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240239481A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114655421B",
+      "primary_language": "en",
+      "publication_date": "2025-03-18",
+      "title": "Aerodynamic layout of three-wing aircraft",
+      "patent_id": "patent/CN114655421B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114655421B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5892019540994891008",
+      "scholar_authors": "Wilson et al.",
+      "publication_date": "2000",
+      "title": "Aerodynamic and structural design of a solar-powered micro unmanned air vehicle",
+      "patent_id": "scholar/5892019540994891008",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5892019540994891008"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204297103U",
+      "primary_language": "en",
+      "publication_date": "2015-04-29",
+      "title": "Helios",
+      "patent_id": "patent/CN204297103U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204297103U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ES2928138B2",
+      "primary_language": "en",
+      "publication_date": "2023-06-20",
+      "title": "SOLAR POWERED ULTRALIGHT AIRCRAFT",
+      "patent_id": "patent/ES2928138B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2928138B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU111096U1",
+      "primary_language": "en",
+      "publication_date": "2011-12-10",
+      "title": "UNMANNED AERIAL VEHICLE",
+      "patent_id": "patent/RU111096U1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU111096U1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2019-06-20",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-02",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-07",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2021-01-14",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "XSUN, FRANCE"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:DAVID, BENJAMIN;REEL/FRAME:054920/0512"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210104"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-17",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-05",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-22",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    }
+  ]
+}

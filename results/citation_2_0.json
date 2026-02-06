@@ -1,0 +1,808 @@
+{
+  "search_metadata": {
+    "id": "697a3a336f1e40e78e62533b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/84c7b4367528dd79/697a3a336f1e40e78e62533b.json",
+    "created_at": "2026-01-28 16:32:51 UTC",
+    "processed_at": "2026-01-28 16:32:51 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/JP2001097351A/en",
+    "raw_html_file": "https://serpapi.com/searches/84c7b4367528dd79/697a3a336f1e40e78e62533b.html",
+    "total_time_taken": 2.95
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/JP2001097351A/en"
+  },
+  "title": "Pulp mold container and manufacturing method thereof",
+  "type": "patent",
+  "publication_number": "JP2001097351A",
+  "country": "Japan",
+  "prior_art_keywords": [
+    "mold",
+    "pulp",
+    "container",
+    "press",
+    "paper"
+  ],
+  "prior_art_date": "1999-09-24",
+  "application_number": "JP27023699A",
+  "inventors": [
+    {
+      "name": "Junichi Kaminaga",
+      "link": "https://patents.google.com/?inventor=Junichi+Kaminaga",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Junichi+Kaminaga"
+    },
+    {
+      "name": "\u7d14\u4e00 \u795e\u6c38",
+      "link": "https://patents.google.com/?inventor=%E7%B4%94%E4%B8%80+%E7%A5%9E%E6%B0%B8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%B4%94%E4%B8%80+%E7%A5%9E%E6%B0%B8"
+    },
+    {
+      "name": "Yoshihiro Hino",
+      "link": "https://patents.google.com/?inventor=Yoshihiro+Hino",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yoshihiro+Hino"
+    },
+    {
+      "name": "\u597d\u5f18 \u65e5\u91ce",
+      "link": "https://patents.google.com/?inventor=%E5%A5%BD%E5%BC%98+%E6%97%A5%E9%87%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%A5%BD%E5%BC%98+%E6%97%A5%E9%87%8E"
+    },
+    {
+      "name": "Ryukichi Matsuo",
+      "link": "https://patents.google.com/?inventor=Ryukichi+Matsuo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ryukichi+Matsuo"
+    },
+    {
+      "name": "\u9f8d\u5409 \u677e\u5c3e",
+      "link": "https://patents.google.com/?inventor=%E9%BE%8D%E5%90%89+%E6%9D%BE%E5%B0%BE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%BE%8D%E5%90%89+%E6%9D%BE%E5%B0%BE"
+    },
+    {
+      "name": "Atsuko Harasawa",
+      "link": "https://patents.google.com/?inventor=Atsuko+Harasawa",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Atsuko+Harasawa"
+    },
+    {
+      "name": "\u6566\u5b50 \u539f\u6fa4",
+      "link": "https://patents.google.com/?inventor=%E6%95%A6%E5%AD%90+%E5%8E%9F%E6%BE%A4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%95%A6%E5%AD%90+%E5%8E%9F%E6%BE%A4"
+    },
+    {
+      "name": "Kentaro Yamawaki",
+      "link": "https://patents.google.com/?inventor=Kentaro+Yamawaki",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kentaro+Yamawaki"
+    },
+    {
+      "name": "\u5065\u592a\u90ce \u5c71\u8107",
+      "link": "https://patents.google.com/?inventor=%E5%81%A5%E5%A4%AA%E9%83%8E+%E5%B1%B1%E8%84%87",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%81%A5%E5%A4%AA%E9%83%8E+%E5%B1%B1%E8%84%87"
+    },
+    {
+      "name": "Yumiko Kato",
+      "link": "https://patents.google.com/?inventor=Yumiko+Kato",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yumiko+Kato"
+    },
+    {
+      "name": "\u53cb\u7f8e\u5b50 \u52a0\u85e4",
+      "link": "https://patents.google.com/?inventor=%E5%8F%8B%E7%BE%8E%E5%AD%90+%E5%8A%A0%E8%97%A4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%8F%8B%E7%BE%8E%E5%AD%90+%E5%8A%A0%E8%97%A4"
+    }
+  ],
+  "assignees": [
+    "Toppan Inc"
+  ],
+  "priority_date": "1999-09-24",
+  "filing_date": "1999-09-24",
+  "publication_date": "2001-04-10",
+  "worldwide_applications": {
+    "1999": [
+      {
+        "filing_date": "1999-09-24",
+        "country_code": "JP",
+        "application_number": "JP27023699A",
+        "document_id": "patent/JP4599636B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "1999-09-24",
+      "title": "Application filed by Toppan Printing Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Toppan Printing Co Ltd"
+    },
+    {
+      "date": "1999-09-24",
+      "title": "Priority to JP27023699A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP4599636B2/en"
+    },
+    {
+      "date": "2001-04-10",
+      "title": "Publication of JP2001097351A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP2001097351A/en"
+    },
+    {
+      "date": "2010-12-15",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-12-15",
+      "title": "Publication of JP4599636B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP4599636B2/en"
+    },
+    {
+      "date": "2019-09-24",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=JP&NR=2001097351A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/JP/27023699/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/JP2001097351A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "Y02W30/80",
+      "description": "Packaging reuse or recycling, e.g. of multilayer packaging",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02W90/10",
+      "description": "Bio-packaging, e.g. packing containers made from renewable resources or bio-plastics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "[57] [Abstract] [Problem] To improve beauty by fine color printing in a pulp mold container that is hard to generate harmful substances even when incinerated, is recyclable as recycled paper, is biodegradable and has a freedom of shape. It is an object of the present invention to provide a container having the required functions and strength and capable of being manufactured at the lowest possible cost, and a method of manufacturing the same. SOLUTION: In a method for producing a pulp mold container, a pulp slurry is suction-dehydrated on a mold and then pressed and dried.  Provided is a pulp mold container in which a sheet of a predetermined shape based on a base material such as paper or an already molded product is placed on the surface of a mold intermediate that has been suction-dehydrated on a mold, and then fitted and press-molded.",
+  "abstract_original": "(57)\u3010\u8981\u7d04\u3011\n\u3010\u8ab2\u984c\u3011\u713c\u5374\u51e6\u7406\u3057\u3066\u3082\u6709\u5bb3\u7269\u8cea\u3092\u767a\u751f\u3057\u306b\u304f\u304f\u518d\u751f\u7d19\u3068\u3057\u3082\u30ea\u30b5\u30a4\u30af\u30eb\u53ef\u80fd\u3067\u751f\u5206\u89e3\u6027\u3067\u5f62\u72b6\u306e\u81ea\u7531\u5ea6\u304c\u3042\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306b\u304a\u3044\u3066\u3001\u7cbe\u7d30\u306a\u30ab\u30e9\u30fc\u5370\u5237\u306b\u3088\u308b\u7f8e\u7ca7\u6027\u3092\u6709\u3057\u3001\u5fc5\u8981\u3068\u306a\u308b\u6a5f\u80fd\u3084\u5f37\u5ea6\u3092\u5099\u3048\u306a\u304c\u3089\u3001\u51fa\u6765\u308b\u3060\u3051\u5b89\u4fa1\u306b\u88fd\u9020\u53ef\u80fd\u306a\u5bb9\u5668\u3068\u3001\u305d\u306e\u88fd\u9020\u65b9\u6cd5\u3092\u63d0\u4f9b\u3059\u308b\u3053\u3068\u3092\u76ee\u7684\u3068\u3059\u308b\u3002\n\u3010\u89e3\u6c7a\u624b\u6bb5\u3011\u30d1\u30eb\u30d7\u30b9\u30e9\u30ea\u30fc\u3092\u6284\u578b\u4e0a\u306b\u5438\u5f15\u8131\u6c34\u5f8c\u3001\u30d7\u30ec\u30b9\u4e7e\u71e5\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u306b\u304a\u3044\u3066\u3001\u7d19\u7b49\u306e\u57fa\u6750\u3092\u30d9\u30fc\u30b9\u3068\u3059\u308b\u6240\u5b9a\u5f62\u72b6\u306e\u30b7\u30fc\u30c8\u3001\u6216\u3044\u306f\u65e2\u30e2\u30fc\u30eb\u30c9\u6210\u5f62\u7269\u3092\u3001\u6284\u578b\u4e0a\u306b\u5438\u5f15\u8131\u6c34\u3057\u305f\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u306e\u8868\u9762\u306b\u914d\u7f6e\u5f8c\u3001\u5d4c\u5408\u30d7\u30ec\u30b9\u6210\u5f62\u3057\u305f\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u3092\u63d0\u4f9b\u3059\u308b\u3002",
+  "description_link": "https://serpapi.com/searches/697a3a336f1e40e78e62533b/google_patents_details/description.html",
+  "claims": [
+    "\u3010\u8acb\u6c42\u9805\uff11\u3011\u8868\u9762\u306e\u4e00\u90e8\u307e\u305f\u306f\u5168\u9762\u304c\u7d19\u3067\u8986\u308f\u308c\u3066\u3044\u308b\u4e8b\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u30021. A pulp mold container characterized in that part or all of its surface is covered with paper.",
+    "\u3010\u8acb\u6c42\u9805\uff12\u3011\u8868\u9762\u306e\u4e00\u90e8\u304c\u7d19\u3067\u8986\u308f\u308c\u3066\u3044\u308b\u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306b\u304a\u3044\u3066\u3001\u7d19\u3067\u8986\u308f\u308c\u3066\u3044\u308b\u8868\u9762\u3068\u3001\u7d19\u3067\u8986\u308f\u308c\u3066\u3044\u306a\u3044\u8868\u9762\u3068\u306e\u9593\u306b\u6bb5\u5dee\u304c\u306a\u3044\u4e8b\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u30022. The pulp mold container according to claim 1, wherein a part of the surface is covered with paper, and there is no step between the surface covered with paper and the surface not covered with paper. A pulp mold container characterized by the above-mentioned.",
+    "\u3010\u8acb\u6c42\u9805\uff13\u3011\u90e8\u5206\u7684\u306b\u539a\u3055\u304c\u5909\u5316\u3057\u3066\u3044\u308b\u4e8b\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff11\u307e\u305f\u306f\uff12\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u30023. The pulp mold container according to claim 1, wherein the thickness is partially changed.",
+    "\u3010\u8acb\u6c42\u9805\uff14\u3011\u5185\u9762\u306b\u306e\u307f\u8010\u5185\u5bb9\u7269\u6027\u3001\u6216\u3044\u306f\u6a5f\u80fd\u6027\u306b\u512a\u308c\u305f\u90e8\u6750\u3092\u8a2d\u3051\u305f\u4e8b\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff11\u3001\uff12\u307e\u305f\u306f\uff13\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u30024. A member having excellent content resistance or functionality is provided only on the inner surface.  The pulp mold container according to the above.",
+    "\u3010\u8acb\u6c42\u9805\uff15\u3011\u84cb\u6750\u3067\u958b\u53e3\u90e8\u3092\u5c01\u6b62\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306b\u304a\u3044\u3066\u3001\u84cb\u6750\u3068\u306e\u63a5\u7740\u90e8\u5206\u8868\u9762\u306b\u306e\u307f\u63a5\u7740\u6027\u306e\u512a\u308c\u305f\u90e8\u6750\u3092\u8a2d\u3051\u305f\u8acb\u6c42\u9805\uff11\u3001\uff12\u3001\uff13\u307e\u305f\u306f\uff14\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u30025. The pulp mold according to claim 1, wherein a member having excellent adhesiveness is provided only on a surface of an adhesive portion with the lid, in the pulp mold container in which the opening is sealed with the lid. container.",
+    "\u3010\u8acb\u6c42\u9805\uff16\u3011\u5bb9\u5668\u8868\u9762\u306b\u5370\u5237\u3057\u305f\u30e9\u30d9\u30eb\u5c64\u3092\u8a2d\u3051\u305f\u8acb\u6c42\u9805\uff11\u3001\uff12\u3001\uff13\u3001\uff14\u307e\u305f\u306f\uff15\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u30026. The pulp mold container according to claim 1, wherein a label layer printed on the surface of the container is provided.",
+    "\u3010\u8acb\u6c42\u9805\uff17\u3011\u65e2\u30e2\u30fc\u30eb\u30c9\u6210\u5f62\u7269\u3092\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u306e\u8868\u9762\u306b\u914d\u7f6e\u5f8c\u3001\u30d7\u30ec\u30b9\u6210\u5f62\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u30027. A method for producing a pulp mold container, comprising arranging a molded article on the surface of a mold intermediate and press-molding the molded article.",
+    "\u3010\u8acb\u6c42\u9805\uff18\u3011\u7d19\u3092\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u306e\u8868\u9762\u306b\u914d\u7f6e\u5f8c\u3001\u30d7\u30ec\u30b9\u6210\u5f62\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u30028. A method for producing a pulp mold container, comprising arranging paper on the surface of a mold intermediate and press-molding the paper.",
+    "\u3010\u8acb\u6c42\u9805\uff19\u3011\u7d19\u3092\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u306e\u8868\u9762\u306b\u914d\u7f6e\u5f8c\u3001\u5d4c\u5408\u3057\u3042\u3046\u30d7\u30ec\u30b9\u578b\u3067\u30d7\u30ec\u30b9\u6210\u5f62\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff18\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u30029. The method for producing a pulp mold container according to claim 8, wherein after the paper is placed on the surface of the mold intermediate body, the paper is press-formed by press-fitting press dies.",
+    "\u3010\u8acb\u6c42\u9805\uff11\uff10\u3011\u65e2\u30e2\u30fc\u30eb\u30c9\u6210\u5f62\u7269\u3092\u3001\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u306e\u8868\u9762\u306b\u914d\u7f6e\u5f8c\u3001\u5d4c\u5408\u3057\u3042\u3046\u30d7\u30ec\u30b9\u578b\u3067\u30d7\u30ec\u30b9\u6210\u5f62\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff17\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u300210. The method for producing a pulp mold container according to claim 7, wherein the pre-molded product is placed on the surface of the mold intermediate body, and then press-molded with press-fitting dies.",
+    "\u3010\u8acb\u6c42\u9805\uff11\uff11\u3011\u7d19\u3092\u30d7\u30ec\u30b9\u578b\u306e\u8868\u9762\u306b\u914d\u7f6e\u3057\u3066\u3001\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u3092\u30d7\u30ec\u30b9\u6210\u5f62\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd511. A method for producing a pulp mold container, comprising arranging paper on the surface of a press mold and press-molding a mold intermediate.",
+    "\u3010\u8acb\u6c42\u9805\uff11\uff12\u3011\u65e2\u30e2\u30fc\u30eb\u30c9\u6210\u5f62\u7269\u3092\u30d7\u30ec\u30b9\u578b\u306e\u8868\u9762\u306b\u914d\u7f6e\u3057\u3066\u3001\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u3092\u30d7\u30ec\u30b9\u6210\u5f62\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd512. A method for manufacturing a pulp mold container, comprising: placing a pre-molded product on a surface of a press die; and press-molding a mold intermediate.",
+    "\u3010\u8acb\u6c42\u9805\uff11\uff13\u3011\u30e2\u30fc\u30eb\u30c9\u4e2d\u9593\u4f53\u304c\u3001\u6284\u578b\u4e0a\u306b\u5438\u5f15\u8131\u6c34\u3057\u305f\u3082\u306e\u3067\u3042\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff17\u4e43\u81f3\u8acb\u6c42\u9805\uff11\uff12\u4f55\u308c\u304b\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd513. A mold intermediate according to claim 7, wherein said mold intermediate is obtained by suction dehydration on a mold.  A method for producing the pulp mold container according to any one of the above."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP27023699A",
+      "representative_publication": "JP4599636B2",
+      "primary_language": "en",
+      "priority_date": "1999-09-24",
+      "filing_date": "1999-09-24",
+      "title": "Pulp mold container manufacturing method"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP27023699A",
+      "representative_publication": "JP4599636B2",
+      "primary_language": "en",
+      "priority_date": "1999-09-24",
+      "filing_date": "1999-09-24",
+      "title": "Pulp mold container manufacturing method"
+    }
+  ],
+  "family_id": "17483461",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "JPS5143408A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-10-12",
+        "publication_date": "1976-04-14",
+        "assignee_original": "Takashi Kamyama",
+        "patent_id": "patent/JPS5143408A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS5143408A%2Fen"
+      },
+      {
+        "publication_number": "JPS5571545A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1978-11-24",
+        "publication_date": "1980-05-29",
+        "assignee_original": "Konpetsukusu Yuugen",
+        "title": "Two layer pulp molding and its preparation",
+        "patent_id": "patent/JPS5571545A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS5571545A%2Fen"
+      },
+      {
+        "publication_number": "JPS6193415U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-11-26",
+        "publication_date": "1986-06-17",
+        "patent_id": "patent/JPS6193415U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS6193415U%2Fen"
+      },
+      {
+        "publication_number": "JPH0199947A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1987-10-05",
+        "publication_date": "1989-04-18",
+        "assignee_original": "Kiyoo Shimomura",
+        "title": "Paper container and manufacture thereof",
+        "patent_id": "patent/JPH0199947A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH0199947A%2Fen"
+      },
+      {
+        "publication_number": "JPH03137300A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-10-23",
+        "publication_date": "1991-06-11",
+        "assignee_original": "Kiyoo Shimomura",
+        "title": "Paper container and its preparation",
+        "patent_id": "patent/JPH03137300A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH03137300A%2Fen"
+      },
+      {
+        "publication_number": "JPH10218152A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-01-31",
+        "publication_date": "1998-08-18",
+        "assignee_original": "Yoshimasa Kasakura",
+        "title": "Container",
+        "patent_id": "patent/JPH10218152A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH10218152A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "JP2002201599A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-26",
+        "publication_date": "2002-07-19",
+        "assignee_original": "Eco Ai:Kk",
+        "title": "Method for producing molded pulp product",
+        "patent_id": "patent/JP2002201599A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002201599A%2Fen"
+      },
+      {
+        "publication_number": "GB2443387A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-11-04",
+        "publication_date": "2008-05-07",
+        "assignee_original": "Clark Deavall",
+        "title": "A bowl moulded from compressed paper pulp",
+        "patent_id": "patent/GB2443387A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2443387A%2Fen"
+      },
+      {
+        "publication_number": "JP2019527779A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-26",
+        "publication_date": "2019-10-03",
+        "assignee_original": "\u30d5\u30c3\u30c8\u30d7\u30ea\u30f3\u30c8 \u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\uff0c \u30a8\u30eb\u30a8\u30eb\u30b7\u30fc",
+        "title": "Method and apparatus for producing fiber food containers",
+        "patent_id": "patent/JP2019527779A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019527779A%2Fen"
+      },
+      {
+        "publication_number": "WO2022097527A1",
+        "primary_language": "en",
+        "priority_date": "2020-11-09",
+        "publication_date": "2022-05-12",
+        "assignee_original": "\uff2e\uff49\uff53\uff53\uff48\uff41\u682a\u5f0f\u4f1a\u793e",
+        "title": "Paper sheet fitting method and paper molded article",
+        "patent_id": "patent/WO2022097527A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022097527A1%2Fen"
+      },
+      {
+        "publication_number": "JP2023018967A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-28",
+        "publication_date": "2023-02-09",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30d5\u30b8\u30b7\u30fc\u30eb\u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb",
+        "title": "Labeled pulp mold manufacturing method and integrated label for pasting to pulp mold",
+        "patent_id": "patent/JP2023018967A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023018967A%2Fen"
+      },
+      {
+        "publication_number": "US11686050B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-26",
+        "publication_date": "2023-06-27",
+        "assignee_original": "Footprint International, LLC",
+        "title": "Methods, apparatus, and chemical compositions for selectively coating fiber-based food containers",
+        "patent_id": "patent/US11686050B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11686050B2%2Fen"
+      },
+      {
+        "publication_number": "US20240158124A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-12",
+        "publication_date": "2024-05-16",
+        "assignee_original": "Machines Pages",
+        "title": "Method for placing a label on moulded packaging, tooling for implementing said method, installation comprising said tooling and packaging obtained",
+        "patent_id": "patent/US20240158124A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240158124A1%2Fen"
+      },
+      {
+        "publication_number": "US12037749B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-26",
+        "publication_date": "2024-07-16",
+        "assignee_original": "Footprint International, LLC",
+        "title": "Acrylate and non-acrylate based chemical compositions for selectively coating fiber-based food containers",
+        "patent_id": "patent/US12037749B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12037749B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US12384597B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-20",
+        "publication_date": "2025-08-12",
+        "assignee_original": "North America I.M.L. Containers Inc.",
+        "title": "Cellulose container with inner-mold label",
+        "patent_id": "patent/US12384597B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12384597B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20210292974A1",
+      "primary_language": "en",
+      "publication_date": "2021-09-23",
+      "title": "Laminated structure and method of its production",
+      "patent_id": "patent/US20210292974A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210292974A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2001097351A",
+      "primary_language": "en",
+      "publication_date": "2001-04-10",
+      "title": "Pulp mold container and manufacturing method thereof",
+      "patent_id": "patent/JP2001097351A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001097351A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2023078834A2",
+      "primary_language": "en",
+      "publication_date": "2023-05-11",
+      "title": "A method for manufacturing a cellulose product and a cellulose product",
+      "patent_id": "patent/WO2023078834A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023078834A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003113600A",
+      "primary_language": "en",
+      "publication_date": "2003-04-18",
+      "title": "Pulp molded product",
+      "patent_id": "patent/JP2003113600A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003113600A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2012077420A",
+      "primary_language": "en",
+      "publication_date": "2012-04-19",
+      "title": "Pulp molded container and manufacturing method thereof",
+      "patent_id": "patent/JP2012077420A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012077420A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1370721A",
+      "primary_language": "en",
+      "publication_date": "2002-09-25",
+      "title": "Printed composite cardboard for package",
+      "patent_id": "patent/CN1370721A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1370721A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4547743B2",
+      "primary_language": "en",
+      "publication_date": "2010-09-22",
+      "title": "Manufacturing method of pulp mold double container",
+      "patent_id": "patent/JP4547743B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4547743B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002172728A",
+      "primary_language": "en",
+      "publication_date": "2002-06-18",
+      "title": "Packaging material and package containing natural resin, and methods for producing them",
+      "patent_id": "patent/JP2002172728A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002172728A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3072088B1",
+      "primary_language": "en",
+      "publication_date": "2000-07-31",
+      "title": "Method for producing pulp molded products",
+      "patent_id": "patent/JP3072088B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3072088B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000309322A",
+      "primary_language": "en",
+      "publication_date": "2000-11-07",
+      "title": "Water-resistant pulp mold container",
+      "patent_id": "patent/JP2000309322A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000309322A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002138400A",
+      "primary_language": "en",
+      "publication_date": "2002-05-14",
+      "title": "Pulp mold container and manufacturing method thereof",
+      "patent_id": "patent/JP2002138400A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002138400A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2003101839A1",
+      "primary_language": "en",
+      "publication_date": "2003-12-11",
+      "title": "Drawn paper container and method of manufacturing the paper container",
+      "patent_id": "patent/WO2003101839A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003101839A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2004131091A",
+      "primary_language": "en",
+      "publication_date": "2004-04-30",
+      "title": "Drawing Precursors and Drawings",
+      "patent_id": "patent/JP2004131091A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004131091A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003112719A",
+      "primary_language": "en",
+      "publication_date": "2003-04-18",
+      "title": "Heat-resistant paper container",
+      "patent_id": "patent/JP2003112719A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003112719A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4644894B2",
+      "primary_language": "en",
+      "publication_date": "2011-03-09",
+      "title": "Waterproof paper",
+      "patent_id": "patent/JP4644894B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4644894B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2001199440A",
+      "primary_language": "en",
+      "publication_date": "2001-07-24",
+      "title": "Heat-insulating pulp molded article and method for producing the same",
+      "patent_id": "patent/JP2001199440A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001199440A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002030600A",
+      "primary_language": "en",
+      "publication_date": "2002-01-31",
+      "title": "Method for producing papermaking container",
+      "patent_id": "patent/JP2002030600A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002030600A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2022185639A",
+      "primary_language": "en",
+      "publication_date": "2022-12-15",
+      "title": "Pulp mold container and manufacturing method of pulp mold container",
+      "patent_id": "patent/JP2022185639A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2022185639A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5017741B2",
+      "primary_language": "en",
+      "publication_date": "2012-09-05",
+      "title": "Packaging material having hot water resistance, and composite container and bag-like container using the same",
+      "patent_id": "patent/JP5017741B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5017741B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2004196409A",
+      "primary_language": "en",
+      "publication_date": "2004-07-15",
+      "title": "Moisture proof carton",
+      "patent_id": "patent/JP2004196409A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004196409A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2001163320A",
+      "primary_language": "en",
+      "publication_date": "2001-06-19",
+      "title": "Paper molding and its manufacturing method",
+      "patent_id": "patent/JP2001163320A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001163320A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA3185782A1",
+      "primary_language": "en",
+      "publication_date": "2022-04-21",
+      "title": "Composite thermoformed tableware and preparation method thereof",
+      "patent_id": "patent/CA3185782A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3185782A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2003073977A",
+      "primary_language": "en",
+      "publication_date": "2003-03-12",
+      "title": "Cellulose fiber structure, laminate, composite container, and method for producing composite container",
+      "patent_id": "patent/JP2003073977A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003073977A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN215477021U",
+      "primary_language": "en",
+      "publication_date": "2022-01-11",
+      "title": "Composite sheet and food container",
+      "patent_id": "patent/CN215477021U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN215477021U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002104369A",
+      "primary_language": "en",
+      "publication_date": "2002-04-10",
+      "title": "Paper container and manufacturing method thereof",
+      "patent_id": "patent/JP2002104369A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002104369A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2006-07-26",
+      "code": "A621",
+      "title": "Written request for application examination",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A621"
+        },
+        {
+          "label": "Effective date",
+          "value": "20060725"
+        }
+      ]
+    },
+    {
+      "date": "2009-06-08",
+      "code": "A977",
+      "title": "Report on retrieval",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A971007"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090608"
+        }
+      ]
+    },
+    {
+      "date": "2009-07-08",
+      "code": "A131",
+      "title": "Notification of reasons for refusal",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A131"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090707"
+        }
+      ]
+    },
+    {
+      "date": "2009-08-26",
+      "code": "A521",
+      "title": "Written amendment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A523"
+        },
+        {
+          "label": "Effective date",
+          "value": "20090825"
+        }
+      ]
+    },
+    {
+      "date": "2010-03-10",
+      "code": "A02",
+      "title": "Decision of refusal",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A02"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100309"
+        }
+      ]
+    },
+    {
+      "date": "2010-06-03",
+      "code": "A521",
+      "title": "Written amendment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A523"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100602"
+        }
+      ]
+    },
+    {
+      "date": "2010-06-16",
+      "code": "A911",
+      "title": "Transfer of reconsideration by examiner before appeal (zenchi)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A911"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100615"
+        }
+      ]
+    },
+    {
+      "date": "2010-08-20",
+      "code": "TRDD",
+      "title": "Decision of grant or rejection written"
+    },
+    {
+      "date": "2010-09-01",
+      "code": "A01",
+      "title": "Written decision to grant a patent or to grant a registration (utility model)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A01"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100831"
+        }
+      ]
+    },
+    {
+      "date": "2010-09-02",
+      "code": "A01",
+      "title": "Written decision to grant a patent or to grant a registration (utility model)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A01"
+        }
+      ]
+    },
+    {
+      "date": "2010-10-04",
+      "code": "A61",
+      "title": "First payment of annual fees (during grant procedure)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A61"
+        },
+        {
+          "label": "Effective date",
+          "value": "20100913"
+        }
+      ]
+    },
+    {
+      "date": "2010-10-08",
+      "code": "FPAY",
+      "title": "Renewal fee payment (event date is renewal date of database)",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT UNTIL: 20131008"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "date": "2010-10-08",
+      "code": "R150",
+      "title": "Certificate of patent or registration of utility model",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: R150"
+        }
+      ]
+    },
+    {
+      "date": "2013-10-08",
+      "code": "LAPS",
+      "title": "Cancellation because of no payment of annual fees"
+    }
+  ]
+}

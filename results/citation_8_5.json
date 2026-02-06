@@ -1,0 +1,1648 @@
+{
+  "search_metadata": {
+    "id": "697a363df680d1fd8b675d15",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/72b790759370a7c7/697a363df680d1fd8b675d15.json",
+    "created_at": "2026-01-28 16:15:57 UTC",
+    "processed_at": "2026-01-28 16:15:57 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN110235860A/en",
+    "raw_html_file": "https://serpapi.com/searches/72b790759370a7c7/697a363df680d1fd8b675d15.html",
+    "total_time_taken": 1.09
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN110235860A/en"
+  },
+  "title": "Large-scale rearing method of hoverfly",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/c1/47/5b/505fc550779210/CN110235860A.pdf",
+  "publication_number": "CN110235860A",
+  "country": "China",
+  "prior_art_keywords": [
+    "syrkhus",
+    "corollae",
+    "hoverfly",
+    "breeding method",
+    "scale breeding"
+  ],
+  "prior_art_date": "2019-06-13",
+  "application_number": "CN201910510513.XA",
+  "inventors": [
+    {
+      "name": "\u674e\u6167",
+      "link": "https://patents.google.com/?inventor=%E6%9D%8E%E6%85%A7",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%8E%E6%85%A7"
+    },
+    {
+      "name": "\u5434\u5b54\u660e",
+      "link": "https://patents.google.com/?inventor=%E5%90%B4%E5%AD%94%E6%98%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%90%B4%E5%AD%94%E6%98%8E"
+    },
+    {
+      "name": "\u7f57\u6dd1\u840d",
+      "link": "https://patents.google.com/?inventor=%E7%BD%97%E6%B7%91%E8%90%8D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%BD%97%E6%B7%91%E8%90%8D"
+    },
+    {
+      "name": "\u5b59\u7389\u51e4",
+      "link": "https://patents.google.com/?inventor=%E5%AD%99%E7%8E%89%E5%87%A4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%AD%99%E7%8E%89%E5%87%A4"
+    },
+    {
+      "name": "\u8d3e\u6167\u8339",
+      "link": "https://patents.google.com/?inventor=%E8%B4%BE%E6%85%A7%E8%8C%B9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%B4%BE%E6%85%A7%E8%8C%B9"
+    }
+  ],
+  "assignees": [
+    "Institute of Plant Protection of CAAS"
+  ],
+  "priority_date": "2019-06-13",
+  "filing_date": "2019-06-13",
+  "publication_date": "2019-09-17",
+  "worldwide_applications": {
+    "2019": [
+      {
+        "filing_date": "2019-06-13",
+        "country_code": "CN",
+        "application_number": "CN201910510513.XA",
+        "document_id": "patent/CN110235860B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-06-13",
+      "title": "Application filed by Institute of Plant Protection of CAAS",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Institute of Plant Protection of CAAS"
+    },
+    {
+      "date": "2019-06-13",
+      "title": "Priority to CN201910510513.XA",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN110235860B/en"
+    },
+    {
+      "date": "2019-09-17",
+      "title": "Publication of CN110235860A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN110235860A/en"
+    },
+    {
+      "date": "2020-10-16",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2020-10-16",
+      "title": "Publication of CN110235860B",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN110235860B/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-06-13",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=110235860A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201910510513/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN110235860A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01K67/30",
+      "description": "Rearing or breeding invertebrates",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention belongs to the field of large-scale breeding of natural enemy insects, and in particular relates to a method for large-scale breeding of hoverflies. The invention uses different kinds of aphids to feed the larvae of different ages of the hoverfly, collects the pupae of the hoverfly, packs and sells them, so as to achieve the purpose of industrial production of the hoverfly. The invention achieves the goal of simple and high-efficiency breeding, realizes the demand for industrialized mass production of natural enemy insects, and provides a large number of insect source requirements for the application of the hoverfly in biological control.",
+  "abstract_original": "\u672c\u53d1\u660e\u5c5e\u4e8e\u5929\u654c\u6606\u866b\u89c4\u6a21\u5316\u9972\u517b\u9886\u57df\uff0c\u5177\u4f53\u6d89\u53ca\u5927\u7070\u98df\u869c\u8747\u7684\u89c4\u6a21\u5316\u9972\u517b\u65b9\u6cd5\u3002\u672c\u53d1\u660e\u5229\u7528\u4e0d\u540c\u79cd\u7c7b\u7684\u869c\u866b\u9972\u5582\u5927\u7070\u98df\u869c\u8747\u4e0d\u540c\u9f84\u671f\u5e7c\u866b\uff0c\u5e76\u5bf9\u98df\u869c\u8747\u86f9\u8fdb\u884c\u6536\u96c6\uff0c\u5305\u88c5\u51fa\u552e\uff0c\u4ece\u800c\u8fbe\u5230\u5927\u7070\u98df\u869c\u8747\u5de5\u5382\u5316\u751f\u4ea7\u7684\u76ee\u7684\u3002\u672c\u53d1\u660e\u8fbe\u5230\u4e86\u7b80\u4fbf\u3001\u9ad8\u6548\u7684\u9972\u517b\u76ee\u6807\uff0c\u5b9e\u73b0\u4e86\u5929\u654c\u6606\u866b\u5de5\u5382\u5316\u5927\u6279\u91cf\u751f\u4ea7\u7684\u9700\u6c42\uff0c\u4e3a\u5927\u7070\u98df\u869c\u8747\u5728\u751f\u7269\u9632\u6cbb\u7684\u5e94\u7528\u63d0\u4f9b\u4e86\u5927\u91cf\u866b\u6e90\u9700\u6c42\u3002",
+  "description_link": "https://serpapi.com/searches/697a363df680d1fd8b675d15/google_patents_details/description.html",
+  "claims": [
+    "1. the large-scale breeding method of Syrkhus corollae, which is characterized in that the described method comprises the following steps:\n      (1) Syrkhus corollae pupa is transferred in dependent insect cage, places pollen mixture and hydromel in dependent insect cage, eats aphid for big ash\nFeeding mates after fly pupa is sprouted wings\uff1b\n      (2) the Syrkhus corollae adult to mate in step (1) is transferred in pairs in new dependent insect cage, supplies pollen mixture\nAnd hydromel\uff1bBy in the semen viciae fabae Miao Fangzhi dependent insect cage for carrying aphid, and semen viciae fabae seedling is replaced daily, for the Syrkhus corollae of post-coitum\nFemale adult oviposition\uff1b\n      (3) the semen viciae fabae seedling for the carrying Syrkhus corollae ovum that step (2) obtains is transferred on feeding worm frame, Syrkhus corollae egg hatching\nAfter 1 instar larvae, 1 instar larvae on semen viciae fabae seedling is transferred in insect box, adds aphid into insect box daily, until larva\nIt is developed to and pupates\uff1b\n      (4) Syrkhus corollae pupa obtained by collection step (3), and be put into packing box.",
+    "2. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that pollen mixture is weight\nThan the rape pollen for 3:1: zasiokaurin.",
+    "3. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that the hydromel is dense\nThe acacia honey that degree is 10%.",
+    "4. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that in step (1), (2),\nCondition of culture be temperature be 25 \u00b1 1 DEG C, light application time L:D=16:8, intensity of illumination 22000Lux, humidity 20%-\n50%.",
+    "5. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that in step (2), semen viciae fabae\nThe aphid carried on seedling is aphis craccivora.",
+    "6. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that in step (3), transfer\nWhen larva, 1 instar larvae on semen viciae fabae seedling is shaken off to insect box.",
+    "7. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that in step (3), addition\nAphid include pea tail reparing aphid and aphis craccivora.",
+    "8. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that in step (3), big ash\nThe rearing conditions of wasp fly larva are that temperature is 25 \u00b1 1 DEG C, and intensity of illumination is natural light, humidity 20%-50%.",
+    "9. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that in step (3), support worm\nThe top surface of box is equipped with opening, is covered with gauze in the opening, sand grains, the mesh of sand grains are painted on the inner wall of the insect box\nNumber is 120 mesh.",
+    "10. the large-scale breeding method of Syrkhus corollae according to claim 1, which is characterized in that in step (4), packet\nBottom in mounted box is laid with two layers of filter paper, offers air hole on the top surface of the packing box\uff1bSyrkhus corollae pupa is placed on institute\nIt states on filter paper, fresh semen viciae fabae seedling is layered on to the top of Syrkhus corollae pupa."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201910510513.XA",
+      "representative_publication": "CN110235860B",
+      "primary_language": "en",
+      "priority_date": "2019-06-13",
+      "filing_date": "2019-06-13",
+      "title": "Large-scale feeding method of Gray aphids"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201910510513.XA",
+      "representative_publication": "CN110235860B",
+      "primary_language": "en",
+      "priority_date": "2019-06-13",
+      "filing_date": "2019-06-13",
+      "title": "Large-scale feeding method of Gray aphids"
+    }
+  ],
+  "family_id": "67886878",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN1631127A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-26",
+        "publication_date": "2005-06-29",
+        "assignee_original": "\u5317\u4eac\u5e02\u519c\u6797\u79d1\u5b66\u9662",
+        "title": "Production method of artificial reproduction of ladybug and lacewing",
+        "patent_id": "patent/CN1631127A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1631127A%2Fen"
+      },
+      {
+        "publication_number": "WO2010127787A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-07",
+        "publication_date": "2011-07-07",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Active ingredient combinations having insecticidal and acaricidal properties",
+        "patent_id": "patent/WO2010127787A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010127787A3%2Fen"
+      },
+      {
+        "publication_number": "CN103155906A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-02",
+        "publication_date": "2013-06-19",
+        "assignee_original": "\u5317\u4eac\u5e02\u519c\u6797\u79d1\u5b66\u9662",
+        "title": "Aphidoletes aphidimyza mass reproduction technology and application technology",
+        "patent_id": "patent/CN103155906A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103155906A%2Fen"
+      },
+      {
+        "publication_number": "CN104222008A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-21",
+        "publication_date": "2014-12-24",
+        "assignee_original": "\u738b\u4f2f\u660e",
+        "title": "Method for artificial mass production of hoverflies",
+        "patent_id": "patent/CN104222008A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104222008A%2Fen"
+      },
+      {
+        "publication_number": "CN104304193A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-28",
+        "publication_date": "2015-01-28",
+        "assignee_original": "\u6cb3\u5317\u7701\u519c\u6797\u79d1\u5b66\u9662\u65f1\u4f5c\u519c\u4e1a\u7814\u7a76\u6240",
+        "title": "Aphidoletes aphidimyza diapause induction method and application thereof to production of aphidoletes aphidimyza",
+        "patent_id": "patent/CN104304193A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104304193A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\u767d\u6000\u747e\u7b49: \"\u300a\u751f\u7269\u9632\u6cbb\u5b66\u539f\u7406\u53ca\u5e94\u7528\u300b\", 31 December 2010, \u5927\u8c61\u51fa\u7248\u793e",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN112471082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-17",
+        "publication_date": "2021-03-12",
+        "assignee_original": "\u6e56\u5357\u7701\u70df\u8349\u516c\u53f8\u957f\u6c99\u5e02\u516c\u53f8",
+        "title": "Broad-band optimized aphid fly breeding method",
+        "patent_id": "patent/CN112471082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112471082A%2Fen"
+      },
+      {
+        "publication_number": "CN112602860A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-17",
+        "publication_date": "2021-04-06",
+        "assignee_original": "\u6e56\u5357\u7701\u70df\u8349\u516c\u53f8\u957f\u6c99\u5e02\u516c\u53f8",
+        "title": "Artificial feed for feeding wide-band excellent aphids and preparation method and application thereof",
+        "patent_id": "patent/CN112602860A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112602860A%2Fen"
+      },
+      {
+        "publication_number": "CN113973784A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-09",
+        "publication_date": "2022-01-28",
+        "assignee_original": "\u6cb3\u5357\u519c\u4e1a\u5927\u5b66",
+        "title": "Method for preventing insects, ant lions, from killing each other by artificial feeding and application thereof",
+        "patent_id": "patent/CN113973784A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113973784A%2Fen"
+      },
+      {
+        "publication_number": "CN115349580A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-08",
+        "publication_date": "2022-11-18",
+        "assignee_original": "\u6e56\u5357\u519c\u4e1a\u5927\u5b66",
+        "title": "A kind of feeding substrate and artificial breeding method of tuber fly",
+        "patent_id": "patent/CN115349580A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115349580A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN1285260C",
+      "primary_language": "en",
+      "publication_date": "2006-11-22",
+      "title": "Artificial progagation method for ladybird beetle and lacewing fly",
+      "patent_id": "patent/CN1285260C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1285260C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104206362B",
+      "primary_language": "en",
+      "publication_date": "2017-04-19",
+      "title": "Prodenia litura indoor artificial breeding method",
+      "patent_id": "patent/CN104206362B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104206362B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102125002B",
+      "primary_language": "en",
+      "publication_date": "2013-05-29",
+      "title": "A kind of artificial rearing method of blind stink bug parasitoid wasp",
+      "patent_id": "patent/CN102125002B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102125002B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110235860B",
+      "primary_language": "en",
+      "publication_date": "2020-10-16",
+      "title": "Large-scale feeding method of Gray aphids",
+      "patent_id": "patent/CN110235860B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110235860B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105165734B",
+      "primary_language": "en",
+      "publication_date": "2017-10-20",
+      "title": "A kind of method of Adoxophyes spp cocoon honeybee biological control",
+      "patent_id": "patent/CN105165734B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105165734B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102293182A",
+      "primary_language": "en",
+      "publication_date": "2011-12-28",
+      "title": "Orius sauteri raising method",
+      "patent_id": "patent/CN102293182A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102293182A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108012995A",
+      "primary_language": "en",
+      "publication_date": "2018-05-11",
+      "title": "A kind of indoor feeding method and device of green wing thin,tough silk open country snout moth&#39;s larva",
+      "patent_id": "patent/CN108012995A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108012995A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108077191A",
+      "primary_language": "en",
+      "publication_date": "2018-05-29",
+      "title": "A kind of Spodoptera litura larvae group breeding method",
+      "patent_id": "patent/CN108077191A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108077191A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110367205A",
+      "primary_language": "en",
+      "publication_date": "2019-10-25",
+      "title": "A method of beautiful Chrysopa is raised using pea tail reparing aphid",
+      "patent_id": "patent/CN110367205A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110367205A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106689069A",
+      "primary_language": "en",
+      "publication_date": "2017-05-24",
+      "title": "Large-scale feeding and storage method of aphids and predators of aphids",
+      "patent_id": "patent/CN106689069A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106689069A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105325374A",
+      "primary_language": "en",
+      "publication_date": "2016-02-17",
+      "title": "Cultivation and reproduction method for flour weevil",
+      "patent_id": "patent/CN105325374A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105325374A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20120066738A",
+      "primary_language": "en",
+      "publication_date": "2012-06-25",
+      "title": "Rearing method of predatory natural enemy using eggs of gelleria mellonella",
+      "patent_id": "patent/KR20120066738A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20120066738A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113826588B",
+      "primary_language": "en",
+      "publication_date": "2023-03-14",
+      "title": "Indoor breeding method for spodoptera litura lateral groove bombesi",
+      "patent_id": "patent/CN113826588B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113826588B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104957107B",
+      "primary_language": "en",
+      "publication_date": "2018-05-18",
+      "title": "A kind of method of interior raising Propylaea japonica",
+      "patent_id": "patent/CN104957107B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104957107B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112042598B",
+      "primary_language": "en",
+      "publication_date": "2021-08-10",
+      "title": "Whole set method for breeding harmonia axyridis",
+      "patent_id": "patent/CN112042598B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112042598B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111328773A",
+      "primary_language": "en",
+      "publication_date": "2020-06-26",
+      "title": "Method for breeding Spodoptera frugiperda larvae",
+      "patent_id": "patent/CN111328773A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111328773A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112602860B",
+      "primary_language": "en",
+      "publication_date": "2023-10-20",
+      "title": "Artificial feed for feeding broadband eudipleus aphis, and preparation method and application thereof",
+      "patent_id": "patent/CN112602860B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112602860B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106613903A",
+      "primary_language": "en",
+      "publication_date": "2017-05-10",
+      "title": "A method of assisting pollination of hybrid brassica juncea var. tumida Tsen et. Lee by utilizing houseflies",
+      "patent_id": "patent/CN106613903A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106613903A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102516514B1",
+      "primary_language": "en",
+      "publication_date": "2023-03-31",
+      "title": "Mass rearing method and packaging and storage method of Metasyrphus corollae (Fabricius) for aphid control.",
+      "patent_id": "patent/KR102516514B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102516514B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN100548117C",
+      "primary_language": "en",
+      "publication_date": "2009-10-14",
+      "title": "The scale artificial culture technology of white butterfly",
+      "patent_id": "patent/CN100548117C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100548117C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111543396A",
+      "primary_language": "en",
+      "publication_date": "2020-08-18",
+      "title": "Indoor large-scale breeding method for small flies and pupa terracotta warriors",
+      "patent_id": "patent/CN111543396A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111543396A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8326215577992386342",
+      "scholar_authors": "Vivek et al.",
+      "publication_date": "2013",
+      "title": "Biology and predatory potential of green lacewing, Chrysoperla sp.(carnea-group) on different aphid species",
+      "patent_id": "scholar/8326215577992386342",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8326215577992386342"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN112471082B",
+      "primary_language": "en",
+      "publication_date": "2023-04-25",
+      "title": "A kind of broadband optimal hoverfly breeding method",
+      "patent_id": "patent/CN112471082B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112471082B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116584452A",
+      "primary_language": "en",
+      "publication_date": "2023-08-15",
+      "title": "Breeding method for Lepidius crassipes",
+      "patent_id": "patent/CN116584452A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116584452A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115349580A",
+      "primary_language": "en",
+      "publication_date": "2022-11-18",
+      "title": "A kind of feeding substrate and artificial breeding method of tuber fly",
+      "patent_id": "patent/CN115349580A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115349580A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2019-09-17",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2019-09-17",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2019-10-15",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2019-10-15",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2020-10-16",
+      "code": "GR01",
+      "title": "Patent grant"
+    },
+    {
+      "date": "2020-10-16",
+      "code": "GR01",
+      "title": "Patent grant"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "230000000384",
+        "name": "rearing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "241001481659",
+        "name": "Syrphidae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 120
+      },
+      {
+        "id": "241001124076",
+        "name": "Aphididae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 56
+      },
+      {
+        "id": "241000238631",
+        "name": "Hexapoda",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 50
+      },
+      {
+        "id": "238000009395",
+        "name": "breeding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "241000382353",
+        "name": "Pupa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000012447",
+        "name": "hatching",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "235000012907",
+        "name": "honey",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000017448",
+        "name": "oviposition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000004576",
+        "name": "sand",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "102000002322",
+        "name": "Egg Proteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "108010000912",
+        "name": "Egg Proteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000004681",
+        "name": "ovum",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012856",
+        "name": "packing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000010643",
+        "name": "Leucaena leucocephala",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "210000000582",
+        "name": "semen",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000952611",
+        "name": "Aphis craccivora",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005286",
+        "name": "illumination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000220479",
+        "name": "Acacia",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001488",
+        "name": "breeding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000009776",
+        "name": "industrial production",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000006677",
+        "name": "Vicia faba",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 44
+      },
+      {
+        "id": "235000010749",
+        "name": "Vicia faba",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "235000002098",
+        "name": "Vicia faba var. major",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 43
+      },
+      {
+        "id": "235000013601",
+        "name": "eggs",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000003203",
+        "name": "everyday effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "235000017587",
+        "name": "Medicago sativa ssp. sativa",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "241000219823",
+        "name": "Medicago",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "241000196324",
+        "name": "Embryophyta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000013011",
+        "name": "mating",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "241000270857",
+        "name": "Dryophytes cinereus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000032669",
+        "name": "eclosion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000002354",
+        "name": "daily effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000015097",
+        "name": "nutrients",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000123",
+        "name": "paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000019617",
+        "name": "pupation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000004083",
+        "name": "survival effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000001418",
+        "name": "larval effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "241000253994",
+        "name": "Acyrthosiphon pisum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241001143112",
+        "name": "Lathyrus vestitus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000607479",
+        "name": "Yersinia pestis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000011081",
+        "name": "inoculation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019354",
+        "name": "vermiculite",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "244000296825",
+        "name": "Amygdalus nana",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000003840",
+        "name": "Amygdalus nana",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000742",
+        "name": "Cotton",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000258937",
+        "name": "Hemiptera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000557829",
+        "name": "Herbertus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241001398371",
+        "name": "Herbertus gracilis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000011432",
+        "name": "Prunus",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035558",
+        "name": "fertility",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000945",
+        "name": "filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011521",
+        "name": "glass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000016709",
+        "name": "nutrition",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000035764",
+        "name": "nutrition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000014774",
+        "name": "prunus",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052902",
+        "name": "vermiculite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010455",
+        "name": "vermiculite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000952610",
+        "name": "Aphis glycines",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001600408",
+        "name": "Aphis gossypii",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000002791",
+        "name": "Brassica napus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000004977",
+        "name": "Brassica sinapistrum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000255925",
+        "name": "Diptera",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001110910",
+        "name": "Eupeodes corollae",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000007472",
+        "name": "Leucaena leucocephala",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000004658",
+        "name": "Medicago sativa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000009164",
+        "name": "Petroselinum crispum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000004713",
+        "name": "Pisum sativum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000046095",
+        "name": "Psophocarpus tetragonolobus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000001869",
+        "name": "Tamarix ramosissima",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000006345",
+        "name": "Trifolium hybridum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000008042",
+        "name": "Zea mays",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000005824",
+        "name": "Zea mays ssp. parviglumis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000002017",
+        "name": "Zea mays subsp mays",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009194",
+        "name": "climbing",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002860",
+        "name": "competitive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000005822",
+        "name": "corn",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013399",
+        "name": "edible fruits",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003278",
+        "name": "egg shell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012055",
+        "name": "fruits and vegetables",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000877",
+        "name": "morphologic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009400",
+        "name": "out breeding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011197",
+        "name": "perejil",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002689",
+        "name": "soil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000758",
+        "name": "substrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013589",
+        "name": "supplement",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

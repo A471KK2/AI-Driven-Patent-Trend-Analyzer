@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Environment
+.env
+
+# Ollama / Model files
+ollama/
+models/
+
+# OpenSearch
+opensearch-data/
+
+# Logs
+*.log
+
+# OS
+.DS_Store

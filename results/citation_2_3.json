@@ -1,0 +1,990 @@
+{
+  "search_metadata": {
+    "id": "697a3a430fa72ef03cb9ae33",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b961d5b19e7a6a80/697a3a430fa72ef03cb9ae33.json",
+    "created_at": "2026-01-28 16:33:07 UTC",
+    "processed_at": "2026-01-28 16:33:07 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/JP2006206103A/en",
+    "raw_html_file": "https://serpapi.com/searches/b961d5b19e7a6a80/697a3a430fa72ef03cb9ae33.html",
+    "total_time_taken": 2.12
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/JP2006206103A/en"
+  },
+  "title": "Octopus dumpling container of molded pulp and its manufacturing method",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/27/00/29/d4e16bf1c5e8de/JP2006206103A.pdf",
+  "publication_number": "JP2006206103A",
+  "country": "Japan",
+  "prior_art_keywords": [
+    "container",
+    "pulp",
+    "takoyaki",
+    "mold",
+    "flange"
+  ],
+  "prior_art_date": "2005-01-28",
+  "application_number": "JP2005020898A",
+  "inventors": [
+    {
+      "name": "Yasunari Sugiyama",
+      "link": "https://patents.google.com/?inventor=Yasunari+Sugiyama",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yasunari+Sugiyama"
+    },
+    {
+      "name": "\u5eb7\u6210 \u6749\u5c71",
+      "link": "https://patents.google.com/?inventor=%E5%BA%B7%E6%88%90+%E6%9D%89%E5%B1%B1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BA%B7%E6%88%90+%E6%9D%89%E5%B1%B1"
+    }
+  ],
+  "assignees": [
+    "ECO I KK"
+  ],
+  "priority_date": "2005-01-28",
+  "filing_date": "2005-01-28",
+  "publication_date": "2006-08-10",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-01-28",
+        "country_code": "JP",
+        "application_number": "JP2005020898A",
+        "document_id": "patent/JP2006206103A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-01-28",
+      "title": "Application filed by ECO I KK",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "ECO I KK"
+    },
+    {
+      "date": "2005-01-28",
+      "title": "Priority to JP2005020898A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP2006206103A/en"
+    },
+    {
+      "date": "2006-08-10",
+      "title": "Publication of JP2006206103A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP2006206103A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=JP&NR=2006206103A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/JP/2005020898/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/JP2006206103A"
+    }
+  ],
+  "abstract": "<P>PROBLEM TO BE SOLVED: To provide an octopus dumpling container of molded pulp that is not melted, not deteriorate the flavor of octopus dumpling, requires no arrangement of a hole or clearance in the container for releasing steam, and can be heated again in a micro-wave oven with the octopus dumpling contained therein.  <P>SOLUTION: This octopus dumpling container of molded pulp comprises a bottomed container to which a lid is integrally connected. Eight concave portions 14 are arranged side by side in the bottom surface 13 and the octopus dumplings are stored in the concave portions. The concave portion 14 is a spherical concave portion with a radius of curvature of 25 mm and a depth of 5 mm.  <P>COPYRIGHT: (C)2006,JPO&NCIPI",
+  "description_link": "https://serpapi.com/searches/697a3a430fa72ef03cb9ae33/google_patents_details/description.html",
+  "claims": [
+    "\u672c\u4f53\u306e\u958b\u53e3\u90e8\u306b\u7b2c\uff11\u306e\u30d5\u30e9\u30f3\u30b8\u3092\u6709\u3057\u3001\u305d\u306e\u4e00\u7aef\u306b\u8a72\u30d5\u30e9\u30f3\u30b8\u306b\u5bfe\u5fdc\u3057\u305f\u7b2c\uff12\u306e\u30d5\u30e9\u30f3\u30b8\u3092\u6709\u3059\u308b\u84cb\u4f53\u304c\u4e00\u4f53\u306b\u63a5\u7d9a\u3055\u308c\u3001\u958b\u9589\u81ea\u5728\u3068\u3057\u305f\u6709\u5e95\u306e\u5bb9\u5668\u304b\u3089\u306a\u308a\u3001\u524d\u8a18\u84cb\u4f53\u306b\u306f\u672c\u4f53\u5bb9\u5668\u306e\u4fc2\u5408\u7528\u30b9\u30ea\u30c3\u30c8\u306b\u5bfe\u5411\u3057\u3066\u4fc2\u5408\u7528\u7a81\u8d77\u3092\u6709\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306b\u304a\u3044\u3066\u3001\u8a72\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u5bb9\u5668\u306f\u3001\u6f09\u304d\u4e0a\u3052\u524d\u306b\u9632\u6c34\u5264\u53ca\u3073\u9632\u6cb9\u5264\u304c\u6dfb\u52a0\u3055\u308c\u305f\u30d1\u30eb\u30d7\u5206\u6563\u6db2\u3092\u7528\u3044\u3066\u6210\u578b\u3055\u308c\u305f\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u3002\n\nA lid body having a first flange at the opening of the main body and having a second flange corresponding to the flange at one end thereof is integrally connected, and comprises a bottomed container that can be opened and closed. Is a pulp mold container having an engagement protrusion facing the engagement slit of the main body container, and the pulp mold container was molded using a pulp dispersion liquid to which a waterproofing agent and an oilproofing agent were added prior to the raising. A takoyaki container made of pulp mold.",
+    "\u672c\u4f53\u306e\u958b\u53e3\u90e8\u306b\u7b2c\uff11\u306e\u30d5\u30e9\u30f3\u30b8\u3092\u6709\u3057\u3001\u305d\u306e\u4e00\u7aef\u306b\u8a72\u30d5\u30e9\u30f3\u30b8\u306b\u5bfe\u5fdc\u3057\u305f\u7b2c\uff12\u306e\u30d5\u30e9\u30f3\u30b8\u3092\u6709\u3059\u308b\u84cb\u4f53\u304c\u4e00\u4f53\u306b\u63a5\u7d9a\u3055\u308c\u3001\u958b\u9589\u81ea\u5728\u3068\u3057\u305f\u6709\u5e95\u306e\u5bb9\u5668\u304b\u3089\u306a\u308a\u3001\u8a72\u672c\u4f53\u306e\u5e95\u9762\u306b\u5916\u65b9\u5411\u306b\u8907\u6570\u306e\u51f8\u66f2\u9762\u90e8\u3092\u914d\u5217\u3057\u3066\u6709\u3057\u3001\u8a72\u51f8\u66f2\u9762\u90e8\u306e\u5185\u90e8\u306f\u305f\u3053\u713c\u304d\u53ce\u7d0d\u7528\u51f9\u90e8\u304c\u5f62\u6210\u3055\u308c\u3001\u307e\u305f\u524d\u8a18\u84cb\u4f53\u306b\u306f\u672c\u4f53\u5bb9\u5668\u306e\u4fc2\u5408\u7528\u30b9\u30ea\u30c3\u30c8\u306b\u5bfe\u5411\u3057\u3066\u4fc2\u5408\u7528\u7a81\u8d77\u3092\u6709\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u3067\u3042\u3063\u3066\u3001\u8a72\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u306f\u3001\u6f09\u304d\u4e0a\u3052\u524d\u306b\u9632\u6c34\u5264\u53ca\u3073\u9632\u6cb9\u5264\u304c\u6dfb\u52a0\u3055\u308c\u305f\u30d1\u30eb\u30d7\u5206\u6563\u6db2\u3092\u7528\u3044\u3066\u6210\u578b\u3055\u308c\u305f\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u3002\n\nA lid having a first flange at the opening of the main body and having a second flange corresponding to the flange at one end thereof is integrally connected to the bottom of the main body. A plurality of convex curved surface portions arranged in the outer direction, and a concave portion for storing a takoyaki is formed inside the convex curved surface portion, and an engagement protrusion facing the engagement slit of the main body container on the lid body A pulp mold takoyaki container, wherein the pulp mold takoyaki container is molded using a pulp dispersion liquid to which a waterproofing agent and an oilproofing agent are added before the soaking. container.",
+    "\u524d\u8a18\u5e95\u9762\u306e\u5185\u5074\u306b\u3001\u305f\u3053\u713c\u304d\u56fa\u5b9a\u7528\u4ed5\u5207\u308a\u3092\u6709\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u3002\n\nThe pulp mold takoyaki container according to claim 1, further comprising a takoyaki fixing partition inside the bottom surface.",
+    "\u30d1\u30eb\u30d7\u5206\u6563\u6c34\u6eb6\u6db2\u306b\u9632\u6c34\u5264\u53ca\u3073\u9632\u6cb9\u5264\u3092\u6dfb\u52a0\u3057\u3001\u5f97\u3089\u308c\u305f\u30d1\u30eb\u30d7\u5206\u6563\u6c34\u6eb6\u6db2\u3092\u7528\u3044\u3066\u6709\u4f4e\u5bb9\u5668\u3068\u84cb\u3068\u304c\u63a5\u7d9a\u90e8\u3067\u4e00\u4f53\u306b\u63a5\u7d9a\u3055\u308c\u308b\u540c\u5f62\u306e\u7db2\u578b\u3067\u6f09\u304d\u4e0a\u3052\u3001\u6f09\u304d\u4e0a\u3052\u3089\u308c\u305f\u30e2\u30fc\u30eb\u30c9\u30d1\u30eb\u30d7\u3092\u7db2\u578b\u3068\u540c\u5f62\u306e\u52a0\u71b1\u30d7\u30ec\u30b9\u88c5\u7f6e\u306b\u7db2\u578b\u3068\u4e00\u7dd2\u306b\u8a2d\u7f6e\u3057\u305f\u5f8c\u3001\u52a0\u71b1\u30fb\u52a0\u5727\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u3002\n\nA mold in which a waterproofing agent and an oil-proofing agent are added to a pulp dispersion aqueous solution, and the obtained pulp dispersion aqueous solution is used to squeeze up the container with the same shape in which the container and the lid are integrally connected at the connection portion. A method for producing a pulp mold takoyaki container, characterized in that a pulp is placed in a heating press apparatus having the same shape as a mesh mold together with the mesh mold, and then heated and pressurized.",
+    "\u9632\u6c34\u5264\u306e\u6dfb\u52a0\u91cf\u304c\u30d1\u30eb\u30d7\u5206\u6563\u6c34\u6eb6\u6db2\u306b\u5bfe\u3057\u3066\uff10\uff0e\uff10\uff11\u301c\uff11\uff10\u91cd\u91cf\uff05\u3067\u3042\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff14\u306b\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u3002\n\nThe method for producing a pulp-molded takoyaki container according to claim 4, wherein the waterproofing agent is added in an amount of 0.01 to 10% by weight based on the pulp-dispersed aqueous solution.",
+    "\u9632\u6cb9\u5264\u306e\u6dfb\u52a0\u91cf\u304c\u30d1\u30eb\u30d7\u5206\u6563\u6c34\u6eb6\u6db2\u306b\u5bfe\u3057\u3066\uff10\uff0e\uff10\uff11\u301c\uff11\uff10\u91cd\u91cf\uff05\u3067\u3042\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff14\u306b\u8a18\u8f09\u306e\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u88fd\u305f\u3053\u713c\u304d\u5bb9\u5668\u306e\u88fd\u9020\u65b9\u6cd5\u3002\n\nThe method for producing a pulp-molded takoyaki container according to claim 4, wherein the addition amount of the oilproofing agent is 0.01 to 10% by weight with respect to the pulp-dispersed aqueous solution."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP2005020898A",
+      "representative_publication": "JP2006206103A",
+      "primary_language": "en",
+      "priority_date": "2005-01-28",
+      "filing_date": "2005-01-28",
+      "title": "Octopus dumpling container of molded pulp and its manufacturing method"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2005020898A",
+      "representative_publication": "JP2006206103A",
+      "primary_language": "en",
+      "priority_date": "2005-01-28",
+      "filing_date": "2005-01-28",
+      "title": "Octopus dumpling container of molded pulp and its manufacturing method"
+    }
+  ],
+  "family_id": "36963379",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "KR20190043137A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-26",
+        "publication_date": "2019-04-25",
+        "assignee_original": "\ud48b\ud504\ub9b0\ud2b8 \uc778\ud130\ub0b4\uc154\ub110, \uc5d8\uc5d8\uc528",
+        "title": "METHOD AND DEVICE FOR MANUFACTURING FIBER-BASED FOOD CONTAIN",
+        "patent_id": "patent/KR20190043137A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20190043137A%2Fen"
+      },
+      {
+        "publication_number": "WO2020241709A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-05-28",
+        "publication_date": "2020-12-03",
+        "assignee_original": "\u30c0\u30a4\u30ad\u30f3\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Oil-resistant agent for paper",
+        "patent_id": "patent/WO2020241709A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020241709A1%2Fen"
+      },
+      {
+        "publication_number": "JP2022038214A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-26",
+        "publication_date": "2022-03-10",
+        "assignee_original": "\u738b\u5b50\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Pulp mold compact",
+        "patent_id": "patent/JP2022038214A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2022038214A%2Fen"
+      },
+      {
+        "publication_number": "KR20220002649U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-28",
+        "publication_date": "2022-11-04",
+        "assignee_original": "\uc774\uc7ac\uc77c",
+        "title": "Disposable container",
+        "patent_id": "patent/KR20220002649U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220002649U%2Fen"
+      },
+      {
+        "publication_number": "US11686050B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-26",
+        "publication_date": "2023-06-27",
+        "assignee_original": "Footprint International, LLC",
+        "title": "Methods, apparatus, and chemical compositions for selectively coating fiber-based food containers",
+        "patent_id": "patent/US11686050B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11686050B2%2Fen"
+      },
+      {
+        "publication_number": "US12037749B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-26",
+        "publication_date": "2024-07-16",
+        "assignee_original": "Footprint International, LLC",
+        "title": "Acrylate and non-acrylate based chemical compositions for selectively coating fiber-based food containers",
+        "patent_id": "patent/US12037749B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12037749B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7337916B2",
+      "primary_language": "en",
+      "publication_date": "2008-03-04",
+      "title": "Pressure/moisture release cooking container",
+      "patent_id": "patent/US7337916B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7337916B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "NO338382B1",
+      "primary_language": "en",
+      "publication_date": "2016-08-15",
+      "title": "Container for cooking food",
+      "patent_id": "patent/NO338382B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNO338382B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FR2596366A1",
+      "primary_language": "en",
+      "publication_date": "1987-10-02",
+      "title": "CONTAINER SEALABLE FOR COOKING PURPOSES",
+      "patent_id": "patent/FR2596366A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2596366A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20180003407U",
+      "primary_language": "en",
+      "publication_date": "2018-12-07",
+      "title": "Vessel for cooking",
+      "patent_id": "patent/KR20180003407U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20180003407U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6603469B2",
+      "primary_language": "en",
+      "publication_date": "2019-11-06",
+      "title": "Packaging container lid, packaging container and method of using packaging container",
+      "patent_id": "patent/JP6603469B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6603469B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2006206103A",
+      "primary_language": "en",
+      "publication_date": "2006-08-10",
+      "title": "Octopus dumpling container of molded pulp and its manufacturing method",
+      "patent_id": "patent/JP2006206103A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006206103A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090257687A1",
+      "primary_language": "en",
+      "publication_date": "2009-10-15",
+      "title": "Package fof cooking foodstuffs having high-moisture content",
+      "patent_id": "patent/US20090257687A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090257687A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ITTO20100481A1",
+      "primary_language": "en",
+      "publication_date": "2011-12-09",
+      "title": "CONTAINER FOR HOT FOOD AND ITS LID",
+      "patent_id": "patent/ITTO20100481A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITTO20100481A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20170217662A1",
+      "primary_language": "en",
+      "publication_date": "2017-08-03",
+      "title": "Microwave Heating Construct",
+      "patent_id": "patent/US20170217662A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170217662A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2001030657A3",
+      "primary_language": "en",
+      "publication_date": "2001-12-13",
+      "title": "Package for cooking food in a microwave oven",
+      "patent_id": "patent/WO2001030657A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2001030657A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN204568453U",
+      "primary_language": "en",
+      "publication_date": "2015-08-19",
+      "title": "From heat radiation packing box",
+      "patent_id": "patent/CN204568453U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN204568453U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4875394B2",
+      "primary_language": "en",
+      "publication_date": "2012-02-15",
+      "title": "Packaging container sealed with adhesive tape",
+      "patent_id": "patent/JP4875394B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4875394B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4549824B2",
+      "primary_language": "en",
+      "publication_date": "2010-09-22",
+      "title": "Composite container",
+      "patent_id": "patent/JP4549824B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4549824B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002177139A",
+      "primary_language": "en",
+      "publication_date": "2002-06-25",
+      "title": "Paper cup container for microwave oven cooking",
+      "patent_id": "patent/JP2002177139A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002177139A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101008885B1",
+      "primary_language": "en",
+      "publication_date": "2011-01-19",
+      "title": "Nooddle package",
+      "patent_id": "patent/KR101008885B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101008885B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2010047280A",
+      "primary_language": "en",
+      "publication_date": "2010-03-04",
+      "title": "Container for microwave cooking",
+      "patent_id": "patent/JP2010047280A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010047280A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR200210273Y1",
+      "primary_language": "en",
+      "publication_date": "2001-01-15",
+      "title": "Re-Airtightable Cupramyun Seal",
+      "patent_id": "patent/KR200210273Y1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR200210273Y1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPS62146139A",
+      "primary_language": "en",
+      "publication_date": "1987-06-30",
+      "title": "Waterproof, oilproof and heat-resistant paper vessel and manufacture thereof",
+      "patent_id": "patent/JPS62146139A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS62146139A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH088732Y2",
+      "primary_language": "en",
+      "publication_date": "1996-03-13",
+      "title": "Lid for heating cooking packaging",
+      "patent_id": "patent/JPH088732Y2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH088732Y2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2017105528A",
+      "primary_language": "en",
+      "publication_date": "2017-06-15",
+      "title": "Interior sheet of container for transporting cooked rice",
+      "patent_id": "patent/JP2017105528A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017105528A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2369341A",
+      "primary_language": "en",
+      "publication_date": "2002-05-29",
+      "title": "A heat responsive food product container",
+      "patent_id": "patent/GB2369341A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2369341A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101061728B1",
+      "primary_language": "en",
+      "publication_date": "2011-09-07",
+      "title": "Edible Disposable Container",
+      "patent_id": "patent/KR101061728B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101061728B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102534287B1",
+      "primary_language": "en",
+      "publication_date": "2023-06-08",
+      "title": "Wrapping papper for microwave oven with excellent in oil resistance and water resistance and lunch box for microwave oven containing the same",
+      "patent_id": "patent/KR102534287B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102534287B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2020179895A",
+      "primary_language": "en",
+      "publication_date": "2020-11-05",
+      "title": "Paper container",
+      "patent_id": "patent/JP2020179895A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2020179895A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000238860A",
+      "primary_language": "en",
+      "publication_date": "2000-09-05",
+      "title": "Packaging container for cooked food",
+      "patent_id": "patent/JP2000238860A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000238860A%2Fen"
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000011105",
+        "name": "molded pulp",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "241000238413",
+        "name": "Octopus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "abstract"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "239000006185",
+        "name": "dispersion",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000002939",
+        "name": "oilproofing",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "238000004078",
+        "name": "waterproofing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000007864",
+        "name": "aqueous solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000005192",
+        "name": "partition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002791",
+        "name": "soaking",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000796",
+        "name": "flavoring agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019634",
+        "name": "flavors",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Chemical compound",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000000123",
+        "name": "paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000015067",
+        "name": "sauces",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000004793",
+        "name": "Polystyrene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229920002223",
+        "name": "polystyrene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000005494",
+        "name": "condensation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000009833",
+        "name": "condensation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920006248",
+        "name": "expandable polystyrene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000035699",
+        "name": "permeability",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "241000609240",
+        "name": "Ambelania acida",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000000111",
+        "name": "Saccharum officinarum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000007201",
+        "name": "Saccharum officinarum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002125",
+        "name": "Sokalan\u00ae",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005273",
+        "name": "aeration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010905",
+        "name": "bagasse",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000002148",
+        "name": "esters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002844",
+        "name": "melting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008018",
+        "name": "melting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004584",
+        "name": "polyacrylic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002023",
+        "name": "wood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "208000010470",
+        "name": "Ageusia",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000017166",
+        "name": "Bambusa arundinacea",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000017491",
+        "name": "Bambusa tulda",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000238557",
+        "name": "Decapoda",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000082204",
+        "name": "Phyllostachys viridis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000015334",
+        "name": "Phyllostachys viridis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019666",
+        "name": "ageusia",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011425",
+        "name": "bamboo",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004132",
+        "name": "cross linking",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003449",
+        "name": "preventive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002994",
+        "name": "raw material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019685",
+        "name": "rice crackers",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010902",
+        "name": "straw",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,781 @@
+{
+  "search_metadata": {
+    "id": "697a36518c8a7e3b71f5c805",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3cbad540c4e2ae85/697a36518c8a7e3b71f5c805.json",
+    "created_at": "2026-01-28 16:16:17 UTC",
+    "processed_at": "2026-01-28 16:16:17 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2004026033A1/en",
+    "raw_html_file": "https://serpapi.com/searches/3cbad540c4e2ae85/697a36518c8a7e3b71f5c805.html",
+    "total_time_taken": 0.85
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2004026033A1/en"
+  },
+  "title": "Plant pesticides and uses thereof",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/30/4a/90/875b1b1d0e9108/WO2004026033A1.pdf",
+  "publication_number": "WO2004026033A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "plant",
+    "pesticide",
+    "sulphur",
+    "treatment",
+    "infection"
+  ],
+  "prior_art_date": "2002-09-20",
+  "application_number": "PCT/AU2003/001245",
+  "inventors": [
+    {
+      "name": "Paul Agostino",
+      "link": "https://patents.google.com/?inventor=Paul+Agostino",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paul+Agostino"
+    },
+    {
+      "name": "Sam Papandrea",
+      "link": "https://patents.google.com/?inventor=Sam+Papandrea",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sam+Papandrea"
+    }
+  ],
+  "assignees": [
+    "ARTPHARM Pty Ltd"
+  ],
+  "priority_date": "2002-09-20",
+  "filing_date": "2003-09-22",
+  "publication_date": "2004-04-01",
+  "worldwide_applications": {
+    "2002": [
+      {
+        "filing_date": "2002-09-20",
+        "country_code": "AU",
+        "application_number": "AU2002951533A",
+        "document_id": "patent/AU2002951533A0/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ],
+    "2003": [
+      {
+        "filing_date": "2003-09-22",
+        "country_code": "WO",
+        "application_number": "PCT/AU2003/001245",
+        "document_id": "patent/WO2004026033A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2003-09-22",
+      "title": "Application filed by ARTPHARM Pty Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "ARTPHARM Pty Ltd"
+    },
+    {
+      "date": "2003-09-22",
+      "title": "Priority to AU2003264165A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/AU2003264165A1/en"
+    },
+    {
+      "date": "2004-04-01",
+      "title": "Publication of WO2004026033A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2004026033A1/en"
+    },
+    {
+      "date": "2005-03-20",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2004026033A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTAU2003001245/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2004026033"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2004026033A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01N43/90",
+      "description": "Biocides, pest repellants or attractants, or plant growth regulators containing heterocyclic compounds having two or more relevant hetero rings, condensed among themselves or with a common carbocyclic ring system",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention relates to pesticides and in particular to a plant pesticide comprising (a) avermectin, ivermectin, abamectin or emamectin and (b) sulphur (e.g. ThivoitR (a micronised sulfur formulation)) or a sulfur containing compound (e.g. captan, captafol, or dimethyldithiocarbonic acid). The invention also relates to uses of these pesticides in the treatment of plant diseases.",
+  "description_link": "https://serpapi.com/searches/697a36518c8a7e3b71f5c805/google_patents_details/description.html",
+  "claims": [
+    "THE CLAIMS DEFINING THE INVENTION ARE AS FOLLOWS :-\n      I . A plant pesticide comprising (a) an avermectin and (b) sulphur or a sulphur- containing compound.",
+    "2. A plant pesticide according to claim 1 wherein the pesticide comprises 0.0001% to 0.002% (w/v) avermectin.",
+    "3. A plant pesticide according to claim 2 wherein the pesticide comprises about 0.0008% (w/v) avermectin.",
+    "4. A plant pesticide according to any one of claims 1 to 3 wherein the avermectin is ivermectin.",
+    "5. A plant pesticide according to any one of claims 1 to 4 wherein the pesticide is in the form of a solid granular pellet or pellet-like form.",
+    "6. A plant pesticide according to any one of claims 1 to 4 wherein the sulphur is micronised sulphur.",
+    "7. A plant pesticide according to claim 6 wherein the sulphur is wettable micronised sulphur.",
+    "8. A plant pesticide according to claim 7 wherein the sulphur is microgranule elemental sulphur.",
+    "9. A plant pesticide according to any one of claims 1 to 8 wherein the pesticide comprises 0.1 to 1.0% (w/v) sulphur.",
+    "10. A plant pesticide according to claim 9 wherein the pesticide comprises about 0.3% (w/v) sulphur.",
+    "I I. A plant pesticide according to any one of claims 1 to 10 wherein the pesticide further comprises a carrier.",
+    "12. A plant pesticide according to claim 11 wherein the carrier is selected from the group consisting of: water, stabilizers, emulsifiers, oils, surfactants, antioxidants and UN screens.",
+    "13. A plant pesticide according to claim 12 wherein the surfactant is a non-ionic surfactant.",
+    "14. A plant pesticide according to claim 13 wherein the surfactant is a non-ionic organic surfactant.",
+    "15. A plant pesticide according to claim 14 wherein the surfactant is nonylphenoxy polyethoxyethanol.",
+    "16. A plant pesticide according to any one of claims 12 to 15 wherein the pesticide comprises 0.01 to 0.1 % surfactant.",
+    "17. A plant pesticide according to claim 16 wherein the pesticide comprises about 0.03% (w/v) surfactant.",
+    "18. A plant pesticide according to any one of claims 1 to 17 wherein the plant is an ornamental plant.",
+    "19. A plant pesticide according to claim 18 wherein the ornamental plant is a carnation, rose, lavender, tulip, delphinium or dahlia.",
+    "20. A plant pesticide according to any one of claims 1 to 17 wherein the plant is a fruit plant.",
+    "21. A plant pesticide according to claim 20 wherein the fruit plant is a stone fruit tree, citrus fruit tree, grape vine, strawberry, coffee, banana, tomato, rockmelon or watermelon plant.",
+    "22. A plant pesticide according to any one of claims 1 to 17 wherein the plant is an herb or a medicinal plant.",
+    "23. A plant pesticide according to claim 22 wherein the herb or medicinal plant is a red clover, chamomile, aloe, evening primrose, skullcap, Echinacea, saw palmetto, feverfew, witch hazel, valerian, tea tree, garlic, eucalyptus, basil, parsley or ginseng plant.",
+    "24. A plant pesticide according to any one of claims 1 to 17 wherein the plant is a vegetable plant.",
+    "25. A plant pesticide according to claim 24 wherein the vegetable plant is a bean, corn, carrot, cucumber, potato, radish, spinach, pea, lettuce, onion, cabbage, broccoli, cauliflower, zucchini or turnip plant.",
+    "26. A method for the prevention and/or treatment of a plant disease comprising applying to the plant, or the environment of the plant, an effective amount of a pesticide according to any one of claims 1 to 25.",
+    "27. A method for the prevention and/or treatment of a plant disease comprising applying a pesticide to the plant, or the environment of the plant, wherein the pesticide comprises two separate components: (a) an avermectin and (b) sulphur or a sulphur-containing compound, and the method comprises the simultaneous or sequential application of (a) and (b) such that a synergistic pesticidal effect between (a) and (b) is achieved.",
+    "28. A method according to claim 26 or claim 27 wherein the disease results from a parasite, insect, fungi, worm or mite infestation.",
+    "29. A method according to any one of claims 26 to 28 wherein the pesticide is applied to a surface of the foliage of the plant.",
+    "30. A method according to any one of claims 26 to 28 wherein the pesticide is applied to substantially all surfaces of the plant foliage.",
+    "31. A method according to any one of claims 26 to 30 wherein the pesticide is applied by a spray technique.",
+    "32. A method according to any one of claims 26 to 31 wherein the pesticide is applied to the plant at a rate of 10-300ml per m2.",
+    "33. A method according to claim 32 wherein the pesticide is applied at a rate of 30-50ml per m2.",
+    "34. A method according to any one of claims 26 to 33 wherein the pesticide is applied to the plant in more than one application.",
+    "35. A method according to any one of claims 26 to 34 wherein the pesticide is applied according to different stages of plant growth and disease progression.",
+    "36. A method according to any one of claims 26 to 35 wherein the pesticide is applied in three treatment stages identified as pre-infection, maintenance and post-infection treatments.",
+    "37. A method according to claim 36 wherein the pesticide is applied in the pre-infection treatment at intervals of 1 to 10 days.",
+    "38. A method according to claim 37 wherein the pesticide is applied twice during the pre-infection treatment at about a 4-day interval.",
+    "39. A method according to claim 36 wherein the maintenance treatment is applied 2 to 10 weeks after the pre-infection treatment.",
+    "40. A method according to claim 39 wherein the maintenance treatment is applied 4-5 weeks after the pre-infection treatment and optionally reapplied at 2 to 8 week intervals or 4-5 week intervals.",
+    "41. A method according to claim 36 wherein a first post-infection treatment is applied upon the appearance of signs of pest infection.",
+    "42. A method according to claim 37 wherein a further post-infection treatment is applied.",
+    "43. A method according to claim 42 wherein the further post-infection treatment is carried out 3 to 6 weeks after the first post-infection treatment.",
+    "44. A method according to claim 44 wherein the further post-infection treatment is carried out 4 to 5 weeks after the first post-infection treatment.",
+    "45. A method according to claim 36 wherein two pre-infection treatments are carried out at an interval of 4 days, followed by a first maintenance treatment 4 to 5 weeks after the last pre-infection treatment, and a further maintenance treatment 4 to 5 weeks after the first maintenance treatment.",
+    "46. A process for preparing a plant pesticide according any one of claims 1 to 25 comprising combining an avermectin with sulphur or a sulphur-containing compound.",
+    "47. A plant pesticide comprising about 0.0008% (w/v) avermectin, about 0.3%> (w/v) sulphur and about 0.03% (w/v) non-ionic organic surfactant."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "AU2003264165A",
+      "representative_publication": "AU2003264165A1",
+      "primary_language": "en",
+      "priority_date": "2002-09-20",
+      "filing_date": "2003-09-22",
+      "title": "Plant pesticides and uses thereof"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "AU2002951533A",
+      "representative_publication": "AU2002951533A0",
+      "primary_language": "en",
+      "priority_date": "2002-09-20",
+      "filing_date": "2002-09-20",
+      "title": "Plant pesticides and uses thereof"
+    },
+    {
+      "application_number": "AU2002951533",
+      "filing_date": "2002-09-20"
+    }
+  ],
+  "family_id": "28047288",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "EP0125155A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1983-04-07",
+        "publication_date": "1984-11-14",
+        "assignee_original": "Merck & Co. Inc.",
+        "title": "Novel synergistic agricultural insecticidal, pesticidal and acaricidal combinations",
+        "patent_id": "patent/EP0125155A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0125155A1%2Fen"
+      },
+      {
+        "publication_number": "US4857510A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1986-01-25",
+        "publication_date": "1989-08-15",
+        "assignee_original": "Hoechst Aktiengesellschaft",
+        "title": "Compositions for combating pests containing macrocyclic lactones",
+        "patent_id": "patent/US4857510A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4857510A%2Fen"
+      },
+      {
+        "publication_number": "GB2220856A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-07-18",
+        "publication_date": "1990-01-24",
+        "assignee_original": "Merck & Co Inc",
+        "title": "Novel synergistic agricultural insecticidal and acaricidal combinations containing avermectin derivatives",
+        "patent_id": "patent/GB2220856A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2220856A%2Fen"
+      },
+      {
+        "publication_number": "US5346698A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-01-15",
+        "publication_date": "1994-09-13",
+        "assignee_original": "Mycogen Corporation",
+        "title": "Synergistic pesticidal compositions",
+        "patent_id": "patent/US5346698A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5346698A%2Fen"
+      },
+      {
+        "publication_number": "WO1994024862A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-04-30",
+        "publication_date": "1994-11-10",
+        "assignee_original": "Troy Biosciences, Inc.",
+        "title": "Miticidal composition and method for controlling spider mite populations",
+        "patent_id": "patent/WO1994024862A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1994024862A1%2Fen"
+      },
+      {
+        "publication_number": "EP0736252A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-04-05",
+        "publication_date": "1996-10-09",
+        "assignee_original": "Ciba-Geigy Ag",
+        "title": "Synergistic compositions with diafenthiuron",
+        "patent_id": "patent/EP0736252A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0736252A2%2Fen"
+      },
+      {
+        "publication_number": "WO1999025188A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-11-14",
+        "publication_date": "1999-05-27",
+        "assignee_original": "Novartis Ag",
+        "title": "Pesticidal compositions comprising abamectin",
+        "patent_id": "patent/WO1999025188A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999025188A2%2Fen"
+      },
+      {
+        "publication_number": "EP0501026B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-01-15",
+        "publication_date": "1999-09-01",
+        "assignee_original": "Mycogen Corporation",
+        "title": "Synergistic pesticidal compositions",
+        "patent_id": "patent/EP0501026B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0501026B1%2Fen"
+      },
+      {
+        "publication_number": "CN1237337A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-05-26",
+        "publication_date": "1999-12-08",
+        "assignee_original": "\u89e3\u4fca\u5cf0",
+        "title": "Avermectin and ivermectin micro emulsion",
+        "patent_id": "patent/CN1237337A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1237337A%2Fen"
+      },
+      {
+        "publication_number": "WO2000002453A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-07-07",
+        "publication_date": "2000-01-20",
+        "assignee_original": "Novartis Ag",
+        "title": "Pesticidal composition comprising emamectin",
+        "patent_id": "patent/WO2000002453A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2000002453A1%2Fen"
+      },
+      {
+        "publication_number": "WO2000047048A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-02-08",
+        "publication_date": "2000-08-17",
+        "assignee_original": "Virbac (Australia) Pty. Limited",
+        "title": "Pesticide treatment",
+        "patent_id": "patent/WO2000047048A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2000047048A1%2Fen"
+      },
+      {
+        "publication_number": "CN1299592A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-05",
+        "publication_date": "2001-06-20",
+        "assignee_original": "\u6df1\u5733\u5e02\u8bfa\u666e\u4fe1\u519c\u5316\u6709\u9650\u516c\u53f8",
+        "title": "Abmectin-carbosulfan pesticide composition",
+        "patent_id": "patent/CN1299592A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1299592A%2Fen"
+      },
+      {
+        "publication_number": "WO2002049437A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-12-21",
+        "publication_date": "2002-06-27",
+        "assignee_original": "Biovet Jsc",
+        "title": "Formulation for crop protection with insecticidal and acaricidal action",
+        "patent_id": "patent/WO2002049437A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002049437A2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\"The BioPesticide Manual\", 2001, THE BRITISH CROP PROTECTION COUNCIL, SURREY, UK, pages: 157 - 158",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "\"The Pesticide Manual\", 2000, pages: 3 - 4",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "ARGENTINE J.E. ET AL.: \"Genetics and biochemical mechanisms of abamectin resistance in two isogenic strains of Colorado potato beetle\", PESTICIDE BIOCHEMISTRY AND PHYSIOLOGY, vol. 44, 1992, pages 191 - 207, XP024866739, DOI: doi:10.1016/0048-3575(92)90090-M",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "BLOOMQUIST J.R.: \"Insecticides: Chemistries and Characteristics\", Retrieved from the Internet <URL:http://ipmworld.umn.edu/chapters/bloomq.htm> [retrieved on 20031107]",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "DATABASE WPI Derwent World Patents Index; Class B02, AN 2000-376961/33",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "DATABASE WPI Derwent World Patents Index; Class C02, AN 1986-061934/09",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "DATABASE WPI Derwent World Patents Index; Class C02, AN 1986-061935/09",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "DATABASE WPI Derwent World Patents Index; Class C03, AN 2001-530364/59",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "FR2924944A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-18",
+        "publication_date": "2009-06-19",
+        "assignee_original": "Galderma Sa",
+        "title": "Pharmaceutical composition, useful for preparing a medicament to treat and/or prevent skin disease, preferably rosacea, comprises a compound of family of avermectins or milbemycin and sulfur and its derivative and/or one of its salts",
+        "patent_id": "patent/FR2924944A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2924944A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012101661A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-28",
+        "publication_date": "2012-08-02",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticide composition comprising sulphur, an acaricide and an agrochemical excipient",
+        "patent_id": "patent/WO2012101661A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012101661A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012101659A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-28",
+        "publication_date": "2012-08-02",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticide composition comprising sulphur, an insecticide and an agrochemical excipient.",
+        "patent_id": "patent/WO2012101659A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012101659A1%2Fen"
+      },
+      {
+        "publication_number": "CN102784166A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-01",
+        "publication_date": "2012-11-21",
+        "assignee_original": "\u9752\u5c9b\u7eff\u66fc\u751f\u7269\u5de5\u7a0b\u6709\u9650\u516c\u53f8",
+        "title": "Compound ivermectin combination for treating livestock demodicid mite diseases and preparation method thereof",
+        "patent_id": "patent/CN102784166A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102784166A%2Fen"
+      },
+      {
+        "publication_number": "CN103355343A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-26",
+        "publication_date": "2013-10-23",
+        "assignee_original": "\u6d77\u5357\u6b63\u4e1a\u4e2d\u519c\u9ad8\u79d1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Agricultural compositions containing sulfur",
+        "patent_id": "patent/CN103355343A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103355343A%2Fen"
+      },
+      {
+        "publication_number": "CN107950273A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-28",
+        "publication_date": "2018-04-24",
+        "assignee_original": "\u9547\u6c5f\u5b9d\u6210\u751f\u7269\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of diseases and pests of tea tree control method",
+        "patent_id": "patent/CN107950273A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107950273A%2Fen"
+      },
+      {
+        "publication_number": "WO2025057170A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-09-14",
+        "publication_date": "2025-03-20",
+        "assignee_original": "Adama Makhteshim Ltd.",
+        "title": "Fungicidal mixture combination comprising sulphur",
+        "patent_id": "patent/WO2025057170A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025057170A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN115644181B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-29",
+        "publication_date": "2023-03-14",
+        "assignee_original": "\u4e91\u5357\u4e2d\u533b\u836f\u5927\u5b66",
+        "title": "A kind of chrysanthemum white rust control agent and using method thereof",
+        "patent_id": "patent/CN115644181B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115644181B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20110229589A1",
+      "primary_language": "en",
+      "publication_date": "2011-09-22",
+      "title": "Insect and plant disease control compositions and methods of use thereof",
+      "patent_id": "patent/US20110229589A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110229589A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111418418A",
+      "primary_language": "en",
+      "publication_date": "2020-07-17",
+      "title": "Green and safe pest control method",
+      "patent_id": "patent/CN111418418A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111418418A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "SK324392A3",
+      "primary_language": "en",
+      "publication_date": "1995-04-12",
+      "title": "Pesticidal agent and method of suppression of arthropoda",
+      "patent_id": "patent/SK324392A3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSK324392A3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100760240B1",
+      "primary_language": "en",
+      "publication_date": "2007-10-04",
+      "title": "Environment-friendly Cultivation of Organic Crops Using Selenium and Nim Oil",
+      "patent_id": "patent/KR100760240B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100760240B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20140040896A",
+      "primary_language": "en",
+      "publication_date": "2014-04-04",
+      "title": "Insecticide or compost composition comprising the leaves of ginkgo biloba by water aging",
+      "patent_id": "patent/KR20140040896A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20140040896A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2004026033A1",
+      "primary_language": "en",
+      "publication_date": "2004-04-01",
+      "title": "Plant pesticides and uses thereof",
+      "patent_id": "patent/WO2004026033A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004026033A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "823427441518406219",
+      "scholar_authors": "Van den Berg et al.",
+      "publication_date": "1998",
+      "title": "Chemical control",
+      "patent_id": "scholar/823427441518406219",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F823427441518406219"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2011151766A2",
+      "primary_language": "en",
+      "publication_date": "2011-12-08",
+      "title": "Insect and plant disease control compositions and methods of use thereof",
+      "patent_id": "patent/WO2011151766A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011151766A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4764720B2",
+      "primary_language": "en",
+      "publication_date": "2011-09-07",
+      "title": "Environmental conservation pest control agent",
+      "patent_id": "patent/JP4764720B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4764720B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105794813B",
+      "primary_language": "en",
+      "publication_date": "2018-06-08",
+      "title": "A kind of Pesticidal combination and its method for controlling agricultural pests",
+      "patent_id": "patent/CN105794813B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105794813B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "9242976299129546139",
+      "scholar_authors": "Saha et al.",
+      "publication_date": "2020",
+      "title": "Major insect pests of vegetable crops in bihar and their management",
+      "patent_id": "scholar/9242976299129546139",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F9242976299129546139"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115226722B",
+      "primary_language": "en",
+      "publication_date": "2023-06-30",
+      "title": "A kind of composition, preparation and application of isothiocyanate and abamectin B2",
+      "patent_id": "patent/CN115226722B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115226722B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "18232081767318628099",
+      "scholar_authors": "Alakhdar et al.",
+      "publication_date": "2021",
+      "title": "Toxicological evaluation and residual analysis of some acaricides against two-spotted spider mite Tetranychus urticae by using certain ground spraying equipment on cotton and its intercrops in Egypt",
+      "patent_id": "scholar/18232081767318628099",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F18232081767318628099"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6646000B1",
+      "primary_language": "en",
+      "publication_date": "2003-11-11",
+      "title": "Method to control plant pests, improve plant productivity and other purposes",
+      "patent_id": "patent/US6646000B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6646000B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103719115B",
+      "primary_language": "en",
+      "publication_date": "2015-08-05",
+      "title": "A kind of Pesticidal combination",
+      "patent_id": "patent/CN103719115B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103719115B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20040037904A1",
+      "primary_language": "en",
+      "publication_date": "2004-02-26",
+      "title": "Antibacterial composition comprising as an active ingredient saponificated vegetable oil",
+      "patent_id": "patent/US20040037904A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040037904A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11905945440226806002",
+      "scholar_authors": "Ghale",
+      "publication_date": "2024",
+      "title": "Efficiency of seed disinfection and foliar spray with imidacloprid and cypermethrin for control of flea beetles in canola",
+      "patent_id": "scholar/11905945440226806002",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11905945440226806002"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2807997C1",
+      "primary_language": "en",
+      "publication_date": "2023-11-21",
+      "title": "Method of cultivation of agricultural crops",
+      "patent_id": "patent/RU2807997C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2807997C1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6132356768849215202",
+      "scholar_authors": "Okoth et al.",
+      "publication_date": "2002",
+      "title": "Comparative evaluation of the efficacy of aqueous neem extract and Dipel 2x on diamondback moth, Plutella xylostella Linn., on cabbage in Kenya",
+      "patent_id": "scholar/6132356768849215202",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6132356768849215202"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8207263170017881159",
+      "scholar_authors": "Kulawardhana et al.",
+      "publication_date": "2018",
+      "title": "Biopesticidal activity of Lunumidella (Melia dubia) leaf extract",
+      "patent_id": "scholar/8207263170017881159",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8207263170017881159"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2012074486A1",
+      "primary_language": "en",
+      "publication_date": "2012-06-07",
+      "title": "Milk-based pesticidal formulation",
+      "patent_id": "patent/WO2012074486A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012074486A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPH05194129A",
+      "primary_language": "en",
+      "publication_date": "1993-08-03",
+      "title": "Bactericidal agent for agriculturaland gardening purposes",
+      "patent_id": "patent/JPH05194129A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH05194129A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20230018056A",
+      "primary_language": "en",
+      "publication_date": "2023-02-07",
+      "title": "Composition Containing Seaweed and Zeolite having Insecticidal Activities",
+      "patent_id": "patent/KR20230018056A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20230018056A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5643113455095989553",
+      "scholar_authors": "Regmi et al.",
+      "publication_date": "2015",
+      "title": "Eco friendly management of thrips (megalurothrips sjostedti trybom) in asparagus bean in chitwan, nepal",
+      "patent_id": "scholar/5643113455095989553",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5643113455095989553"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1323853366408715232",
+      "scholar_authors": "PrakashRaja et al.",
+      "publication_date": "2023",
+      "title": "A Comparative study on the Effectiveness of pesticidal Action of Sambucus Nigra and Bombyx Processionea against Leucinodes Orbonalis in Solamum Melongena",
+      "patent_id": "scholar/1323853366408715232",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1323853366408715232"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2004-04-01",
+      "code": "AK",
+      "title": "Designated states",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "AE AG AL AM AT AU AZ BA BB BG BR BY BZ CA CH CN CO CR CU CZ DE DK DM DZ EC EE EG ES FI GB GD GE GH GM HR HU ID IL IN IS JP KE KG KP KR KZ LC LK LR LS LT LU LV MA MD MG MK MN MW MX MZ NI NO NZ OM PG PH PL PT RO RU SC SD SE SG SK SL SY TJ TM TN TR TT TZ UA UG US UZ VC VN YU ZA ZM ZW"
+        }
+      ]
+    },
+    {
+      "date": "2004-04-01",
+      "code": "AL",
+      "title": "Designated countries for regional patents",
+      "attributes": [
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        },
+        {
+          "label": "Designated state(s)",
+          "value": "GH GM KE LS MW MZ SD SL SZ TZ UG ZM ZW AM AZ BY KG KZ MD RU TJ TM AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HU IE IT LU MC NL PT RO SE SI SK TR BF BJ CF CG CI CM GA GN GQ GW ML MR NE SN TD TG"
+        }
+      ]
+    },
+    {
+      "date": "2004-05-26",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application"
+    },
+    {
+      "date": "2004-06-24",
+      "code": "DFPE",
+      "title": "Request for preliminary examination filed prior to expiration of 19th month from priority date (pct application filed before 20040101)"
+    },
+    {
+      "date": "2006-08-18",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "JP"
+        }
+      ]
+    },
+    {
+      "date": "2006-08-18",
+      "code": "WWW",
+      "title": "Wipo information: withdrawn in national office",
+      "attributes": [
+        {
+          "label": "Country of ref document",
+          "value": "JP"
+        }
+      ]
+    },
+    {
+      "date": "2006-10-25",
+      "code": "122",
+      "title": "Ep: pct application non-entry in european phase"
+    }
+  ]
+}

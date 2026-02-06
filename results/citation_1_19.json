@@ -1,0 +1,2639 @@
+{
+  "search_metadata": {
+    "id": "697a3a038976f7ff9804c01d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fb374881ed121222/697a3a038976f7ff9804c01d.json",
+    "created_at": "2026-01-28 16:32:03 UTC",
+    "processed_at": "2026-01-28 16:32:03 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CA2889039A1/en",
+    "raw_html_file": "https://serpapi.com/searches/fb374881ed121222/697a3a038976f7ff9804c01d.html",
+    "total_time_taken": 3.03
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CA2889039A1/en"
+  },
+  "title": "Biodegradable polyester mixture",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/7e/34/ef/3963c84856c186/CA2889039A1.pdf",
+  "publication_number": "CA2889039A1",
+  "country": "Canada",
+  "prior_art_keywords": [
+    "total weight",
+    "components",
+    "polyester",
+    "mixture according",
+    "biodegradable polyester"
+  ],
+  "prior_art_date": "2012-11-15",
+  "application_number": "CA2889039A",
+  "inventors": [
+    {
+      "name": "Xin Yang",
+      "link": "https://patents.google.com/?inventor=Xin+Yang",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Xin+Yang"
+    },
+    {
+      "name": "Jorg Auffermann",
+      "link": "https://patents.google.com/?inventor=Jorg+Auffermann",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jorg+Auffermann"
+    },
+    {
+      "name": "Carsten SINKEL",
+      "link": "https://patents.google.com/?inventor=Carsten+SINKEL",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Carsten+SINKEL"
+    },
+    {
+      "name": "Jerome LOHMANN",
+      "link": "https://patents.google.com/?inventor=Jerome+LOHMANN",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jerome+LOHMANN"
+    },
+    {
+      "name": "Robert Loos",
+      "link": "https://patents.google.com/?inventor=Robert+Loos",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Robert+Loos"
+    },
+    {
+      "name": "Gabriel Skupin",
+      "link": "https://patents.google.com/?inventor=Gabriel+Skupin",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gabriel+Skupin"
+    },
+    {
+      "name": "Andreas Kunkel",
+      "link": "https://patents.google.com/?inventor=Andreas+Kunkel",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Andreas+Kunkel"
+    },
+    {
+      "name": "Lars Borger",
+      "link": "https://patents.google.com/?inventor=Lars+Borger",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Lars+Borger"
+    }
+  ],
+  "assignees": [
+    "BASF SE"
+  ],
+  "priority_date": "2012-11-15",
+  "filing_date": "2013-11-08",
+  "publication_date": "2014-05-22",
+  "worldwide_applications": {
+    "2013": [
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "EP",
+        "application_number": "EP13788985.3A",
+        "document_id": "patent/EP2920244B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "JP",
+        "application_number": "JP2015542226A",
+        "document_id": "patent/JP6422877B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "AU",
+        "application_number": "AU2013347034A",
+        "document_id": "patent/AU2013347034B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "WO",
+        "application_number": "PCT/EP2013/073339",
+        "document_id": "patent/WO2014075997A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "CA",
+        "application_number": "CA2889039A",
+        "document_id": "patent/CA2889039A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "CN",
+        "application_number": "CN201380059550.4A",
+        "document_id": "patent/CN104837923B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "BR",
+        "application_number": "BR112015010308A",
+        "document_id": "patent/BR112015010308A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "EP",
+        "application_number": "EP13792625.9A",
+        "document_id": "patent/EP2920245B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "US",
+        "application_number": "US14/441,233",
+        "document_id": "patent/US10526461B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "ES",
+        "application_number": "ES13792625.9T",
+        "document_id": "patent/ES2622302T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "ES",
+        "application_number": "ES13788985.3T",
+        "document_id": "patent/ES2621931T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "WO",
+        "application_number": "PCT/EP2013/073341",
+        "document_id": "patent/WO2014075998A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "KR",
+        "application_number": "KR1020157015632A",
+        "document_id": "patent/KR20150086491A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "CA",
+        "application_number": "CA2891687A",
+        "document_id": "patent/CA2891687A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2013-11-08",
+        "country_code": "CN",
+        "application_number": "CN201380059351.3A",
+        "document_id": "patent/CN104781341B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013-11-08",
+      "title": "Application filed by BASF SE",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "BASF SE"
+    },
+    {
+      "date": "2014-05-22",
+      "title": "Publication of CA2889039A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CA2889039A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CA&NR=2889039A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CA/2889039/1"
+    },
+    {
+      "text": "CIPO",
+      "link": "https://brevets-patents.ic.gc.ca/opic-cipo/cpd/eng/patent/2889039/summary.html"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CA2889039A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "C08J5/18",
+      "description": "Manufacture of films or sheets",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K3/013",
+      "description": "Fillers, pigments or reinforcing additives",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K3/26",
+      "description": "Carbonates; Bicarbonates",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K3/34",
+      "description": "Silicon-containing compounds",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/02",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/04",
+      "description": "Polyesters derived from hydroxycarboxylic acids, e.g. lactones",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D04H1/435",
+      "description": "Polyesters",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D04H3/011",
+      "description": "Polyesters",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2300/16",
+      "description": "Biodegradable polymers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2367/02",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2367/03",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds the dicarboxylic acids and dihydroxy compounds having the hydroxy and the carboxyl groups directly linked to aromatic rings",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2467/02",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2467/03",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds the dicarboxylic acids and dihydroxy compounds having the hydroxy and the carboxyl groups directly linked to aromatic rings",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2467/04",
+      "description": "Polyesters derived from hydroxy carboxylic acids, e.g. lactones",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K2003/265",
+      "description": "Calcium, strontium or barium carbonate",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention relates to a biodegradable polyester mixture comprising: i) 71 to 91 wt%, based on the total weight of components i and ii, of a polyester I synthesized from: a-1) 40 to 70 wt%, based on the total weight of components a and b, of an aliphatic C9-C18 dicarboxylic acid or a C9-C18 dicarboxylic acid derivative; b-1) 30 to 60 wt%, based on the total weight of components a and b, of terephthalic acid or a terephthalic acid derivative; c-1) 98 to 100 wt%, based on the total weight of components a and b, of a C3-C6 diol; d-1) 0 to 2 wt%, based on the total weight of components a and b, of an at least trihydric alcohol; e-1) 0 to 2 wt%, based on the total weight of components a to e, of a chain extender; and ii) 9 to 29 wt%, based on the total weight of components i and ii, of a polyester II synthesized from: a-2) 40 to 70 wt%, based on the total weight of components a and b, of an aliphatic C4-C6 dicarboxylic acid or a C4-C6 dicarboxylic acid derivative; b-2) 30 to 60 wt%, based on the total weight of components a and b, of terephthalic acid or a terephthalic acid derivative; c-2) 98 to 100 wt%, based on the total weight of components a and b, of a C3-C6 diol; d-2) 0 to 2 wt%, based on the total weight of components a and b, of an at least trihydric alcohol; e-2) 0 to 2 wt%, based on the total weight of components a to e, of a chain extender.",
+  "description_link": "https://serpapi.com/searches/697a3a038976f7ff9804c01d/google_patents_details/description.html",
+  "claims": [
+    "1.    A biodegradable polyester mixture comprising:i)       71 to 91 wt%, based on the total weight of components i and ii, of a polyester Iconstructed from:a-1) 40 to 70 mol%, based on components a and b, of an aliphatic C9-C18 dicarboxylic acid or of a C9-C18 dicarboxylic acid derivative;b-1) 30 to 60 mol%, based on components a and b, of terephthalic acid or of a terephthalic acid derivative, c-1) 98 to 100 mol%, based on components a and b, of a C3-C6 diol, d-1) 0 to 2 wt%, based on the total weight of components a to e, of an at least trihydric alcohol, e-1) 0 to 2 wt%, based on the total weight of components a to e, of a chain extender, and ii)      9 to 29 wt%, based on the total weight of components i and ii, of a polyester IIconstructed from:a-2) 40 to 70 mol%, based on components a and b, of an aliphatic C4-C6 dicarboxylic acid or of a C4-C6 dicarboxylic acid derivative, b-2) 30 to 60 mol%, based on components a and b, of terephthalic acid or of a terephthalic acid derivative;c-2) 98 to 100 mol%, based on components a and b, of a C3-C6 diol;d-2) 0 to 2 wt%, based on the total weight of components a and b, of an at least trihydric alcohol;   e-2) 0 to 2 wt%, based on the total weight of components a to e, of a chain extender.",
+    "2.    The biodegradable polyester mixture according to claim 1 wherein said diacid component a-1 of polyester I is sebacic acid or a sebacic acid derivative.",
+    "3.    The biodegradable polyester mixture according to claim 1 or 2 wherein said diacid component a-2 of polyester II is adipic acid or an adipic acid derivative.",
+    "4.    The biodegradable polyester mixture according to any one of claims 1 to 3 utilizing from 10 to 35 wt%, based on the total weight of the polymer mixture, of one or more fillers selected from the group consisting of calcium carbonate, talc, graphite, gypsum, carbon black, iron oxide, calcium chloride, kaolin, silicon dioxide (quartz), sodium carbonate, titanium dioxide, silicate, wollastonite, mica, montmorillonites, mineral fibers and natural fibers.",
+    "5.    The biodegradable polyester mixture according to claim 4 wherein calcium carbonate and/or talc are used as fillers.",
+    "6.    The biodegradable polyester mixture according to claim 4 utilizing as fillers:iii)    10 to 25 wt%, based on the total weight of the polymer mixture, of calcium carbonate; and iv)    3 to 10 wt%, based on the total weight of the polymer mixture, of talc.",
+    "7.    The biodegradable polyester mixture according to any one of claims 1 to incorporating an added 0 to 50 wt%, based on the total weight of the polymer mixture, of one or more polymers v) selected from the group consisting of polylactic acid, polycaprolactone, polyhydroxyalkanoate, starch or polyester prepared from aliphatic dicarboxylic acids and an aliphatic dihydroxy compound",
+    "8.    The biodegradable polyester mixture according to claim 7 utilizing from 5 to 45 wt%, based on the total weight of the polymer mixture, of polycaprolactone (PCL) or of an aliphatic polyester selected from the group consisting of polybutylene succinate (PBS), polybutylene adipate (PBA), polybutylene succinate adipate (PBSA), polybutylene succinate sebacate (PBSSe), polybutylene sebacate (PBSe), polyethylene succinate (PES) and polycaprolactone (PCL).",
+    "9.    The biodegradable polyester mixture according to claim 7 utilizing from 5 to 45 wt%, based on the total weight of the polymer mixture, of starch and/or of a polyhydroxyalkanoate.",
+    "10.    The biodegradable polyester mixture according to claim 7 utilizing from 5 to 25 wt%, based on the total weight of the polymer mixture, of polylactic acid.",
+    "11    The biodegradable polyester mixture according to any one of claims 1 to 10 utilizing from 0 1 to 1.5 wt%, based on the total weight of the polymer mixture, of one or more than one stabilizer, nucleating agent, glide and release agent, surfactant, wax, antistat, antifoggant, dye, pigment, UV absorber, UV stabilizer or other plastics additive.",
+    "12.    The use of the polyester mixture according to any one of claims 1 to 11 in the manufacture of shopping bags, compost bags or inliners for a biowaste bin.",
+    "13.    The use of the polyester mixture according to any one of claims 1 to 11 in the manufacture of agriproducts selected from the group consisting of mulch films, covering films, bead foam for soil aeration, silo films, slit film tapes, wovens, nonwovens, clips, textiles, threads, fishing nets, secondary packaging, heavy-duty bags and flowerpots."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "EP12192804.8",
+      "filing_date": "2012-11-15"
+    },
+    {
+      "application_number": "EP12192804",
+      "filing_date": "2012-11-15"
+    },
+    {
+      "application_number": "PCT/EP2013/073339",
+      "representative_publication": "WO2014075997A1",
+      "primary_language": "en",
+      "priority_date": "2012-11-15",
+      "filing_date": "2013-11-08",
+      "title": "Biodegradable polyester mixture"
+    }
+  ],
+  "family_id": "47191607",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "ATE349476T1",
+        "primary_language": "en",
+        "priority_date": "1990-11-30",
+        "publication_date": "2007-01-15",
+        "assignee_original": "Novamont Spa",
+        "title": "ALIPHATIC-AROMATIC COPOLYESTERS",
+        "patent_id": "patent/ATE349476T1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FATE349476T1%2Fen"
+      },
+      {
+        "publication_number": "US6495656B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-11-30",
+        "publication_date": "2002-12-17",
+        "assignee_original": "Eastman Chemical Company",
+        "title": "Copolyesters and fibrous materials formed therefrom",
+        "patent_id": "patent/US6495656B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6495656B1%2Fen"
+      },
+      {
+        "publication_number": "IT1245408B",
+        "primary_language": "en",
+        "priority_date": "1991-02-20",
+        "publication_date": "1994-09-20",
+        "assignee_original": "Butterfly Srl",
+        "title": "BIODEGRADABLE POLYMERIC COMPOSITIONS BASED ON STARCH AND THERMOPLASTIC POLYMER",
+        "patent_id": "patent/IT1245408B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1245408B%2Fen"
+      },
+      {
+        "publication_number": "DE69220754T2",
+        "primary_language": "en",
+        "priority_date": "1991-05-03",
+        "publication_date": "1997-12-04",
+        "assignee_original": "Novamont S.P.A., Novara",
+        "title": "Biodegradable polymer masses based on starch and thermoplastic polymers",
+        "patent_id": "patent/DE69220754T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69220754T2%2Fen"
+      },
+      {
+        "publication_number": "JP3044857B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-09-12",
+        "publication_date": "2000-05-22",
+        "assignee_original": "\u51f8\u7248\u5370\u5237\u682a\u5f0f\u4f1a\u793e",
+        "title": "Plastic container",
+        "patent_id": "patent/JP3044857B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3044857B2%2Fen"
+      },
+      {
+        "publication_number": "IT1256914B",
+        "primary_language": "en",
+        "priority_date": "1992-08-03",
+        "publication_date": "1995-12-27",
+        "assignee_original": "Novamont Spa",
+        "title": "BIODEGRADABLE POLYMERIC COMPOSITION.",
+        "patent_id": "patent/IT1256914B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1256914B%2Fen"
+      },
+      {
+        "publication_number": "JPH06298991A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-04-16",
+        "publication_date": "1994-10-25",
+        "assignee_original": "Sumitomo Chem Co Ltd",
+        "title": "Method for recovering recycling resin",
+        "patent_id": "patent/JPH06298991A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06298991A%2Fen"
+      },
+      {
+        "publication_number": "DE4440850A1",
+        "primary_language": "en",
+        "priority_date": "1994-11-15",
+        "publication_date": "1996-05-23",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE4440850A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4440850A1%2Fen"
+      },
+      {
+        "publication_number": "US6046248A",
+        "primary_language": "en",
+        "priority_date": "1994-11-15",
+        "publication_date": "2000-04-04",
+        "assignee_original": "Basf Aktiengesellschaft",
+        "title": "Biodegradable polymers, the preparation thereof and the use thereof for producing biodegradable moldings",
+        "patent_id": "patent/US6046248A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6046248A%2Fen"
+      },
+      {
+        "publication_number": "DE4440858A1",
+        "primary_language": "en",
+        "priority_date": "1994-11-15",
+        "publication_date": "1996-05-23",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE4440858A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4440858A1%2Fen"
+      },
+      {
+        "publication_number": "DE4440837A1",
+        "primary_language": "en",
+        "priority_date": "1994-11-15",
+        "publication_date": "1996-05-23",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE4440837A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4440837A1%2Fen"
+      },
+      {
+        "publication_number": "DE4440836A1",
+        "primary_language": "en",
+        "priority_date": "1994-11-15",
+        "publication_date": "1996-05-23",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE4440836A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4440836A1%2Fen"
+      },
+      {
+        "publication_number": "DE19500757A1",
+        "primary_language": "en",
+        "priority_date": "1995-01-13",
+        "publication_date": "1996-07-18",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE19500757A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19500757A1%2Fen"
+      },
+      {
+        "publication_number": "DE19500755A1",
+        "primary_language": "en",
+        "priority_date": "1995-01-13",
+        "publication_date": "1996-07-18",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE19500755A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19500755A1%2Fen"
+      },
+      {
+        "publication_number": "DE19500754A1",
+        "primary_language": "en",
+        "priority_date": "1995-01-13",
+        "publication_date": "1996-07-18",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE19500754A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19500754A1%2Fen"
+      },
+      {
+        "publication_number": "DE19500756A1",
+        "primary_language": "en",
+        "priority_date": "1995-01-13",
+        "publication_date": "1996-07-18",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE19500756A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19500756A1%2Fen"
+      },
+      {
+        "publication_number": "DE19505186A1",
+        "primary_language": "en",
+        "priority_date": "1995-02-16",
+        "publication_date": "1996-10-31",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polymers, processes for their production and their use for the production of biodegradable moldings",
+        "patent_id": "patent/DE19505186A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19505186A1%2Fen"
+      },
+      {
+        "publication_number": "DE19638488A1",
+        "primary_language": "en",
+        "priority_date": "1996-09-20",
+        "publication_date": "1998-03-26",
+        "assignee_original": "Basf Ag",
+        "title": "Biodegradable polyester",
+        "patent_id": "patent/DE19638488A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19638488A1%2Fen"
+      },
+      {
+        "publication_number": "DE69730852T2",
+        "primary_language": "en",
+        "priority_date": "1996-11-05",
+        "publication_date": "2005-09-22",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "BIODEGRADABLE POLYMER COMPOSITIONS CONTAINING STARCH AND A THERMOPLASTIC POLYMER",
+        "patent_id": "patent/DE69730852T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69730852T2%2Fen"
+      },
+      {
+        "publication_number": "ITTO980524A1",
+        "primary_language": "en",
+        "priority_date": "1998-06-17",
+        "publication_date": "1999-12-17",
+        "assignee_original": "Novamont Spa",
+        "title": "COMPOSITIONS CONTAINING STARCH WITH HIGH RESISTANCE TO AGING.",
+        "patent_id": "patent/ITTO980524A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITTO980524A1%2Fen"
+      },
+      {
+        "publication_number": "JP2002047402A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-02",
+        "publication_date": "2002-02-12",
+        "assignee_original": "Daicel Chem Ind Ltd",
+        "title": "Biodegradable agricultural multi-film",
+        "patent_id": "patent/JP2002047402A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002047402A%2Fen"
+      },
+      {
+        "publication_number": "WO2002014430A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-08-11",
+        "publication_date": "2002-02-21",
+        "assignee_original": "Bio-Tec Biologische Naturverpackungen Gmbh & Co. Kg",
+        "title": "Biodegradable polymeric blend",
+        "patent_id": "patent/WO2002014430A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002014430A2%2Fen"
+      },
+      {
+        "publication_number": "JP2002226688A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-31",
+        "publication_date": "2002-08-14",
+        "assignee_original": "Daicel Chem Ind Ltd",
+        "title": "Biodegradable polyester resin composition and film",
+        "patent_id": "patent/JP2002226688A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002226688A%2Fen"
+      },
+      {
+        "publication_number": "JP4312764B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-30",
+        "publication_date": "2009-08-12",
+        "assignee_original": "\u30c0\u30a4\u30bb\u30eb\u5316\u5b66\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Aliphatic polyester biodegradable resin film molding",
+        "patent_id": "patent/JP4312764B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4312764B2%2Fen"
+      },
+      {
+        "publication_number": "US6599994B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-18",
+        "publication_date": "2003-07-29",
+        "assignee_original": "Eastman Chemical Company",
+        "title": "Polyester blends and heat shrinkable films made therefrom",
+        "patent_id": "patent/US6599994B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6599994B2%2Fen"
+      },
+      {
+        "publication_number": "JP5041639B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-07-31",
+        "publication_date": "2012-10-03",
+        "assignee_original": "\u4e09\u4e95\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Biodegradable resin composition",
+        "patent_id": "patent/JP5041639B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5041639B2%2Fen"
+      },
+      {
+        "publication_number": "AU2003275580A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-22",
+        "publication_date": "2004-05-13",
+        "assignee_original": "Mitsubishi Plastics, Inc.",
+        "title": "Resin composition and molded object formed from the resin composition",
+        "patent_id": "patent/AU2003275580A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2003275580A1%2Fen"
+      },
+      {
+        "publication_number": "EP1621580B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-02",
+        "publication_date": "2008-12-10",
+        "assignee_original": "Toray Industries, Inc.",
+        "title": "Polyester resin composition",
+        "patent_id": "patent/EP1621580B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1621580B1%2Fen"
+      },
+      {
+        "publication_number": "US20050058846A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-09-16",
+        "publication_date": "2005-03-17",
+        "assignee_original": "Ryosuke Matsui",
+        "title": "Polyester film",
+        "patent_id": "patent/US20050058846A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050058846A1%2Fen"
+      },
+      {
+        "publication_number": "US7815996B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-14",
+        "publication_date": "2010-10-19",
+        "assignee_original": "Toray Plastics (America), Inc.",
+        "title": "Low gloss and low haze laminated polyester film including talc and method for preparing same",
+        "patent_id": "patent/US7815996B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7815996B2%2Fen"
+      },
+      {
+        "publication_number": "US20050100836A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-12",
+        "publication_date": "2005-05-12",
+        "assignee_original": "Eastman Kodak Company",
+        "title": "Phosphor screen and imaging assembly",
+        "patent_id": "patent/US20050100836A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050100836A1%2Fen"
+      },
+      {
+        "publication_number": "US7241838B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-19",
+        "publication_date": "2007-07-10",
+        "assignee_original": "Eastman Chemical Company",
+        "title": "Blends of aliphatic-aromatic copolyesters with ethylene-vinyl acetate copolymers",
+        "patent_id": "patent/US7241838B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7241838B2%2Fen"
+      },
+      {
+        "publication_number": "US7368511B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2008-05-06",
+        "assignee_original": "Eastman Chemical Company",
+        "title": "Polymer blends with improved rheology and improved unnotched impact strength",
+        "patent_id": "patent/US7368511B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7368511B2%2Fen"
+      },
+      {
+        "publication_number": "US20050154147A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2005-07-14",
+        "assignee_original": "Germroth Ted C.",
+        "title": "Polyester compositions",
+        "patent_id": "patent/US20050154147A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050154147A1%2Fen"
+      },
+      {
+        "publication_number": "JP4354853B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-03-17",
+        "publication_date": "2009-10-28",
+        "assignee_original": "\u7a4d\u6c34\u6210\u578b\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Imitation rush",
+        "patent_id": "patent/JP4354853B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4354853B2%2Fen"
+      },
+      {
+        "publication_number": "JP2005298617A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-04-09",
+        "publication_date": "2005-10-27",
+        "assignee_original": "Mitsubishi Plastics Ind Ltd",
+        "title": "Injection molded body",
+        "patent_id": "patent/JP2005298617A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005298617A%2Fen"
+      },
+      {
+        "publication_number": "JP2005330318A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-18",
+        "publication_date": "2005-12-02",
+        "assignee_original": "Dainippon Ink & Chem Inc",
+        "title": "High impact resistant polylactic acid composition",
+        "patent_id": "patent/JP2005330318A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005330318A%2Fen"
+      },
+      {
+        "publication_number": "US7332562B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-23",
+        "publication_date": "2008-02-19",
+        "assignee_original": "China Petroleum & Chemical Corporation",
+        "title": "Biodegradable linear random copolyester and process for preparing it and use of the same",
+        "patent_id": "patent/US7332562B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7332562B2%2Fen"
+      },
+      {
+        "publication_number": "JP5311828B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-12",
+        "publication_date": "2013-10-09",
+        "assignee_original": "\u30d3\u30fc\u30a8\u30fc\u30a8\u30b9\u30a8\u30d5  \u30bd\u30b7\u30a8\u30bf\u30b9\u30fb\u30e8\u30fc\u30ed\u30d4\u30a2",
+        "title": "Biodegradable polyester blend",
+        "patent_id": "patent/JP5311828B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5311828B2%2Fen"
+      },
+      {
+        "publication_number": "ITMI20050452A1",
+        "primary_language": "en",
+        "priority_date": "2005-03-18",
+        "publication_date": "2006-09-19",
+        "assignee_original": "Novamont Spa",
+        "title": "ALYPATIC-AROMATIC BIODEGRADABLE POLYESTER",
+        "patent_id": "patent/ITMI20050452A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITMI20050452A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007106379A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-11",
+        "publication_date": "2007-09-20",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Process for the preparation of mineral filled polyamide and polyester compositions exhibiting increased melt flow and articles formed therefrom",
+        "patent_id": "patent/WO2007106379A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007106379A1%2Fen"
+      },
+      {
+        "publication_number": "US7868090B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-28",
+        "publication_date": "2011-01-11",
+        "assignee_original": "Sabic Innovative Plastics Ip B.V.",
+        "title": "Polyester molding compositions",
+        "patent_id": "patent/US7868090B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7868090B2%2Fen"
+      },
+      {
+        "publication_number": "WO2008098888A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-15",
+        "publication_date": "2008-08-21",
+        "assignee_original": "Basf Se",
+        "title": "Foam layer produced of a biodegradable polyester mixture",
+        "patent_id": "patent/WO2008098888A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008098888A2%2Fen"
+      },
+      {
+        "publication_number": "KR20090009107A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-07-19",
+        "publication_date": "2009-01-22",
+        "assignee_original": "\ub3c4\ub808\uc774 \uce74\ubd80\uc2dc\ud0a4\uac00\uc774\uc0e4",
+        "title": "White polyester film",
+        "patent_id": "patent/KR20090009107A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20090009107A%2Fen"
+      },
+      {
+        "publication_number": "MY148122A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-15",
+        "publication_date": "2013-02-28",
+        "assignee_original": "Basf Se",
+        "title": "Polyester mixture with improved flowability and good mechanical properties",
+        "patent_id": "patent/MY148122A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMY148122A%2Fen"
+      },
+      {
+        "publication_number": "ES2499019T3",
+        "primary_language": "en",
+        "priority_date": "2007-12-03",
+        "publication_date": "2014-09-26",
+        "assignee_original": "Basf Se",
+        "title": "Crystalline form of 2- (4,6-bis-biphenyl-4-yl-1,3,5-triazin-2-yl) -5- (2-ethyl- (n) -hexyloxy) phenol",
+        "patent_id": "patent/ES2499019T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2499019T3%2Fen"
+      },
+      {
+        "publication_number": "JP2009221337A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-14",
+        "publication_date": "2009-10-01",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Resin composition, and molded article and film consisting of the resin composition",
+        "patent_id": "patent/JP2009221337A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009221337A%2Fen"
+      },
+      {
+        "publication_number": "EP2268702B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-04-15",
+        "publication_date": "2012-11-14",
+        "assignee_original": "Basf Se",
+        "title": "Method for the continuous production of biodegradable polyesters",
+        "patent_id": "patent/EP2268702B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2268702B1%2Fen"
+      },
+      {
+        "publication_number": "EP2331602B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-29",
+        "publication_date": "2017-11-01",
+        "assignee_original": "Basf Se",
+        "title": "Process for coating paper",
+        "patent_id": "patent/EP2331602B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2331602B2%2Fen"
+      },
+      {
+        "publication_number": "AU2009295999B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-29",
+        "publication_date": "2013-12-19",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polymer mixture",
+        "patent_id": "patent/AU2009295999B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2009295999B2%2Fen"
+      },
+      {
+        "publication_number": "CN102164984A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-29",
+        "publication_date": "2011-08-24",
+        "assignee_original": "\u5df4\u65af\u592b\u6b27\u6d32\u516c\u53f8",
+        "title": "Aliphatic-aromatic polyester",
+        "patent_id": "patent/CN102164984A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102164984A%2Fen"
+      },
+      {
+        "publication_number": "KR101731123B1",
+        "primary_language": "en",
+        "priority_date": "2008-09-29",
+        "publication_date": "2017-04-27",
+        "assignee_original": "\ubc14\uc2a4\ud504 \uc5d0\uc2a4\uc774",
+        "title": "Aliphatic polyester",
+        "patent_id": "patent/KR101731123B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101731123B1%2Fen"
+      },
+      {
+        "publication_number": "US20110213055A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-15",
+        "publication_date": "2011-09-01",
+        "assignee_original": "E.I. Du Pont De Nemours And Company",
+        "title": "Copolyesters with enhanced tear strength",
+        "patent_id": "patent/US20110213055A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110213055A1%2Fen"
+      },
+      {
+        "publication_number": "JP2012512278A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-15",
+        "publication_date": "2012-05-31",
+        "assignee_original": "\u30a4\u30fc\u30fb\u30a2\u30a4\u30fb\u30c7\u30e5\u30dd\u30f3\u30fb\u30c9\u30a6\u30fb\u30cc\u30e0\u30fc\u30eb\u30fb\u30a2\u30f3\u30c9\u30fb\u30ab\u30f3\u30d1\u30cb\u30fc",
+        "title": "Copolyester with improved tear strength",
+        "patent_id": "patent/JP2012512278A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012512278A%2Fen"
+      },
+      {
+        "publication_number": "CN102459462B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-06-26",
+        "publication_date": "2013-07-24",
+        "assignee_original": "\u6885\u5854\u73bb\u5229\u514b\u65af\u516c\u53f8",
+        "title": "PHA composition comprising PBS and PBSA and method for its production",
+        "patent_id": "patent/CN102459462B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102459462B%2Fen"
+      },
+      {
+        "publication_number": "US8796356B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-23",
+        "publication_date": "2014-08-05",
+        "assignee_original": "Sabic Innovative Plastics Ip B.V.",
+        "title": "Biodegradable aliphatic-aromatic copolyesters, methods of manufacture, and articles thereof",
+        "patent_id": "patent/US8796356B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8796356B2%2Fen"
+      },
+      {
+        "publication_number": "US8754173B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-15",
+        "publication_date": "2014-06-17",
+        "assignee_original": "Basf Se",
+        "title": "Method for continuously producing polyester mixtures",
+        "patent_id": "patent/US8754173B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8754173B2%2Fen"
+      },
+      {
+        "publication_number": "IT1396597B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-05",
+        "publication_date": "2012-12-14",
+        "assignee_original": "Novamont Spa",
+        "title": "BIODEGRADABLE POLYESTER MIXTURES",
+        "patent_id": "patent/IT1396597B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1396597B1%2Fen"
+      },
+      {
+        "publication_number": "WO2011054786A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-11-09",
+        "publication_date": "2011-05-12",
+        "assignee_original": "Basf Se",
+        "title": "Method for producing shrink films",
+        "patent_id": "patent/WO2011054786A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2011054786A1%2Fen"
+      },
+      {
+        "publication_number": "US20110237750A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-24",
+        "publication_date": "2011-09-29",
+        "assignee_original": "Basf Se",
+        "title": "Process for film production",
+        "patent_id": "patent/US20110237750A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110237750A1%2Fen"
+      },
+      {
+        "publication_number": "US20120107527A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-27",
+        "publication_date": "2012-05-03",
+        "assignee_original": "Basf Se",
+        "title": "Use of polymer blends for producing slit film tapes",
+        "patent_id": "patent/US20120107527A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120107527A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012113744A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-02-23",
+        "publication_date": "2012-08-30",
+        "assignee_original": "Basf Se",
+        "title": "Polyester film comprising nutrient salts",
+        "patent_id": "patent/WO2012113744A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012113744A1%2Fen"
+      },
+      {
+        "publication_number": "US8686080B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-10",
+        "publication_date": "2014-04-01",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polyester film",
+        "patent_id": "patent/US8686080B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8686080B2%2Fen"
+      },
+      {
+        "publication_number": "EP2522695A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-10",
+        "publication_date": "2012-11-14",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polyester film",
+        "patent_id": "patent/EP2522695A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2522695A1%2Fen"
+      },
+      {
+        "publication_number": "US9096758B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-29",
+        "publication_date": "2015-08-04",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polyester foil",
+        "patent_id": "patent/US9096758B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9096758B2%2Fen"
+      },
+      {
+        "publication_number": "US8901243B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-30",
+        "publication_date": "2014-12-02",
+        "assignee_original": "Saudi Basic Industries Corporation",
+        "title": "Biodegradable aliphatic-aromatic copolyesters, methods of manufacture, and articles thereof",
+        "patent_id": "patent/US8901243B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8901243B2%2Fen"
+      },
+      {
+        "publication_number": "US9056979B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-15",
+        "publication_date": "2015-06-16",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polyester mixture",
+        "patent_id": "patent/US9056979B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9056979B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN105566687A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-29",
+        "publication_date": "2016-05-11",
+        "assignee_original": "\u4e0a\u6d77\u6d77\u4e09\u73af\u4fdd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Degradable starch foaming container",
+        "patent_id": "patent/CN105566687A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105566687A%2Fen"
+      },
+      {
+        "publication_number": "CN114181498A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-15",
+        "publication_date": "2022-03-15",
+        "assignee_original": "\u8d35\u5dde\u51ef\u79d1\u7279\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Degradable polyester material and preparation method thereof",
+        "patent_id": "patent/CN114181498A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114181498A%2Fen"
+      },
+      {
+        "publication_number": "WO2022160032A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-29",
+        "publication_date": "2022-08-04",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/WO2022160032A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022160032A1%2Fen"
+      },
+      {
+        "publication_number": "CN117222784A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-02",
+        "publication_date": "2023-12-12",
+        "assignee_original": "\u9a6c\u7279\u79d1\u65af\u8fea\u62dc\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "biodegradable turf yarn",
+        "patent_id": "patent/CN117222784A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117222784A%2Fen"
+      },
+      {
+        "publication_number": "WO2024057286A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-16",
+        "publication_date": "2024-03-21",
+        "assignee_original": "Erthos Inc.",
+        "title": "Biodegradable thermoplastic polymer materials, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/WO2024057286A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024057286A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "EP2952543B1",
+        "primary_language": "en",
+        "priority_date": "2014-06-05",
+        "publication_date": "2017-11-01",
+        "assignee_original": "Omya International AG",
+        "title": "Polymer composition filled with an inorganic filler material mixture",
+        "patent_id": "patent/EP2952543B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2952543B1%2Fen"
+      },
+      {
+        "publication_number": "EP3317319B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-01",
+        "publication_date": "2020-04-22",
+        "assignee_original": "Basf Se",
+        "title": "Transesterification of polyesters",
+        "patent_id": "patent/EP3317319B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3317319B1%2Fen"
+      },
+      {
+        "publication_number": "CN105176020B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-19",
+        "publication_date": "2017-11-28",
+        "assignee_original": "\u798f\u5efa\u5e08\u8303\u5927\u5b66",
+        "title": "A kind of PBS/ carbon material composite wires for 3D printing and preparation method thereof",
+        "patent_id": "patent/CN105176020B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105176020B%2Fen"
+      },
+      {
+        "publication_number": "US11479691B2",
+        "primary_language": "en",
+        "priority_date": "2015-12-02",
+        "publication_date": "2022-10-25",
+        "assignee_original": "Commonwealth Scientific And Industrial Research Organisation",
+        "title": "Sprayable polyurethane/urea elastomer for agriculture",
+        "patent_id": "patent/US11479691B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11479691B2%2Fen"
+      },
+      {
+        "publication_number": "CN105400154A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-04",
+        "publication_date": "2016-03-16",
+        "assignee_original": "\u6cb3\u5357\u5929\u4ec1\u751f\u7269\u6750\u6599\u7814\u7a76\u6240\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable plastic color masterbatch and preparation method thereof",
+        "patent_id": "patent/CN105400154A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105400154A%2Fen"
+      },
+      {
+        "publication_number": "CN105585826A",
+        "primary_language": "en",
+        "priority_date": "2016-03-07",
+        "publication_date": "2016-05-18",
+        "assignee_original": "\u91d1\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable polyester composition",
+        "patent_id": "patent/CN105585826A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105585826A%2Fen"
+      },
+      {
+        "publication_number": "CN105602209B",
+        "primary_language": "en",
+        "priority_date": "2016-03-07",
+        "publication_date": "2017-02-08",
+        "assignee_original": "\u5929\u6d25\u91d1\u53d1\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "PBAT resin composition",
+        "patent_id": "patent/CN105602209B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105602209B%2Fen"
+      },
+      {
+        "publication_number": "CN105585825A",
+        "primary_language": "en",
+        "priority_date": "2016-03-07",
+        "publication_date": "2016-05-18",
+        "assignee_original": "\u6768\u7ea2\u6885",
+        "title": "Biodegradable polyester composition",
+        "patent_id": "patent/CN105585825A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105585825A%2Fen"
+      },
+      {
+        "publication_number": "CN105585824A",
+        "primary_language": "en",
+        "priority_date": "2016-03-07",
+        "publication_date": "2016-05-18",
+        "assignee_original": "\u91d1\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable polyester composition",
+        "patent_id": "patent/CN105585824A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105585824A%2Fen"
+      },
+      {
+        "publication_number": "CN105585827A",
+        "primary_language": "en",
+        "priority_date": "2016-03-07",
+        "publication_date": "2016-05-18",
+        "assignee_original": "\u91d1\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable polyester composition",
+        "patent_id": "patent/CN105585827A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105585827A%2Fen"
+      },
+      {
+        "publication_number": "CN106084312A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-12",
+        "publication_date": "2016-11-09",
+        "assignee_original": "\u96c4\u53bf\u98de\u6d0b\u5851\u6599\u5305\u88c5\u6709\u9650\u516c\u53f8",
+        "title": "A kind of disposable tableware degradation plastic",
+        "patent_id": "patent/CN106084312A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106084312A%2Fen"
+      },
+      {
+        "publication_number": "CN106084681B",
+        "primary_language": "en",
+        "priority_date": "2016-07-22",
+        "publication_date": "2018-05-18",
+        "assignee_original": "\u91d1\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of Biodegradable polyester composition",
+        "patent_id": "patent/CN106084681B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106084681B%2Fen"
+      },
+      {
+        "publication_number": "CN106084682B",
+        "primary_language": "en",
+        "priority_date": "2016-07-22",
+        "publication_date": "2018-05-18",
+        "assignee_original": "\u91d1\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of Biodegradable polyester composition",
+        "patent_id": "patent/CN106084682B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106084682B%2Fen"
+      },
+      {
+        "publication_number": "CN109401217B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-16",
+        "publication_date": "2022-06-21",
+        "assignee_original": "\u4e2d\u56fd\u77f3\u6cb9\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Polyester composition, heat shrinkable sleeve and preparation method thereof",
+        "patent_id": "patent/CN109401217B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109401217B%2Fen"
+      },
+      {
+        "publication_number": "US11466151B2",
+        "primary_language": "en",
+        "priority_date": "2016-10-21",
+        "publication_date": "2022-10-11",
+        "assignee_original": "China Petroleum & Chemical Corporation",
+        "title": "Polyester composition, preparation method therefor and application thereof",
+        "patent_id": "patent/US11466151B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11466151B2%2Fen"
+      },
+      {
+        "publication_number": "CN107974050A",
+        "primary_language": "en",
+        "priority_date": "2016-10-21",
+        "publication_date": "2018-05-01",
+        "assignee_original": "\u4e2d\u56fd\u77f3\u6cb9\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of polymer blend and preparation method thereof",
+        "patent_id": "patent/CN107974050A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107974050A%2Fen"
+      },
+      {
+        "publication_number": "CN109401211B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-16",
+        "publication_date": "2022-12-13",
+        "assignee_original": "\u4e2d\u56fd\u77f3\u6cb9\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Polyester composition, medical limb fixing support and preparation method thereof",
+        "patent_id": "patent/CN109401211B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109401211B%2Fen"
+      },
+      {
+        "publication_number": "IT201700022439A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-28",
+        "publication_date": "2018-08-28",
+        "assignee_original": "Novamont Spa",
+        "title": "POLYMER COMPOSITION FOR HIGHLY UNINTENDABLE FILM",
+        "patent_id": "patent/IT201700022439A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT201700022439A1%2Fen"
+      },
+      {
+        "publication_number": "CN110914344B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-10",
+        "publication_date": "2022-05-31",
+        "assignee_original": "\u5df4\u65af\u592b\u6b27\u6d32\u516c\u53f8",
+        "title": "Biodegradable Films for Food Packaging",
+        "patent_id": "patent/CN110914344B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110914344B%2Fen"
+      },
+      {
+        "publication_number": "JP6814097B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-24",
+        "publication_date": "2021-01-13",
+        "assignee_original": "\u307f\u304b\u3069\u5316\u5de5\u682a\u5f0f\u4f1a\u793e",
+        "title": "Agricultural mulch film",
+        "patent_id": "patent/JP6814097B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6814097B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019000588A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-29",
+        "publication_date": "2019-01-03",
+        "assignee_original": "\u5b8b\u6881\u5cf0",
+        "title": "DEGRADABLE CONSERVATION FILM",
+        "patent_id": "patent/WO2019000588A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019000588A1%2Fen"
+      },
+      {
+        "publication_number": "CN108341940B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-12",
+        "publication_date": "2020-05-12",
+        "assignee_original": "\u8d35\u5dde\u5927\u5b66",
+        "title": "A kind of preparation method of high-efficiency gel-free long-chain branched polylactic acid",
+        "patent_id": "patent/CN108341940B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108341940B%2Fen"
+      },
+      {
+        "publication_number": "CN112888724B",
+        "primary_language": "en",
+        "priority_date": "2018-12-06",
+        "publication_date": "2024-03-01",
+        "assignee_original": "\u5df4\u65af\u592b\u6b27\u6d32\u516c\u53f8",
+        "title": "Methods for preparing (co)polyesters",
+        "patent_id": "patent/CN112888724B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112888724B%2Fen"
+      },
+      {
+        "publication_number": "IT202000007963A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-15",
+        "publication_date": "2021-10-15",
+        "assignee_original": "Novamont Spa",
+        "title": "BIODEGRADABLE POLYMER COMPOSITION FOR THE REALIZATION OF PRINTED ARTICLES.",
+        "patent_id": "patent/IT202000007963A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT202000007963A1%2Fen"
+      },
+      {
+        "publication_number": "EP4136181A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-15",
+        "publication_date": "2024-05-08",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Adhesive article with strippable liner",
+        "patent_id": "patent/EP4136181A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4136181A4%2Fen"
+      },
+      {
+        "publication_number": "DE102021101538A1",
+        "primary_language": "en",
+        "priority_date": "2021-01-25",
+        "publication_date": "2022-07-28",
+        "assignee_original": "Bio-Tec Biologische Naturverpackungen Gmbh & Co.Kg",
+        "title": "Polymer composition containing pea starch",
+        "patent_id": "patent/DE102021101538A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102021101538A1%2Fen"
+      },
+      {
+        "publication_number": "CN116023636B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-26",
+        "publication_date": "2025-03-25",
+        "assignee_original": "\u6c5f\u82cf\u91d1\u53d1\u79d1\u6280\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "A semi-aromatic polyester and its preparation method and application",
+        "patent_id": "patent/CN116023636B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116023636B%2Fen"
+      },
+      {
+        "publication_number": "CN113881056B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-11",
+        "publication_date": "2022-11-01",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u957f\u6625\u5e94\u7528\u5316\u5b66\u7814\u7a76\u6240",
+        "title": "Polylactic acid-based copolymer and preparation method thereof",
+        "patent_id": "patent/CN113881056B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113881056B%2Fen"
+      },
+      {
+        "publication_number": "CN114380990A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-06",
+        "publication_date": "2022-04-22",
+        "assignee_original": "\u5f64\u7a0b\u5316\u5b66\uff08\u4e2d\u56fd\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable copolyester and preparation and application thereof",
+        "patent_id": "patent/CN114380990A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114380990A%2Fen"
+      },
+      {
+        "publication_number": "CN116555938A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-27",
+        "publication_date": "2023-08-08",
+        "assignee_original": "\u9053\u8fbe\u5c14\u80fd\u6e90\u79d1\u78a7\u6069\u79c1\u4eba\u6709\u9650\u516c\u53f8",
+        "title": "PLA fiber and its nonwovens",
+        "patent_id": "patent/CN116555938A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116555938A%2Fen"
+      },
+      {
+        "publication_number": "EP4594097A1",
+        "primary_language": "en",
+        "priority_date": "2022-09-28",
+        "publication_date": "2025-08-06",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable multilayer composite",
+        "patent_id": "patent/EP4594097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4594097A1%2Fen"
+      },
+      {
+        "publication_number": "WO2025021803A1",
+        "primary_language": "en",
+        "priority_date": "2023-07-24",
+        "publication_date": "2025-01-30",
+        "assignee_original": "Basf Se",
+        "title": "Aromatic polyester containing powders for powder bed fusion printing process and printed articles thereof",
+        "patent_id": "patent/WO2025021803A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025021803A1%2Fen"
+      },
+      {
+        "publication_number": "FR3151683A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-28",
+        "publication_date": "2025-01-31",
+        "assignee_original": "Idemia France",
+        "title": "Microcircuit card",
+        "patent_id": "patent/FR3151683A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3151683A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10526461B2",
+      "primary_language": "en",
+      "publication_date": "2020-01-07",
+      "title": "Biodegradable polyester mixture",
+      "patent_id": "patent/US10526461B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10526461B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9056979B2",
+      "primary_language": "en",
+      "publication_date": "2015-06-16",
+      "title": "Biodegradable polyester mixture",
+      "patent_id": "patent/US9056979B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9056979B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2834651C",
+      "primary_language": "en",
+      "publication_date": "2020-07-21",
+      "title": "Biodegradable polyester film",
+      "patent_id": "patent/CA2834651C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2834651C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7067596B2",
+      "primary_language": "en",
+      "publication_date": "2006-06-27",
+      "title": "Ternary mixtures of biodegradable polyesters and products manufactured from them",
+      "patent_id": "patent/US7067596B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7067596B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6787613B2",
+      "primary_language": "en",
+      "publication_date": "2004-09-07",
+      "title": "Ternary mixture of biodegradable polyesters and products obtained therefrom",
+      "patent_id": "patent/US6787613B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6787613B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6025847B2",
+      "primary_language": "en",
+      "publication_date": "2016-11-16",
+      "title": "Biodegradable polyester film",
+      "patent_id": "patent/JP6025847B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6025847B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9096758B2",
+      "primary_language": "en",
+      "publication_date": "2015-08-04",
+      "title": "Biodegradable polyester foil",
+      "patent_id": "patent/US9096758B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9096758B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8686080B2",
+      "primary_language": "en",
+      "publication_date": "2014-04-01",
+      "title": "Biodegradable polyester film",
+      "patent_id": "patent/US8686080B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8686080B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2014523962A5",
+      "primary_language": "en",
+      "publication_date": "2015-09-10",
+      "patent_id": "patent/JP2014523962A5/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2014523962A5%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "BRPI0611457A2",
+      "primary_language": "en",
+      "publication_date": "2010-09-14",
+      "title": "biodegradable aliphatic-aromatic polyesters",
+      "patent_id": "patent/BRPI0611457A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBRPI0611457A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7151122B2",
+      "primary_language": "en",
+      "publication_date": "2022-10-12",
+      "title": "Method for producing polyester-based resin composition, polyester-based resin composition, and molded article",
+      "patent_id": "patent/JP7151122B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7151122B2%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2018-11-13",
+      "code": "EEER",
+      "title": "Examination request",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20181107"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-26",
+      "code": "FZDE",
+      "title": "Discontinued",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20210831"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-27",
+      "code": "FZDE",
+      "title": "Discontinued",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20210831"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 14
+      },
+      {
+        "id": "229920000229",
+        "name": "biodegradable polyester",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000004622",
+        "name": "biodegradable polyester",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 12
+      },
+      {
+        "id": "229920000728",
+        "name": "polyester",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 9
+      },
+      {
+        "id": "KKEYFWRCBNTPAC-UHFFFAOYSA-N",
+        "name": "Terephthalic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)C1=CC=C(C(O)=O)C=C1",
+        "inchi_key": "KKEYFWRCBNTPAC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 8
+      },
+      {
+        "id": "125000001931",
+        "name": "aliphatic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004970",
+        "name": "Chain extender",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "OFOBLEOULBTSOW-UHFFFAOYSA-N",
+        "name": "Malonic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CC(O)=O",
+        "inchi_key": "OFOBLEOULBTSOW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000001990",
+        "name": "dicarboxylic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000002009",
+        "name": "diols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000003503",
+        "name": "terephthalic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract"
+        ],
+        "count": 4
+      },
+      {
+        "id": "-1",
+        "name": "aliphatic dicarboxylic acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229920002959",
+        "name": "polymer blend",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 8
+      },
+      {
+        "id": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "name": "Calcium carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].[O-]C([O-])=O",
+        "inchi_key": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229920001610",
+        "name": "polycaprolactone",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004632",
+        "name": "polycaprolactone",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 5
+      },
+      {
+        "id": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "Silicium dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Si]=O",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910000019",
+        "name": "calcium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000945",
+        "name": "filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000454",
+        "name": "talc",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052623",
+        "name": "talc",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 3
+      },
+      {
+        "id": "UQSXHKLRYXJYBZ-UHFFFAOYSA-N",
+        "name": "Iron oxide",
+        "domain": "Chemical compound",
+        "smiles": "[Fe]=O",
+        "inchi_key": "UQSXHKLRYXJYBZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CDBYLPFSWZWCQE-UHFFFAOYSA-L",
+        "name": "Sodium Carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].[O-]C([O-])=O",
+        "inchi_key": "CDBYLPFSWZWCQE-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "name": "Titan oxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Ti]=O",
+        "inchi_key": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WNLRTRBMVRJNCN-UHFFFAOYSA-N",
+        "name": "adipic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CCCCC(O)=O",
+        "inchi_key": "WNLRTRBMVRJNCN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005014",
+        "name": "poly(hydroxyalkanoate)",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000747",
+        "name": "poly(lactic acid)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002961",
+        "name": "polybutylene succinate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004631",
+        "name": "polybutylene succinate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920009537",
+        "name": "polybutylene succinate adipate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004630",
+        "name": "polybutylene succinate adipate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000903",
+        "name": "polyhydroxyalkanoate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004626",
+        "name": "polylactic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CXMXRPHRNRROMY-UHFFFAOYSA-N",
+        "name": "sebacic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CCCCCCCCC(O)=O",
+        "inchi_key": "CXMXRPHRNRROMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000012239",
+        "name": "silicon dioxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005995",
+        "name": "Aluminium silicate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UXVMQQNJUSDDNG-UHFFFAOYSA-L",
+        "name": "Calcium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-].[Cl-].[Ca+2]",
+        "inchi_key": "UXVMQQNJUSDDNG-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BPQQTUXANYXVAA-UHFFFAOYSA-N",
+        "name": "Orthosilicate",
+        "domain": "Chemical compound",
+        "smiles": "[O-][Si]([O-])([O-])[O-]",
+        "inchi_key": "BPQQTUXANYXVAA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012963",
+        "name": "UV stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006096",
+        "name": "absorbing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000996",
+        "name": "additive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001361",
+        "name": "adipic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011037",
+        "name": "adipic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001278",
+        "name": "adipic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005273",
+        "name": "aeration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003232",
+        "name": "aliphatic polyester",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012211",
+        "name": "aluminium silicate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011324",
+        "name": "bead",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001110",
+        "name": "calcium chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001628",
+        "name": "calcium chloride",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011148",
+        "name": "calcium chloride",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006229",
+        "name": "carbon black",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019241",
+        "name": "carbon black",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002361",
+        "name": "compost",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006260",
+        "name": "foam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010439",
+        "name": "graphite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002804",
+        "name": "graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010440",
+        "name": "gypsum",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052602",
+        "name": "gypsum",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013980",
+        "name": "iron oxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NLYAJNPCOHFWQQ-UHFFFAOYSA-N",
+        "name": "kaolin",
+        "domain": "Chemical compound",
+        "smiles": "O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O",
+        "inchi_key": "NLYAJNPCOHFWQQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010445",
+        "name": "mica",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052618",
+        "name": "mica group",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002557",
+        "name": "mineral fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052901",
+        "name": "montmorillonite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002362",
+        "name": "mulch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004745",
+        "name": "nonwoven fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002667",
+        "name": "nucleating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000049",
+        "name": "pigment",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010453",
+        "name": "quartz",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003329",
+        "name": "sebacic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009517",
+        "name": "secondary packaging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000377",
+        "name": "silicon dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000029",
+        "name": "sodium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002689",
+        "name": "soil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003381",
+        "name": "stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004094",
+        "name": "surface-active agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004753",
+        "name": "textile",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004408",
+        "name": "titanium dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001993",
+        "name": "wax",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010456",
+        "name": "wollastonite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052882",
+        "name": "wollastonite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,2361 @@
+{
+  "search_metadata": {
+    "id": "697a3a0cff596e50a6d78b28",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/81bea3aa56d32af2/697a3a0cff596e50a6d78b28.json",
+    "created_at": "2026-01-28 16:32:12 UTC",
+    "processed_at": "2026-01-28 16:32:12 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20170058109A1/en",
+    "raw_html_file": "https://serpapi.com/searches/81bea3aa56d32af2/697a3a0cff596e50a6d78b28.html",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20170058109A1/en"
+  },
+  "title": "Moldable compositions and methods of using the same",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/cd/c1/f2/659fe1840f5673/US20170058109A1.pdf",
+  "publication_number": "US20170058109A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "moldable composition",
+    "composition",
+    "moldable",
+    "filler",
+    "thickening agent"
+  ],
+  "prior_art_date": "2015-08-27",
+  "application_number": "US15/248,706",
+  "inventors": [
+    {
+      "name": "Cindy Nguyen",
+      "link": "https://patents.google.com/?inventor=Cindy+Nguyen",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Cindy+Nguyen"
+    },
+    {
+      "name": "Michael G. Moskal",
+      "link": "https://patents.google.com/?inventor=Michael+G.+Moskal",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Michael+G.+Moskal"
+    },
+    {
+      "name": "David Rowan",
+      "link": "https://patents.google.com/?inventor=David+Rowan",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=David+Rowan"
+    },
+    {
+      "name": "Michael L. Spera",
+      "link": "https://patents.google.com/?inventor=Michael+L.+Spera",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Michael+L.+Spera"
+    },
+    {
+      "name": "James Broe FITZPATRICK",
+      "link": "https://patents.google.com/?inventor=James+Broe+FITZPATRICK",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=James+Broe+FITZPATRICK"
+    }
+  ],
+  "assignees": [
+    "Crayola LLC"
+  ],
+  "priority_date": "2015-08-27",
+  "filing_date": "2016-08-26",
+  "publication_date": "2017-03-02",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-08-26",
+        "country_code": "US",
+        "application_number": "US15/248,706",
+        "document_id": "patent/US10138358B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2016-08-26",
+        "country_code": "AU",
+        "application_number": "AU2016310344A",
+        "document_id": "patent/AU2016310344B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2016-08-26",
+        "country_code": "WO",
+        "application_number": "PCT/US2016/048923",
+        "document_id": "patent/WO2017035450A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2016-08-26",
+        "country_code": "CA",
+        "application_number": "CA2996524A",
+        "document_id": "patent/CA2996524C/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2016-08-26",
+        "country_code": "EP",
+        "application_number": "EP16762934.4A",
+        "document_id": "patent/EP3341218B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-08-26",
+      "title": "Application filed by Crayola LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Crayola LLC"
+    },
+    {
+      "date": "2016-08-26",
+      "title": "Priority to US15/248,706",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US10138358B2/en"
+    },
+    {
+      "date": "2016-09-09",
+      "title": "Assigned to CRAYOLA LLC",
+      "type": "reassignment",
+      "assignee_search": "CRAYOLA LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: NGUYEN, CINDY, FITZPATRICK, JAMES BROE, MOSKAL, MICHAEL G., ROWAN, DAVID, SPERA, MICHAEL L."
+      ]
+    },
+    {
+      "date": "2017-03-02",
+      "title": "Publication of US20170058109A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20170058109A1/en"
+    },
+    {
+      "date": "2018-11-27",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2018-11-27",
+      "title": "Publication of US10138358B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10138358B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2036-10-23",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20170058109.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15248706"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20170058109"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017058109A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15248706/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20170058109"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "C08L3/02",
+      "description": "Starch; Degradation products thereof, e.g. dextrin",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K3/34",
+      "description": "Silicon-containing compounds",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K3/38",
+      "description": "Boron-containing compounds",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K5/053",
+      "description": "Polyhydroxylic alcohols",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L29/04",
+      "description": "Polyvinyl alcohol; Partially hydrolysed homopolymers or copolymers of esters of unsaturated alcohols with saturated carboxylic acids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L91/06",
+      "description": "Waxes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A63H33/001",
+      "description": "Toy-moulding appliances; Toy moulding",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08K2003/387",
+      "description": "Borates",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention provides moldable compositions that are capable of drying and hardening if left in open air at room temperature for a period of time. Embodiments of the moldable compositions comprise water, at least one polar polymeric resin (e.g., polyvinyl alcohol), at least one thickening agent (e.g., boric acid, borate salt, or hydrate of a borate salt), at least one humectant (e.g., glycerin, propylene glycol, etc.), at least one filler (e.g., corn starch, tapioca, or arrowroot), optionally at least one releasing agent (e.g., mineral oil) and optionally at least one additive.",
+  "description_link": "https://serpapi.com/searches/697a3a0cff596e50a6d78b28/google_patents_details/description.html",
+  "claims": [
+    "1. A moldable composition comprising water, at least one polar polymeric resin, at least one thickening agent, at least one humectant, at least one filler, optionally at least one releasing agent and optionally at least one additive.",
+    "2. The moldable composition of claim 1, wherein the at least one polar polymeric resin comprises polyvinyl alcohol.",
+    "3. The moldable composition of claim 1, wherein the at least one thickening agent comprises boric acid, a borate salt, or a hydrate of a borate salt.",
+    "4. The moldable composition of claim 1, wherein the at least one humectant comprises glycerin and polyethylene glycol.",
+    "5. The moldable composition of any of claim 1, wherein the at least one filler comprises corn starch.",
+    "6. The moldable composition of claim 1, wherein the at least one releasing agent comprises mineral oil.",
+    "7. The moldable composition of claim 1, wherein the moldable composition comprises at least one additive selected from the group consisting of pH adjusters, defoamers, dispersants, preservatives, colorants and scents.",
+    "8. The moldable composition of claim 1 comprising between about 15 wt % to about 60 wt % water, between about 1 wt % to about 20 wt % humectant, between about 0.1 wt % to about 10 wt % polyvinyl alcohol, between about 0.01 wt % to about 5 wt % thickening agent(s), between about 20 wt % to about 75 wt % filler(s), optionally between about 0.1 wt % to about 10 wt % releasing agent(s), and optionally between about 0.1 wt % to about 5 wt % additives.",
+    "9. The moldable composition of claim 1 comprising between about 20 wt % to about 35 wt % water, between about 1 wt % to about 15 wt % humectant, between about 1 wt % to about 6 wt % polyvinyl alcohol, between about 0.1 wt % to about 3 wt % thickening agent(s), between about 35 wt % to about 65 wt % filler(s), optionally between about 1 wt % to about 6 wt % releasing agent(s), and optionally between about 0.1 wt % to about 3 wt % additives.",
+    "10. The moldable composition of claim 1, wherein the at least one thickening agent comprises a borate salt or a hydrate of a borate salt selected from the group consisting of ammonium borate, zinc borate, sodium borate and ammonium pentaborate tetrahydrate.",
+    "11. The moldable composition of claim 10, wherein the at least one thickening agent further comprises guar gum and xanthan gum.",
+    "12. The moldable composition of claim 1, wherein the moldable composition comprises water; glycerin; polyvinyl alcohol; propylene glycol; at least one filler selected from the group consisting of corn starch, tapioca, arrowroot, clay and a combination thereof; mineral oil; at least one boric compound and at least one additive selected from the group consisting of pH adjusters, defoamers, dispersants, preservatives, colorants and scents.",
+    "13. The moldable composition of claim 1, wherein the at least one thickening agent includes guar gum and xanthan gum.",
+    "14. The moldable composition of claim 1, wherein the at least one filler comprises at least one of arrowroot or tapioca.",
+    "15. The moldable composition of claim 1, wherein the moldable composition comprises water; glycerin; polyvinyl alcohol; propylene glycol; at least one filler selected from the group consisting of corn starch, tapioca, arrowroot, clay or any combination thereof; mineral oil; at least one thickening agent comprising at least one boric compound; and at least one additive selected from the group consisting of pH adjusters, defoamers, dispersants, preservatives, colorants and scents.",
+    "16. The moldable composition of claim 15, the at least one thickening agent further comprising guar gum and xanthan gum, and wherein the at least one boric compound is ammonium pentaborate tetrahydrate.",
+    "17. A method of making the moldable composition of claim 1 comprising mixing the water, at least one polar polymeric resin, at least one thickening agent, at least one humectant, at least one filler, at least one releasing agent and at least one additive together.",
+    "18. A method of using the moldable composition of claim 1 comprising molding the moldable composition into a desired shape.",
+    "19. The method of using the moldable composition of claim 13 further comprising drying the moldable composition to form a hardened composition.",
+    "20. The method of using the moldable composition of claim 14 further comprising adding a decorative agent to the hardened composition."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/248,706",
+      "representative_publication": "US10138358B2",
+      "primary_language": "en",
+      "priority_date": "2015-08-27",
+      "filing_date": "2016-08-26",
+      "title": "Moldable compositions and methods of using the same"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201562210591P",
+      "priority_date": "2015-08-27",
+      "filing_date": "2015-08-27"
+    },
+    {
+      "application_number": "US15/248,706",
+      "representative_publication": "US10138358B2",
+      "primary_language": "en",
+      "priority_date": "2015-08-27",
+      "filing_date": "2016-08-26",
+      "title": "Moldable compositions and methods of using the same"
+    }
+  ],
+  "family_id": "56883866",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "DE3411827A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-03-30",
+        "publication_date": "1985-10-10",
+        "assignee_original": "R\u00fctgerswerke AG, 6000 Frankfurt",
+        "title": "TARDABLE MOLDS AND THEIR USE",
+        "patent_id": "patent/DE3411827A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3411827A1%2Fen"
+      },
+      {
+        "publication_number": "US5498645A",
+        "primary_language": "en",
+        "priority_date": "1991-07-24",
+        "publication_date": "1996-03-12",
+        "assignee_original": "Binney & Smith Inc.",
+        "title": "Modeling dough",
+        "patent_id": "patent/US5498645A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5498645A%2Fen"
+      },
+      {
+        "publication_number": "US5171766A",
+        "primary_language": "en",
+        "priority_date": "1991-07-24",
+        "publication_date": "1992-12-15",
+        "assignee_original": "Binney & Smith Inc.",
+        "title": "Modeling dough",
+        "patent_id": "patent/US5171766A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5171766A%2Fen"
+      },
+      {
+        "publication_number": "GB2327086B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-10-11",
+        "publication_date": "1999-04-21",
+        "assignee_original": "Binney & Smith Inc",
+        "title": "Modeling dough",
+        "patent_id": "patent/GB2327086B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2327086B%2Fen"
+      },
+      {
+        "publication_number": "US5916949A",
+        "primary_language": "en",
+        "priority_date": "1997-08-18",
+        "publication_date": "1999-06-29",
+        "assignee_original": "Mattel, Inc.",
+        "title": "Moldable compositions and method of making the same",
+        "patent_id": "patent/US5916949A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5916949A%2Fen"
+      },
+      {
+        "publication_number": "US6359057B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-10",
+        "publication_date": "2002-03-19",
+        "assignee_original": "Binney & Smith, Inc.",
+        "title": "Modeling dough and method of making the same",
+        "patent_id": "patent/US6359057B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6359057B1%2Fen"
+      },
+      {
+        "publication_number": "US6767938B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-18",
+        "publication_date": "2004-07-27",
+        "assignee_original": "Mattel, Inc.",
+        "title": "Modeling dough and a surface active drying agent coating composition for same",
+        "patent_id": "patent/US6767938B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6767938B1%2Fen"
+      },
+      {
+        "publication_number": "US8476343B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-16",
+        "publication_date": "2013-07-02",
+        "assignee_original": "Horizon Group Usa",
+        "title": "Toy putty material compositions",
+        "patent_id": "patent/US8476343B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8476343B2%2Fen"
+      },
+      {
+        "publication_number": "US20100251934A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-03",
+        "publication_date": "2010-10-07",
+        "assignee_original": "Smith Kimberly L",
+        "title": "Modeling compounds and method of making same",
+        "patent_id": "patent/US20100251934A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100251934A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20190092931A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-28",
+        "publication_date": "2019-03-28",
+        "assignee_original": "The United States Of America, As Represented By The Secretary Of Agriculture",
+        "title": "Compositions and methods for food packaging",
+        "patent_id": "patent/US20190092931A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190092931A1%2Fen"
+      },
+      {
+        "publication_number": "GB2568562A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-17",
+        "publication_date": "2019-05-22",
+        "assignee_original": "Crayola Llc",
+        "title": "Moldable compositions and methods of using thereof",
+        "patent_id": "patent/GB2568562A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2568562A%2Fen"
+      },
+      {
+        "publication_number": "US20190352494A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-17",
+        "publication_date": "2019-11-21",
+        "assignee_original": "LaRose Industries, LLC",
+        "title": "Free-Flowing Play Gel Composition and Activator Thereof",
+        "patent_id": "patent/US20190352494A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190352494A1%2Fen"
+      },
+      {
+        "publication_number": "US20200048422A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-13",
+        "publication_date": "2020-02-13",
+        "assignee_original": "EcoPackers Inc.",
+        "title": "Composition and method of making biodegradable pellets",
+        "patent_id": "patent/US20200048422A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200048422A1%2Fen"
+      },
+      {
+        "publication_number": "US20220023156A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-23",
+        "publication_date": "2022-01-27",
+        "assignee_original": "Kellie Alexander",
+        "title": "Putty system, method, and apparatus",
+        "patent_id": "patent/US20220023156A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220023156A1%2Fen"
+      },
+      {
+        "publication_number": "US11420169B2",
+        "primary_language": "en",
+        "priority_date": "2017-04-18",
+        "publication_date": "2022-08-23",
+        "assignee_original": "WeCool Toys Inc.",
+        "title": "Apparatus and a method for the preparation of a play, craft and/or toy compound",
+        "patent_id": "patent/US11420169B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11420169B2%2Fen"
+      },
+      {
+        "publication_number": "EP3612283B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-18",
+        "publication_date": "2024-04-03",
+        "assignee_original": "WeCool Toys Inc.",
+        "title": "Apparatus and a method for the preparation of a play, craft and/or toy compound",
+        "patent_id": "patent/EP3612283B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3612283B1%2Fen"
+      },
+      {
+        "publication_number": "US12291636B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/US12291636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "KR102220973B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-03",
+        "publication_date": "2021-02-25",
+        "assignee_original": "\uae40\ud559\uc7ac",
+        "title": "Multi-functional clay composition",
+        "patent_id": "patent/KR102220973B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102220973B1%2Fen"
+      },
+      {
+        "publication_number": "US11396197B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-19",
+        "publication_date": "2022-07-26",
+        "assignee_original": "Crayola Llc",
+        "title": "Marking system for moldable substrates",
+        "patent_id": "patent/US11396197B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11396197B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10138358B2",
+      "primary_language": "en",
+      "publication_date": "2018-11-27",
+      "title": "Moldable compositions and methods of using the same",
+      "patent_id": "patent/US10138358B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10138358B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU666606B2",
+      "primary_language": "en",
+      "publication_date": "1996-02-15",
+      "title": "Modeling dough",
+      "patent_id": "patent/AU666606B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU666606B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11084924B2",
+      "primary_language": "en",
+      "publication_date": "2021-08-10",
+      "title": "Moldable compositions and methods of using thereof",
+      "patent_id": "patent/US11084924B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11084924B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2668927C",
+      "primary_language": "en",
+      "publication_date": "2010-08-17",
+      "title": "Modeling dough",
+      "patent_id": "patent/CA2668927C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2668927C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8282726B2",
+      "primary_language": "en",
+      "publication_date": "2012-10-09",
+      "title": "Modelling composition",
+      "patent_id": "patent/US8282726B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8282726B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2630288C2",
+      "primary_language": "en",
+      "publication_date": "2017-09-06",
+      "title": "Compositions for moulding, methods of their production and application",
+      "patent_id": "patent/RU2630288C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2630288C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7897659B2",
+      "primary_language": "en",
+      "publication_date": "2011-03-01",
+      "title": "Water-based moldable modeling dough and method preparing therefor",
+      "patent_id": "patent/US7897659B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7897659B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9493627B2",
+      "primary_language": "en",
+      "publication_date": "2016-11-15",
+      "title": "Moldable sand compositions and methods for making the same",
+      "patent_id": "patent/US9493627B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9493627B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ES2791695T3",
+      "primary_language": "en",
+      "publication_date": "2020-11-05",
+      "title": "Modeling compounds and methods for making and using them",
+      "patent_id": "patent/ES2791695T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2791695T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105273483B",
+      "primary_language": "en",
+      "publication_date": "2017-10-17",
+      "title": "A kind of many moulding paste putty and preparation method thereof",
+      "patent_id": "patent/CN105273483B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105273483B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101473149B1",
+      "primary_language": "en",
+      "publication_date": "2014-12-16",
+      "title": "Clay composition",
+      "patent_id": "patent/KR101473149B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101473149B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100874574B1",
+      "primary_language": "en",
+      "publication_date": "2008-12-16",
+      "title": "Manufacturing method of water resistant molding material and water resistant molding material",
+      "patent_id": "patent/KR100874574B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100874574B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA3103761C",
+      "primary_language": "en",
+      "publication_date": "2023-04-04",
+      "title": "Material composition and process for preparation thereof",
+      "patent_id": "patent/CA3103761C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3103761C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100850580B1",
+      "primary_language": "en",
+      "publication_date": "2008-08-06",
+      "title": "Environmentally Friendly Natural Inorganic Mixed Adhesive Composition",
+      "patent_id": "patent/KR100850580B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100850580B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20130077430A",
+      "primary_language": "en",
+      "publication_date": "2013-07-09",
+      "title": "Clay composition",
+      "patent_id": "patent/KR20130077430A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20130077430A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2022064216A",
+      "primary_language": "en",
+      "publication_date": "2022-04-25",
+      "title": "Flame retardant composition",
+      "patent_id": "patent/JP2022064216A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2022064216A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20140145690A",
+      "primary_language": "en",
+      "publication_date": "2014-12-24",
+      "title": "Method of manufacturing papering paste",
+      "patent_id": "patent/KR20140145690A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20140145690A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2024167663A1",
+      "primary_language": "en",
+      "publication_date": "2024-08-15",
+      "title": "Moldable compositions",
+      "patent_id": "patent/WO2024167663A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024167663A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2016-09-09",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "CRAYOLA LLC, PENNSYLVANIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NGUYEN, CINDY;MOSKAL, MICHAEL G.;ROWAN, DAVID;AND OTHERS;SIGNING DATES FROM 20160824 TO 20160825;REEL/FRAME:039687/0815"
+        }
+      ]
+    },
+    {
+      "date": "2018-11-07",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-27",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 121
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "DNIAPMSPPWPWGF-UHFFFAOYSA-N",
+        "name": "Propylene glycol",
+        "domain": "Chemical compound",
+        "smiles": "CC(O)CO",
+        "inchi_key": "DNIAPMSPPWPWGF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "239000004372",
+        "name": "Polyvinyl alcohol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "229920002451",
+        "name": "polyvinyl alcohol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "name": "Glycerine",
+        "domain": "Chemical compound",
+        "smiles": "OCC(O)CO",
+        "inchi_key": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "239000000945",
+        "name": "filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "239000002562",
+        "name": "thickening agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "239000003906",
+        "name": "humectant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "239000002480",
+        "name": "mineral oil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "235000010446",
+        "name": "mineral oil",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "229920002261",
+        "name": "Corn starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "239000008120",
+        "name": "corn starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "235000011187",
+        "name": "glycerol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "239000002952",
+        "name": "polymeric resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "229920003002",
+        "name": "synthetic resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "240000003183",
+        "name": "Manihot esculenta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "235000016735",
+        "name": "Manihot esculenta subsp esculenta",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "244000151018",
+        "name": "Maranta arundinacea",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "235000010804",
+        "name": "Maranta arundinacea",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "235000012419",
+        "name": "Thalia geniculata",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000000996",
+        "name": "additive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "150000001642",
+        "name": "boronic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000001035",
+        "name": "drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "name": "boric acid",
+        "domain": "Chemical compound",
+        "smiles": "OB(O)O",
+        "inchi_key": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004327",
+        "name": "boric acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000002270",
+        "name": "dispersing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "239000003086",
+        "name": "colorant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000003755",
+        "name": "preservative agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000004927",
+        "name": "clay",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000230",
+        "name": "xanthan gum",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229920001285",
+        "name": "xanthan gum",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "235000010493",
+        "name": "xanthan gum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229940082509",
+        "name": "xanthan gum",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229920002907",
+        "name": "Guar gum",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "RRQBXRCWHNKYJY-UHFFFAOYSA-N",
+        "name": "OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.N.N.N.N.N.N.N.N.N.N.N.N.N.N.N.O.O.O.O",
+        "domain": "Chemical compound",
+        "smiles": "OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.N.N.N.N.N.N.N.N.N.N.N.N.N.N.N.O.O.O.O",
+        "inchi_key": "RRQBXRCWHNKYJY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000665",
+        "name": "guar gum",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000010417",
+        "name": "guar gum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229960002154",
+        "name": "guar gum",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "WYXIGTJNYDDFFH-UHFFFAOYSA-Q",
+        "name": "triazanium;borate",
+        "domain": "Chemical compound",
+        "smiles": "[NH4+].[NH4+].[NH4+].[O-]B([O-])[O-]",
+        "inchi_key": "WYXIGTJNYDDFFH-UHFFFAOYSA-Q",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000000465",
+        "name": "moulding",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910021538",
+        "name": "borax",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920001223",
+        "name": "polyethylene glycol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010339",
+        "name": "sodium tetraborate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BSVBQGMMJUBVOD-UHFFFAOYSA-N",
+        "name": "trisodium borate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].[Na+].[O-]B([O-])[O-]",
+        "inchi_key": "BSVBQGMMJUBVOD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BIKXLKXABVUSMH-UHFFFAOYSA-N",
+        "name": "trizinc;diborate",
+        "domain": "Chemical compound",
+        "smiles": "[Zn+2].[Zn+2].[Zn+2].[O-]B([O-])[O-].[O-]B([O-])[O-]",
+        "inchi_key": "BIKXLKXABVUSMH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002202",
+        "name": "Polyethylene glycol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "-1",
+        "name": "borate salt",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "229940099112",
+        "name": "cornstarch",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000000417",
+        "name": "fungicide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000004599",
+        "name": "antimicrobial",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000000575",
+        "name": "pesticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "name": "Phosphoric acid",
+        "domain": "Chemical compound",
+        "smiles": "OP(O)(O)=O",
+        "inchi_key": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "GSEJCLTVZPLZKY-UHFFFAOYSA-N",
+        "name": "Triethanolamine",
+        "domain": "Chemical compound",
+        "smiles": "OCCN(CCO)CCO",
+        "inchi_key": "GSEJCLTVZPLZKY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003570",
+        "name": "air",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "BTBUEUYNUDRHOZ-UHFFFAOYSA-N",
+        "name": "Borate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]B([O-])[O-]",
+        "inchi_key": "BTBUEUYNUDRHOZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004132",
+        "name": "cross linking",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "name": "Hydrochloric acid",
+        "domain": "Chemical compound",
+        "smiles": "Cl",
+        "inchi_key": "VEXZGXHMUGYJMC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007605",
+        "name": "air drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910000147",
+        "name": "aluminium phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000440",
+        "name": "bentonite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910000278",
+        "name": "bentonite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "SVPXDRXYRYOSEX-UHFFFAOYSA-N",
+        "name": "bentoquatam",
+        "domain": "Chemical compound",
+        "smiles": "O.O=[Si]=O.O=[Al]O[Al]=O",
+        "inchi_key": "SVPXDRXYRYOSEX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "MTHSVFCYNBDYFN-UHFFFAOYSA-N",
+        "name": "diethylene glycol",
+        "domain": "Chemical compound",
+        "smiles": "OCCOCCO",
+        "inchi_key": "MTHSVFCYNBDYFN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004615",
+        "name": "ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004898",
+        "name": "kneading",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004800",
+        "name": "polyvinyl chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "name": "Calcium carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].[O-]C([O-])=O",
+        "inchi_key": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000001704",
+        "name": "evaporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000006174",
+        "name": "pH buffer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000915",
+        "name": "polyvinyl chloride",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "AGNTUZCMJBTHOG-UHFFFAOYSA-N",
+        "name": "3-[3-(2,3-dihydroxypropoxy)-2-hydroxypropoxy]propane-1,2-diol",
+        "domain": "Chemical compound",
+        "smiles": "OCC(O)COCC(O)COCC(O)CO",
+        "inchi_key": "AGNTUZCMJBTHOG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002134",
+        "name": "Carboxymethyl cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003043",
+        "name": "Cellulose fiber",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RUPBZQFQVRMKDG-UHFFFAOYSA-M",
+        "name": "Didecyldimethylammonium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-].CCCCCCCCCC[N+](C)(C)CCCCCCCCCC",
+        "inchi_key": "RUPBZQFQVRMKDG-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SXRSQZLOMIGNAQ-UHFFFAOYSA-N",
+        "name": "Glutaraldehyde",
+        "domain": "Chemical compound",
+        "smiles": "O=CCCCC=O",
+        "inchi_key": "SXRSQZLOMIGNAQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002153",
+        "name": "Hydroxypropyl cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004264",
+        "name": "Petrolatum",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000008065",
+        "name": "acid anhydrides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000007513",
+        "name": "acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011037",
+        "name": "adipic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WNLRTRBMVRJNCN-UHFFFAOYSA-N",
+        "name": "adipic acid group",
+        "domain": "Chemical group",
+        "smiles": "C(CCCCC(=O)O)(=O)O",
+        "inchi_key": "WNLRTRBMVRJNCN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ANBBXQWFNXMHLD-UHFFFAOYSA-N",
+        "name": "aluminum;sodium;oxygen(2-)",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[O-2].[Na+].[Al+3]",
+        "inchi_key": "ANBBXQWFNXMHLD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012080",
+        "name": "ambient air",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002518",
+        "name": "antifoaming agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011324",
+        "name": "bead",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011230",
+        "name": "binding agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000872",
+        "name": "buffer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000019",
+        "name": "calcium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001768",
+        "name": "carboxy methyl cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010948",
+        "name": "carboxy methyl cellulose",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001768",
+        "name": "cations",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000015165",
+        "name": "citric acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+        "name": "citric acid group",
+        "domain": "Chemical class",
+        "smiles": "C(CC(O)(C(=O)O)CC(=O)O)(=O)O",
+        "inchi_key": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013530",
+        "name": "defoamer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006731",
+        "name": "degradation reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000005690",
+        "name": "diesters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000975",
+        "name": "dye",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HKIOYBQGHSTUDB-UHFFFAOYSA-N",
+        "name": "folpet",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2C(=O)N(SC(Cl)(Cl)Cl)C(=O)C2=C1",
+        "inchi_key": "HKIOYBQGHSTUDB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003205",
+        "name": "fragrance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000855",
+        "name": "fungicidal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100001261",
+        "name": "hazardous",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007062",
+        "name": "hydrolysis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006460",
+        "name": "hydrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001863",
+        "name": "hydroxypropyl cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010977",
+        "name": "hydroxypropyl cellulose",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000155",
+        "name": "melt",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010445",
+        "name": "mica",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052618",
+        "name": "mica group",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004005",
+        "name": "microsphere",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JPMIIZHYYWMHDT-UHFFFAOYSA-N",
+        "name": "octhilinone",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCN1SC=CC1=O",
+        "inchi_key": "JPMIIZHYYWMHDT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000643",
+        "name": "oven drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003973",
+        "name": "paint",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940066842",
+        "name": "petrolatum",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019271",
+        "name": "petrolatum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000005498",
+        "name": "phthalate group",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000049",
+        "name": "pigment",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004014",
+        "name": "plasticizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001296",
+        "name": "polysiloxane",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002689",
+        "name": "polyvinyl acetate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011118",
+        "name": "polyvinyl acetate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002335",
+        "name": "preservative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005989",
+        "name": "resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011347",
+        "name": "resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004760",
+        "name": "silicates",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910001388",
+        "name": "sodium aluminate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000454",
+        "name": "talc",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052623",
+        "name": "talc",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008719",
+        "name": "thickening",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000005691",
+        "name": "triesters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SRPWOOOHEPICQU-UHFFFAOYSA-N",
+        "name": "trimellitic anhydride",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)C1=CC=C2C(=O)OC(=O)C2=C1",
+        "inchi_key": "SRPWOOOHEPICQU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LSGOVYNHVSXFFJ-UHFFFAOYSA-N",
+        "name": "vanadate(3-)",
+        "domain": "Chemical class",
+        "smiles": "[O-][V]([O-])([O-])=O",
+        "inchi_key": "LSGOVYNHVSXFFJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

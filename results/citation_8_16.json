@@ -1,0 +1,1466 @@
+{
+  "search_metadata": {
+    "id": "697a346213258384a9c6ca7a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/51374ceea9b76019/697a346213258384a9c6ca7a.json",
+    "created_at": "2026-01-28 16:08:02 UTC",
+    "processed_at": "2026-01-28 16:08:02 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20170320570A1/en",
+    "raw_html_file": "https://serpapi.com/searches/51374ceea9b76019/697a346213258384a9c6ca7a.html",
+    "total_time_taken": 2.87
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20170320570A1/en"
+  },
+  "title": "Unmanned aerial vehicle (uav) having vertical takeoff and landing (vtol) capability",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/54/11/a1/373434e0331a81/US20170320570A1.pdf",
+  "publication_number": "US20170320570A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "unmanned aerial",
+    "aerial vehicle",
+    "battery",
+    "thrust",
+    "uav"
+  ],
+  "prior_art_date": "2016-05-06",
+  "application_number": "US15/168,842",
+  "inventors": [
+    {
+      "name": "David Horn",
+      "link": "https://patents.google.com/?inventor=David+Horn",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=David+Horn"
+    }
+  ],
+  "assignees": [
+    "Skyx Ltd",
+    "Skyx Ltd Canada"
+  ],
+  "priority_date": "2016-05-06",
+  "filing_date": "2016-05-31",
+  "publication_date": "2017-11-09",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-05-06",
+        "country_code": "CA",
+        "application_number": "CA2929254A",
+        "document_id": "patent/CA2929254C/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2016-05-31",
+        "country_code": "US",
+        "application_number": "US15/168,842",
+        "document_id": "patent/US10137983B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2017": [
+      {
+        "filing_date": "2017-04-24",
+        "country_code": "AU",
+        "application_number": "AU2017202701A",
+        "document_id": "patent/AU2017202701B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2017-05-05",
+        "country_code": "EP",
+        "application_number": "EP17169816.0A",
+        "document_id": "patent/EP3243749B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2017-05-08",
+        "country_code": "CN",
+        "application_number": "CN201710320498.3A",
+        "document_id": "patent/CN107434034A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-05-31",
+      "title": "Application filed by Skyx Ltd Canada",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Skyx Ltd Canada"
+    },
+    {
+      "date": "2016-05-31",
+      "title": "Assigned to SKyX Limited",
+      "type": "reassignment",
+      "assignee_search": "SKyX Limited",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: HORN, DAVID"
+      ]
+    },
+    {
+      "date": "2017-11-09",
+      "title": "Publication of US20170320570A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20170320570A1/en"
+    },
+    {
+      "date": "2018-11-27",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2018-11-27",
+      "title": "Publication of US10137983B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10137983B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2036-08-11",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20170320570.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15168842"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20170320570"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017320570A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15168842/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20170320570"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/76/c1/93/68a223da3f9d55/US20170320570A1-20171109-D00000.png",
+    "https://patentimages.storage.googleapis.com/f3/41/27/f590b7e03a2503/US20170320570A1-20171109-D00001.png",
+    "https://patentimages.storage.googleapis.com/de/aa/7f/43b910109266e8/US20170320570A1-20171109-D00002.png",
+    "https://patentimages.storage.googleapis.com/06/bd/52/32c56102875ca4/US20170320570A1-20171109-D00003.png",
+    "https://patentimages.storage.googleapis.com/9a/e7/5f/22666a7b317b4c/US20170320570A1-20171109-D00004.png",
+    "https://patentimages.storage.googleapis.com/d7/3a/39/3407e5f8f2e3ba/US20170320570A1-20171109-D00005.png",
+    "https://patentimages.storage.googleapis.com/c4/19/4e/9192fa093ee940/US20170320570A1-20171109-D00006.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64C29/00",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/20",
+      "description": "Rotors; Rotor supports",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L53/00",
+      "description": "Methods of charging batteries, specially adapted for electric vehicles; Charging stations or on-board charging equipment therefor; Exchange of energy storage elements in electric vehicles",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C29/02",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft having its flight directional axis vertical when grounded",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/24",
+      "description": "Aircraft characterised by the type or position of power plants using steam or spring force",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D47/08",
+      "description": "Arrangements of cameras",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/20",
+      "description": "Vertical take-off and landing [VTOL] aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/19",
+      "description": "Propulsion using electrically powered motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U80/25",
+      "description": "Transport or storage specially adapted for UAVs with arrangements for servicing the UAV for recharging batteries; for refuelling",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08G5/0026",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G08G5/22",
+      "description": "Arrangements for acquiring, generating, sharing or displaying traffic information located on the ground",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2200/10",
+      "description": "Air crafts",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/021",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/042",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/165",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D2211/00",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U20/65",
+      "description": "Composite materials",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/31",
+      "description": "UAVs specially adapted for particular uses or applications for imaging, photography or videography for surveillance",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/104",
+      "description": "UAVs characterised by their flight controls autonomous, i.e. by navigating independently from ground or air stations, e.g. by using inertial navigation systems [INS] using satellite radio beacon positioning systems, e.g. GPS",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/31",
+      "description": "Supply or distribution of electrical power generated by photovoltaics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/70",
+      "description": "Energy storage systems for electromobility, e.g. batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T10/7072",
+      "description": "Electromobility specific charging systems or methods for batteries, ultracapacitors, supercapacitors or double-layer capacitors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T90/14",
+      "description": "Plug-in electric vehicles",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An unmanned aerial vehicle (UAV), or drone, includes a fuselage, left and right airfoil-shaped wings connected to the fuselage to generate lift in forward flight, a left thrust-generating device supported by the left wing, and a right thrust-generating device supported by the right wing. The UAV further includes a vertical stabilizer, a top thrust-generating device mounted to a top portion of the vertical stabilizer, and a bottom thrust-generating device mounted to a bottom portion of the vertical stabilizer. An onboard power source is provided for powering the thrust-generating devices. The left, right, top and bottom thrust-generating devices provide forward thrust during forward flight and also provide vertical thrust to enable the unmanned aerial vehicle to take-off and land vertically when the fuselage is substantially vertical and further enabling the unmanned aerial vehicle to transition between forward flight and vertical take-off and landing.",
+  "description_link": "https://serpapi.com/searches/697a346213258384a9c6ca7a/google_patents_details/description.html",
+  "claims": [
+    "1. An unmanned aerial vehicle comprising:\na fuselage; left and right airfoil-shaped wings connected to the fuselage to generate lift in forward flight; a left thrust-generating device supported by the left wing; a right thrust-generating device supported by the right wing; a vertical stabilizer; a top thrust-generating device mounted to a top portion of the vertical stabilizer; a bottom thrust-generating device mounted to a bottom portion of the vertical stabilizer; an onboard power source comprising a battery for powering the thrust-generating devices; an inductive charging coil for inductively recharging the battery from an inductive charging pad of a battery-recharging station, wherein the inductive charging coil is displaceable toward the pad for increasing a charging efficiency; wherein a symmetrical pair of the left, right, top and bottom thrust-generating devices provide forward thrust during forward flight and wherein the left, right, top and bottom thrust-generating devices provide vertical thrust to enable the unmanned aerial vehicle to take-off and land vertically when the fuselage is substantially vertical and further enabling the unmanned aerial vehicle to transition between forward flight and vertical take-off and landing.",
+    "2. The unmanned aerial vehicle of claim 1 wherein the left, right, top and bottom thrust-generating devices are electric motors coupled to respective propellers and wherein the battery supplies power to the electric motors.",
+    "3. The unmanned aerial vehicle of claim 1 further comprising a ground-monitoring sensor suite powered by the onboard power source, the sensor suite comprising one or more sensors selected from the group consisting of still cameras, video cameras, infrared sensors, thermal imaging sensors, and radar.",
+    "4. The unmanned aerial vehicle of claim 1 further comprising an onboard processor configured to receive flight-performance data from a plurality of flight-performance sensors and to perform flight control operations in response to receiving the flight-performance data such that the processor provides fully autonomous flight control of the unmanned aerial vehicle.",
+    "5. The unmanned aerial vehicle of claim 1 further comprising a Global Navigation Satellite System (GNSS) receiver chip for receiving GNSS signals from orbiting GNSS satellites and for determining a current position of the unmanned aerial vehicle in response to receiving the GNSS signals.",
+    "6. The unmanned aerial vehicle of claim 1 further comprising a radio frequency transceiver coupled to the processor for transmitting sensor data from the ground-monitoring sensor suite and the flight-performance data to a main ground control station.",
+    "7. The unmanned aerial vehicle of claim 1 further comprising a radio frequency transceiver coupled to the processor for receiving commands from a main ground control station.",
+    "8. The unmanned aerial vehicle of claim 7 wherein the commands comprise one or more of: a destination command to fly to a destination, a route command specifying GNSS waypoints, a return-to-base (RTB) command, a hover command, a loiter command, and a sensor-activation command.",
+    "9. The unmanned aerial vehicle of claim 1 wherein the processor computes a distance to a nearest battery-recharging station, estimates and compares the power required to fly to the nearest battery-recharging station with a remaining battery charge and then decides whether to continue a mission or divert to the nearest battery-recharging station.",
+    "10. The unmanned aerial vehicle of claim 9 wherein the processor causes the radio frequency transceiver to transmit a query to the nearest battery-recharging station to ascertain whether the nearest battery-recharging station is available to receive and recharge the unmanned aerial vehicle.",
+    "11. The unmanned aerial vehicle of claim 10 wherein the processor cooperates with the radio frequency transceiver to receive and process a reply to the query, wherein the processor programs a flight path to the battery-recharging station in response to the query indicating that the battery-recharging station is available.",
+    "12. The unmanned aerial vehicle of claim 10 wherein the processor cooperates with the radio frequency transceiver to receive and process a reply to the query, wherein the processor transmits a second inquiry to a second-nearest battery-recharging station in response to the query indicating that the battery-recharging station is unavailable.",
+    "13. The unmanned aerial vehicle of claim 9 wherein the processor causes the radio frequency transceiver to transmit a query to the main ground control station to request location coordinates for the nearest available battery-recharging station that is available to receive and recharge the unmanned aerial vehicle.",
+    "14. The unmanned aerial vehicle of claim 13 wherein the processor cooperates with the radio frequency transceiver to receive and process a reply to the query, wherein the processor transmits a confirmation and estimated time of arrival to the main ground control station for relaying to the battery-recharging station.",
+    "15. The unmanned aerial vehicle of claim 1 wherein only the left and right thrust-generating devices generate thrust for forward flight and wherein the left, right, top and bottom thrust-generating devices generate thrust for take-off, landing and hovering.",
+    "16. The unmanned aerial vehicle of claim 1 wherein the top and bottom thrust-generating devices are foldable.",
+    "17. The unmanned aerial vehicle of claim 1 further comprising a Wi-Fi transceiver for exchanging data with a battery-recharging station.",
+    "18. The unmanned aerial vehicle of claim 17 wherein the Wi-Fi transceiver transmits sensor data to the battery-recharging station for relaying to the main ground control station.",
+    "19. The unmanned aerial vehicle of claim 17 wherein the Wi-Fi transceiver receives mission parameter data from the battery-recharging station relayed from the main ground control station.",
+    "20. The unmanned aerial vehicle of claim 17 wherein the Wi-Fi transceiver receives a software update from the battery-recharging station relayed from the main ground control station.",
+    "21. The unmanned aerial vehicle of claim 1 further comprising a short-range guidance subsystem for receiving one or more beacons from the battery-recharging station to enable the unmanned aerial vehicle to land precisely on the inductive charging pad of the battery-recharging station.",
+    "22. The unmanned aerial vehicle of claim 1 further comprising an air-to-air RF communication link to enable the transfer of data to and from another unmanned aerial vehicle.",
+    "23. The unmanned aerial vehicle of claim 2 wherein the processor is configured to deactivate one or more sensors of the sensor suite in a predetermined order in response to detecting a low battery condition.",
+    "24. The unmanned aerial vehicle of claim 1 wherein the processor executes a machine-vision algorithm to automatically recognize predetermined objects in captured imagery and to trigger an action in response to recognizing one of the predetermined objects.",
+    "25. (canceled)",
+    "26. The unmanned aerial vehicle of claim 2 wherein the fuselage and wings comprise photovoltaic cells to convert solar energy into electric power to recharge the battery.",
+    "27. The unmanned aerial vehicle of claim 1 further comprising a hatch disposed on one of the wings or on the fuselage and wherein the hatch is opened to enable the coil to be displaced toward the pad."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CA2929254",
+      "filing_date": "2016-05-06"
+    },
+    {
+      "application_number": "CA2929254A",
+      "representative_publication": "CA2929254C",
+      "primary_language": "en",
+      "priority_date": "2016-05-06",
+      "filing_date": "2016-05-06",
+      "title": "Unmanned aerial vehicle (uav) having vertical takeoff and landing (vtol) capability"
+    }
+  ],
+  "family_id": "58672465",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20140022051A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-17",
+        "publication_date": "2014-01-23",
+        "assignee_original": "Elwha LLC, a limited liability company of the State of Delaware",
+        "title": "Unmanned device interaction methods and systems",
+        "patent_id": "patent/US20140022051A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140022051A1%2Fen"
+      },
+      {
+        "publication_number": "US8950698B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-26",
+        "publication_date": "2015-02-10",
+        "assignee_original": "The Boeing Company",
+        "title": "Convertible compounded rotorcraft",
+        "patent_id": "patent/US8950698B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8950698B1%2Fen"
+      },
+      {
+        "publication_number": "US20160039542A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-08",
+        "publication_date": "2016-02-11",
+        "assignee_original": "SZ DJI Technology Co., Ltd",
+        "title": "Multi-zone battery exchange system",
+        "patent_id": "patent/US20160039542A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160039542A1%2Fen"
+      },
+      {
+        "publication_number": "US20160144957A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-11-26",
+        "publication_date": "2016-05-26",
+        "assignee_original": "XCraft Enterprises, LLC",
+        "title": "High speed multi-rotor vertical takeoff and landing aircraft",
+        "patent_id": "patent/US20160144957A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160144957A1%2Fen"
+      },
+      {
+        "publication_number": "US20160156406A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-18",
+        "publication_date": "2016-06-02",
+        "assignee_original": "Sunlight Photonics Inc.",
+        "title": "Distributed airborne wireless communication services",
+        "patent_id": "patent/US20160156406A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160156406A1%2Fen"
+      },
+      {
+        "publication_number": "US20160314545A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-22",
+        "publication_date": "2016-10-27",
+        "assignee_original": "Alpha Endeavors LLC",
+        "title": "Data collection, storage, and processing system using one or more inputs",
+        "patent_id": "patent/US20160314545A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160314545A1%2Fen"
+      },
+      {
+        "publication_number": "US20160355097A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-05",
+        "publication_date": "2016-12-08",
+        "assignee_original": "Nissan North America, Inc.",
+        "title": "Alignment method for a vehicle wireless charging structure",
+        "patent_id": "patent/US20160355097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160355097A1%2Fen"
+      },
+      {
+        "publication_number": "US20170075360A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-16",
+        "publication_date": "2017-03-16",
+        "assignee_original": "Quallcomm Incorporated",
+        "title": "Unmanned Aerial Vehicle Low-Power Operation",
+        "patent_id": "patent/US20170075360A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170075360A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US8511606B1",
+        "primary_language": "en",
+        "priority_date": "2009-12-09",
+        "publication_date": "2013-08-20",
+        "assignee_original": "The Boeing Company",
+        "title": "Unmanned aerial vehicle base station",
+        "patent_id": "patent/US8511606B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8511606B1%2Fen"
+      },
+      {
+        "publication_number": "SG188691A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-27",
+        "publication_date": "2013-04-30",
+        "assignee_original": "Singapore Tech Aerospace Ltd",
+        "title": "An unmanned aerial vehicle",
+        "patent_id": "patent/SG188691A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSG188691A1%2Fen"
+      },
+      {
+        "publication_number": "US9384668B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-09",
+        "publication_date": "2016-07-05",
+        "assignee_original": "Singularity University",
+        "title": "Transportation using network of unmanned aerial vehicles",
+        "patent_id": "patent/US9384668B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9384668B2%2Fen"
+      },
+      {
+        "publication_number": "US9051043B1",
+        "primary_language": "en",
+        "priority_date": "2012-12-28",
+        "publication_date": "2015-06-09",
+        "assignee_original": "Google Inc.",
+        "title": "Providing emergency medical services using unmanned aerial vehicles",
+        "patent_id": "patent/US9051043B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9051043B1%2Fen"
+      },
+      {
+        "publication_number": "US9561871B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-07",
+        "publication_date": "2017-02-07",
+        "assignee_original": "Deere & Company",
+        "title": "UAV docking system and method",
+        "patent_id": "patent/US9561871B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9561871B2%2Fen"
+      },
+      {
+        "publication_number": "NL2013252B1",
+        "primary_language": "en",
+        "priority_date": "2014-07-24",
+        "publication_date": "2016-09-09",
+        "assignee_original": "Atmos Uav B V",
+        "title": "Aircraft with wing-borne flight mode and hover flight mode.",
+        "patent_id": "patent/NL2013252B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL2013252B1%2Fen"
+      },
+      {
+        "publication_number": "CN104852475B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-14",
+        "publication_date": "2017-12-26",
+        "assignee_original": "\u4e2d\u7535\u79d1\uff08\u5fb7\u9633\u5e7f\u6c49\uff09\u7279\u79cd\u98de\u673a\u7cfb\u7edf\u5de5\u7a0b\u6709\u9650\u516c\u53f8",
+        "title": "A kind of unmanned vehicle wireless charging method and system",
+        "patent_id": "patent/CN104852475B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104852475B%2Fen"
+      },
+      {
+        "publication_number": "KR101564254B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-12",
+        "publication_date": "2015-10-30",
+        "assignee_original": "\ubc30\uc885\uc678",
+        "title": "Wireless charging system for drone",
+        "patent_id": "patent/KR101564254B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101564254B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20180029477A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-28",
+        "publication_date": "2018-02-01",
+        "assignee_original": "Simon Gojcaj",
+        "title": "Solar powered drone",
+        "patent_id": "patent/US20180029477A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180029477A1%2Fen"
+      },
+      {
+        "publication_number": "US20180037333A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-05",
+        "publication_date": "2018-02-08",
+        "assignee_original": "Textron Aviation Inc.",
+        "title": "Hybrid aircraft",
+        "patent_id": "patent/US20180037333A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180037333A1%2Fen"
+      },
+      {
+        "publication_number": "US20180229852A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-02-16",
+        "publication_date": "2018-08-16",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Vehicle and uav refueling and recharging system",
+        "patent_id": "patent/US20180229852A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180229852A1%2Fen"
+      },
+      {
+        "publication_number": "CN108891616A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-30",
+        "publication_date": "2018-11-27",
+        "assignee_original": "\u829c\u6e56\u7ffc\u8baf\u98de\u884c\u667a\u80fd\u88c5\u5907\u6709\u9650\u516c\u53f8",
+        "title": "A kind of unmanned plane form into columns in automatic collision protective device and its application method",
+        "patent_id": "patent/CN108891616A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108891616A%2Fen"
+      },
+      {
+        "publication_number": "US20190281209A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-02",
+        "publication_date": "2019-09-12",
+        "assignee_original": "SZ DJI Technology Co., Ltd.",
+        "title": "Photographing control method, apparatus, and control device",
+        "patent_id": "patent/US20190281209A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190281209A1%2Fen"
+      },
+      {
+        "publication_number": "CN110562448A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-16",
+        "publication_date": "2019-12-13",
+        "assignee_original": "\u5317\u4eac\u7406\u5de5\u5927\u5b66\u73e0\u6d77\u5b66\u9662",
+        "title": "Tailstock type unmanned aerial vehicle",
+        "patent_id": "patent/CN110562448A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110562448A%2Fen"
+      },
+      {
+        "publication_number": "CN110673625A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-07-02",
+        "publication_date": "2020-01-10",
+        "assignee_original": "\u4e2d\u5149\u7535\u667a\u80fd\u673a\u5668\u4eba\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "UAV monitoring system, base station and control method",
+        "patent_id": "patent/CN110673625A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110673625A%2Fen"
+      },
+      {
+        "publication_number": "JP2020021357A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-02",
+        "publication_date": "2020-02-06",
+        "assignee_original": "\u53e4\u91ce\u96fb\u6c17\u682a\u5f0f\u4f1a\u793e",
+        "title": "Marine search system, unmanned vehicle, and unmanned flight method",
+        "patent_id": "patent/JP2020021357A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2020021357A%2Fen"
+      },
+      {
+        "publication_number": "US20200074866A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-31",
+        "publication_date": "2020-03-05",
+        "assignee_original": "International Business Machines Corporation",
+        "title": "Drone flight optimization using drone-to-drone permissioning",
+        "patent_id": "patent/US20200074866A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200074866A1%2Fen"
+      },
+      {
+        "publication_number": "US10705224B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-29",
+        "publication_date": "2020-07-07",
+        "assignee_original": "Aerovironment",
+        "title": "Methods and systems for utilizing dual global positioning system (GPS) antennas in vertical take-off and landing (VTOL) aerial vehicles",
+        "patent_id": "patent/US10705224B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10705224B2%2Fen"
+      },
+      {
+        "publication_number": "RU198460U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-24",
+        "publication_date": "2020-07-10",
+        "assignee_original": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0431\u044e\u0434\u0436\u0435\u0442\u043d\u043e\u0435 \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u0435 \u0432\u044b\u0441\u0448\u0435\u0433\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \"\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u043c\u0435\u043d\u0438 \u0413.\u0420. \u0414\u0435\u0440\u0436\u0430\u0432\u0438\u043d\u0430\", (\u0424\u0413\u0411\u041e\u0423 \u0412\u041e \"\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0438\u043c\u0435\u043d\u0438 \u0413.\u0420. \u0414\u0435\u0440\u0436\u0430\u0432\u0438\u043d\u0430, \u0422\u0413\u0423 \u0438\u043c. \u0413.\u0420. \u0414\u0435\u0440\u0436\u0430\u0432\u0438\u043d\u0430\")",
+        "title": "DEVICE FOR TECHNICAL VISION OF A SMALL UNMANNED AIRCRAFT",
+        "patent_id": "patent/RU198460U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU198460U1%2Fen"
+      },
+      {
+        "publication_number": "CN111699451A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-05-29",
+        "publication_date": "2020-09-22",
+        "assignee_original": "\u6df1\u5733\u5e02\u5927\u7586\u521b\u65b0\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Flight control method and device for vertical take-off and landing unmanned aerial vehicle and vertical take-off and landing unmanned aerial vehicle",
+        "patent_id": "patent/CN111699451A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111699451A%2Fen"
+      },
+      {
+        "publication_number": "USD899344S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-22",
+        "publication_date": "2020-10-20",
+        "assignee_original": "Chong Qing Liang Jiang Aircraft Design Institute, Ltd.",
+        "title": "Unmanned aerial vehicle",
+        "patent_id": "patent/USD899344S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD899344S1%2Fen"
+      },
+      {
+        "publication_number": "CN112278227A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-24",
+        "publication_date": "2021-01-29",
+        "assignee_original": "\u5e7f\u5dde\u6781\u98de\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "aircraft",
+        "patent_id": "patent/CN112278227A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112278227A%2Fen"
+      },
+      {
+        "publication_number": "US10962639B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-11",
+        "publication_date": "2021-03-30",
+        "assignee_original": "Isaac Weissman",
+        "title": "Smallsat surveillance constellation using MIMO radar",
+        "patent_id": "patent/US10962639B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10962639B2%2Fen"
+      },
+      {
+        "publication_number": "US20210107636A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-13",
+        "publication_date": "2021-04-15",
+        "assignee_original": "Doosan Mobility Innovation Inc.",
+        "title": "Multicopter",
+        "patent_id": "patent/US20210107636A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210107636A1%2Fen"
+      },
+      {
+        "publication_number": "US11010607B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-07",
+        "publication_date": "2021-05-18",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Method for controlling unmanned aerial vehicles",
+        "patent_id": "patent/US11010607B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11010607B2%2Fen"
+      },
+      {
+        "publication_number": "US11077643B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-15",
+        "publication_date": "2021-08-03",
+        "assignee_original": "Tarek Maalouf",
+        "title": "Frame material for drones and other unmanned aircraft, and drone frame made from such material",
+        "patent_id": "patent/US11077643B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11077643B1%2Fen"
+      },
+      {
+        "publication_number": "CN113353272A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-26",
+        "publication_date": "2021-09-07",
+        "assignee_original": "\u7ef5\u9633\u5c0f\u5de8\u4eba\u52a8\u529b\u8bbe\u5907\u6709\u9650\u516c\u53f8",
+        "title": "Unmanned aerial vehicle's folding oil tank",
+        "patent_id": "patent/CN113353272A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113353272A%2Fen"
+      },
+      {
+        "publication_number": "WO2021222799A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-30",
+        "publication_date": "2021-11-04",
+        "assignee_original": "Volansi, Inc.",
+        "title": "Modular fixed vtol with line replaceable units",
+        "patent_id": "patent/WO2021222799A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021222799A1%2Fen"
+      },
+      {
+        "publication_number": "US20210343170A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-04",
+        "publication_date": "2021-11-04",
+        "assignee_original": "Auterion AG",
+        "title": "System and method for software-defined drones",
+        "patent_id": "patent/US20210343170A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210343170A1%2Fen"
+      },
+      {
+        "publication_number": "US11195013B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-17",
+        "publication_date": "2021-12-07",
+        "assignee_original": "Wuyi University",
+        "title": "DANet-based drone patrol and inspection system for coastline floating garbage",
+        "patent_id": "patent/US11195013B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11195013B2%2Fen"
+      },
+      {
+        "publication_number": "WO2021242390A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-26",
+        "publication_date": "2022-02-24",
+        "assignee_original": "Jump Aero Incorporated",
+        "title": "Blown flying-wing ctol/vtol tailsitter aircraft",
+        "patent_id": "patent/WO2021242390A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021242390A3%2Fen"
+      },
+      {
+        "publication_number": "US20220177125A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-03",
+        "publication_date": "2022-06-09",
+        "assignee_original": "Saudi Arabian Oil Company",
+        "title": "Mechanism for docking a magnetic crawler into a uav",
+        "patent_id": "patent/US20220177125A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220177125A1%2Fen"
+      },
+      {
+        "publication_number": "US11465776B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-26",
+        "publication_date": "2022-10-11",
+        "assignee_original": "Arizona Board Of Regents On Behalf Of Arizona State University",
+        "title": "Charging system for autonomous drones",
+        "patent_id": "patent/US11465776B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11465776B2%2Fen"
+      },
+      {
+        "publication_number": "US20220339983A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-26",
+        "publication_date": "2022-10-27",
+        "assignee_original": "Aigen, Inc.",
+        "title": "Walking vtol drone and related systems and methods",
+        "patent_id": "patent/US20220339983A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220339983A1%2Fen"
+      },
+      {
+        "publication_number": "EP4082906A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-29",
+        "publication_date": "2022-11-02",
+        "assignee_original": "General Electric Company",
+        "title": "Aircraft with a multi-fan propulsion system for controlling flight orientation transitions",
+        "patent_id": "patent/EP4082906A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4082906A1%2Fen"
+      },
+      {
+        "publication_number": "US11623762B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-17",
+        "publication_date": "2023-04-11",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System and method for actuator monitoring for an electric aircraft",
+        "patent_id": "patent/US11623762B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11623762B1%2Fen"
+      },
+      {
+        "publication_number": "WO2023166221A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-04",
+        "publication_date": "2023-09-07",
+        "assignee_original": "Marss Ventures Ltd",
+        "title": "Re-usable intercept drone, drone engagement system and method therefor",
+        "patent_id": "patent/WO2023166221A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023166221A1%2Fen"
+      },
+      {
+        "publication_number": "CN117163343A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-09-27",
+        "publication_date": "2023-12-05",
+        "assignee_original": "\u4ebf\u822a\u667a\u80fd\u8bbe\u5907\uff08\u5e7f\u5dde\uff09\u6709\u9650\u516c\u53f8",
+        "title": "A kind of lifting and landing auxiliary device for maritime drones",
+        "patent_id": "patent/CN117163343A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117163343A%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "RU228089U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-02-08",
+        "publication_date": "2024-08-15",
+        "assignee_original": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0441 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e \u041a\u0411 \"\u0410\u0422\u0410\u041c\u0410\u041d\u041e\u0412\u0410\" (\u041e\u041e\u041e \u041a\u0411 \"\u0410\u0422\u0410\u041c\u0410\u041d\u041e\u0412\u0410\")",
+        "title": "Frame for small-sized sports and entertainment drone of copter type",
+        "patent_id": "patent/RU228089U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU228089U1%2Fen"
+      },
+      {
+        "publication_number": "EP4421495A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-24",
+        "publication_date": "2024-08-28",
+        "assignee_original": "BAE SYSTEMS plc",
+        "title": "Vehicle sensor system",
+        "patent_id": "patent/EP4421495A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4421495A1%2Fen"
+      },
+      {
+        "publication_number": "US20240367789A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-09",
+        "publication_date": "2024-11-07",
+        "assignee_original": "Arizona Board Of Regents On Behalf Of Arizona State University",
+        "title": "Unmanned aerial vehicle for low-pressure hydrogen transport",
+        "patent_id": "patent/US20240367789A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240367789A1%2Fen"
+      },
+      {
+        "publication_number": "US12291327B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-28",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Cummings Aerospace, Inc.",
+        "title": "Aircraft with modular components",
+        "patent_id": "patent/US12291327B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291327B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "WO2016164416A1",
+        "primary_language": "en",
+        "priority_date": "2015-04-06",
+        "publication_date": "2016-10-13",
+        "assignee_original": "Archon Technologies S.R.L.",
+        "title": "Ground movement system plugin for vertical take off and landing unmanned aerial vehicles",
+        "patent_id": "patent/WO2016164416A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016164416A1%2Fen"
+      },
+      {
+        "publication_number": "CN107924190A",
+        "primary_language": "en",
+        "priority_date": "2015-06-23",
+        "publication_date": "2018-04-17",
+        "assignee_original": "\u963f\u80af\u6280\u672f\u516c\u53f8",
+        "title": "System for autonomous operation of multiple hybrid unmanned aerial vehicles supported by recharging stations to perform services",
+        "patent_id": "patent/CN107924190A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107924190A%2Fen"
+      },
+      {
+        "publication_number": "CA2963662A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-07",
+        "publication_date": "2018-10-07",
+        "assignee_original": "SKyX Limited",
+        "title": "Autonomous flight vehicle capable of fixed wing flight and rotary wing flight",
+        "patent_id": "patent/CA2963662A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2963662A1%2Fen"
+      },
+      {
+        "publication_number": "EP3388338B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-13",
+        "publication_date": "2021-09-29",
+        "assignee_original": "Facebook, Inc.",
+        "title": "Banked yet straight flight",
+        "patent_id": "patent/EP3388338B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3388338B1%2Fen"
+      },
+      {
+        "publication_number": "US10928837B2",
+        "primary_language": "en",
+        "priority_date": "2017-04-13",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Facebook, Inc.",
+        "title": "Banked yet straight flight",
+        "patent_id": "patent/US10928837B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10928837B2%2Fen"
+      },
+      {
+        "publication_number": "CN108058820A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-18",
+        "publication_date": "2018-05-22",
+        "assignee_original": "\u4f5b\u5c71\u5e02\u795e\u98ce\u822a\u7a7a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Can spot hover at a distance quadrotor unmanned plane",
+        "patent_id": "patent/CN108058820A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108058820A%2Fen"
+      },
+      {
+        "publication_number": "KR101867424B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-05",
+        "publication_date": "2018-06-14",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \ud30c\uc6cc\ub9ac\ud37c\ube14\ub9ad",
+        "title": "Wireless power charging apparatus transmitting power wirelessly for drones airborne",
+        "patent_id": "patent/KR101867424B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101867424B1%2Fen"
+      },
+      {
+        "publication_number": "US11453513B2",
+        "primary_language": "en",
+        "priority_date": "2018-04-26",
+        "publication_date": "2022-09-27",
+        "assignee_original": "Skydio, Inc.",
+        "title": "Autonomous aerial vehicle hardware configuration",
+        "patent_id": "patent/US11453513B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11453513B2%2Fen"
+      },
+      {
+        "publication_number": "CN109110120A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-07",
+        "publication_date": "2019-01-01",
+        "assignee_original": "\u4f5b\u5c71\u7696\u548c\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of three rotor wing unmanned aerial vehicle lift systems",
+        "patent_id": "patent/CN109110120A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109110120A%2Fen"
+      },
+      {
+        "publication_number": "DE102019202241A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-02-19",
+        "publication_date": "2020-08-20",
+        "assignee_original": "BEE appliance GmbH",
+        "title": "Method for controlling a multi-rotor aircraft for vertical take-off and landing as well as multi-rotor aircraft",
+        "patent_id": "patent/DE102019202241A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019202241A1%2Fen"
+      },
+      {
+        "publication_number": "US11656632B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-12",
+        "publication_date": "2023-05-23",
+        "assignee_original": "The Boeing Company",
+        "title": "Takeoff/landing stability augmentation by active wind gust sensing",
+        "patent_id": "patent/US11656632B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11656632B2%2Fen"
+      },
+      {
+        "publication_number": "CN111619801A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-05",
+        "publication_date": "2020-09-04",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u957f\u6625\u5149\u5b66\u7cbe\u5bc6\u673a\u68b0\u4e0e\u7269\u7406\u7814\u7a76\u6240",
+        "title": "Multi-shaft tail sitting type unmanned aerial vehicle",
+        "patent_id": "patent/CN111619801A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111619801A%2Fen"
+      },
+      {
+        "publication_number": "CN112783072B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-20",
+        "publication_date": "2022-10-21",
+        "assignee_original": "\u897f\u5b89\u7f9a\u63a7\u7535\u5b50\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electromechanical integrated processing system of general unmanned aerial vehicle",
+        "patent_id": "patent/CN112783072B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112783072B%2Fen"
+      },
+      {
+        "publication_number": "US12370909B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-30",
+        "publication_date": "2025-07-29",
+        "assignee_original": "Rtx Corporation",
+        "title": "Hybrid propulsion control system update module",
+        "patent_id": "patent/US12370909B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12370909B2%2Fen"
+      },
+      {
+        "publication_number": "US12172544B2",
+        "primary_language": "en",
+        "priority_date": "2021-06-29",
+        "publication_date": "2024-12-24",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Methods and systems for optimizing battery recharge management for use with an electric vertical take-off and landing aircraft",
+        "patent_id": "patent/US12172544B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12172544B2%2Fen"
+      },
+      {
+        "publication_number": "US11465529B1",
+        "primary_language": "en",
+        "priority_date": "2021-06-29",
+        "publication_date": "2022-10-11",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Methods and systems for optimizing battery recharge management for use with an electric vertical take-off and landing aircraft",
+        "patent_id": "patent/US11465529B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11465529B1%2Fen"
+      },
+      {
+        "publication_number": "JP2024538164A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-15",
+        "publication_date": "2024-10-18",
+        "assignee_original": "\u30ea\u30a2\u30eb\uff0d\u30bf\u30a4\u30e0 \u30ed\u30dc\u30c6\u30a3\u30af\u30b9 \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9",
+        "title": "Multicopter",
+        "patent_id": "patent/JP2024538164A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024538164A%2Fen"
+      },
+      {
+        "publication_number": "CN114044151B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-08",
+        "publication_date": "2024-08-02",
+        "assignee_original": "\u4e2d\u5c71\u798f\u6606\u822a\u7a7a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Unmanned aerial vehicle power module",
+        "patent_id": "patent/CN114044151B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114044151B%2Fen"
+      },
+      {
+        "publication_number": "US12246610B2",
+        "primary_language": "en",
+        "priority_date": "2022-04-27",
+        "publication_date": "2025-03-11",
+        "assignee_original": "Skydio, Inc.",
+        "title": "Base stations for unmanned aerial vehicles (UAVs)",
+        "patent_id": "patent/US12246610B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12246610B2%2Fen"
+      },
+      {
+        "publication_number": "US12012012B2",
+        "primary_language": "en",
+        "priority_date": "2022-04-28",
+        "publication_date": "2024-06-18",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Assembly for authenticated communication of data during recharge of an electric aircraft",
+        "patent_id": "patent/US12012012B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12012012B2%2Fen"
+      },
+      {
+        "publication_number": "US11639230B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-30",
+        "publication_date": "2023-05-02",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System for an integral hybrid electric aircraft",
+        "patent_id": "patent/US11639230B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11639230B1%2Fen"
+      },
+      {
+        "publication_number": "US12100305B2",
+        "primary_language": "en",
+        "priority_date": "2022-05-24",
+        "publication_date": "2024-09-24",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Apparatus and methods for automated control of an electric vertical takeoff and landing aircraft",
+        "patent_id": "patent/US12100305B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12100305B2%2Fen"
+      },
+      {
+        "publication_number": "US20250282505A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-03-11",
+        "publication_date": "2025-09-11",
+        "assignee_original": "Ideaforge Technology Limited",
+        "title": "Landing gears for aerial vehicle to minimise aerodynamic drag during flight",
+        "patent_id": "patent/US20250282505A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250282505A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "AU2017202701B2",
+      "primary_language": "en",
+      "publication_date": "2022-03-03",
+      "title": "Unmanned Aerial Vehicle (UAV) Having Vertical Takeoff and Landing (VTOL) Capability",
+      "patent_id": "patent/AU2017202701B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2017202701B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12079013B2",
+      "primary_language": "en",
+      "publication_date": "2024-09-03",
+      "title": "Systems and methods for taking, processing, retrieving, and displaying images from unmanned aerial vehicles",
+      "patent_id": "patent/US12079013B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12079013B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12351296B2",
+      "primary_language": "en",
+      "publication_date": "2025-07-08",
+      "title": "Adaptive thrust vector unmanned aerial vehicle",
+      "patent_id": "patent/US12351296B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12351296B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113165732B",
+      "primary_language": "en",
+      "publication_date": "2022-10-28",
+      "title": "Aircraft with enhanced pitch control and interchangeable components",
+      "patent_id": "patent/CN113165732B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113165732B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10611252B2",
+      "primary_language": "en",
+      "publication_date": "2020-04-07",
+      "title": "Systems and methods for UAV battery power backup",
+      "patent_id": "patent/US10611252B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10611252B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190112049A1",
+      "primary_language": "en",
+      "publication_date": "2019-04-18",
+      "title": "Portable launch system",
+      "patent_id": "patent/US20190112049A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190112049A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20170073070A1",
+      "primary_language": "en",
+      "publication_date": "2017-03-16",
+      "title": "Amphibious vertical takeoff and landing unmanned device with artificial intelligence (AI) and method and system for managing a crisis environment and controlling one or more targets",
+      "patent_id": "patent/US20170073070A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170073070A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16567518959648876097",
+      "scholar_authors": "Huh et al.",
+      "publication_date": "2010",
+      "title": "A vision-based automatic landing method for fixed-wing UAVs",
+      "patent_id": "scholar/16567518959648876097",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16567518959648876097"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN1645284A",
+      "primary_language": "en",
+      "publication_date": "2005-07-27",
+      "title": "Power circuit scanning test robot airplane and controlling system",
+      "patent_id": "patent/CN1645284A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1645284A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2019516598A",
+      "primary_language": "en",
+      "publication_date": "2019-06-20",
+      "title": "Data center powered by a hybrid generator system",
+      "patent_id": "patent/JP2019516598A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019516598A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220055736A1",
+      "primary_language": "en",
+      "publication_date": "2022-02-24",
+      "title": "Multi-Function Flap For Aerial Vehicle",
+      "patent_id": "patent/US20220055736A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220055736A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11994876B2",
+      "primary_language": "en",
+      "publication_date": "2024-05-28",
+      "title": "In-flight UAV deployment and retrieval platform",
+      "patent_id": "patent/US11994876B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11994876B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11630467B2",
+      "primary_language": "en",
+      "publication_date": "2023-04-18",
+      "title": "VTOL aircraft having multifocal landing sensors",
+      "patent_id": "patent/US11630467B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11630467B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104316899A",
+      "primary_language": "en",
+      "publication_date": "2015-01-28",
+      "title": "Air radio monitoring intelligent robot",
+      "patent_id": "patent/CN104316899A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104316899A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11667379B1",
+      "primary_language": "en",
+      "publication_date": "2023-06-06",
+      "title": "Systems, apparatus, and methods for airborne data retrieval",
+      "patent_id": "patent/US11667379B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11667379B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4502748A1",
+      "primary_language": "en",
+      "publication_date": "2025-02-05",
+      "title": "Method for carrying out tasks on infrastructure and system of uncrewed vehicles",
+      "patent_id": "patent/EP4502748A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4502748A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11024231686931268718",
+      "scholar_authors": "Johnson et al.",
+      "publication_date": "2002",
+      "title": "Development of an autonomous aerial reconnaissance system at Georgia Tech",
+      "patent_id": "scholar/11024231686931268718",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11024231686931268718"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4897973510871605169",
+      "scholar_authors": "Perez Lebbink",
+      "publication_date": "2008",
+      "title": "UAV mission design for the exploration of Mars-ESA/EUROAVIA Design Workshop 2006",
+      "patent_id": "scholar/4897973510871605169",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4897973510871605169"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1974109666150585294",
+      "scholar_authors": "Yamamoto et al.",
+      "publication_date": "2011",
+      "title": "Research and development of the multifunctional observation and data transfer system for disaster prevention",
+      "patent_id": "scholar/1974109666150585294",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1974109666150585294"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113697106A",
+      "primary_language": "en",
+      "publication_date": "2021-11-26",
+      "title": "Solar unmanned aerial vehicle monitoring method",
+      "patent_id": "patent/CN113697106A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113697106A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12588178360105328662",
+      "scholar_authors": "Wu et al.",
+      "publication_date": "0",
+      "title": "Environment Retrieval with Avian-Inspired Flapping Wing Robot Empowered by Lidar",
+      "patent_id": "scholar/12588178360105328662",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12588178360105328662"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15036023181819618571",
+      "scholar_authors": "Lozano Rocabeyera",
+      "publication_date": "2016",
+      "title": "Study of a feasible solution for a specific mission with an unmanned air vehicle (UAV/RPAS)",
+      "patent_id": "scholar/15036023181819618571",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15036023181819618571"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2016-05-31",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SKYX LIMITED, CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HORN, DAVID;REEL/FRAME:038751/0781"
+        },
+        {
+          "label": "Effective date",
+          "value": "20160404"
+        }
+      ]
+    },
+    {
+      "date": "2018-11-07",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2019-02-19",
+      "code": "CC",
+      "title": "Certificate of correction"
+    },
+    {
+      "date": "2022-07-18",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-24",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "SURCHARGE FOR LATE PAYMENT, SMALL ENTITY (ORIGINAL EVENT CODE: M2554); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-24",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YR, SMALL ENTITY (ORIGINAL EVENT CODE: M2551); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

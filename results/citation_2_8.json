@@ -1,0 +1,1098 @@
+{
+  "search_metadata": {
+    "id": "697a335a28b27b2aaf8149bf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f68be50b7dc6a6a4/697a335a28b27b2aaf8149bf.json",
+    "created_at": "2026-01-28 16:03:38 UTC",
+    "processed_at": "2026-01-28 16:03:38 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20170291618A1/en",
+    "raw_html_file": "https://serpapi.com/searches/f68be50b7dc6a6a4/697a335a28b27b2aaf8149bf.html",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20170291618A1/en"
+  },
+  "title": "Chassis Frame With Spring Cup",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/51/8e/56/8e7d31449419df/US20170291618A1.pdf",
+  "publication_number": "US20170291618A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "chassis frame",
+    "lower chord",
+    "chord",
+    "spring",
+    "longitudinal member"
+  ],
+  "prior_art_date": "2014-09-22",
+  "application_number": "US15/512,787",
+  "inventors": [
+    {
+      "name": "Christian KARNER",
+      "link": "https://patents.google.com/?inventor=Christian+KARNER",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Christian+KARNER"
+    },
+    {
+      "name": "Radovan SEIFRIED",
+      "link": "https://patents.google.com/?inventor=Radovan+SEIFRIED",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Radovan+SEIFRIED"
+    }
+  ],
+  "assignees": [
+    "Siemens Mobility Austria GmbH"
+  ],
+  "priority_date": "2014-09-22",
+  "filing_date": "2015-08-12",
+  "publication_date": "2017-10-12",
+  "worldwide_applications": {
+    "2014": [
+      {
+        "filing_date": "2014-09-22",
+        "country_code": "AT",
+        "application_number": "ATA50665/2014A",
+        "document_id": "patent/AT516364A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Application Discontinuation"
+      }
+    ],
+    "2015": [
+      {
+        "filing_date": "2015-08-12",
+        "country_code": "RU",
+        "application_number": "RU2017109350A",
+        "document_id": "patent/RU2669659C1/en",
+        "legal_status_cat": "active"
+      },
+      {
+        "filing_date": "2015-08-12",
+        "country_code": "US",
+        "application_number": "US15/512,787",
+        "document_id": "patent/US10457298B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2015-08-12",
+        "country_code": "EP",
+        "application_number": "EP15757163.9A",
+        "document_id": "patent/EP3197743A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2015-08-12",
+        "country_code": "WO",
+        "application_number": "PCT/EP2015/068527",
+        "document_id": "patent/WO2016045864A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2015-08-12",
+        "country_code": "CN",
+        "application_number": "CN201580051229.0A",
+        "document_id": "patent/CN107107924B/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2015-08-12",
+      "title": "Application filed by Siemens AG Oesterreich",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Siemens AG Oesterreich"
+    },
+    {
+      "date": "2017-03-20",
+      "title": "Assigned to SIEMENS AG OESTERREICH",
+      "type": "reassignment",
+      "assignee_search": "SIEMENS AG OESTERREICH",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KARNER, Christian, SEIFRIED, RADOVAN"
+      ]
+    },
+    {
+      "date": "2017-10-12",
+      "title": "Publication of US20170291618A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20170291618A1/en"
+    },
+    {
+      "date": "2019-05-14",
+      "title": "Assigned to Siemens Mobility GmbH",
+      "type": "reassignment",
+      "assignee_search": "Siemens Mobility GmbH",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SIEMENS AG OESTERREICH"
+      ]
+    },
+    {
+      "date": "2019-10-29",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2019-10-29",
+      "title": "Publication of US10457298B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10457298B2/en"
+    },
+    {
+      "date": "2019-12-17",
+      "title": "Assigned to SIEMENS MOBILITY AUSTRIA GMBH",
+      "type": "reassignment",
+      "assignee_search": "SIEMENS MOBILITY AUSTRIA GMBH",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: Siemens Mobility GmbH"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2036-05-27",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20170291618.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15512787"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20170291618"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017291618A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15512787/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20170291618"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/28/17/e3/9113bb70ef8ce8/US20170291618A1-20171012-D00000.png",
+    "https://patentimages.storage.googleapis.com/c1/95/89/dd9448bab2019e/US20170291618A1-20171012-D00001.png",
+    "https://patentimages.storage.googleapis.com/d1/35/7e/d2f5785c146100/US20170291618A1-20171012-D00002.png",
+    "https://patentimages.storage.googleapis.com/59/7c/4a/dfcfba7854abcb/US20170291618A1-20171012-D00003.png",
+    "https://patentimages.storage.googleapis.com/95/88/59/f2e26853407ce2/US20170291618A1-20171012-D00004.png"
+  ],
+  "classifications": [
+    {
+      "code": "B61F5/52",
+      "description": "Bogie frames",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61F5/30",
+      "description": "Axle-boxes mounted for movement under spring control in vehicle or bogie underframes",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A chassis frame for a bogie of a rail vehicle which includes at least one longitudinal member having an upper chord and a lower chord, wherein the longitudinal member has at least one end portion, a central portion, and a transition portion lying between the end portion and the central portion, and the end portion of the longitudinal member is formed as a spring cup for receiving a primary spring, where in order to improve the rigidity curve between the spring cup and the transition portion the lower chord is provided with a curvature in the region of the transition portion, where the curvature is formed such that the imaginary extension of the lower chord and the upper chord itself or the imaginary extension of the upper chord intersect in the end portion.",
+  "description_link": "https://serpapi.com/searches/697a335a28b27b2aaf8149bf/google_patents_details/description.html",
+  "claims": [
+    "1-10. (canceled)",
+    "11. A chassis frame for a bogie of a rail vehicle, comprising;\nat least one longitudinal member having an upper chord, a lower chord, at least one end portion, a central portion, and a transition portion lying between the end portion and the central portion, said end portion of the longitudinal member being formed a spring cup for receiving a primary spring suspension; wherein the lower chord has a curvature in a region of the transition portion, which is configured such that an imaginary extension of the lower chord and the upper chord itself or the imaginary extension of the upper chord intersect in the end portion.",
+    "12. The chassis frame as claimed in claim 11, wherein an end of the lower chord and an end of the upper chord enclose an angle which is in a region of 60\u00b0 up to 90\u00b0.",
+    "13. The chassis frame as claimed in claim 11, wherein the longitudinal member has a first cross-section which is box-shaped at least in sections in the transition portion.",
+    "14. The chassis frame as claimed in claim 12, wherein the longitudinal member has a first cross-section which is box-shaped at least in sections in the transition portion.",
+    "15. The chassis frame as claimed in claim 11, wherein the longitudinal member has a first cross-section formed as an I-profile at least in sections in the transition portion.",
+    "16. The chassis frame as claimed in claim 12, wherein the longitudinal member has a first cross-section formed as an I-profile at least in sections in the transition portion.",
+    "17. The chassis frame as claimed in claim 11, wherein the spring cup comprises (i) a spring base for receiving the primary spring suspension and (ii) a jacket for enclosing sections of the primary spring suspension;\nwherein the jacket of the spring cup has at least one continuation which contacts at least in sections with a section of the lower chord having the curvature.",
+    "18. The chassis frame as claimed in claim 17, wherein the lower chord forms the jacket of the spring cup at least in sections.",
+    "19. The chassis frame as claimed in claim 17, wherein the at least one continuation of the spring cup contacts the lower chord in a non-curved section which faces the central portion of the longitudinal member.",
+    "20. The chassis frame as claimed in claim 18, wherein the at least one continuation of the spring cup contacts the lower chord in a non-curved section which faces the central portion of the longitudinal member.",
+    "21. The chassis frame as claimed in claim 17, wherein the upper chord forms the spring base.",
+    "22. The chassis frame as claimed in claim 17, wherein the spring base is a plate-shaped element which is connected at least to the upper chord.",
+    "23. The chassis frame as claimed in claim 22, wherein the spring base has a fork-like connection section for connection to the upper chord and the lower chord.",
+    "24. The chassis frame as claimed in claim 12, wherein the angle is in a region of 70\u00b0 up to 90\u00b0.",
+    "25. The chassis frame as claimed in claim 24, wherein the angle is in a region of 80\u00b0 up to 90\u00b0."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "ATA50665/2014",
+      "filing_date": "2014-09-22"
+    },
+    {
+      "application_number": "ATA50665/2014A",
+      "representative_publication": "AT516364A1",
+      "primary_language": "en",
+      "priority_date": "2014-09-22",
+      "filing_date": "2014-09-22",
+      "title": "Chassis frame with spring pot"
+    },
+    {
+      "application_number": "PCT/EP2015/068527",
+      "representative_publication": "WO2016045864A1",
+      "primary_language": "en",
+      "priority_date": "2014-09-22",
+      "filing_date": "2015-08-12",
+      "title": "Chassis frame with spring cup"
+    }
+  ],
+  "family_id": "54035207",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US762043A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1902-11-01",
+        "publication_date": "1904-06-07",
+        "assignee_original": "Thomas M Gallagher",
+        "title": "Side frame for trucks.",
+        "patent_id": "patent/US762043A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS762043A%2Fen"
+      },
+      {
+        "publication_number": "US860925A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1906-10-22",
+        "publication_date": "1907-07-23",
+        "assignee_original": "Arthur Lipschutz",
+        "title": "Cast-steel side frame for car-trucks.",
+        "patent_id": "patent/US860925A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS860925A%2Fen"
+      },
+      {
+        "publication_number": "WO2013091319A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-23",
+        "publication_date": "2013-06-27",
+        "assignee_original": "\u6d4e\u5357\u8f68\u9053\u4ea4\u901a\u88c5\u5907\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "High speed railway vehicle bogie",
+        "patent_id": "patent/WO2013091319A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013091319A1%2Fen"
+      },
+      {
+        "publication_number": "US9469313B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-21",
+        "publication_date": "2016-10-18",
+        "assignee_original": "Nippon Steel & Sumitomo Metal Corporation",
+        "title": "Bogie frame for railway vehicles",
+        "patent_id": "patent/US9469313B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9469313B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US1617811A",
+        "primary_language": "en",
+        "priority_date": "1925-10-12",
+        "publication_date": "1927-02-15",
+        "assignee_original": "Charles F Huntoon",
+        "title": "Bolster spring seat stop",
+        "patent_id": "patent/US1617811A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS1617811A%2Fen"
+      },
+      {
+        "publication_number": "US3754514A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1971-10-19",
+        "publication_date": "1973-08-28",
+        "assignee_original": "Pullman Inc",
+        "title": "Lateral motion railway car truck",
+        "patent_id": "patent/US3754514A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3754514A%2Fen"
+      },
+      {
+        "publication_number": "US4150627A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-04-03",
+        "publication_date": "1979-04-24",
+        "assignee_original": "Hamilton Neil King Paton",
+        "title": "Self-contained frictionally damped resilient suspension system for railcars",
+        "patent_id": "patent/US4150627A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4150627A%2Fen"
+      },
+      {
+        "publication_number": "GB1509431A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1974-04-03",
+        "publication_date": "1978-05-04",
+        "assignee_original": "Paton H",
+        "title": "Vehicle suspension",
+        "patent_id": "patent/GB1509431A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB1509431A%2Fen"
+      },
+      {
+        "publication_number": "US4111131A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1976-01-19",
+        "publication_date": "1978-09-05",
+        "assignee_original": "Standard Car Truck Company",
+        "title": "Resilient railroad car truck",
+        "patent_id": "patent/US4111131A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4111131A%2Fen"
+      },
+      {
+        "publication_number": "US4351242A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-02-19",
+        "publication_date": "1982-09-28",
+        "assignee_original": "E. I. Du Pont De Nemours And Company",
+        "title": "Railway car truck side frame",
+        "patent_id": "patent/US4351242A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4351242A%2Fen"
+      },
+      {
+        "publication_number": "US5410968A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-10-04",
+        "publication_date": "1995-05-02",
+        "assignee_original": "Amsted Industries Incorporated",
+        "title": "Lightweight fatigue resistant railcar truck sideframe with tapering I-beam construction",
+        "patent_id": "patent/US5410968A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5410968A%2Fen"
+      },
+      {
+        "publication_number": "FR2720362B1",
+        "primary_language": "en",
+        "priority_date": "1994-05-30",
+        "publication_date": "1996-07-05",
+        "assignee_original": "Gec Alsthom Transport Sa",
+        "title": "Bogie chassis.",
+        "patent_id": "patent/FR2720362B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2720362B1%2Fen"
+      },
+      {
+        "publication_number": "US5546869A",
+        "primary_language": "en",
+        "priority_date": "1995-07-13",
+        "publication_date": "1996-08-20",
+        "assignee_original": "Amsted Industries Incorporated",
+        "title": "Lightweight railcar truck sideframe with increased resistance to lateral twisting",
+        "patent_id": "patent/US5546869A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5546869A%2Fen"
+      },
+      {
+        "publication_number": "US6142081A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-07",
+        "publication_date": "2000-11-07",
+        "assignee_original": "Naco, Inc.",
+        "title": "Pedestal rocker seat for providing passive axle steering to a rigid railway truck",
+        "patent_id": "patent/US6142081A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6142081A%2Fen"
+      },
+      {
+        "publication_number": "AT409843B",
+        "primary_language": "en",
+        "priority_date": "2000-04-17",
+        "publication_date": "2002-11-25",
+        "assignee_original": "Siemens Sgp Verkehrstech Gmbh",
+        "title": "CHASSIS FOR A RAIL VEHICLE",
+        "patent_id": "patent/AT409843B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAT409843B%2Fen"
+      },
+      {
+        "publication_number": "RU2280575C2",
+        "primary_language": "en",
+        "priority_date": "2003-12-10",
+        "publication_date": "2006-07-27",
+        "assignee_original": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e\u0435 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \"\u0423\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0412\u041a\u041c\"",
+        "title": "Vehicle bogie",
+        "patent_id": "patent/RU2280575C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2280575C2%2Fen"
+      },
+      {
+        "publication_number": "RU2323843C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-10",
+        "publication_date": "2008-05-10",
+        "assignee_original": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0443\u043d\u0438\u0442\u0430\u0440\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u0435 \"\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u043e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435 \u0423\u0420\u0410\u041b\u0412\u0410\u0413\u041e\u041d\u0417\u0410\u0412\u041e\u0414\" \u0438\u043c. \u0424.\u042d. \u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u043e\u0433\u043e",
+        "title": "Railway carriage sidebar",
+        "patent_id": "patent/RU2323843C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2323843C1%2Fen"
+      },
+      {
+        "publication_number": "WO2008070953A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-15",
+        "publication_date": "2008-06-19",
+        "assignee_original": "National Steel Car Limited",
+        "title": "Truck bolster",
+        "patent_id": "patent/WO2008070953A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008070953A1%2Fen"
+      },
+      {
+        "publication_number": "PL2454139T3",
+        "primary_language": "en",
+        "priority_date": "2009-07-16",
+        "publication_date": "2014-11-28",
+        "assignee_original": "Siemens Ag Oesterreich",
+        "title": "Railway boggie",
+        "patent_id": "patent/PL2454139T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL2454139T3%2Fen"
+      },
+      {
+        "publication_number": "RU2434772C2",
+        "primary_language": "en",
+        "priority_date": "2009-10-08",
+        "publication_date": "2011-11-27",
+        "assignee_original": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u0410\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \"\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0435 \u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0435 \u0414\u043e\u0440\u043e\u0433\u0438\"",
+        "title": "High speed railway vehicle undriven bogie frame",
+        "patent_id": "patent/RU2434772C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2434772C2%2Fen"
+      },
+      {
+        "publication_number": "CN201792866U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-10",
+        "publication_date": "2011-04-13",
+        "assignee_original": "\u5305\u5934\u5317\u65b9\u521b\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Bogie side frame with lifting lugs",
+        "patent_id": "patent/CN201792866U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201792866U%2Fen"
+      },
+      {
+        "publication_number": "CA2902956A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-01",
+        "publication_date": "2014-09-04",
+        "assignee_original": "National Steel Car Limited",
+        "title": "Truck and sideframe therefor",
+        "patent_id": "patent/CA2902956A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2902956A1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Gallagher US 762,043",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Lipschutz US 860,925",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US10207721B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-19",
+        "publication_date": "2019-02-19",
+        "assignee_original": "Siemens Ag \u00d6sterreich",
+        "title": "Bogie frame",
+        "patent_id": "patent/US10207721B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10207721B2%2Fen"
+      },
+      {
+        "publication_number": "US11325624B2",
+        "primary_language": "en",
+        "priority_date": "2020-05-29",
+        "publication_date": "2022-05-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11325624B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11325624B2%2Fen"
+      },
+      {
+        "publication_number": "US11524709B2",
+        "primary_language": "en",
+        "priority_date": "2021-03-12",
+        "publication_date": "2022-12-13",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11524709B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11524709B2%2Fen"
+      },
+      {
+        "publication_number": "US11548542B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-28",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "System and/or method for platooning",
+        "patent_id": "patent/US11548542B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11548542B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102017111190A1",
+        "primary_language": "en",
+        "priority_date": "2017-05-23",
+        "publication_date": "2018-11-29",
+        "assignee_original": "Voith Patent Gmbh",
+        "title": "Bogie for rail vehicle",
+        "patent_id": "patent/DE102017111190A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102017111190A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10457298B2",
+      "primary_language": "en",
+      "publication_date": "2019-10-29",
+      "title": "Chassis frame with spring cup",
+      "patent_id": "patent/US10457298B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10457298B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107532671B",
+      "primary_language": "en",
+      "publication_date": "2019-09-24",
+      "title": "Leaf spring unit and railcar bogie",
+      "patent_id": "patent/CN107532671B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107532671B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20110247520A1",
+      "primary_language": "en",
+      "publication_date": "2011-10-13",
+      "title": "Freight car bogie and freight car",
+      "patent_id": "patent/US20110247520A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110247520A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5227234B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-03",
+      "title": "Body structure for railway vehicles",
+      "patent_id": "patent/JP5227234B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5227234B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9421987B2",
+      "primary_language": "en",
+      "publication_date": "2016-08-23",
+      "title": "Chassis frame for rail vehicles",
+      "patent_id": "patent/US9421987B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9421987B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10532752B2",
+      "primary_language": "en",
+      "publication_date": "2020-01-14",
+      "title": "Chassis frame for a rail vehicle",
+      "patent_id": "patent/US10532752B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10532752B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4275986A1",
+      "primary_language": "en",
+      "publication_date": "2023-11-15",
+      "title": "Frame, bogie, and rail vehicle",
+      "patent_id": "patent/EP4275986A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4275986A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111361592B",
+      "primary_language": "en",
+      "publication_date": "2021-01-05",
+      "title": "Rail vehicle and vehicle body and end underframe thereof",
+      "patent_id": "patent/CN111361592B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111361592B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2016178265A1",
+      "primary_language": "en",
+      "publication_date": "2016-11-10",
+      "title": "Rail vehicle",
+      "patent_id": "patent/WO2016178265A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016178265A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10207721B2",
+      "primary_language": "en",
+      "publication_date": "2019-02-19",
+      "title": "Bogie frame",
+      "patent_id": "patent/US10207721B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10207721B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025092506A1",
+      "primary_language": "en",
+      "publication_date": "2025-05-08",
+      "title": "Car underframe and railway vehicle",
+      "patent_id": "patent/WO2025092506A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025092506A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109969214A",
+      "primary_language": "en",
+      "publication_date": "2019-07-05",
+      "title": "End frame structure for rail vehicle and rail vehicle",
+      "patent_id": "patent/CN109969214A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109969214A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN205255933U",
+      "primary_language": "en",
+      "publication_date": "2016-05-25",
+      "title": "Crossbeam and torsion beam assembly",
+      "patent_id": "patent/CN205255933U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205255933U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9623883B2",
+      "primary_language": "en",
+      "publication_date": "2017-04-18",
+      "title": "Railcar truck",
+      "patent_id": "patent/US9623883B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9623883B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN212529631U",
+      "primary_language": "en",
+      "publication_date": "2021-02-12",
+      "title": "Container car automobile body and container car",
+      "patent_id": "patent/CN212529631U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN212529631U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3079964B1",
+      "primary_language": "en",
+      "publication_date": "2019-02-06",
+      "title": "Bogie and carriage structure for rail vehicle",
+      "patent_id": "patent/EP3079964B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3079964B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN211390970U",
+      "primary_language": "en",
+      "publication_date": "2020-09-01",
+      "title": "Fixing device and new energy automobile battery",
+      "patent_id": "patent/CN211390970U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN211390970U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2014201294B2",
+      "primary_language": "en",
+      "publication_date": "2015-11-19",
+      "title": "Rail wagon",
+      "patent_id": "patent/AU2014201294B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2014201294B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107428346A",
+      "primary_language": "en",
+      "publication_date": "2017-12-01",
+      "title": "Device for the power transmission between the carrier frame and car body of rail vehicle",
+      "patent_id": "patent/CN107428346A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107428346A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2755442C1",
+      "primary_language": "en",
+      "publication_date": "2021-09-16",
+      "title": "Front stop of automatic coupling device",
+      "patent_id": "patent/RU2755442C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2755442C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2757611C1",
+      "primary_language": "en",
+      "publication_date": "2021-10-19",
+      "title": "Front stop of automatic coupling device",
+      "patent_id": "patent/RU2757611C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2757611C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2017178031A",
+      "primary_language": "en",
+      "publication_date": "2017-10-05",
+      "title": "Fitting structure of exterior member for vehicle",
+      "patent_id": "patent/JP2017178031A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017178031A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1205489B",
+      "primary_language": "en",
+      "publication_date": "2018-02-23",
+      "title": "Railway vehicle bogie",
+      "patent_id": "patent/HK1205489B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1205489B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-03-20",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SIEMENS AG OESTERREICH, AUSTRIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KARNER, CHRISTIAN;SEIFRIED, RADOVAN;REEL/FRAME:041647/0871"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170206"
+        }
+      ]
+    },
+    {
+      "date": "2019-03-01",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-14",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SIEMENS MOBILITY GMBH, AUSTRIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:SIEMENS AG OESTERREICH;REEL/FRAME:049178/0989"
+        },
+        {
+          "label": "Effective date",
+          "value": "20190313"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-09",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-17",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-09",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2019-12-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SIEMENS MOBILITY AUSTRIA GMBH, AUSTRIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:SIEMENS MOBILITY GMBH;REEL/FRAME:051322/0650"
+        },
+        {
+          "label": "Effective date",
+          "value": "20191107"
+        }
+      ]
+    },
+    {
+      "date": "2023-03-09",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "230000007704",
+        "name": "transition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 40
+      },
+      {
+        "id": "239000000725",
+        "name": "suspension",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001154",
+        "name": "acute effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005452",
+        "name": "bending",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001747",
+        "name": "exhibiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002349",
+        "name": "favourable effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008092",
+        "name": "positive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000712",
+        "name": "assembly",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000429",
+        "name": "assembly",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006467",
+        "name": "substitution reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

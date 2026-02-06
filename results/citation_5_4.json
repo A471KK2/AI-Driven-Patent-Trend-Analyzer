@@ -1,0 +1,809 @@
+{
+  "search_metadata": {
+    "id": "697a3a7bdc74d0d0a2649b72",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/981153b26e4f0fe6/697a3a7bdc74d0d0a2649b72.json",
+    "created_at": "2026-01-28 16:34:03 UTC",
+    "processed_at": "2026-01-28 16:34:03 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2013010087A1/en",
+    "raw_html_file": "https://serpapi.com/searches/981153b26e4f0fe6/697a3a7bdc74d0d0a2649b72.html",
+    "total_time_taken": 0.59
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2013010087A1/en"
+  },
+  "title": "Poly((lactic-co-glycolic acid)-b-lysine) and process for synthesizing a block copolymer of plga {poly(lactic-co-glycolic acid)} and pll (poly-e-cbz-l-lysine)",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/d1/aa/f5/93652abf9e9401/WO2013010087A1.pdf",
+  "publication_number": "WO2013010087A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "poly",
+    "copolymer",
+    "composition",
+    "lactic",
+    "amino acid"
+  ],
+  "prior_art_date": "2011-07-13",
+  "application_number": "PCT/US2012/046687",
+  "inventors": [
+    {
+      "name": "John Harvey",
+      "link": "https://patents.google.com/?inventor=John+Harvey",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=John+Harvey"
+    },
+    {
+      "name": "Daniel SIEGWART",
+      "link": "https://patents.google.com/?inventor=Daniel+SIEGWART",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Daniel+SIEGWART"
+    },
+    {
+      "name": "Heng Lian HUANG",
+      "link": "https://patents.google.com/?inventor=Heng+Lian+HUANG",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Heng+Lian+HUANG"
+    },
+    {
+      "name": "Brian Hess",
+      "link": "https://patents.google.com/?inventor=Brian+Hess",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Brian+Hess"
+    },
+    {
+      "name": "Francis REYNOLDS",
+      "link": "https://patents.google.com/?inventor=Francis+REYNOLDS",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Francis+REYNOLDS"
+    }
+  ],
+  "assignees": [
+    "InVivo Therapeutics Corp"
+  ],
+  "priority_date": "2011-07-13",
+  "filing_date": "2012-07-13",
+  "publication_date": "2013-01-17",
+  "worldwide_applications": {
+    "2012": [
+      {
+        "filing_date": "2012-07-12",
+        "country_code": "TW",
+        "application_number": "TW101125126A",
+        "document_id": "patent/TW201313263A/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2012-07-13",
+        "country_code": "US",
+        "application_number": "US14/232,525",
+        "document_id": "patent/US10131786B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2012-07-13",
+        "country_code": "JP",
+        "application_number": "JP2014520372A",
+        "document_id": "patent/JP2014520934A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2012-07-13",
+        "country_code": "EP",
+        "application_number": "EP12738696.9A",
+        "document_id": "patent/EP2731982A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2012-07-13",
+        "country_code": "KR",
+        "application_number": "KR1020147003637A",
+        "document_id": "patent/KR20140088511A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2012-07-13",
+        "country_code": "WO",
+        "application_number": "PCT/US2012/046687",
+        "document_id": "patent/WO2013010087A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2012-07-13",
+      "title": "Application filed by InVivo Therapeutics Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "InVivo Therapeutics Corp"
+    },
+    {
+      "date": "2012-07-13",
+      "title": "Priority to JP2014520372A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP2014520934A/en"
+    },
+    {
+      "date": "2012-07-13",
+      "title": "Priority to EP12738696.9A",
+      "type": "priority",
+      "document_id": "patent/EP2731982A1/en"
+    },
+    {
+      "date": "2012-07-13",
+      "title": "Priority to KR1020147003637A",
+      "type": "priority",
+      "document_id": "patent/KR20140088511A/en"
+    },
+    {
+      "date": "2012-07-13",
+      "title": "Priority to US14/232,525",
+      "type": "priority",
+      "document_id": "patent/US10131786B2/en"
+    },
+    {
+      "date": "2013-01-17",
+      "title": "Publication of WO2013010087A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2013010087A1/en"
+    },
+    {
+      "date": "2014-01-13",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2013010087A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTUS2012046687/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2013010087"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2013010087A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "C08L67/08",
+      "description": "Polyesters modified with higher fatty oils or their acids, or with resins or resin acids",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61K47/34",
+      "description": "Macromolecular compounds obtained otherwise than by reactions only involving carbon-to-carbon unsaturated bonds, e.g. polyesters, polyamino acids, polysiloxanes, polyphosphazines, copolymers of polyalkylene glycol or poloxamers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61K47/42",
+      "description": "Proteins; Polypeptides; Degradation products thereof; Derivatives thereof, e.g. albumin, gelatin or zein",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61K47/50",
+      "description": "Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient the non-active ingredient being chemically bound to the active ingredient, e.g. polymer-drug conjugates",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A61P25/00",
+      "description": "Drugs for disorders of the nervous system",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08G63/08",
+      "description": "Lactones or lactides",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08G69/08",
+      "description": "Polyamides derived from amino-carboxylic acids or from polyamines and polycarboxylic acids derived from amino-carboxylic acids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08G69/10",
+      "description": "Alpha-amino-carboxylic acids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08G69/48",
+      "description": "Polymers modified by chemical after-treatment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08G81/00",
+      "description": "Macromolecular compounds obtained by interreacting polymers in the absence of monomers, e.g. block polymers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L101/16",
+      "description": "Compositions of unspecified macromolecular compounds the macromolecular compounds being biodegradable",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/04",
+      "description": "Polyesters derived from hydroxycarboxylic acids, e.g. lactones",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L77/04",
+      "description": "Polyamides derived from alpha-amino carboxylic acids",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2203/02",
+      "description": "Applications for biomedical use",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method of synthesizing block or graft copolymers is provided. The method can include coupling a degradable polymer to a poly(amino acid) and then deprotecting the copolymer if the poly(amino acid) contains protected side chains. Block and graft copolymer compositions are provided. These compositions include PLGA-PLL block copolymers, PLGA-PLL-cbz block copolymers, block copolymers of a polyester with a carboxylic acid end group coupled to a poly(amino acid) with an amine group, and graft copolymers of a polyester with a carboxylic acid end group coupled to a poly(amino acid) with an amine group. The compositions may include therapeutic blends and formulation of block and graft copolymers.",
+  "description_link": "https://serpapi.com/searches/697a3a7bdc74d0d0a2649b72/google_patents_details/description.html",
+  "claims": [
+    "1. A method of synthesizing a block or graft copolymer comprising: coupling a degradable polymer to a poly(amino acid) by combining the degradable polymer, the poly(amino acid), a solvent and a coupling catalyst to form a copolymer solution; and \n       isolating the copolymer by dialysis of the copolymer solution in water to form an isolated copolymer.",
+    "2. The method of claim 1, wherein the degradable polymer has a single carboxylic acid terminal group.",
+    "3. The method of claim 2, wherein the degradable polymer is Poly(lactic-co-glycolic acid) with any weight ratio of lactide to glycolide, lactide to poly lactic acid, lactide to poly glycolic acid, or lactide to Poly(8-caprolactone).",
+    "4. The method of claim 1, wherein the degradable polymer has a single acyl terminal end group.",
+    "5. The method of claim 4, wherein the degradable polymer is poly(lactic-co-glycolic acid) with any weight ratio of lactide to glycolide, lactide to poly lactic acid, lactide to poly glycolic acid, or lactide to Poly(8-caprolactone).",
+    "6. The method of claim 1, wherein the degradable polymer is polyester with a carboxylic acid end group.",
+    "7. The method of claim 1, wherein the poly(amino acid) has an amine terminal end group.",
+    "8. The method of claim 7, wherein the poly(amino acid) is poly(L- lysine) or poly(8-carbobenzoxy-L-lysine).",
+    "9. The method of claim 1, wherein the coupling catalyst is one or more selected from the group consisting of DCC/DMAP, DCC/DMAP/NHS, EDC/DMAP, Pybob, CDMT, and HATU.",
+    "10. The method of claim 1, wherein the coupling catalyst is DCC/DMAP/NHS.",
+    "11. The method of claim 1, wherein the solvent is selected from the group consisting of DMSO, DMF, dichloromethane, and chloroform.",
+    "12. The method of claim 1, wherein the solvent is DMSO.",
+    "13. The method of claim 1, wherein the water in the dialysis includes a mixture of DMSO and ethanol.",
+    "14. The method of claim 1 further comprising drying the isolated copolymer by lyophilization.",
+    "15. The method of claim 1 further comprising deprotecting the copolymer by DCM thin film if the poly (amino acid) contains protected side chains.",
+    "16. The method of claim 1 further comprising deprotecting the copolymer by DCM thin film if the poly (amino acid) contains protected side chains to yield a deprotected copolymer; \n       wherein the method further includes at least one of the coupling catalyst being DCC/DMAP/NHS, the solvent being DMSO, dialysis including a mixture of DMSO and ethanol, or drying the isolated copolymer by lyophillization.",
+    "17. The method of claim 16, wherein the time of deprotecting the copolymer is 30 minutes.",
+    "18. The method of claim 16 further comprising isolating the deprotected copolymer.",
+    "19. The method of claim 18 wherein isolating the deprotected copolymer includes purification by dilution in a solvent followed by washing and precipitation.",
+    "20. A composition comprising the product of the method of claim 1.",
+    "21. A composition comprising the product of the method of claim 15.",
+    "22. A composition comprising the product of the method of claim 16.",
+    "23. A composition comprising a block copolymer of poly(lactic-co-glycolic acid) and poly(8-carbobenzoxy-L- Lysine).",
+    "24. The composition of claim 23 further comprising cells and/or therapeutic agents for therapeutic implantation in the central nervous system or other medically relevant anatomic site.",
+    "25. A composition comprising a block copolymer of Poly(lactic-co-glycolic acid) and Poly (L- Lysine).",
+    "26. The composition of claim 25 further comprising cells and/or therapeutic agents for therapeutic implantation in the central nervous system or other medically relevant anatomic site.",
+    "27. A composition comprising a block copolymer of a polyester with a carboxylic acid end group coupled to a poly(amino acid) with an amine group.",
+    "28. The composition of claim 27 further comprising cells and/or therapeutic agents for therapeutic implantation in the central nervous system or other medically relevant anatomic site.",
+    "29. A composition comprising a graft copolymer of a polyester with a carboxylic acid end group coupled to a poly(amino acid) with an amine group.",
+    "30. A composition comprising a blend of i) poly(lactic-co-glycolic acid), and ii) a block copolymer of poly(lactic-co-glycolic acid) and poly(8-carbobenzoxy- L-lysine).",
+    "31. The composition of claim 30 further comprising at least one of cells or therapeutic agents.",
+    "32. A composition comprising a blend of i) poly(lactic-co-glycolic acid), and ii) a block copolymer of poly(lactic-co-glycolic acid) and poly (L-ly sine).",
+    "33. The composition of claim 32 further comprising at least one of cells or therapeutic agents.",
+    "34. A composition comprising a blend of i) poly(lactic-co-glycolic acid) and, ii) a block copolymer of a polyester with a carboxylic acid end group coupled to a poly (amino acid) with an amine group.",
+    "35. The composition of claim 34 further comprising at least one of cells or therapeutic agents.",
+    "36. A composition comprising a blend of i) poly(lactic-co-glycolic acid) and, ii) a graft copolymer of a polyester with a carboxylic acid end group coupled to a poly (amino acid) with an amine group.",
+    "37. The composition of claim 36 further comprising at least one of cells or therapeutic agents.",
+    "38. A method of treating a patient comprising \n       implanting the composition of any of claims 20\u2014 37 at a medically relevant anatomic site.",
+    "39. The method of claim 38, wherein the medically relevant anatomic site is one selected from the group consisting of the central nervous system, the peripheral nervous system, organs, an intra peritoneal site, and the musculoskeletal system.",
+    "40. The method of claim 39, wherein the medically relevant anatomic site is a site of injury in one selected from the group consisting of the central nervous system, the peripheral nervous system, organs, an intra peritoneal site, and the musculoskeletal system."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP2014520372A",
+      "representative_publication": "JP2014520934A",
+      "primary_language": "en",
+      "priority_date": "2011-07-13",
+      "filing_date": "2012-07-13",
+      "title": "Synthesis of block copolymer of poly ((lactic acid-co-glycolic acid) -b-lysine) and PLGA {poly (lactic acid-co-glycolic acid)} and PLL (poly-\u03b5-Cbz-L-lysine) Method"
+    },
+    {
+      "application_number": "EP12738696.9A",
+      "representative_publication": "EP2731982A1",
+      "primary_language": "en",
+      "priority_date": "2011-07-13",
+      "filing_date": "2012-07-13",
+      "title": "Poly((lactic-co-glycolic acid)-b-lysine) and process for synthesizing a block copolymer of plga {poly(lactic-co-glycolic acid)} and pll (poly-e-cbz-l-lysine)"
+    },
+    {
+      "application_number": "KR1020147003637A",
+      "representative_publication": "KR20140088511A",
+      "primary_language": "en",
+      "priority_date": "2011-07-13",
+      "filing_date": "2012-07-13",
+      "title": "Poly((lactic-co-glycolic acid)-b-lysine) and process for synthesizing a block copolymer of plga (poly(lactic-co-glycolic acid)) and pll (poly-e-cbz-l-lysine)"
+    },
+    {
+      "application_number": "US14/232,525",
+      "representative_publication": "US10131786B2",
+      "primary_language": "en",
+      "priority_date": "2011-07-13",
+      "filing_date": "2012-07-13",
+      "title": "Poly((lactic-co-glycolic acid)-B-lysine) and process for synthesizing a block copolymer of PLGA {poly(lactic-co-glycolic acid)} and PLL (poly-\u03f5-cbz-L-lysine)"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201161507505P",
+      "priority_date": "2011-07-13",
+      "filing_date": "2011-07-13"
+    },
+    {
+      "application_number": "US61/507,505",
+      "filing_date": "2011-07-13"
+    }
+  ],
+  "family_id": "46579347",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "WO2006041613A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-05",
+        "publication_date": "2006-04-20",
+        "assignee_original": "Nanomega Medical Corporation",
+        "title": "Nanoparticles for targeting hepatoma cells",
+        "patent_id": "patent/WO2006041613A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006041613A2%2Fen"
+      },
+      {
+        "publication_number": "US20100001964A1",
+        "primary_language": "en",
+        "priority_date": "2008-07-02",
+        "publication_date": "2010-01-07",
+        "assignee_original": "Transtouch Technology Inc.",
+        "title": "Conductive structure and touch panel using the same",
+        "patent_id": "patent/US20100001964A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100001964A1%2Fen"
+      },
+      {
+        "publication_number": "WO2010008792A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-24",
+        "publication_date": "2010-01-21",
+        "assignee_original": "Yale University",
+        "title": "Nanoparticles for use as synthetic platelets and therapeutic agent delivery vehicles",
+        "patent_id": "patent/WO2010008792A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010008792A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "KR101368736B1",
+        "primary_language": "en",
+        "priority_date": "2008-09-25",
+        "publication_date": "2014-03-05",
+        "assignee_original": "\uc778\ube44\ubcf4 \ud14c\ub77c\ud4e8\ud2f1\uc2a4 \ucf54\ud3ec\ub808\uc774\uc158",
+        "title": "Spinal cord injury, inflammation, and immune-disease: local controlled release of therapeutic agents",
+        "patent_id": "patent/KR101368736B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101368736B1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "JEONG J H ET AL: \"Synthesis and characterization of poly(L-lysine)-g-poly(D,L-lactic-co-glycolic acid) biodegradable micelles\", JOURNAL OF BIOMATERIALS SCIENCE. POLYMER EDITION, VSP, UTRECHT, NL, vol. 14, no. 1, 1 January 2003 (2003-01-01), pages 1 - 11, XP008142878, ISSN: 0920-5063, DOI: 10.1163/15685620360511100",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "LAVIK E ET AL: \"A simple synthetic route to the formation of a block copolymer of poly(lactic-co-glycolic acid) and polylysine for the fabrication of functionalized, degradable structures for biomedical applications\", JOURNAL OF BIOMEDICAL MATERIALS RESEARCH, WILEY, NEW YORK, NY, US, vol. 58, no. 3, 1 January 2001 (2001-01-01), pages 291 - 294, XP002658958, ISSN: 0021-9304, [retrieved on 20010412], DOI: 10.1002/1097-4636(2001)58:3<291::AID-JBM1019>3.0.CO;2-N",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN104231236A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-10",
+        "publication_date": "2014-12-24",
+        "assignee_original": "\u9ed1\u9f99\u6c5f\u5927\u5b66",
+        "title": "Method for utilizing ionic liquid to synthesize lactide and cellulose graft copolymer",
+        "patent_id": "patent/CN104231236A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104231236A%2Fen"
+      },
+      {
+        "publication_number": "WO2014176508A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-26",
+        "publication_date": "2015-01-22",
+        "assignee_original": "Xyleco, Inc.",
+        "title": "Processing biomass to obtain hydroxylcarboxylic acids",
+        "patent_id": "patent/WO2014176508A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014176508A3%2Fen"
+      },
+      {
+        "publication_number": "US10174160B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-26",
+        "publication_date": "2019-01-08",
+        "assignee_original": "Xyleco, Inc.",
+        "title": "Processing hydroxy-carboxylic acids to polymers",
+        "patent_id": "patent/US10174160B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10174160B2%2Fen"
+      },
+      {
+        "publication_number": "WO2021185881A1",
+        "primary_language": "en",
+        "priority_date": "2020-03-17",
+        "publication_date": "2021-09-23",
+        "assignee_original": "Neurobiomat",
+        "title": "Hybrid heterogeneous hydrogel, manufacturing method and use as an in-situ non-degradable filller implant",
+        "patent_id": "patent/WO2021185881A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021185881A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN114020077B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-02",
+        "publication_date": "2022-08-09",
+        "assignee_original": "\u4e0a\u6d77\u7406\u5de5\u5927\u5b66",
+        "title": "Cryoprotectant loading apparatus and method for tissue samples",
+        "patent_id": "patent/CN114020077B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114020077B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "RU2558847C9",
+      "primary_language": "en",
+      "publication_date": "2016-07-20",
+      "title": "Sterilisation of biodegradable hydrogels",
+      "patent_id": "patent/RU2558847C9/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2558847C9%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10131786B2",
+      "primary_language": "en",
+      "publication_date": "2018-11-20",
+      "title": "Poly((lactic-co-glycolic acid)-B-lysine) and process for synthesizing a block copolymer of PLGA {poly(lactic-co-glycolic acid)} and PLL (poly-\u03f5-cbz-L-lysine)",
+      "patent_id": "patent/US10131786B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10131786B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2172323C2",
+      "primary_language": "en",
+      "publication_date": "2001-08-20",
+      "title": "Ionic molecular conjugates of n-acylated derivatives of poly-(2-amino-2-deoxy-d- glucose) and polypeptides",
+      "patent_id": "patent/RU2172323C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2172323C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111819217B",
+      "primary_language": "en",
+      "publication_date": "2021-10-01",
+      "title": "A kind of amphiphilic block copolymer and its preparation method and nanomicelle drug loading system",
+      "patent_id": "patent/CN111819217B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111819217B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7693948B2",
+      "primary_language": "en",
+      "publication_date": "2025-06-17",
+      "title": "\u03b5-Poly-L-lysine-based drug conjugates, intermediates thereof and uses thereof",
+      "patent_id": "patent/JP7693948B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7693948B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20090258079A1",
+      "primary_language": "en",
+      "publication_date": "2009-10-15",
+      "title": "Biocompatible Block Copolymer, Use Thereof and Manufacturing Method Thereof",
+      "patent_id": "patent/US20090258079A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090258079A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9006349B2",
+      "primary_language": "en",
+      "publication_date": "2015-04-14",
+      "title": "Temperature-sensitive polyethylene glycol / polyester block copolymer in which bioactive functional group is introduced into side chain thereof",
+      "patent_id": "patent/US9006349B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9006349B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2014094539A1",
+      "primary_language": "en",
+      "publication_date": "2014-06-26",
+      "title": "Aba-type triblock copolymer based on molecular glue, synthesis therefor, and use thereof",
+      "patent_id": "patent/WO2014094539A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014094539A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1646296683144646159",
+      "scholar_authors": "Yoshida et al.",
+      "publication_date": "2017",
+      "title": "Biodegradable injectable polymer systems exhibiting a longer and controllable duration time of the gel state",
+      "patent_id": "scholar/1646296683144646159",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1646296683144646159"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14157169368955127420",
+      "scholar_authors": "Wang et al.",
+      "publication_date": "2009",
+      "title": "Chitosan-graft poly (p-dioxanone) copolymers: preparation, characterization, and properties",
+      "patent_id": "scholar/14157169368955127420",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14157169368955127420"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101007868B",
+      "primary_language": "en",
+      "publication_date": "2010-06-16",
+      "title": "A kind of preparation method of biodegradable nano-micelle controlled-release preparation",
+      "patent_id": "patent/CN101007868B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101007868B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2016172042A1",
+      "primary_language": "en",
+      "publication_date": "2016-10-27",
+      "title": "Polymer systems and their applications in diagnostics and drug delivery",
+      "patent_id": "patent/WO2016172042A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016172042A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104371098B",
+      "primary_language": "en",
+      "publication_date": "2016-12-28",
+      "title": "Multiple-limb hydrophilic polymer isocyanate derivates",
+      "patent_id": "patent/CN104371098B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104371098B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105920614B",
+      "primary_language": "en",
+      "publication_date": "2019-01-18",
+      "title": "A kind of supramolecular hydrogel drug and gene double carrier material and preparation method thereof",
+      "patent_id": "patent/CN105920614B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105920614B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20080017850A",
+      "primary_language": "en",
+      "publication_date": "2008-02-27",
+      "title": "Temperature Sensitive Sol-Gel Transition Polyethyleneglycol / Polypeptide Block Copolymer, Methods for Making the Same, and Medical Applications thereof",
+      "patent_id": "patent/KR20080017850A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20080017850A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100567397B1",
+      "primary_language": "en",
+      "publication_date": "2006-04-04",
+      "title": "Amphiphilic cyclic phosphazene trimers having temperature sensitivity and biocompatibility, and methods for preparing the same",
+      "patent_id": "patent/KR100567397B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100567397B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101397367B",
+      "primary_language": "en",
+      "publication_date": "2011-06-08",
+      "title": "Collagen molecule fragment grafted aliphatic polyester binary or terpolymer, preparation method and use",
+      "patent_id": "patent/CN101397367B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101397367B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106580920B",
+      "primary_language": "en",
+      "publication_date": "2019-12-06",
+      "title": "Intelligent insulin delivery system with strong salt tolerance and preparation process",
+      "patent_id": "patent/CN106580920B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106580920B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2008120886A",
+      "primary_language": "en",
+      "publication_date": "2008-05-29",
+      "title": "Biodegradable polymer exhibiting temperature-responsive sol-gel transition and method for producing the same",
+      "patent_id": "patent/JP2008120886A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008120886A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101618219A",
+      "primary_language": "en",
+      "publication_date": "2010-01-06",
+      "title": "Anti-tumor predrug by taking novel amphipathic dendritic macromolecules as carriers based on malic acid as branching unit and preparation method thereof",
+      "patent_id": "patent/CN101618219A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101618219A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2000021567A1",
+      "primary_language": "en",
+      "publication_date": "2000-04-20",
+      "title": "Ionic molecular conjugates of n-acylated derivatives of poly(2-amino-2-deoxy-d-glucose) and polypeptides",
+      "patent_id": "patent/WO2000021567A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2000021567A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN117820650A",
+      "primary_language": "en",
+      "publication_date": "2024-04-05",
+      "title": "Copolymer material, preparation method and application",
+      "patent_id": "patent/CN117820650A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117820650A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101495652B1",
+      "primary_language": "en",
+      "publication_date": "2015-02-25",
+      "title": "Core cross-linked polymeric micelle and method of manufacturing the same",
+      "patent_id": "patent/KR101495652B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101495652B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK40035098B",
+      "primary_language": "en",
+      "publication_date": "2022-03-04",
+      "title": "Amphiphilic block copolymer, preparation method thereof and nanomicelle drug-loading system",
+      "patent_id": "patent/HK40035098B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK40035098B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK40035098A",
+      "primary_language": "en",
+      "publication_date": "2021-05-07",
+      "title": "Amphiphilic block copolymer, preparation method thereof and nanomicelle drug-loading system",
+      "patent_id": "patent/HK40035098A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK40035098A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2013-03-13",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "12738696"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-10",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2014520372"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "JP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "date": "2014-01-13",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-12",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "20147003637"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "KR"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "date": "2014-02-12",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2012738696"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        }
+      ]
+    },
+    {
+      "date": "2015-02-27",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "14232525"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "US"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4458 @@
+{
+  "search_metadata": {
+    "id": "697a366e86e9fa2323e2cda5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/72b4d779f88c85e3/697a366e86e9fa2323e2cda5.json",
+    "created_at": "2026-01-28 16:16:46 UTC",
+    "processed_at": "2026-01-28 16:16:46 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US7635404B1/en",
+    "raw_html_file": "https://serpapi.com/searches/72b4d779f88c85e3/697a366e86e9fa2323e2cda5.html",
+    "total_time_taken": 0.78
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US7635404B1/en"
+  },
+  "title": "Fertilizer combination products including fertilizer granules and cellulosic granules carrying pesticides and other active ingredients",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b8/1a/32/12df8d5f395ebb/US7635404.pdf",
+  "publication_number": "US7635404B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "granules",
+    "fertilizer",
+    "combination product",
+    "cellulosic",
+    "fertilizer combination"
+  ],
+  "prior_art_date": "2006-12-05",
+  "application_number": "US11/634,451",
+  "inventors": [
+    {
+      "name": "Milenko Devic",
+      "link": "https://patents.google.com/?inventor=Milenko+Devic",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Milenko+Devic"
+    },
+    {
+      "name": "Paul A. Dongieux, Jr.",
+      "link": "https://patents.google.com/?inventor=Paul+A.+Dongieux%2C+Jr.",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paul+A.+Dongieux%2C+Jr."
+    }
+  ],
+  "assignees": [
+    "Kadant Grantek Inc"
+  ],
+  "priority_date": "2006-12-05",
+  "filing_date": "2006-12-05",
+  "publication_date": "2009-12-22",
+  "worldwide_applications": {
+    "2006": [
+      {
+        "filing_date": "2006-12-05",
+        "country_code": "US",
+        "application_number": "US11/634,451",
+        "document_id": "patent/US7635404B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2009": [
+      {
+        "filing_date": "2009-09-29",
+        "country_code": "US",
+        "application_number": "US12/569,546",
+        "document_id": "patent/US7867947B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2006-12-05",
+      "title": "Application filed by Kadant Grantek Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Kadant Grantek Inc"
+    },
+    {
+      "date": "2006-12-05",
+      "title": "Priority to US11/634,451",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7635404B1/en"
+    },
+    {
+      "date": "2007-03-07",
+      "title": "Assigned to KADANT GRAN TEK INC.",
+      "type": "reassignment",
+      "assignee_search": "KADANT GRAN TEK INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DEVIC, MILENKO, DONGIEUX, JR., PAUL A."
+      ]
+    },
+    {
+      "date": "2007-03-30",
+      "title": "Assigned to KADANT GRANTEK INC.",
+      "type": "reassignment",
+      "assignee_search": "KADANT GRANTEK INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DEVIC, MILENKO, DONGIEUX, PAUL A., JR."
+      ]
+    },
+    {
+      "date": "2009-09-29",
+      "title": "Priority to US12/569,546",
+      "type": "priority",
+      "document_id": "patent/US7867947B1/en"
+    },
+    {
+      "date": "2009-12-22",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2009-12-22",
+      "title": "Publication of US7635404B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7635404B1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2027-12-20",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=7635404.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11634451"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=7635404"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=7635404B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11634451/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US7635404"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01N25/12",
+      "description": "Powders or granules",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C05C9/005",
+      "description": "Post-treatment",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C05G3/20",
+      "description": "Mixtures of one or more fertilisers with additives not having a specially fertilising activity for preventing the fertilisers being reduced to powder; Anti-dusting additives",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C05G3/60",
+      "description": "Biocides or preservatives, e.g. disinfectants, pesticides or herbicides; Pest repellants or attractants",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Blends of fertilizer granules and highly absorbent cellulosic granules carrying one or more pesticidal or other active ingredients that resist the formation of actives dust or segregation of the granules and that ensure even and efficient application of both the fertilizer and the active ingredients.",
+  "description_link": "https://serpapi.com/searches/697a366e86e9fa2323e2cda5/google_patents_details/description.html",
+  "claims": [
+    "1. A fertilizer combination product comprising:\nabout 5 to 90% by weight treated cellulosic granules,\nthe cellulosic granules being treated with an active ingredient; and\nabout 95 to 10% by weight fertilizer granules.",
+    "2. The fertilizer combination product of claim 1 in which the active ingredient is one or more members chosen from the group consisting of herbicides, fungicides, insecticides, wetting agents, microorganisms/micronutrients, biostimulants, root stimulants and industrial and turf related enzymes.",
+    "3. The fertilizer combination product of claim 1 in which the active ingredient is a pesticide.",
+    "4. The fertilizer combination product of claim 1 comprising about 10 to 20% treated cellulosic granules and about 90 to 80% by weight fertilizer granules.",
+    "5. The fertilizer combination product of claim 1 in which the cellulosic granules are derived from pulp or paper sludge.",
+    "6. The fertilizer combination product of claim 1 in which the cellulosic granules are treated with a herbicide chosen from the group consisting of benefin, flumioxazin, dithiopyr, oxadiazon, pendimethalin, penoxsulam, trifluralin and trifluralin/benefin.",
+    "7. The fertilizer combination product of claim 6 in which the herbicide is oxadiazon.",
+    "8. The fertilizer combination product of claim 1 in which the cellulosic granules are treated with an insecticide chosen from the group consisting of bifenthrin, cadusafos, cyfluthrin, chloropyrifor, ethoprop, fipronil, halofenozide, imidacloprid, methoprene, permethrin, phorate, temephos and terbufos.",
+    "9. The fertilizer combination product of claim 8 in which the insecticide is fipronil.",
+    "10. The fertilizer combination product of claim 1 in which the cellulosic granules are treated with a fungicide chosen from the group consisting of azoxystrobin, tebuconazole, or propiconazole.",
+    "11. The fertilizer combination product of claim 10 in which the fungicide is azoxystrobin.",
+    "12. The fertilizer combination product of claim 1 in which the granules have a density of about 30-48 pounds per cubic foot.",
+    "13. The fertilizer combination product of claim 1 in which the cellulosic granules are of a size chosen from the group consisting of 4/8, 4/30, 10/30, 12/20, 16/30, 20/50 and 30/60, and any combination thereof.",
+    "14. The fertilizer combination product of claim 13 in which the cellulosic granules are 10/30 mesh.",
+    "15. The fertilizer combination product of claim 1 in which the fertilizer granules are granular NPK fertilizers ranging in SGN sizes from about 100 to 260 and having densities of about 50 to 60 lb./ft3.",
+    "16. The fertilizer combination product of claim 1 in which the cellulosic granules are treated with from about 0.01 to 25% by weight of active ingredient(s).",
+    "17. The fertilizer combination product of claim 1 in which the fertilizer granules are chosen from the group consisting of urea, potash, sulfur/swelling clay matrices, micronutrient fertilizers, sulfur-coated urea, isobutylidene diurca, ammonium nitrate, ammonium sulfate, ammonium phosphate, triple super phosphate, phosphoric acid, potassium sulphate, potassium nitrate, potassium metaphosphate, potassium chloride, dipotassium carbonate, potassium oxide and combinations thereof."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US12/569,546",
+      "relation_type": "Division",
+      "representative_publication": "US7867947B1",
+      "primary_language": "en",
+      "priority_date": "2006-12-05",
+      "filing_date": "2009-09-29",
+      "title": "Method of making fertilizer combination products including fertilizer granules and cellulosic granules carrying pesticides and other active ingredients"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US11/634,451",
+      "representative_publication": "US7635404B1",
+      "primary_language": "en",
+      "priority_date": "2006-12-05",
+      "filing_date": "2006-12-05",
+      "title": "Fertilizer combination products including fertilizer granules and cellulosic granules carrying pesticides and other active ingredients"
+    },
+    {
+      "application_number": "US12/569,546",
+      "representative_publication": "US7867947B1",
+      "primary_language": "en",
+      "priority_date": "2006-12-05",
+      "filing_date": "2009-09-29",
+      "title": "Method of making fertilizer combination products including fertilizer granules and cellulosic granules carrying pesticides and other active ingredients"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US11/634,451",
+      "representative_publication": "US7635404B1",
+      "primary_language": "en",
+      "priority_date": "2006-12-05",
+      "filing_date": "2006-12-05",
+      "title": "Fertilizer combination products including fertilizer granules and cellulosic granules carrying pesticides and other active ingredients"
+    }
+  ],
+  "family_id": "41427882",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US2004706A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1930-03-04",
+        "publication_date": "1935-06-11",
+        "assignee_original": "Nuske Ferdinand Adolphus",
+        "title": "Process for the production of fertilizer from cellulose materials by bacterial action",
+        "patent_id": "patent/US2004706A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2004706A%2Fen"
+      },
+      {
+        "publication_number": "US2218695A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1938-07-18",
+        "publication_date": "1940-10-22",
+        "assignee_original": "Leatherman Martin",
+        "title": "Process for making synthetic manure",
+        "patent_id": "patent/US2218695A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2218695A%2Fen"
+      },
+      {
+        "publication_number": "US3146087A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1962-01-29",
+        "publication_date": "1964-08-25",
+        "assignee_original": "Allied Chem",
+        "title": "Process for preparing a fertilizer containing water-insoluble nitrogen from ammonia and wood",
+        "patent_id": "patent/US3146087A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3146087A%2Fen"
+      },
+      {
+        "publication_number": "US3533775A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1966-10-21",
+        "publication_date": "1970-10-13",
+        "assignee_original": "Metropolitan Waste Conversion",
+        "title": "Process for aerobically preparing fertilizer from a mixture of municipal waste containing paper with sewage sludge",
+        "patent_id": "patent/US3533775A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3533775A%2Fen"
+      },
+      {
+        "publication_number": "US4343646A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-12-10",
+        "publication_date": "1982-08-10",
+        "assignee_original": "Calspan Corporation",
+        "title": "Method for producing fertilizer from waste paper",
+        "patent_id": "patent/US4343646A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4343646A%2Fen"
+      },
+      {
+        "publication_number": "US4721059A",
+        "primary_language": "en",
+        "priority_date": "1985-03-21",
+        "publication_date": "1988-01-26",
+        "assignee_original": "H. Edward Lowe",
+        "title": "Nonclay catbox filler",
+        "patent_id": "patent/US4721059A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4721059A%2Fen"
+      },
+      {
+        "publication_number": "US4734393A",
+        "primary_language": "en",
+        "priority_date": "1985-06-20",
+        "publication_date": "1988-03-29",
+        "assignee_original": "H. Edward Lowe",
+        "title": "Non-clay oil and grease absorbent",
+        "patent_id": "patent/US4734393A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4734393A%2Fen"
+      },
+      {
+        "publication_number": "US5019564A",
+        "primary_language": "en",
+        "priority_date": "1986-03-31",
+        "publication_date": "1991-05-28",
+        "assignee_original": "Edward Lowe Industries, Inc.",
+        "title": "Non-clay agricultural granule",
+        "patent_id": "patent/US5019564A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5019564A%2Fen"
+      },
+      {
+        "publication_number": "US5401291A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-09-27",
+        "publication_date": "1995-03-28",
+        "assignee_original": "Inoue; Satoshi",
+        "title": "Method for manufacturing of organic fertilizers and device thereof",
+        "patent_id": "patent/US5401291A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5401291A%2Fen"
+      },
+      {
+        "publication_number": "US5730371A",
+        "primary_language": "en",
+        "priority_date": "1992-03-31",
+        "publication_date": "1998-03-24",
+        "assignee_original": "Thermo Fibergen Inc.",
+        "title": "Delumper",
+        "patent_id": "patent/US5730371A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5730371A%2Fen"
+      },
+      {
+        "publication_number": "US5770138A",
+        "primary_language": "en",
+        "priority_date": "1995-03-24",
+        "publication_date": "1998-06-23",
+        "assignee_original": "Thermo Fibergen, Inc.",
+        "title": "Method of making enhanced non-clay granules made from pulp or paper sludge",
+        "patent_id": "patent/US5770138A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5770138A%2Fen"
+      },
+      {
+        "publication_number": "US5843203A",
+        "primary_language": "en",
+        "priority_date": "1996-03-22",
+        "publication_date": "1998-12-01",
+        "assignee_original": "Grantek, Inc.",
+        "title": "Agricultural carrier",
+        "patent_id": "patent/US5843203A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5843203A%2Fen"
+      },
+      {
+        "publication_number": "US6030565A",
+        "primary_language": "en",
+        "priority_date": "1995-08-21",
+        "publication_date": "2000-02-29",
+        "assignee_original": "Green Top Wood Recycling Ltd.",
+        "title": "Method for manufacturing an agglomerate",
+        "patent_id": "patent/US6030565A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6030565A%2Fen"
+      },
+      {
+        "publication_number": "US6231660B1",
+        "primary_language": "en",
+        "priority_date": "1997-12-22",
+        "publication_date": "2001-05-15",
+        "assignee_original": "The National Lime And Stone Co.",
+        "title": "Manufactured granular substrate and method for producing the same",
+        "patent_id": "patent/US6231660B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6231660B1%2Fen"
+      },
+      {
+        "publication_number": "US6383246B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-06",
+        "publication_date": "2002-05-07",
+        "assignee_original": "Nisshin Flour Milling Inc.",
+        "title": "Composting accelerator for plant-derived material",
+        "patent_id": "patent/US6383246B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6383246B1%2Fen"
+      },
+      {
+        "publication_number": "US6613138B2",
+        "primary_language": "en",
+        "priority_date": "1997-12-22",
+        "publication_date": "2003-09-02",
+        "assignee_original": "The National Lime And Stone Co.",
+        "title": "Manufactured granular substrate and method for producing the same",
+        "patent_id": "patent/US6613138B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6613138B2%2Fen"
+      },
+      {
+        "publication_number": "US20030215657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-05-15",
+        "publication_date": "2003-11-20",
+        "assignee_original": "Oms Investments, Inc.",
+        "title": "Triggered start products and processes for the production and use thereof",
+        "patent_id": "patent/US20030215657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030215657A1%2Fen"
+      },
+      {
+        "publication_number": "US20040112297A1",
+        "primary_language": "en",
+        "priority_date": "2002-12-13",
+        "publication_date": "2004-06-17",
+        "assignee_original": "Kobi Rasner",
+        "title": "Non-clumping animal litter and method of making same",
+        "patent_id": "patent/US20040112297A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040112297A1%2Fen"
+      },
+      {
+        "publication_number": "US6808557B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-10-03",
+        "publication_date": "2004-10-26",
+        "assignee_original": "The University Of Alabama",
+        "title": "Cellulose matrix encapsulation and method",
+        "patent_id": "patent/US6808557B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6808557B2%2Fen"
+      },
+      {
+        "publication_number": "US6884756B2",
+        "primary_language": "en",
+        "priority_date": "2001-09-14",
+        "publication_date": "2005-04-26",
+        "assignee_original": "The Andersons Agriservices, Inc.",
+        "title": "Water-dispersible pellets",
+        "patent_id": "patent/US6884756B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6884756B2%2Fen"
+      },
+      {
+        "publication_number": "US20050166652A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-09-30",
+        "publication_date": "2005-08-04",
+        "assignee_original": "Blount David H.",
+        "title": "Urea based fertilizer, fungicide and insecticide",
+        "patent_id": "patent/US20050166652A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050166652A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US3252785A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1964-03-05",
+        "publication_date": "1966-05-24",
+        "assignee_original": "Diamond Alkali Co",
+        "title": "Fertilizer process",
+        "patent_id": "patent/US3252785A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3252785A%2Fen"
+      },
+      {
+        "publication_number": "US7666399B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-13",
+        "publication_date": "2010-02-23",
+        "assignee_original": "The Andersons, Inc.",
+        "title": "Pesticidal fertilizer",
+        "patent_id": "patent/US7666399B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7666399B2%2Fen"
+      },
+      {
+        "publication_number": "US20060252646A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-05",
+        "publication_date": "2006-11-09",
+        "assignee_original": "Arr-Maz Products, L.P.",
+        "title": "Methyl/ethyl ester solutions of pesticides applied to absorbent, particulate substrates and methods of using same",
+        "patent_id": "patent/US20060252646A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060252646A1%2Fen"
+      },
+      {
+        "publication_number": "US20070163316A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-18",
+        "publication_date": "2007-07-19",
+        "assignee_original": "Earthrenew Organics Ltd.",
+        "title": "High organic matter products and related systems for restoring organic matter and nutrients in soil",
+        "patent_id": "patent/US20070163316A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070163316A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080216536A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-13",
+        "publication_date": "2008-09-11",
+        "assignee_original": "The Andersons, Inc.",
+        "title": "Multiple effect plant growth promoting composition mixture",
+        "patent_id": "patent/US20080216536A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080216536A1%2Fen"
+      },
+      {
+        "publication_number": "CN101985410A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-01",
+        "publication_date": "2011-03-16",
+        "assignee_original": "\u90a2\u5fd7\u80dc",
+        "title": "Insecticide disease-resistant fertilizer",
+        "patent_id": "patent/CN101985410A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101985410A%2Fen"
+      },
+      {
+        "publication_number": "ITMI20100817A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-07",
+        "publication_date": "2011-11-08",
+        "assignee_original": "Diachem S P A",
+        "title": "A GRANULAR FUNGICIDE FORMULATION FOR USE WHICH INCLUDES TEBUCONAZOLE AND A FERTILIZING FERTILIZER TO BIOSTIMULANT ACTIVITY.",
+        "patent_id": "patent/ITMI20100817A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITMI20100817A1%2Fen"
+      },
+      {
+        "publication_number": "US20120108429A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-28",
+        "publication_date": "2012-05-03",
+        "assignee_original": "The Andersons, Inc.",
+        "title": "Safened and efficacious weed control particle",
+        "patent_id": "patent/US20120108429A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120108429A1%2Fen"
+      },
+      {
+        "publication_number": "CN102503732A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-24",
+        "publication_date": "2012-06-20",
+        "assignee_original": "\u5c71\u4e1c\u519c\u5927\u80a5\u4e1a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of slow-release compound fertilizer containing active urea humate",
+        "patent_id": "patent/CN102503732A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102503732A%2Fen"
+      },
+      {
+        "publication_number": "WO2012101661A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-28",
+        "publication_date": "2012-08-02",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticide composition comprising sulphur, an acaricide and an agrochemical excipient",
+        "patent_id": "patent/WO2012101661A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012101661A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012101660A1",
+        "primary_language": "en",
+        "priority_date": "2011-01-28",
+        "publication_date": "2012-08-02",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticidal composition comprising sulphur, a fungicide and an agrochemical excipient",
+        "patent_id": "patent/WO2012101660A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012101660A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012101659A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-28",
+        "publication_date": "2012-08-02",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticide composition comprising sulphur, an insecticide and an agrochemical excipient.",
+        "patent_id": "patent/WO2012101659A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012101659A1%2Fen"
+      },
+      {
+        "publication_number": "CN103058766A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-29",
+        "publication_date": "2013-04-24",
+        "assignee_original": "\u5e7f\u4e1c\u4e2d\u8fc5\u519c\u79d1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Weeding fertilizer granules of penoxsulam and preparation method thereof",
+        "patent_id": "patent/CN103058766A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103058766A%2Fen"
+      },
+      {
+        "publication_number": "GB2496389A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-08",
+        "publication_date": "2013-05-15",
+        "assignee_original": "Rotam Agrochem Int Co Ltd",
+        "title": "An insecticidal fertilizer composition",
+        "patent_id": "patent/GB2496389A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2496389A%2Fen"
+      },
+      {
+        "publication_number": "US20130345052A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-03-10",
+        "publication_date": "2013-12-26",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Agrochemical composition comprising zinc,sulphur and a pesticidal active ingredient",
+        "patent_id": "patent/US20130345052A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130345052A1%2Fen"
+      },
+      {
+        "publication_number": "EP2694456A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-06",
+        "publication_date": "2015-04-29",
+        "assignee_original": "Harold E Thompson",
+        "title": "MULTI-PURPOSE LIGNIN-GLUCIDE BINDING SYSTEM",
+        "patent_id": "patent/EP2694456A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2694456A4%2Fen"
+      },
+      {
+        "publication_number": "WO2015044150A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-26",
+        "publication_date": "2015-05-21",
+        "assignee_original": "Basf Agrochemical Products B.V.",
+        "title": "Method for controlling weeds in sugar cane plantations",
+        "patent_id": "patent/WO2015044150A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015044150A3%2Fen"
+      },
+      {
+        "publication_number": "US20150175494A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-19",
+        "publication_date": "2015-06-25",
+        "assignee_original": "Aquasmart Enterprises, Llc",
+        "title": "Persistent, targeted, optimized, soil amendment composition and method",
+        "patent_id": "patent/US20150175494A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150175494A1%2Fen"
+      },
+      {
+        "publication_number": "CN105367312A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-30",
+        "publication_date": "2016-03-02",
+        "assignee_original": "\u90d1\u4e39\u4e39",
+        "title": "Soil pest pesticide",
+        "patent_id": "patent/CN105367312A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105367312A%2Fen"
+      },
+      {
+        "publication_number": "CN105418231A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-04",
+        "publication_date": "2016-03-23",
+        "assignee_original": "\u5e7f\u5fb7\u53bf\u5148\u96e8\u519c\u4e1a\u6709\u9650\u516c\u53f8",
+        "title": "Method for preparing black pine planting fertilizer by using tea seed cakes",
+        "patent_id": "patent/CN105418231A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105418231A%2Fen"
+      },
+      {
+        "publication_number": "US9394209B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-05",
+        "publication_date": "2016-07-19",
+        "assignee_original": "NutriChem Marketing, Inc.",
+        "title": "Alternative method for the manufacture of granulated nutrients",
+        "patent_id": "patent/US9394209B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9394209B2%2Fen"
+      },
+      {
+        "publication_number": "US20160302407A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-09",
+        "publication_date": "2016-10-20",
+        "assignee_original": "Oms Investments, Inc",
+        "title": "Sulfonylurea herbicide-containing substrates and methods of making the same",
+        "patent_id": "patent/US20160302407A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160302407A1%2Fen"
+      },
+      {
+        "publication_number": "US9856415B1",
+        "primary_language": "en",
+        "priority_date": "2007-12-11",
+        "publication_date": "2018-01-02",
+        "assignee_original": "Superior Silica Sands, LLC",
+        "title": "Hydraulic fracture composition and method",
+        "patent_id": "patent/US9856415B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9856415B1%2Fen"
+      },
+      {
+        "publication_number": "US10040990B1",
+        "primary_language": "en",
+        "priority_date": "2007-12-11",
+        "publication_date": "2018-08-07",
+        "assignee_original": "Aquasmart Enterprises, Llc",
+        "title": "Hydraulic fracture composition and method",
+        "patent_id": "patent/US10040990B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10040990B1%2Fen"
+      },
+      {
+        "publication_number": "US10375959B2",
+        "primary_language": "en",
+        "priority_date": "2015-01-22",
+        "publication_date": "2019-08-13",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Ternary herbicidal combination comprising saflufenacil",
+        "patent_id": "patent/US10375959B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10375959B2%2Fen"
+      },
+      {
+        "publication_number": "US10813356B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2020-10-27",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and dimethenamid",
+        "patent_id": "patent/US10813356B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10813356B2%2Fen"
+      },
+      {
+        "publication_number": "US10897898B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2021-01-26",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and acetochlor or pretilachlor",
+        "patent_id": "patent/US10897898B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10897898B2%2Fen"
+      },
+      {
+        "publication_number": "US10920494B2",
+        "primary_language": "en",
+        "priority_date": "2007-12-11",
+        "publication_date": "2021-02-16",
+        "assignee_original": "Aquasmart Enterprises, Llc",
+        "title": "Hydraulic fracture composition and method",
+        "patent_id": "patent/US10920494B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10920494B2%2Fen"
+      },
+      {
+        "publication_number": "US10947447B2",
+        "primary_language": "en",
+        "priority_date": "2007-12-11",
+        "publication_date": "2021-03-16",
+        "assignee_original": "Aquasmart Enterprises, Llc",
+        "title": "Hydraulic fracture composition and method",
+        "patent_id": "patent/US10947447B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10947447B2%2Fen"
+      },
+      {
+        "publication_number": "US10980232B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2021-04-20",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and pyroxasulfone",
+        "patent_id": "patent/US10980232B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10980232B2%2Fen"
+      },
+      {
+        "publication_number": "US11116213B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2021-09-14",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and pethoxamid",
+        "patent_id": "patent/US11116213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11116213B2%2Fen"
+      },
+      {
+        "publication_number": "US11206827B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2021-12-28",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and specific quinolinecarboxylic acids",
+        "patent_id": "patent/US11206827B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11206827B2%2Fen"
+      },
+      {
+        "publication_number": "US11219215B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2022-01-11",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and specific inhibitors of protoporphyrinogen oxidase",
+        "patent_id": "patent/US11219215B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11219215B2%2Fen"
+      },
+      {
+        "publication_number": "US11219212B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2022-01-11",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and imazamox",
+        "patent_id": "patent/US11219212B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11219212B2%2Fen"
+      },
+      {
+        "publication_number": "US11291206B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2022-04-05",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and specific pigment synthesis inhibitors",
+        "patent_id": "patent/US11291206B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11291206B2%2Fen"
+      },
+      {
+        "publication_number": "WO2022229948A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-26",
+        "publication_date": "2022-11-03",
+        "assignee_original": "Luxembourg Industries Ltd.",
+        "title": "Slow release formulations of phosphorous acid and phosphite salts",
+        "patent_id": "patent/WO2022229948A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022229948A1%2Fen"
+      },
+      {
+        "publication_number": "US11517018B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2022-12-06",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Herbicidal composition comprising cinmethylin and saflufenacil",
+        "patent_id": "patent/US11517018B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11517018B2%2Fen"
+      },
+      {
+        "publication_number": "CN117466680A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-18",
+        "publication_date": "2024-01-30",
+        "assignee_original": "\u4e2d\u56fd\u519c\u4e1a\u5927\u5b66",
+        "title": "A fertilizer synergist that both increases particle strength and reduces hygroscopicity and its application",
+        "patent_id": "patent/CN117466680A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117466680A%2Fen"
+      },
+      {
+        "publication_number": "US12336536B2",
+        "primary_language": "en",
+        "priority_date": "2015-07-10",
+        "publication_date": "2025-06-24",
+        "assignee_original": "BASF Agro B.V.",
+        "title": "Method for controlling herbicide resistant or tolerant weeds",
+        "patent_id": "patent/US12336536B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12336536B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN101768887B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-17",
+        "publication_date": "2012-12-26",
+        "assignee_original": "\u5c71\u4e1c\u548c\u6da6\u6d46\u7eb8\u6709\u9650\u516c\u53f8",
+        "title": "Circular utilization method of straw in pulping and papermaking processes",
+        "patent_id": "patent/CN101768887B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101768887B%2Fen"
+      },
+      {
+        "publication_number": "AU2012230753A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-03-24",
+        "publication_date": "2013-10-03",
+        "assignee_original": "Paul Kucera",
+        "title": "Fertilizer composition incorporating fibrous material for enhanced particle integrity",
+        "patent_id": "patent/AU2012230753A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2012230753A1%2Fen"
+      },
+      {
+        "publication_number": "CN102531776B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-23",
+        "publication_date": "2013-11-06",
+        "assignee_original": "\u4e8e\u6c38\u6ce2",
+        "title": "Compound microbial fertilizer and method for producing same",
+        "patent_id": "patent/CN102531776B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102531776B%2Fen"
+      },
+      {
+        "publication_number": "CN102515891A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-09",
+        "publication_date": "2012-06-27",
+        "assignee_original": "\u4fe1\u606f\u4ea7\u4e1a\u7535\u5b50\u7b2c\u5341\u4e00\u8bbe\u8ba1\u7814\u7a76\u9662\u79d1\u6280\u5de5\u7a0b\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Microbial fertilizer containing bacillus subtilis",
+        "patent_id": "patent/CN102515891A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102515891A%2Fen"
+      },
+      {
+        "publication_number": "CN103833452A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-20",
+        "publication_date": "2014-06-04",
+        "assignee_original": "\u9547\u6c5f\u65b0\u533a\u96e8\u6cf0\u9999\u8317\u56ed\u827a\u4e13\u4e1a\u5408\u4f5c\u793e",
+        "title": "Special cultivation matrix for tea trees",
+        "patent_id": "patent/CN103833452A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103833452A%2Fen"
+      },
+      {
+        "publication_number": "US9550703B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-01",
+        "publication_date": "2017-01-24",
+        "assignee_original": "Nous, Llc",
+        "title": "Granulation method and system",
+        "patent_id": "patent/US9550703B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9550703B2%2Fen"
+      },
+      {
+        "publication_number": "US9085496B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-03",
+        "publication_date": "2015-07-21",
+        "assignee_original": "The Dirt Merchant, Inc.",
+        "title": "Organic composition for use with plants",
+        "patent_id": "patent/US9085496B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9085496B2%2Fen"
+      },
+      {
+        "publication_number": "US9850179B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-04",
+        "publication_date": "2017-12-26",
+        "assignee_original": "The Andersons, Inc.",
+        "title": "Granular humate for spray application and process of making same",
+        "patent_id": "patent/US9850179B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9850179B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7867947B1",
+      "primary_language": "en",
+      "publication_date": "2011-01-11",
+      "title": "Method of making fertilizer combination products including fertilizer granules and cellulosic granules carrying pesticides and other active ingredients",
+      "patent_id": "patent/US7867947B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7867947B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU773866B2",
+      "primary_language": "en",
+      "publication_date": "2004-06-10",
+      "title": "Compost granulation method",
+      "patent_id": "patent/AU773866B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU773866B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DK1323692T3",
+      "primary_language": "en",
+      "publication_date": "2014-11-17",
+      "title": "Microgranular FERTILIZER COMPOSITION FOR seeding and transplanting",
+      "patent_id": "patent/DK1323692T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDK1323692T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6209259B1",
+      "primary_language": "en",
+      "publication_date": "2001-04-03",
+      "title": "Seeding treatments",
+      "patent_id": "patent/US6209259B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6209259B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101002884B1",
+      "primary_language": "en",
+      "publication_date": "2010-12-21",
+      "title": "Slow Release Nitrogen Fertilizer",
+      "patent_id": "patent/KR101002884B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101002884B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101442988B",
+      "primary_language": "en",
+      "publication_date": "2015-03-25",
+      "title": "Granular formulation",
+      "patent_id": "patent/CN101442988B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101442988B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2839535C",
+      "primary_language": "en",
+      "publication_date": "2021-05-25",
+      "title": "Coated seeds",
+      "patent_id": "patent/CA2839535C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2839535C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2003206531A1",
+      "primary_language": "en",
+      "publication_date": "2003-09-09",
+      "title": "Application methods for fine powders and uses thereof",
+      "patent_id": "patent/AU2003206531A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2003206531A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "MX2008000772A",
+      "primary_language": "en",
+      "publication_date": "2008-03-06",
+      "title": "Granular turf safe mesotrione compositions.",
+      "patent_id": "patent/MX2008000772A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX2008000772A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20060003893A1",
+      "primary_language": "en",
+      "publication_date": "2006-01-05",
+      "title": "Controlled release fertilizers employing ureaform compounds and processes for making same",
+      "patent_id": "patent/US20060003893A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060003893A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0575838B1",
+      "primary_language": "en",
+      "publication_date": "1996-05-22",
+      "title": "Pesticidal granular compositions and processes for making the same",
+      "patent_id": "patent/EP0575838B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0575838B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8474183B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-02",
+      "title": "Colored or fragranced horticultural/agricultural products",
+      "patent_id": "patent/US8474183B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8474183B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "NO180440B",
+      "primary_language": "en",
+      "publication_date": "1997-01-13",
+      "title": "Granular, slow-release fertilizer mixture and process for preparing the fertilizer mixture",
+      "patent_id": "patent/NO180440B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNO180440B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "MX2010011223A",
+      "primary_language": "en",
+      "publication_date": "2010-12-21",
+      "title": "Granular pesticide composition and method of producing the same.",
+      "patent_id": "patent/MX2010011223A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX2010011223A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20050220885A1",
+      "primary_language": "en",
+      "publication_date": "2005-10-06",
+      "title": "Manufacture of strong, lightweight carrier granules",
+      "patent_id": "patent/US20050220885A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050220885A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20180124995A1",
+      "primary_language": "en",
+      "publication_date": "2018-05-10",
+      "title": "Superabsorbent Polymer Seed Coating Compositions",
+      "patent_id": "patent/US20180124995A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180124995A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3149953A",
+      "primary_language": "en",
+      "publication_date": "1964-09-22",
+      "title": "Granular herbicidal triazine compositions",
+      "patent_id": "patent/US3149953A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3149953A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20140318005A1",
+      "primary_language": "en",
+      "publication_date": "2014-10-30",
+      "title": "Colored or fragranced horticultural/agricultural products",
+      "patent_id": "patent/US20140318005A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140318005A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5272244B2",
+      "primary_language": "en",
+      "publication_date": "2013-08-28",
+      "title": "Pesticide granular composition and method for producing the same",
+      "patent_id": "patent/JP5272244B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5272244B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000004670A",
+      "primary_language": "en",
+      "publication_date": "2000-01-11",
+      "title": "Granular phosphoric acid medium and material for fertilizing seedling containers using the same",
+      "patent_id": "patent/JP2000004670A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000004670A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2020244434A1",
+      "primary_language": "en",
+      "publication_date": "2021-07-08",
+      "title": "Granular Pesticide Composition for Turf and Forestry and Method",
+      "patent_id": "patent/AU2020244434A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2020244434A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2001340017A",
+      "primary_language": "en",
+      "publication_date": "2001-12-11",
+      "title": "Granular medium, seedling container fertilizer material using the same, and crop cultivation method",
+      "patent_id": "patent/JP2001340017A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001340017A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002226287A",
+      "primary_language": "en",
+      "publication_date": "2002-08-14",
+      "title": "Highly water-absorbent resin-coated bioactive granules and method for producing the same",
+      "patent_id": "patent/JP2002226287A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002226287A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2000224917A",
+      "primary_language": "en",
+      "publication_date": "2000-08-15",
+      "title": "Culture medium and crop cultivation method",
+      "patent_id": "patent/JP2000224917A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000224917A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2005077141A1",
+      "primary_language": "en",
+      "publication_date": "2005-08-25",
+      "title": "Preplant seed treatment method",
+      "patent_id": "patent/WO2005077141A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005077141A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2007-03-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "KADANT GRAN TEK INC., WISCONSIN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DEVIC, MILENKO;DONGIEUX, JR., PAUL A.;REEL/FRAME:018971/0377"
+        },
+        {
+          "label": "Effective date",
+          "value": "20061204"
+        }
+      ]
+    },
+    {
+      "date": "2007-03-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "KADANT GRANTEK INC., WISCONSIN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DEVIC, MILENKO;DONGIEUX, PAUL A., JR.;REEL/FRAME:019221/0325"
+        },
+        {
+          "label": "Effective date",
+          "value": "20061204"
+        }
+      ]
+    },
+    {
+      "date": "2009-12-02",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2013-03-13",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2015-12-05",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2017-06-22",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2021-06-22",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000008187",
+        "name": "granular material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 152
+      },
+      {
+        "id": "239000003337",
+        "name": "fertilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 103
+      },
+      {
+        "id": "239000004480",
+        "name": "active ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "239000000575",
+        "name": "pesticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000013066",
+        "name": "combination product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "229940127555",
+        "name": "combination product",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "239000010802",
+        "name": "sludge",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "239000004009",
+        "name": "herbicide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000005588",
+        "name": "Oxadiazon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "CHNUNORXWHYHNE-UHFFFAOYSA-N",
+        "name": "Oxadiazon",
+        "domain": "Chemical compound",
+        "smiles": "C1=C(Cl)C(OC(C)C)=CC(N2C(OC(=N2)C(C)(C)C)=O)=C1Cl",
+        "inchi_key": "CHNUNORXWHYHNE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+        "name": "Sulfur",
+        "domain": "Chemical compound",
+        "smiles": "[S]",
+        "inchi_key": "NINIDFKCEFEMDL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000002363",
+        "name": "herbicidal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000000417",
+        "name": "fungicide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000002917",
+        "name": "insecticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000011593",
+        "name": "sulfur",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229910052717",
+        "name": "sulfur",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "name": "Phosphoric acid",
+        "domain": "Chemical compound",
+        "smiles": "OP(O)(O)=O",
+        "inchi_key": "NBIIXXVUZAFLBC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000004927",
+        "name": "clay",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "BWHMMNNQKKPAPP-UHFFFAOYSA-L",
+        "name": "potassium carbonate",
+        "domain": "Substances",
+        "smiles": "[K+].[K+].[O-]C([O-])=O",
+        "inchi_key": "BWHMMNNQKKPAPP-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "WCUXLLCKKVVCTQ-UHFFFAOYSA-M",
+        "name": "Potassium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-].[K+]",
+        "inchi_key": "WCUXLLCKKVVCTQ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "XSQUKJJJFZCRTK-UHFFFAOYSA-N",
+        "name": "Urea",
+        "domain": "Chemical compound",
+        "smiles": "NC(N)=O",
+        "inchi_key": "XSQUKJJJFZCRTK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004202",
+        "name": "carbamide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+        "name": "5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-1H-pyrazole-3-carbonitrile",
+        "domain": "Chemical compound",
+        "smiles": "NC1=C(S(=O)C(F)(F)F)C(C#N)=NN1C1=C(Cl)C=C(C(F)(F)F)C=C1Cl",
+        "inchi_key": "ZOCSXAVNDGMNBV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000005730",
+        "name": "Azoxystrobin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000005899",
+        "name": "Fipronil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "WFDXOXNFNRHQEC-GHRIWEEISA-N",
+        "name": "azoxystrobin",
+        "domain": "Chemical compound",
+        "smiles": "CO\\C=C(\\C(=O)OC)C1=CC=CC=C1OC1=CC(OC=2C(=CC=CC=2)C#N)=NC=N1",
+        "inchi_key": "WFDXOXNFNRHQEC-GHRIWEEISA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "SMDHCQAYESWHAE-UHFFFAOYSA-N",
+        "name": "benfluralin",
+        "domain": "Chemical compound",
+        "smiles": "CCCCN(CC)C1=C([N+]([O-])=O)C=C(C(F)(F)F)C=C1[N+]([O-])=O",
+        "inchi_key": "SMDHCQAYESWHAE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229940013764",
+        "name": "fipronil",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011785",
+        "name": "micronutrient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000013369",
+        "name": "micronutrients",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000015320",
+        "name": "potassium carbonate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "FGIUAXJPYTZDNR-UHFFFAOYSA-N",
+        "name": "potassium nitrate",
+        "domain": "Chemical compound",
+        "smiles": "[K+].[O-][N+]([O-])=O",
+        "inchi_key": "FGIUAXJPYTZDNR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008961",
+        "name": "swelling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "XLNZEKHULJKQBA-UHFFFAOYSA-N",
+        "name": "terbufos",
+        "domain": "Chemical compound",
+        "smiles": "CCOP(=S)(OCC)SCSC(C)(C)C",
+        "inchi_key": "XLNZEKHULJKQBA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "ZSDSQXJSNMTJDA-UHFFFAOYSA-N",
+        "name": "trifluralin",
+        "domain": "Chemical compound",
+        "smiles": "CCCN(CCC)C1=C([N+]([O-])=O)C=C(C(F)(F)F)C=C1[N+]([O-])=O",
+        "inchi_key": "ZSDSQXJSNMTJDA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910000147",
+        "name": "aluminium phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000855",
+        "name": "fungicidal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000001103",
+        "name": "potassium chloride",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000011164",
+        "name": "potassium chloride",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000080",
+        "name": "wetting agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "PXMNMQRDXWABCY-UHFFFAOYSA-N",
+        "name": "1-(4-chlorophenyl)-4,4-dimethyl-3-(1H-1,2,4-triazol-1-ylmethyl)pentan-3-ol",
+        "domain": "Chemical compound",
+        "smiles": "C1=NC=NN1CC(O)(C(C)(C)C)CCC1=CC=C(Cl)C=C1",
+        "inchi_key": "PXMNMQRDXWABCY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "NFGXHKASABOEEW-UHFFFAOYSA-N",
+        "name": "1-methylethyl 11-methoxy-3,7,11-trimethyl-2,4-dodecadienoate",
+        "domain": "Chemical compound",
+        "smiles": "COC(C)(C)CCCC(C)CC=CC(C)=CC(=O)OC(C)C",
+        "inchi_key": "NFGXHKASABOEEW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "PAWQVTBBRAZDMG-UHFFFAOYSA-N",
+        "name": "2-(3-bromo-2-fluorophenyl)acetic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CC1=CC=CC(Br)=C1F",
+        "inchi_key": "PAWQVTBBRAZDMG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004254",
+        "name": "Ammonium phosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005874",
+        "name": "Bifenthrin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YUBJPYNSGLJZPQ-UHFFFAOYSA-N",
+        "name": "Dithiopyr",
+        "domain": "Chemical compound",
+        "smiles": "CSC(=O)C1=C(C(F)F)N=C(C(F)(F)F)C(C(=O)SC)=C1CC(C)C",
+        "inchi_key": "YUBJPYNSGLJZPQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "102000004190",
+        "name": "Enzymes",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "108090000790",
+        "name": "Enzymes",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005906",
+        "name": "Imidacloprid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005591",
+        "name": "Pendimethalin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005592",
+        "name": "Penoxsulam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "SYJGKVOENHZYMQ-UHFFFAOYSA-N",
+        "name": "Penoxsulam",
+        "domain": "Chemical compound",
+        "smiles": "N1=C2C(OC)=CN=C(OC)N2N=C1NS(=O)(=O)C1=C(OCC(F)F)C=CC=C1C(F)(F)F",
+        "inchi_key": "SYJGKVOENHZYMQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KWYUFKZDYYNOTN-UHFFFAOYSA-M",
+        "name": "Potassium hydroxide",
+        "domain": "Chemical compound",
+        "smiles": "[OH-].[K+]",
+        "inchi_key": "KWYUFKZDYYNOTN-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005822",
+        "name": "Propiconazole",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005839",
+        "name": "Tebuconazole",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QFHMNFAUXJAINK-UHFFFAOYSA-N",
+        "name": "[1-(carbamoylamino)-2-methylpropyl]urea",
+        "domain": "Chemical group",
+        "smiles": "NC(=O)NC(C(C)C)NC(N)=O",
+        "inchi_key": "QFHMNFAUXJAINK-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000148",
+        "name": "ammonium phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000019289",
+        "name": "ammonium phosphates",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BFNBIHQBYMNNAN-UHFFFAOYSA-N",
+        "name": "ammonium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "N.N.OS(O)(=O)=O",
+        "inchi_key": "BFNBIHQBYMNNAN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052921",
+        "name": "ammonium sulfate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000011130",
+        "name": "ammonium sulphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OMFRMAHOUUJSGP-IRHGGOMRSA-N",
+        "name": "bifenthrin",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C(C=2C=CC=CC=2)C(C)=C1COC(=O)[C@@H]1[C@H](\\C=C(/Cl)C(F)(F)F)C1(C)C",
+        "inchi_key": "OMFRMAHOUUJSGP-IRHGGOMRSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "KXRPCFINVWWFHQ-UHFFFAOYSA-N",
+        "name": "cadusafos",
+        "domain": "Chemical compound",
+        "smiles": "CCC(C)SP(=O)(OCC)SC(C)CC",
+        "inchi_key": "KXRPCFINVWWFHQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YYRMJZQKEFZXMX-UHFFFAOYSA-N",
+        "name": "calcium;phosphoric acid",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].OP(O)(O)=O.OP(O)(O)=O",
+        "inchi_key": "YYRMJZQKEFZXMX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "-1",
+        "name": "chloropyrifor",
+        "domain": "Chemical compound",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960001591",
+        "name": "cyfluthrin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QQODLKZGRKWIFG-QSFXBCCZSA-N",
+        "name": "cyfluthrin",
+        "domain": "Chemical compound",
+        "smiles": "CC1(C)[C@@H](C=C(Cl)Cl)[C@H]1C(=O)O[C@@H](C#N)C1=CC=C(F)C(OC=2C=CC=CC=2)=C1",
+        "inchi_key": "QQODLKZGRKWIFG-QSFXBCCZSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "MNNHAPBLZZVQHP-UHFFFAOYSA-N",
+        "name": "diammonium hydrogen phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[NH4+].[NH4+].OP([O-])([O-])=O",
+        "inchi_key": "MNNHAPBLZZVQHP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VJYFKVYYMZPMAB-UHFFFAOYSA-N",
+        "name": "ethoprophos",
+        "domain": "Chemical compound",
+        "smiles": "CCCSP(=O)(OCC)SCCC",
+        "inchi_key": "VJYFKVYYMZPMAB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "FOUWCSDKDDHKQP-UHFFFAOYSA-N",
+        "name": "flumioxazin",
+        "domain": "Chemical compound",
+        "smiles": "FC1=CC=2OCC(=O)N(CC#C)C=2C=C1N(C1=O)C(=O)C2=C1CCCC2",
+        "inchi_key": "FOUWCSDKDDHKQP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CNKHSLKYRMDDNQ-UHFFFAOYSA-N",
+        "name": "halofenozide",
+        "domain": "Chemical compound",
+        "smiles": "C=1C=CC=CC=1C(=O)N(C(C)(C)C)NC(=O)C1=CC=C(Cl)C=C1",
+        "inchi_key": "CNKHSLKYRMDDNQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "YWTYJOPNNQFBPC-UHFFFAOYSA-N",
+        "name": "imidacloprid",
+        "domain": "Chemical compound",
+        "smiles": "[O-][N+](=O)\\N=C1/NCCN1CC1=CC=C(Cl)N=C1",
+        "inchi_key": "YWTYJOPNNQFBPC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940056881",
+        "name": "imidacloprid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229950003442",
+        "name": "methoprene",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229930002897",
+        "name": "methoprene",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "244000005700",
+        "name": "microbiome",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CHIFOSRWCNZCFN-UHFFFAOYSA-N",
+        "name": "pendimethalin",
+        "domain": "Chemical compound",
+        "smiles": "CCC(CC)NC1=C([N+]([O-])=O)C=C(C)C(C)=C1[N+]([O-])=O",
+        "inchi_key": "CHIFOSRWCNZCFN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RLLPVAHGXHCWKJ-UHFFFAOYSA-N",
+        "name": "permethrin",
+        "domain": "Chemical compound",
+        "smiles": "CC1(C)C(C=C(Cl)Cl)C1C(=O)OCC1=CC=CC(OC=2C=CC=CC=2)=C1",
+        "inchi_key": "RLLPVAHGXHCWKJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229960000490",
+        "name": "permethrin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BULVZWIRKLYCBC-UHFFFAOYSA-N",
+        "name": "phorate",
+        "domain": "Chemical compound",
+        "smiles": "CCOP(=S)(OCC)SCSCC",
+        "inchi_key": "BULVZWIRKLYCBC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000011007",
+        "name": "phosphoric acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940072033",
+        "name": "potash",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OQZCJRJRGMMSGK-UHFFFAOYSA-M",
+        "name": "potassium metaphosphate",
+        "domain": "Chemical compound",
+        "smiles": "[K+].[O-]P(=O)=O",
+        "inchi_key": "OQZCJRJRGMMSGK-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940099402",
+        "name": "potassium metaphosphate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004323",
+        "name": "potassium nitrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010333",
+        "name": "potassium nitrate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CHWRSCGUEQEHOH-UHFFFAOYSA-N",
+        "name": "potassium oxide",
+        "domain": "Chemical compound",
+        "smiles": "[O-2].[K+].[K+]",
+        "inchi_key": "CHWRSCGUEQEHOH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910001950",
+        "name": "potassium oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "OTYBMLCTZGSZBG-UHFFFAOYSA-L",
+        "name": "potassium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[K+].[K+].[O-]S([O-])(=O)=O",
+        "inchi_key": "OTYBMLCTZGSZBG-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052939",
+        "name": "potassium sulfate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000001120",
+        "name": "potassium sulphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000011151",
+        "name": "potassium sulphates",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "STJLVHWMYQXCPB-UHFFFAOYSA-N",
+        "name": "propiconazole",
+        "domain": "Chemical compound",
+        "smiles": "O1C(CCC)COC1(C=1C(=CC(Cl)=CC=1)Cl)CN1N=CN=C1",
+        "inchi_key": "STJLVHWMYQXCPB-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000021",
+        "name": "stimulant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002426",
+        "name": "superphosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WWJZWCUNLNYYAU-UHFFFAOYSA-N",
+        "name": "temephos",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC(OP(=S)(OC)OC)=CC=C1SC1=CC=C(OP(=S)(OC)OC)C=C1",
+        "inchi_key": "WWJZWCUNLNYYAU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "238000005204",
+        "name": "segregation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "239000000428",
+        "name": "dust",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000002745",
+        "name": "absorbent",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000002250",
+        "name": "absorbent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000361",
+        "name": "pesticidal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000523",
+        "name": "sample",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 49
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 32
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "241000196324",
+        "name": "Embryophyta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "RUPBZQFQVRMKDG-UHFFFAOYSA-M",
+        "name": "Didecyldimethylammonium chloride",
+        "domain": "Chemical compound",
+        "smiles": "[Cl-].CCCCCCCCCC[N+](C)(C)CCCCCCCCCC",
+        "inchi_key": "RUPBZQFQVRMKDG-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000000969",
+        "name": "carrier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000001035",
+        "name": "drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000005096",
+        "name": "rolling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000002689",
+        "name": "soil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "name": "Atomic nitrogen",
+        "domain": "Chemical compound",
+        "smiles": "N#N",
+        "inchi_key": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "QAOWNCQODCNURD-UHFFFAOYSA-L",
+        "name": "Sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]S([O-])(=O)=O",
+        "inchi_key": "QAOWNCQODCNURD-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000010419",
+        "name": "fine particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000013312",
+        "name": "flour",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000004816",
+        "name": "latex",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000126",
+        "name": "latex",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003921",
+        "name": "oil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "231100000674",
+        "name": "Phytotoxicity",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005054",
+        "name": "agglomeration",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002776",
+        "name": "aggregation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013019",
+        "name": "agitation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010410",
+        "name": "dusting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000012054",
+        "name": "meals",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005507",
+        "name": "spraying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007858",
+        "name": "starting material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000005995",
+        "name": "Aluminium silicate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+        "name": "Ammonia",
+        "domain": "Chemical compound",
+        "smiles": "N",
+        "inchi_key": "QGZKDVFQNNGYKY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000016068",
+        "name": "Berberis vulgaris",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000335053",
+        "name": "Beta vulgaris",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "name": "Calcium carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Ca+2].[O-]C([O-])=O",
+        "inchi_key": "VTYYLEPIZMXCLO-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "244000025254",
+        "name": "Cannabis sativa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241001465754",
+        "name": "Metazoa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CDBYLPFSWZWCQE-UHFFFAOYSA-L",
+        "name": "Sodium Carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].[O-]C([O-])=O",
+        "inchi_key": "CDBYLPFSWZWCQE-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QAOWNCQODCNURD-UHFFFAOYSA-N",
+        "name": "Sulfuric acid",
+        "domain": "Chemical compound",
+        "smiles": "OS(O)(=O)=O",
+        "inchi_key": "QAOWNCQODCNURD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LSNNMFCWUKXFEE-UHFFFAOYSA-N",
+        "name": "Sulfurous acid",
+        "domain": "Chemical compound",
+        "smiles": "OS(O)=O",
+        "inchi_key": "LSNNMFCWUKXFEE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "name": "Titan oxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Ti]=O",
+        "inchi_key": "GWEVSGVZZGPLCZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000209140",
+        "name": "Triticum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000021307",
+        "name": "Triticum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000607479",
+        "name": "Yersinia pestis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002671",
+        "name": "adjuvant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000012211",
+        "name": "aluminium silicate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "name": "barium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[Ba+2].[O-]S([O-])(=O)=O",
+        "inchi_key": "TZCXTZWJZNENPQ-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000015556",
+        "name": "catabolic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000306",
+        "name": "component",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003085",
+        "name": "diluting agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000945",
+        "name": "filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009472",
+        "name": "formulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005469",
+        "name": "granulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003179",
+        "name": "granulation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004615",
+        "name": "ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "NLYAJNPCOHFWQQ-UHFFFAOYSA-N",
+        "name": "kaolin",
+        "domain": "Chemical compound",
+        "smiles": "O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O",
+        "inchi_key": "NLYAJNPCOHFWQQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002480",
+        "name": "mineral oil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010446",
+        "name": "mineral oil",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000013379",
+        "name": "molasses",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052757",
+        "name": "nitrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000015097",
+        "name": "nutrients",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004537",
+        "name": "pulping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010902",
+        "name": "straw",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "QJZYHAIUNVAGQP-UHFFFAOYSA-N",
+        "name": "3-nitrobicyclo[2.2.1]hept-5-ene-2,3-dicarboxylic acid",
+        "domain": "Chemical compound",
+        "smiles": "C1C2C=CC1C(C(=O)O)C2(C(O)=O)[N+]([O-])=O",
+        "inchi_key": "QJZYHAIUNVAGQP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000017060",
+        "name": "Arachis glabrata",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000105624",
+        "name": "Arachis hypogaea",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010777",
+        "name": "Arachis hypogaea",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000018262",
+        "name": "Arachis monticola",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000894006",
+        "name": "Bacteria",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000219310",
+        "name": "Beta vulgaris subsp. vulgaris",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000207199",
+        "name": "Citrus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000008733",
+        "name": "Citrus aurantifolia",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000742",
+        "name": "Cotton",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001732",
+        "name": "Lignosulfonate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000007594",
+        "name": "Oryza sativa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000007164",
+        "name": "Oryza sativa",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000282320",
+        "name": "Panthera leo",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000000111",
+        "name": "Saccharum officinarum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000007201",
+        "name": "Saccharum officinarum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004115",
+        "name": "Sodium Silicate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000061456",
+        "name": "Solanum tuberosum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000002595",
+        "name": "Solanum tuberosum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021536",
+        "name": "Sugar beet",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011941",
+        "name": "Tilia x europaea",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005862",
+        "name": "Whey",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000007544",
+        "name": "Whey Proteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010046377",
+        "name": "Whey Proteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000008042",
+        "name": "Zea mays",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000005824",
+        "name": "Zea mays ssp. parviglumis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000002017",
+        "name": "Zea mays subsp mays",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001464",
+        "name": "adherent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021529",
+        "name": "ammonia",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LFVGISIMTYGQHF-UHFFFAOYSA-N",
+        "name": "ammonium dihydrogen phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[NH4+].OP(O)([O-])=O",
+        "inchi_key": "LFVGISIMTYGQHF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000387",
+        "name": "ammonium dihydrogen phosphate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010828",
+        "name": "animal waste",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012914",
+        "name": "anti-clumping agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001580",
+        "name": "bacterial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003115",
+        "name": "biocidal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003139",
+        "name": "biocide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003124",
+        "name": "biologic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000019",
+        "name": "calcium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001913",
+        "name": "cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002678",
+        "name": "cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003174",
+        "name": "cellulose-based polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004568",
+        "name": "cement",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013339",
+        "name": "cereals",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013043",
+        "name": "chemical agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000020971",
+        "name": "citrus fruits",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013270",
+        "name": "controlled release",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007796",
+        "name": "conventional method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000005822",
+        "name": "corn",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002274",
+        "name": "desiccant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001627",
+        "name": "detrimental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004090",
+        "name": "dissolution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003746",
+        "name": "feather",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000003608",
+        "name": "fece",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012467",
+        "name": "final product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003205",
+        "name": "fragrance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002538",
+        "name": "fungal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920006158",
+        "name": "high molecular weight polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004021",
+        "name": "humic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005610",
+        "name": "lignin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004571",
+        "name": "lime",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010871",
+        "name": "livestock manure",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002906",
+        "name": "microbiologic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012764",
+        "name": "mineral filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019837",
+        "name": "monoammonium phosphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006012",
+        "name": "monoammonium phosphate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019645",
+        "name": "odor",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011368",
+        "name": "organic material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003960",
+        "name": "organic solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010893",
+        "name": "paper waste",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000020232",
+        "name": "peanut",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003415",
+        "name": "peat",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008188",
+        "name": "pellet",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002491",
+        "name": "polymer binding agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920006254",
+        "name": "polymer film",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003825",
+        "name": "pressing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000009566",
+        "name": "rice",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005070",
+        "name": "sampling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000926",
+        "name": "separation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004513",
+        "name": "sizing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002002",
+        "name": "slurry",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000029",
+        "name": "sodium carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "NTHWMYGWWRZVTN-UHFFFAOYSA-N",
+        "name": "sodium silicate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].[O-][Si]([O-])=O",
+        "inchi_key": "NTHWMYGWWRZVTN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052911",
+        "name": "sodium silicate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003892",
+        "name": "spreading",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007480",
+        "name": "spreading",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012209",
+        "name": "synthetic fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002994",
+        "name": "synthetic fiber",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006188",
+        "name": "syrup",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000020357",
+        "name": "syrup",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004408",
+        "name": "titanium dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013311",
+        "name": "vegetables",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011179",
+        "name": "visual inspection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002699",
+        "name": "waste material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002023",
+        "name": "wood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

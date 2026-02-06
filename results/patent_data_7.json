@@ -1,0 +1,577 @@
+{
+  "search_metadata": {
+    "id": "697a3a85be918a1c8844cf08",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b687bf64f0a8184e/697a3a85be918a1c8844cf08.json",
+    "created_at": "2026-01-28 16:34:13 UTC",
+    "processed_at": "2026-01-28 16:34:13 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2017044891A1/en",
+    "raw_html_file": "https://serpapi.com/searches/b687bf64f0a8184e/697a3a85be918a1c8844cf08.html",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2017044891A1/en"
+  },
+  "title": "Biodegradable containers",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/8e/b5/f5/82006953d10ce2/WO2017044891A1.pdf",
+  "publication_number": "WO2017044891A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "biodegradable",
+    "volume",
+    "bag",
+    "percent",
+    "recited"
+  ],
+  "prior_art_date": "2015-09-10",
+  "application_number": "PCT/US2016/051161",
+  "inventors": [
+    {
+      "name": "Vijay C. PATEL",
+      "link": "https://patents.google.com/?inventor=Vijay+C.+PATEL",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Vijay+C.+PATEL"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2015-09-10",
+  "filing_date": "2016-09-09",
+  "publication_date": "2017-03-16",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-09-09",
+        "country_code": "WO",
+        "application_number": "PCT/US2016/051161",
+        "document_id": "patent/WO2017044891A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      },
+      {
+        "filing_date": "2016-09-09",
+        "country_code": "US",
+        "application_number": "US15/261,537",
+        "document_id": "patent/US9797104B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-09-09",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2017-03-16",
+      "title": "Publication of WO2017044891A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2017044891A1/en"
+    },
+    {
+      "date": "2018-03-10",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2017044891A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTUS2016051161/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2017044891"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2017044891A1"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "E01H1/1206",
+      "description": "Hand implements, e.g. litter pickers for picking up excrements",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D33/002",
+      "description": "Rolls, strips or like assemblies of bags",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D33/08",
+      "description": "Hand holes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65D33/18",
+      "description": "End- or aperture-closing arrangements or devices using adhesive applied to integral parts, e.g. to flaps",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L3/02",
+      "description": "Starch; Degradation products thereof, e.g. dextrin",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Biodegradable bags for disposing of a unwanted substance are formed from a bioplastic material made from a bio based material in the form of a maize flour, and a biodegradable plasticizer selected from the group consisting of vegetable oil, polyesters made from glycerin, glycerin, derivatives of glycerin, and combinations thereof. The maize flour comprises a minor volume percent of the total volume of the bioplastic material. A biodegradable additive is used to provide a degree of stiffness to the material, a preferred additive being polylactic acid. A UV stabilizer may optionally be included. Biodegradable bags have an open end and a closed end with a sidewall extending therebetween. The bag includes a feature for enclosing a substance once placed into the bag. In an example, the feature comprises an opening through a sidewall. Alternatively, the feature may include an adhesive section.",
+  "description_link": "https://serpapi.com/searches/697a3a85be918a1c8844cf08/google_patents_details/description.html",
+  "claims": [
+    "1. A biodegradable bag for disposing of a substance, wherein the bag is formed from a bioplastic material comprising: \n       a bio based material in the form of a maize flour; \n       a biodegradable plasticizer selected from the group consisting of vegetable oil, polyesters made from glycerin, glycerin, derivatives of glycerin, and combinations thereof; \n       a biodegradable additive to improve stiffness of the final material; \n       wherein the maize flour comprises a minor volume percent of the total volume of the material.",
+    "2. The biodegradable bag as recited in claim 1 wherein the biodegradable additive is polylactic acid.",
+    "3. The biodegradable bag as recited in claim 2 wherein the polylactic acid is present in an amount of from about 1 to 10 percent by volume of the total bioplastic material.",
+    "4. The biodegradable bag as recited in claim 2 wherein the polylactic acid is present in an amount of from about 3 to 8 percent by volume of the total bioplastic material.",
+    "5. The biodegradable bag as recited in claim 1 wherein the bioplastic material further comprises a UV stabilizer.",
+    "6. The biodegradable bag as recited in claim 5 wherein the UV stabilizer is present in an amount of from about 1 to 5 percent by volume of the total bioplastic material.",
+    "7. The biodegradable bag as recited in claim 1 wherein the maize flour is present in an amount of from about 10 to 45 percent by volume of the total bioplastic material.",
+    "8. The biodegradable bag as recited in claim 7 wherein the maize flour is present in an amount of from about 25 to 35 percent by volume of the total bioplastic material.",
+    "9. The biodegradable bag as recited in claim 1 wherein the biodegradable plasticizer is present in an amount of from about 40 to 75 percent by volume of the total bioplastic material.",
+    "10. The biodegradable bag as recited in claim 1 wherein the biodegradable plasticizer is present in an amount of from about 55 to 65 percent by volume of the total bioplastic material.",
+    "1 1. The biodegradable bag as recited in claim 1 comprising an open end and a closed end opposite the open end with a sidewall extending therebetween, and wherein the bag includes a feature disposed along an outside surface of the sidewall for enclosing a substance once placed into the bag.",
+    "12. The biodegradable bag as recited in claim 11 wherein the feature comprises an opening through a sidewall.",
+    "13. The biodegradable bag as recited in claim 11 wherein the feature includes an adhesive section.",
+    "14. A biodegradable bag for disposing of a substance, wherein the bag is made from a bioplastic material comprising: \n       10 to 40 percent by volume of a bio based material in the form of a maize flour based on the total volume of the bioplastic material; \n       40 to 75 percent by volume of biodegradable plasticizer selected from the group consisting of vegetable oil, polyesters made from glycerin, glycerin, derivatives of glycerin, and combinations thereof, based on the total volume of the bioplastic material; and \n       1 to 10 percent by volume of a biodegradable additive selected to provide a desired degree of stiffness to the resulting material.",
+    "15. The biodegradable bag as recited in claim 14 wherein the biodegradable additive is polylactic acid.",
+    "16. The biodegradable bag as recited in claim 14 further comprising a UV stabilizer in an amount of from about 1 to 5 percent by volume of the total bioplastic material.",
+    "17. The biodegradable bag as recited in claim 14 wherein the bioplastic material comprises up to 35 percent by volume of the maize flour, and up to 65 percent by volume of the biodegradable plasticizer.",
+    "18. The biodegradable bag as recited in claim 14 wherein the wherein the bioplastic material comprises up to 35 percent by volume of the maize flour, and up to 60 percent by volume of the biodegradable plasticizer, and about 5 percent by volume of the biodegradable additive based on a total volume of the bioplastic material.",
+    "19. The biodegradable bag as recited in claim 14 wherein the wherein the bioplastic material comprises up to 35 percent by volume of the maize flour, and up to 60 percent by volume of the biodegradable plasticizer, about 3 percent by volume of the biodegradable additive, and about 2 percent by volume of a UV stabilizer based on a total volume of the bioplastic material.",
+    "20. The biodegradable bag as recited in claim 14 comprising an open end and a closed end opposite the open end with a sidewall extending therebetween, and \n\n wherein the bag includes a feature disposed along an outside surface of the sidewall for enclosing a substance once placed into the bag."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201562216844P",
+      "priority_date": "2015-09-10",
+      "filing_date": "2015-09-10"
+    },
+    {
+      "application_number": "US62/216,844",
+      "filing_date": "2015-09-10"
+    },
+    {
+      "application_number": "US15/261,537",
+      "filing_date": "2016-09-09"
+    },
+    {
+      "application_number": "US15/261,537",
+      "representative_publication": "US9797104B2",
+      "primary_language": "en",
+      "priority_date": "2015-09-10",
+      "filing_date": "2016-09-09",
+      "title": "Biodegradable containers"
+    }
+  ],
+  "family_id": "58240190",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20090315349A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-06-23",
+        "publication_date": "2009-12-24",
+        "assignee_original": "Black Joseph D",
+        "title": "Animal Waste Disposal System",
+        "patent_id": "patent/US20090315349A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090315349A1%2Fen"
+      },
+      {
+        "publication_number": "US20110178196A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-09-29",
+        "publication_date": "2011-07-21",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polymer mixture",
+        "patent_id": "patent/US20110178196A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110178196A1%2Fen"
+      },
+      {
+        "publication_number": "US20120135169A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-19",
+        "publication_date": "2012-05-31",
+        "assignee_original": "Robert Tangelder",
+        "title": "Bioplastics",
+        "patent_id": "patent/US20120135169A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120135169A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "family_to_family": [
+      {
+        "publication_number": "WO2020056075A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-13",
+        "publication_date": "2020-03-19",
+        "assignee_original": "Rosensteel Patricia Anne",
+        "title": "Biodegradable and compostable dog waste materials and method for using same",
+        "patent_id": "patent/WO2020056075A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020056075A1%2Fen"
+      },
+      {
+        "publication_number": "NL2026596B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-30",
+        "publication_date": "2022-06-01",
+        "assignee_original": "Coda Intellectual Property B V",
+        "title": "Polymer composite comprising whole grain flour of cereal grasses",
+        "patent_id": "patent/NL2026596B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL2026596B1%2Fen"
+      },
+      {
+        "publication_number": "WO2022217370A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-15",
+        "publication_date": "2022-10-20",
+        "assignee_original": "Solubag Spa",
+        "title": "Sanitary kit comprising non-polluting water-soluble bags for collecting, removing and disposing pet faeces",
+        "patent_id": "patent/WO2022217370A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022217370A1%2Fen"
+      },
+      {
+        "publication_number": "US20230091692A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-20",
+        "publication_date": "2023-03-23",
+        "assignee_original": "Carl David Bodam",
+        "title": "Pressurized tube sealing for containers",
+        "patent_id": "patent/US20230091692A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230091692A1%2Fen"
+      },
+      {
+        "publication_number": "IL305107B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-08-10",
+        "publication_date": "2025-09-01",
+        "assignee_original": "Samet Chanoch",
+        "title": "Collection and removal device for offensive matter",
+        "patent_id": "patent/IL305107B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL305107B1%2Fen"
+      },
+      {
+        "publication_number": "WO2025136470A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-17",
+        "publication_date": "2025-06-26",
+        "assignee_original": "Albalos Victoria",
+        "title": "Recreational vehicle waste receptacle",
+        "patent_id": "patent/WO2025136470A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025136470A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US9797104B2",
+      "primary_language": "en",
+      "publication_date": "2017-10-24",
+      "title": "Biodegradable containers",
+      "patent_id": "patent/US9797104B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9797104B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6061897275635633167",
+      "scholar_authors": "Dey et al.",
+      "publication_date": "2024",
+      "title": "Degradation of plastics waste and its effects on biological ecosystems: A scientific analysis and comprehensive review",
+      "patent_id": "scholar/6061897275635633167",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6061897275635633167"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4477098492324495367",
+      "scholar_authors": "Jeyavani et al.",
+      "publication_date": "2021",
+      "title": "A review on aquatic impacts of microplastics and its bioremediation aspects",
+      "patent_id": "scholar/4477098492324495367",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4477098492324495367"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6705983991608249329",
+      "scholar_authors": "Ogunola et al.",
+      "publication_date": "2018",
+      "title": "Mitigation measures to avert the impacts of plastics and microplastics in the marine environment (a review)",
+      "patent_id": "scholar/6705983991608249329",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6705983991608249329"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15545822353557580115",
+      "scholar_authors": "Bashir",
+      "publication_date": "2013",
+      "title": "Plastic problem in Africa",
+      "patent_id": "scholar/15545822353557580115",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15545822353557580115"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "648574116462165842",
+      "scholar_authors": "Berry et al.",
+      "publication_date": "2023",
+      "title": "Plastics",
+      "patent_id": "scholar/648574116462165842",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F648574116462165842"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13984657196227005500",
+      "scholar_authors": "Ballerini et al.",
+      "publication_date": "2018",
+      "title": "Plastic pollution in the ocean: what we know and what we don't know about",
+      "patent_id": "scholar/13984657196227005500",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13984657196227005500"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2142106661158481302",
+      "scholar_authors": "Jesca et al.",
+      "publication_date": "2015",
+      "title": "Practices regarding disposal of soiled diapers among women of child bearing age in poor resource urban setting",
+      "patent_id": "scholar/2142106661158481302",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2142106661158481302"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12809699380751813585",
+      "scholar_authors": "Oliveri Conti et al.",
+      "publication_date": "2024",
+      "title": "Relationship between climate change and environmental microplastics: a one health vision for the platysphere health",
+      "patent_id": "scholar/12809699380751813585",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12809699380751813585"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13429645771888183330",
+      "scholar_authors": "Mehmood et al.",
+      "publication_date": "2023",
+      "title": "Structural breakdown and phytotoxic assessments of PE degradation through acid hydrolysis, starch addition and Pseudomonas aeruginosa bioremediation",
+      "patent_id": "scholar/13429645771888183330",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13429645771888183330"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "238143736105027552",
+      "scholar_authors": "Naik Mayur et al.",
+      "publication_date": "2021",
+      "title": "Assessment of marine debris and plastic polymer types along the Panvel Creek, Navi Mumbai, West Coast of India",
+      "patent_id": "scholar/238143736105027552",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F238143736105027552"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5183319866896193545",
+      "scholar_authors": "Baweja et al.",
+      "publication_date": "2024",
+      "title": "Environment Application of Natural Materials",
+      "patent_id": "scholar/5183319866896193545",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5183319866896193545"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2450100A",
+      "primary_language": "en",
+      "publication_date": "2008-12-17",
+      "title": "Collection device for animal excrement",
+      "patent_id": "patent/GB2450100A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2450100A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "637706912074623687",
+      "scholar_authors": "Ray et al.",
+      "publication_date": "2022",
+      "title": "Microplastics pollution in coastal zones",
+      "patent_id": "scholar/637706912074623687",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F637706912074623687"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3607804673400471981",
+      "scholar_authors": "Hale et al.",
+      "publication_date": "2020",
+      "title": "Plastic pollution and the Chesapeake Bay: The food system and beyond",
+      "patent_id": "scholar/3607804673400471981",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3607804673400471981"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7965376961443120395",
+      "scholar_authors": "Levitan",
+      "publication_date": "2005",
+      "title": "Reducing dioxin emissions by recycling agricultural plastics: Creating viable alternatives to open burning",
+      "patent_id": "scholar/7965376961443120395",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7965376961443120395"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8767285399260899897",
+      "scholar_authors": "Naskar",
+      "publication_date": "2022",
+      "title": "Urban solid waste pollution in India: its impact and management",
+      "patent_id": "scholar/8767285399260899897",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8767285399260899897"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8796331272775577313",
+      "scholar_authors": "Ray et al.",
+      "publication_date": "2025",
+      "title": "Sanitary waste and microplastic pollution in the Euro-Mediterranean region: challenges and solutions",
+      "patent_id": "scholar/8796331272775577313",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8796331272775577313"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "989621515157793128",
+      "scholar_authors": "Islam et al.",
+      "publication_date": "2024",
+      "title": "A Review of Plastic Threat to Environment",
+      "patent_id": "scholar/989621515157793128",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F989621515157793128"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2895922769268988792",
+      "scholar_authors": "Ali et al.",
+      "publication_date": "2021",
+      "title": "Plastic\u2013Menace for Life",
+      "patent_id": "scholar/2895922769268988792",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2895922769268988792"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7132802214181016867",
+      "scholar_authors": "Oyewo et al.",
+      "publication_date": "2022",
+      "title": "Domestic and Agricultural Wastes: Environmental Impact and Their Economic Utilization",
+      "patent_id": "scholar/7132802214181016867",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7132802214181016867"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14370018743840833056",
+      "scholar_authors": "Singh et al.",
+      "publication_date": "2022",
+      "title": "Impact of Agricultural Plastic Waste on the Environment",
+      "patent_id": "scholar/14370018743840833056",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14370018743840833056"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250178831A1",
+      "primary_language": "en",
+      "publication_date": "2025-06-05",
+      "title": "Pet waste container and method of use thereof",
+      "patent_id": "patent/US20250178831A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250178831A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5549556276919195179",
+      "scholar_authors": "Koottatep et al.",
+      "publication_date": "2023",
+      "title": "Marine Plastics Abatement: Challenges, Implications, Assessments and Circularity (Volume 1)",
+      "patent_id": "scholar/5549556276919195179",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5549556276919195179"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8862781061073526310",
+      "scholar_authors": "Pipkin",
+      "publication_date": "2020",
+      "title": "Abell Report",
+      "patent_id": "scholar/8862781061073526310",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8862781061073526310"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-05-03",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "16845224"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    },
+    {
+      "date": "2018-03-13",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2018-10-03",
+      "code": "122",
+      "title": "Ep: pct application non-entry in european phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "16845224"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    }
+  ]
+}

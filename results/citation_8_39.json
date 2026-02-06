@@ -1,0 +1,930 @@
+{
+  "search_metadata": {
+    "id": "697a34b752acc6f6497132c0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2d54ff0f87fc5f60/697a34b752acc6f6497132c0.json",
+    "created_at": "2026-01-28 16:09:27 UTC",
+    "processed_at": "2026-01-28 16:09:27 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20200156803A1/en",
+    "raw_html_file": "https://serpapi.com/searches/2d54ff0f87fc5f60/697a34b752acc6f6497132c0.html",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20200156803A1/en"
+  },
+  "title": "Fuselage embedded fuel tank",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/ab/e5/41/ba6094978aca63/US20200156803A1.pdf",
+  "publication_number": "US20200156803A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "fuel tank",
+    "fuselage",
+    "frame members",
+    "disposed",
+    "fuel"
+  ],
+  "prior_art_date": "2018-02-13",
+  "application_number": "US15/895,619",
+  "inventors": [
+    {
+      "name": "James Everett Kooiman",
+      "link": "https://patents.google.com/?inventor=James+Everett+Kooiman",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=James+Everett+Kooiman"
+    },
+    {
+      "name": "Greg Alan Whittaker",
+      "link": "https://patents.google.com/?inventor=Greg+Alan+Whittaker",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Greg+Alan+Whittaker"
+    },
+    {
+      "name": "Bryan Keith Sugg",
+      "link": "https://patents.google.com/?inventor=Bryan+Keith+Sugg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Bryan+Keith+Sugg"
+    }
+  ],
+  "assignees": [
+    "Bell Helicopter Textron Inc"
+  ],
+  "priority_date": "2018-02-13",
+  "filing_date": "2018-02-13",
+  "publication_date": "2020-05-21",
+  "worldwide_applications": {
+    "2018": [
+      {
+        "filing_date": "2018-02-13",
+        "country_code": "US",
+        "application_number": "US15/895,619",
+        "document_id": "patent/US10793285B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2018-12-06",
+        "country_code": "EP",
+        "application_number": "EP18210894.4A",
+        "document_id": "patent/EP3524526B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2019": [
+      {
+        "filing_date": "2019-01-21",
+        "country_code": "CN",
+        "application_number": "CN201910053975.3A",
+        "document_id": "patent/CN110155347B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2018-02-13",
+      "title": "Application filed by Bell Helicopter Textron Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Bell Helicopter Textron Inc"
+    },
+    {
+      "date": "2018-02-13",
+      "title": "Priority to US15/895,619",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US10793285B2/en"
+    },
+    {
+      "date": "2018-02-13",
+      "title": "Assigned to BELL HELICOPTER TEXTRON INC.",
+      "type": "reassignment",
+      "assignee_search": "BELL HELICOPTER TEXTRON INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: KOOIMAN, JAMES EVERETT, SUGG, Bryan Keith, WHITTAKER, Greg Alan"
+      ]
+    },
+    {
+      "date": "2018-12-06",
+      "title": "Priority to EP18210894.4A",
+      "type": "priority",
+      "document_id": "patent/EP3524526B1/en"
+    },
+    {
+      "date": "2019-01-21",
+      "title": "Priority to CN201910053975.3A",
+      "type": "priority",
+      "document_id": "patent/CN110155347B/en"
+    },
+    {
+      "date": "2020-05-21",
+      "title": "Publication of US20200156803A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20200156803A1/en"
+    },
+    {
+      "date": "2020-10-06",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2020-10-06",
+      "title": "Publication of US10793285B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10793285B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2038-10-01",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20200156803.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15895619"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20200156803"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2020156803A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15895619/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20200156803"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/f9/62/b4/720e84c10a903d/US20200156803A1-20200521-D00000.png",
+    "https://patentimages.storage.googleapis.com/72/29/d6/d9bc64011fdbb9/US20200156803A1-20200521-D00001.png",
+    "https://patentimages.storage.googleapis.com/15/0e/8b/16e27c9142cef4/US20200156803A1-20200521-D00002.png",
+    "https://patentimages.storage.googleapis.com/4a/e7/3d/43563e7f47de93/US20200156803A1-20200521-D00003.png",
+    "https://patentimages.storage.googleapis.com/06/3f/d1/40d19155e60e17/US20200156803A1-20200521-D00004.png",
+    "https://patentimages.storage.googleapis.com/6d/f3/df/b6e9fc07e5a681/US20200156803A1-20200521-D00005.png",
+    "https://patentimages.storage.googleapis.com/14/b5/9b/bb247c23e6034b/US20200156803A1-20200521-D00006.png",
+    "https://patentimages.storage.googleapis.com/1c/07/41/a19096ea52be39/US20200156803A1-20200521-D00007.png",
+    "https://patentimages.storage.googleapis.com/79/b5/f8/fd16cebb41e56e/US20200156803A1-20200521-D00008.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64D37/04",
+      "description": "Arrangement thereof in or on aircraft",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C1/061",
+      "description": "Frames",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D37/06",
+      "description": "Constructional adaptations thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/021",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/024",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/10",
+      "description": "Rotorcrafts",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "One embodiment is a system comprising fuel tank comprising a pressure vessel for storing fuel for a vehicle, the fuel tank disposed within a fuselage of the vehicle and extending a majority of a length of the fuselage, wherein a center of gravity of the fuel tank is substantially aligned with a center of gravity of the fuselage. The fuel tank may be disposed within the fuselage such that the fuel tank bears at least a portion of a load borne by the fuselage. Alternatively, the fuel tank may be disposed within the fuselage such that the fuel tank is isolated from loads borne by the fuselage. In certain embodiments, the fuel tank comprises a filament wound pressure vessel.",
+  "description_link": "https://serpapi.com/searches/697a34b752acc6f6497132c0/google_patents_details/description.html",
+  "claims": [
+    "1. A system comprising:\na fuselage comprising a plurality of frame members disposed along a length of the fuselage, wherein each of the frame members extends from a first side of the fuselage to a second side of the fuselage and has a substantially U-shaped bottom portion; a fuel tank comprising a pressure vessel for storing fuel for a vehicle, the fuel tank disposed within a fuselage of the vehicle and extending a majority of an entire length and width of the fuselage, wherein a center of gravity of the fuel tank is substantially aligned with a center of gravity of the fuselage; wherein the fuel tank comprises a plurality of C-channels around a circumference of the fuel tank and disposed along a length of the fuel tank, the system further comprising a plurality of straps, wherein each of the straps is disposed within a top portion of a corresponding one of the C-channels, each of the straps having a first end attached to a corresponding one of the frame members on a first side of the fuel tank and a second end attached to the corresponding one of the frame members on a second side of the fuel tank; wherein the substantially U-shaped bottom portion of each of the frame members is received within a bottom portion of a corresponding one of the C-channels such that a bottom of the fuel tank is supported by the frame members.",
+    "2. The system of claim 1, wherein the fuel tank is disposed within the fuselage such that the fuel tank bears at least a portion of a load borne by the fuselage.",
+    "3. The system of claim 1, wherein the fuel tank is disposed within the fuselage such that the fuel tank is isolated from loads borne by the fuselage.",
+    "4. The system of claim 1, wherein the fuel tank comprises a filament wound pressure vessel.",
+    "5. The system of claim 1, wherein each of the frame members is a load-bearing frame member.",
+    "6. The system of claim 5 further comprising a rubber member disposed on an inner surface of each one of the frame members for supporting the bottom of the tank.",
+    "7. (canceled)",
+    "8. The system of claim 1, wherein at least one of the first and second ends of the strap is removably attached to the first one of the frame members.",
+    "9. (canceled)",
+    "10. The system of claim 1 wherein the vehicle comprises an unmanned aerial vehicle (\u201cUAV\u201d).",
+    "11. A rotorcraft comprising:\na fuselage comprising a plurality of frame members disposed along a length of the fuselage, wherein each of the frame members extends from a first side of the fuselage to a second side of the fuselage and has a substantially U-shaped bottom portion; and a fuel system, the fuel system comprising:\na fuel tank comprising a pressure vessel for storing fuel for the rotorcraft, the fuel tank disposed within a fuselage of the vehicle and extending a majority of an entire length and width of the fuselage, wherein a center of gravity of the fuel tank is substantially aligned with a center of gravity of the fuselage;\n wherein the fuel tank comprises a plurality of C-channels around a circumference of the fuel tank and disposed along a length of the fuel tank, the system further comprising a plurality of straps, wherein each of the straps is disposed within a top portion of a corresponding one of the C-channels, each of the straps having a first end attached to a corresponding one of the frame members on a first side of the fuel tank and a second end attached to the corresponding one of the frame members on a second side of the fuel tank; wherein the substantially U-shaped bottom portion of each of the frame members is received within a bottom portion of a corresponding one of the C-channels such that a bottom of the fuel tank is supported by the frame members.",
+    "12. The rotorcraft of claim 11, wherein the fuel tank comprises a filament wound pressure vessel.",
+    "13. The rotorcraft of claim 11, wherein the frame members comprise load-bearing frame members.",
+    "14. The rotorcraft of claim 13, wherein the fuel system further comprises a rubber member disposed on an inner surface of each one of the frame members for supporting a bottom of the tank.",
+    "15-16. (canceled)",
+    "17. The rotorcraft of claim 11, wherein the fuselage comprises an unmanned aerial vehicle (\u201cUAV\u201d) fuselage.",
+    "18. An unmanned aerial vehicle (\u201cUAV\u201d) comprising:\nan elongated fuselage comprising a plurality of frame members disposed along a length of the fuselage, wherein each of the frame members extends from a first side of the fuselage to a second side of the fuselage and has a substantially U-shaped bottom portion; and\na fuel system comprising:\na fuel tank comprising a pressure vessel for storing fuel for the UAV, the fuel tank disposed within a fuselage of the vehicle and extending a majority of an entire length and width of the fuselage, wherein a center of gravity of the fuel tank is substantially aligned with a center of gravity of the fuselage;\n\nwherein the fuel tank comprises a plurality of C-channels around a circumference of the fuel tank and disposed along a length of the fuel tank, the system further comprising a plurality of straps, wherein each of the straps is disposed within a top portion of a corresponding one of the C-channels, each of the straps having a first end attached to a corresponding one of the frame members on a first side of the fuel tank and a second end attached to the corresponding one of the frame members on a second side of the fuel tank;\nwherein the substantially U-shaped bottom portion of each of the frame members is received within a bottom portion of a corresponding one of the C-channels such that a bottom of the fuel tank is supported by the frame members.",
+    "19. The UAV of claim 18, wherein the fuel tank is disposed within the fuselage such that the fuel tank bears at least a portion of a load borne by the fuselage.",
+    "20. The UAV of claim 18, wherein the fuel tank is disposed within the fuselage such that the fuel tank is isolated from loads borne by the fuselage.",
+    "21. The system of claim 1 wherein the fuselage further comprises at least one fore-aft restraint for engaging at least one of the C-channels on a side of the fuel tank for inhibiting fore and aft movement of the fuel tank with respect to the fuselage.",
+    "22. The rotorcraft of claim 11 wherein the fuselage further comprises at least one fore-aft restraint for engaging at least one of the C-channels on a side of the fuel tank for inhibiting fore and aft movement of the fuel tank with respect to the fuselage.",
+    "23. The UAV of claim 18 wherein the fuselage further comprises at least one fore-aft restraint for engaging at least one of the C-channels on a side of the fuel tank for inhibiting fore and aft movement of the fuel tank with respect to the fuselage."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/895,619",
+      "representative_publication": "US10793285B2",
+      "primary_language": "en",
+      "priority_date": "2018-02-13",
+      "filing_date": "2018-02-13",
+      "title": "Fuselage embedded fuel tank"
+    },
+    {
+      "application_number": "EP18210894.4A",
+      "representative_publication": "EP3524526B1",
+      "primary_language": "en",
+      "priority_date": "2018-02-13",
+      "filing_date": "2018-12-06",
+      "title": "Fuselage embedded fuel tank"
+    },
+    {
+      "application_number": "CN201910053975.3A",
+      "representative_publication": "CN110155347B",
+      "primary_language": "en",
+      "priority_date": "2018-02-13",
+      "filing_date": "2019-01-21",
+      "title": "Aircraft system, rotorcraft and unmanned aerial vehicle"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US15/895,619",
+      "representative_publication": "US10793285B2",
+      "primary_language": "en",
+      "priority_date": "2018-02-13",
+      "filing_date": "2018-02-13",
+      "title": "Fuselage embedded fuel tank"
+    }
+  ],
+  "family_id": "64661102",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US2090059A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1934-07-25",
+        "publication_date": "1937-08-17",
+        "assignee_original": "United Aircraft Corp",
+        "title": "Flexible mounting",
+        "patent_id": "patent/US2090059A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2090059A%2Fen"
+      },
+      {
+        "publication_number": "US6123295A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-01-20",
+        "publication_date": "2000-09-26",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Fuel tank for lifting body re-entry vehicle",
+        "patent_id": "patent/US6123295A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6123295A%2Fen"
+      },
+      {
+        "publication_number": "US20140000917A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-18",
+        "publication_date": "2014-01-02",
+        "assignee_original": "Boxair Engineering,Llc",
+        "title": "Unmanned aircraft systems for firefighting",
+        "patent_id": "patent/US20140000917A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140000917A1%2Fen"
+      },
+      {
+        "publication_number": "WO2014149060A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-22",
+        "publication_date": "2014-09-25",
+        "assignee_original": "International Truck Intellectual Property Company, Llc",
+        "title": "High pressure fuel tank",
+        "patent_id": "patent/WO2014149060A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2014149060A1%2Fen"
+      },
+      {
+        "publication_number": "US20150336680A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-23",
+        "publication_date": "2015-11-26",
+        "assignee_original": "Airbus Operations Gmbh",
+        "title": "Tank System For The Cryogenic Storage Of Hydrogen, And Aircraft With A Tank System For The Cryogenic Storage Of Hydrogen",
+        "patent_id": "patent/US20150336680A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150336680A1%2Fen"
+      },
+      {
+        "publication_number": "US10279921B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-31",
+        "publication_date": "2019-05-07",
+        "assignee_original": "General Electric Company",
+        "title": "Cryogenic tank",
+        "patent_id": "patent/US10279921B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10279921B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US3979005A",
+        "primary_language": "en",
+        "priority_date": "1974-05-13",
+        "publication_date": "1976-09-07",
+        "assignee_original": "The Boeing Company",
+        "title": "Cryogenic tank and aircraft structural interface",
+        "patent_id": "patent/US3979005A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3979005A%2Fen"
+      },
+      {
+        "publication_number": "US4511105A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-01-13",
+        "publication_date": "1985-04-16",
+        "assignee_original": "The United States Of America As Represented By The Secretary Of The Air Force",
+        "title": "Compartmented, filament wound, one-piece aircraft fuel tanks",
+        "patent_id": "patent/US4511105A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4511105A%2Fen"
+      },
+      {
+        "publication_number": "CN101462594B",
+        "primary_language": "en",
+        "priority_date": "2008-10-31",
+        "publication_date": "2010-10-06",
+        "assignee_original": "\u8d35\u5dde\u76d6\u514b\u65e0\u4eba\u673a\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Aerocraft capable of concealing laterally and method for manufacturing the same",
+        "patent_id": "patent/CN101462594B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101462594B%2Fen"
+      },
+      {
+        "publication_number": "US8905351B2",
+        "primary_language": "en",
+        "priority_date": "2011-11-01",
+        "publication_date": "2014-12-09",
+        "assignee_original": "Vanguard Defense Industries, Llc",
+        "title": "Airframe",
+        "patent_id": "patent/US8905351B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8905351B2%2Fen"
+      },
+      {
+        "publication_number": "DE102012207575A1",
+        "primary_language": "en",
+        "priority_date": "2012-05-08",
+        "publication_date": "2013-11-14",
+        "assignee_original": "Tge Gas Engineering Gmbh",
+        "title": "Supplying a pump with cryogenic liquid",
+        "patent_id": "patent/DE102012207575A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012207575A1%2Fen"
+      },
+      {
+        "publication_number": "US9308989B2",
+        "primary_language": "en",
+        "priority_date": "2013-01-16",
+        "publication_date": "2016-04-12",
+        "assignee_original": "Otto Aviation Group",
+        "title": "Aircraft front landing gear and method of operating the same",
+        "patent_id": "patent/US9308989B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9308989B2%2Fen"
+      },
+      {
+        "publication_number": "GB201400497D0",
+        "primary_language": "en",
+        "priority_date": "2014-01-11",
+        "publication_date": "2014-02-26",
+        "assignee_original": "Lewis Stephen D",
+        "title": "Low weight aircraft engine intake pre-cooler",
+        "patent_id": "patent/GB201400497D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201400497D0%2Fen"
+      },
+      {
+        "publication_number": "US9334061B2",
+        "primary_language": "en",
+        "priority_date": "2014-01-24",
+        "publication_date": "2016-05-10",
+        "assignee_original": "The Boeing Company",
+        "title": "Baffle configuration for a liquid storage tank",
+        "patent_id": "patent/US9334061B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9334061B2%2Fen"
+      },
+      {
+        "publication_number": "KR101694055B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-09",
+        "publication_date": "2017-01-09",
+        "assignee_original": "\ud604\ub300\uc790\ub3d9\ucc28\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Fuel tank",
+        "patent_id": "patent/KR101694055B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101694055B1%2Fen"
+      },
+      {
+        "publication_number": "JP6706085B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-08",
+        "publication_date": "2020-06-03",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\uff33\uff55\uff42\uff41\uff52\uff55",
+        "title": "Fuel supply system, fuel supply method and aircraft",
+        "patent_id": "patent/JP6706085B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6706085B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN112478126A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-02",
+        "publication_date": "2021-03-12",
+        "assignee_original": "\u4e2d\u56fd\u822a\u7a7a\u5de5\u4e1a\u96c6\u56e2\u516c\u53f8\u6c88\u9633\u98de\u673a\u8bbe\u8ba1\u7814\u7a76\u6240",
+        "title": "Unmanned aerial vehicle fuselage cabin section",
+        "patent_id": "patent/CN112478126A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112478126A%2Fen"
+      },
+      {
+        "publication_number": "US20210107618A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-09",
+        "publication_date": "2021-04-15",
+        "assignee_original": "Bell Textron Inc.",
+        "title": "Single Butt Line Keel and Roof Beam",
+        "patent_id": "patent/US20210107618A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210107618A1%2Fen"
+      },
+      {
+        "publication_number": "CN114013624A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-27",
+        "publication_date": "2022-02-08",
+        "assignee_original": "\u4e0a\u6d77\u5586\u822a\u822a\u7a7a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Light helicopter body",
+        "patent_id": "patent/CN114013624A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114013624A%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "EP4450400A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-04-17",
+        "publication_date": "2024-10-23",
+        "assignee_original": "Airbus Operations, S.L.U.",
+        "title": "An aircraft section",
+        "patent_id": "patent/EP4450400A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4450400A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102018115541B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-27",
+        "publication_date": "2021-02-25",
+        "assignee_original": "Airbus Operations Gmbh",
+        "title": "Pressure bulkhead for a pressurized hull of a vehicle",
+        "patent_id": "patent/DE102018115541B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018115541B4%2Fen"
+      },
+      {
+        "publication_number": "DE102019126287B3",
+        "primary_language": "en",
+        "priority_date": "2019-09-30",
+        "publication_date": "2021-01-14",
+        "assignee_original": "Airbus Defence and Space GmbH",
+        "title": "Fluid tank for integration into a structure of an unmanned aerial vehicle",
+        "patent_id": "patent/DE102019126287B3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019126287B3%2Fen"
+      },
+      {
+        "publication_number": "US11787554B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-07",
+        "publication_date": "2023-10-17",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Aircraft airframes having integral fuel tanks",
+        "patent_id": "patent/US11787554B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11787554B2%2Fen"
+      },
+      {
+        "publication_number": "US11745890B1",
+        "primary_language": "en",
+        "priority_date": "2022-04-29",
+        "publication_date": "2023-09-05",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Fuel pod for hybrid electric aircraft",
+        "patent_id": "patent/US11745890B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11745890B1%2Fen"
+      },
+      {
+        "publication_number": "CN115432191A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-21",
+        "publication_date": "2022-12-06",
+        "assignee_original": "\u56db\u5ddd\u50b2\u52bf\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Fuel tank mounting structure and aircraft comprising same",
+        "patent_id": "patent/CN115432191A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115432191A%2Fen"
+      },
+      {
+        "publication_number": "FR3141682A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-08",
+        "publication_date": "2024-05-10",
+        "assignee_original": "Airbus Operations",
+        "title": "Fixing system for aircraft intended to fix at least one tank intended to contain liquid hydrogen allowing easy access to the tank.",
+        "patent_id": "patent/FR3141682A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3141682A1%2Fen"
+      },
+      {
+        "publication_number": "US11905027B1",
+        "primary_language": "en",
+        "priority_date": "2023-02-03",
+        "publication_date": "2024-02-20",
+        "assignee_original": "Jetzero, Inc.",
+        "title": "Systems and methods for a liquified gas fuel tank incorporated into an aircraft",
+        "patent_id": "patent/US11905027B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11905027B1%2Fen"
+      },
+      {
+        "publication_number": "FR3151024A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-07-12",
+        "publication_date": "2025-01-17",
+        "assignee_original": "Airbus Operations",
+        "title": "AIRCRAFT COMPRISING A STRUCTURE, A TANK AND MEANS FOR ATTACHING THE TANK TO THE STRUCTURE",
+        "patent_id": "patent/FR3151024A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3151024A1%2Fen"
+      },
+      {
+        "publication_number": "DE102023121539A1",
+        "primary_language": "en",
+        "priority_date": "2023-08-11",
+        "publication_date": "2025-02-13",
+        "assignee_original": "Technische Universit\u00e4t Dresden, K\u00f6rperschaft des \u00f6ffentlichen Rechts",
+        "title": "hydrogen tank adapted to the installation space",
+        "patent_id": "patent/DE102023121539A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102023121539A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10793285B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-06",
+      "title": "Fuselage embedded fuel tank",
+      "patent_id": "patent/US10793285B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10793285B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9617013B2",
+      "primary_language": "en",
+      "publication_date": "2017-04-11",
+      "title": "Rotorcraft fuselage structure incorporating a load-bearing middle floor interposed between a cabin space and an equipment space",
+      "patent_id": "patent/US9617013B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9617013B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5975464A",
+      "primary_language": "en",
+      "publication_date": "1999-11-02",
+      "title": "Aircraft with removable structural payload module",
+      "patent_id": "patent/US5975464A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5975464A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9187169B2",
+      "primary_language": "en",
+      "publication_date": "2015-11-17",
+      "title": "High-wing-aircraft fuselage support structure",
+      "patent_id": "patent/US9187169B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9187169B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3547388B1",
+      "primary_language": "en",
+      "publication_date": "2021-02-17",
+      "title": "Puncture-resistant storage systems for fuel bladder",
+      "patent_id": "patent/EP3547388B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3547388B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3241756B1",
+      "primary_language": "en",
+      "publication_date": "2018-08-01",
+      "title": "Rotorcraft fuel system having enhanced crash resistance",
+      "patent_id": "patent/EP3241756B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3241756B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "MX2007007077A",
+      "primary_language": "en",
+      "publication_date": "2007-11-14",
+      "title": "Cargo aircraft.",
+      "patent_id": "patent/MX2007007077A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX2007007077A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9868544B2",
+      "primary_language": "en",
+      "publication_date": "2018-01-16",
+      "title": "Rotorcraft having fuel tanks mounted in suspension under a load-bearing middle floor of the fuselage of the rotorcraft",
+      "patent_id": "patent/US9868544B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9868544B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11220347B2",
+      "primary_language": "en",
+      "publication_date": "2022-01-11",
+      "title": "Modular subfloor arrangement for an aircraft",
+      "patent_id": "patent/US11220347B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11220347B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11718411B2",
+      "primary_language": "en",
+      "publication_date": "2023-08-08",
+      "title": "Fuel containment system",
+      "patent_id": "patent/US11718411B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11718411B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11873111B2",
+      "primary_language": "en",
+      "publication_date": "2024-01-16",
+      "title": "Fuel cell protection system",
+      "patent_id": "patent/US11873111B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11873111B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11623758B2",
+      "primary_language": "en",
+      "publication_date": "2023-04-11",
+      "title": "Lattice structure cushions for aircraft fuel systems",
+      "patent_id": "patent/US11623758B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11623758B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3272642B1",
+      "primary_language": "en",
+      "publication_date": "2023-09-06",
+      "title": "Space frame fuselage with pressure membrane",
+      "patent_id": "patent/EP3272642B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3272642B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10807702B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-20",
+      "title": "Center fuel tank assembly with partitioned center fuel tank for an aircraft and methods of sequencing fuel for the same",
+      "patent_id": "patent/US10807702B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10807702B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3305653B1",
+      "primary_language": "en",
+      "publication_date": "2020-04-01",
+      "title": "Airframe for certified ultralight and / or light aircraft",
+      "patent_id": "patent/EP3305653B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3305653B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6204337B2",
+      "primary_language": "en",
+      "publication_date": "2017-09-27",
+      "title": "The fuselage structure of a rotary wing aircraft with a load bearing intermediate floor interposed between the cabin space and the facility space",
+      "patent_id": "patent/JP6204337B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6204337B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12269606B2",
+      "primary_language": "en",
+      "publication_date": "2025-04-08",
+      "title": "Aircraft",
+      "patent_id": "patent/US12269606B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12269606B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105836100B",
+      "primary_language": "en",
+      "publication_date": "2018-11-06",
+      "title": "There is the rotary-wing craft fuselage structure of load-bearing middle layer between two space of cabin and equipment",
+      "patent_id": "patent/CN105836100B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105836100B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2806918C1",
+      "primary_language": "en",
+      "publication_date": "2023-11-08",
+      "title": "Ultra-light or light helicopter-type aircraft of modular design",
+      "patent_id": "patent/RU2806918C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2806918C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12312064B2",
+      "primary_language": "en",
+      "publication_date": "2025-05-27",
+      "title": "Shaped aircraft fuel cells, systems and methods for enhanced crashworthiness",
+      "patent_id": "patent/US12312064B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12312064B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2754643C1",
+      "primary_language": "en",
+      "publication_date": "2021-09-06",
+      "title": "Helicopter robotic universal system (hrus)",
+      "patent_id": "patent/RU2754643C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2754643C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU181714U1",
+      "primary_language": "en",
+      "publication_date": "2018-07-26",
+      "title": "UAV VERTICAL TAKEOFF AND LANDING WITH POWER BEAM FROM COMPOSITE MATERIAL",
+      "patent_id": "patent/RU181714U1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU181714U1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN209870746U",
+      "primary_language": "en",
+      "publication_date": "2019-12-31",
+      "title": "Aircraft with a flight control device",
+      "patent_id": "patent/CN209870746U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN209870746U%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "62040632139220583",
+      "scholar_authors": "Cho et al.",
+      "publication_date": "2007",
+      "title": "Columned multi bubble fuselage (CMBF) for BWB",
+      "patent_id": "scholar/62040632139220583",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F62040632139220583"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1107800A",
+      "primary_language": "en",
+      "publication_date": "2008-04-18",
+      "title": "Cargo aircraft",
+      "patent_id": "patent/HK1107800A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1107800A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2018-02-13",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-05",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2020-07-20",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "AWAITING TC RESP., ISSUE FEE NOT PAID"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-02",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-16",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-08",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

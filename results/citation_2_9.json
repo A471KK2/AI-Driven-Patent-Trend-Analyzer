@@ -1,0 +1,1221 @@
+{
+  "search_metadata": {
+    "id": "697a335cb9fc5ff84a2e237e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/03446a601b73a5b5/697a335cb9fc5ff84a2e237e.json",
+    "created_at": "2026-01-28 16:03:40 UTC",
+    "processed_at": "2026-01-28 16:03:40 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20210070335A1/en",
+    "raw_html_file": "https://serpapi.com/searches/03446a601b73a5b5/697a335cb9fc5ff84a2e237e.html",
+    "total_time_taken": 2.12
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20210070335A1/en"
+  },
+  "title": "System and Apparatus For Determining the Position of Railbound Vehicles on a Railway System",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/89/77/a3/182ebaf5811ff2/US20210070335A1.pdf",
+  "publication_number": "US20210070335A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "railway",
+    "vehicle",
+    "control system",
+    "vehicles",
+    "rail"
+  ],
+  "prior_art_date": "2018-05-24",
+  "application_number": "US17/052,776",
+  "inventors": [
+    {
+      "name": "Joel BJURSTR\u00d6M",
+      "link": "https://patents.google.com/?inventor=Joel+BJURSTR%C3%96M",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joel+BJURSTR%C3%96M"
+    }
+  ],
+  "assignees": [
+    "Icomera AB"
+  ],
+  "priority_date": "2018-05-24",
+  "filing_date": "2019-05-23",
+  "publication_date": "2021-03-11",
+  "worldwide_applications": {
+    "2018": [
+      {
+        "filing_date": "2018-05-24",
+        "country_code": "SE",
+        "application_number": "SE1850624A",
+        "document_id": "patent/SE542199C2/en",
+        "legal_status_cat": "unknown"
+      }
+    ],
+    "2019": [
+      {
+        "filing_date": "2019-05-23",
+        "country_code": "EP",
+        "application_number": "EP19807777.8A",
+        "document_id": "patent/EP3802268A4/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2019-05-23",
+        "country_code": "US",
+        "application_number": "US17/052,776",
+        "document_id": "patent/US12005943B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2019-05-23",
+        "country_code": "WO",
+        "application_number": "PCT/SE2019/050474",
+        "document_id": "patent/WO2019226114A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2019-05-23",
+        "country_code": "CA",
+        "application_number": "CA3098651A",
+        "document_id": "patent/CA3098651A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-05-23",
+      "title": "Application filed by Icomera AB",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Icomera AB"
+    },
+    {
+      "date": "2020-11-05",
+      "title": "Assigned to ICOMERA AB",
+      "type": "reassignment",
+      "assignee_search": "ICOMERA AB",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BJURSTR\u00d6M, Joel"
+      ]
+    },
+    {
+      "date": "2021-03-11",
+      "title": "Publication of US20210070335A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20210070335A1/en"
+    },
+    {
+      "date": "2024-06-11",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2024-06-11",
+      "title": "Publication of US12005943B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US12005943B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2041-05-23",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20210070335.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/17052776"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20210070335"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2021070335A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/17052776/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20210070335"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/ca/7f/f6/46f14d9d0bb5d1/US20210070335A1-20210311-D00000.png",
+    "https://patentimages.storage.googleapis.com/66/dc/64/86a0ad7c0e0ec0/US20210070335A1-20210311-D00001.png",
+    "https://patentimages.storage.googleapis.com/15/46/3c/60de74125b6c44/US20210070335A1-20210311-D00002.png",
+    "https://patentimages.storage.googleapis.com/d4/f6/ea/d181ee963d30a1/US20210070335A1-20210311-D00003.png",
+    "https://patentimages.storage.googleapis.com/86/e2/11/4cf31d6d38b27c/US20210070335A1-20210311-D00004.png",
+    "https://patentimages.storage.googleapis.com/3c/2d/47/7d101768857e18/US20210070335A1-20210311-D00005.png"
+  ],
+  "classifications": [
+    {
+      "code": "B61L27/0061",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L15/0027",
+      "description": "Radio-based, e.g. using GSM-R",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L25/025",
+      "description": "Absolute localisation, e.g. providing geodetic coordinates",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L27/30",
+      "description": "Trackside multiple control systems, e.g. switch-over between different systems",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L27/0005",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L2027/204",
+      "description": "Trackside control of safe travel of vehicle or train, e.g. braking curve calculation using Communication-based Train Control [CBTC]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L2205/02",
+      "description": "Global system for mobile communication - railways [GSM-R]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L2205/04",
+      "description": "Satellite based navigation systems, e.g. global positioning system [GPS]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L25/021",
+      "description": "Measuring and recording of train speed",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L27/70",
+      "description": "Details of trackside communication",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method and system for determining a position of a rail-bound vehicle on a railway is disclosed. The apparatus comprises: a transmitter and receiver for wireless communication with at least one base station arranged at a predetermined position in the vicinity of the railway; a measurement device to determine a distance to said at least one base station based on measurements of the radio signals of said wireless communication in the time domain and/or phase domain; and a controller arranged to determine a present position of said vehicle on said railway based on said distance. A control system/method for controlling rail-bound vehicles in a railway system, and/or an internal or external system related to such rail-bound vehicles, using such position determination is also disclosed.",
+  "description_link": "https://serpapi.com/searches/697a335cb9fc5ff84a2e237e/google_patents_details/description.html",
+  "claims": [
+    "1. A control system for controlling rail-bound vehicles in a railway system, the control system comprising a controller arranged to determine present positions of rail-bound vehicles on at least one railway of the railway system, and to issue control signals to control the operation of said vehicles, wherein the present positions of said vehicles are determined based on radio signal measurements in at least one of the time domain and/or phase domain of wireless communication occurring between each vehicle and base stations arranged at predetermined positions in the vicinity of said railways.",
+    "2. The control system of claim 1, wherein the radio signal measurements comprises measuring of a propagation time for radio signals transferred between the vehicles and the base stations.",
+    "3. The control system of claim 2, wherein the propagation time is measured by measuring a round-trip time for a data packet to be sent from a first party to a second party, and a response to be sent back from the second party to the first party, and subtracting the round-trip time with a processing time of the second party before sending the response.",
+    "4. The control system of claim 1, wherein the radio signal measurements comprises measuring of a phase difference of radio signals of different frequencies transferred between the vehicles and the base stations.",
+    "5. The control system of claim 1, wherein the control system is a CBTC (Communication Based Train Control) system.",
+    "6. The control system of claim 1, wherein the wireless communication is at least one of made by over a Wireless Local Area Network (WLAN) and made via a cellular network standard.",
+    "7. The control system of claim 6, wherein the wireless communication is made by at least one of: WLAN and GSM-R.",
+    "8. The control system of claim 1, wherein the base stations are trackside base stations distributed along the extension of the railway(s).",
+    "9. The control system of claim 8, wherein the trackside base stations are access points for communication in compliance with a WLAN standard.",
+    "10. The control system of claim 1, wherein the controller is further arranged to determine at least one of travelling speed and travelling direction for said rail-bound vehicles based on said radio signal measurements.",
+    "11. The control system of claim 1, said system being adapted to control at least one of start, speed and stop of the rail-guided vehicles on said railway(s) based on said issued control signals.",
+    "12. The control system of claim 1, further comprising a sensor arranged to determine which track that is selected when the vehicle passes through a junction.",
+    "13. A method for controlling rail-bound vehicles in a railway system, the method comprising:\nmeasuring a radio signal in at least one of the time domain and/or the phase domain of wireless communication occurring between each vehicle and base stations arranged at predetermined positions in the vicinity of said railways; determining present positions of the rail-bound vehicles on at least one railway of the railway system based on said measurements; and issuing control signals to control the operation of said vehicles based on said determined present positions.",
+    "14. An apparatus for determining a position of a rail-bound vehicle on a railway, the apparatus comprising:\na transmitter and receiver for wireless communication with at least one base station arranged at a predetermined position in the vicinity of the railway; a measurement device to determine a distance to said at least one base station based on measurements of the radio signals of said wireless communication in at least one of the time domain and the phase domain; and a controller arranged to determine a present position of said vehicle on said railway based on said distance.",
+    "15. The apparatus of claim 14, wherein the apparatus is comprised within a mobile router arranged within the rail-bound vehicle.",
+    "16. A method for determining a position of a rail-bound vehicle on a railway, the method comprising:\nproviding wireless communication with at least one base station arranged at a predetermined position in the vicinity of the railway; measuring a distance to said at least one base station based on measurements of the radio signals of said wireless communication in at least one of the time domain and the phase domain; and determining a present position of said vehicle on said railway based on said distance."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "SE1850624A",
+      "representative_publication": "SE542199C2",
+      "primary_language": "en",
+      "priority_date": "2018-05-24",
+      "filing_date": "2018-05-24",
+      "title": "System and apparatus for determining the position of rail-bound vehicles on a railway system"
+    },
+    {
+      "application_number": "SE1850624-6",
+      "filing_date": "2018-05-24"
+    },
+    {
+      "application_number": "PCT/SE2019/050474",
+      "representative_publication": "WO2019226114A1",
+      "primary_language": "en",
+      "priority_date": "2018-05-24",
+      "filing_date": "2019-05-23",
+      "title": "System and apparatus for determining the position of railbound vehicles on a railway system"
+    }
+  ],
+  "family_id": "68615861",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "KR20040037730A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-30",
+        "publication_date": "2004-05-07",
+        "assignee_original": "\ud55c\uad6d\ucca0\ub3c4\uae30\uc220\uc5f0\uad6c\uc6d0",
+        "title": "System for mobile vehicle position tracking and moving management using phase of arrival",
+        "patent_id": "patent/KR20040037730A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20040037730A%2Fen"
+      },
+      {
+        "publication_number": "JP2010269620A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-05-19",
+        "publication_date": "2010-12-02",
+        "assignee_original": "Mitsubishi Electric Corp",
+        "title": "Vehicle position detection device",
+        "patent_id": "patent/JP2010269620A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010269620A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CA2263031A1",
+        "primary_language": "en",
+        "priority_date": "1999-02-26",
+        "publication_date": "2000-08-26",
+        "assignee_original": "Kasten Chase Applied Research Limited",
+        "title": "Communications based train control",
+        "patent_id": "patent/CA2263031A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2263031A1%2Fen"
+      },
+      {
+        "publication_number": "DE10018967C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-06",
+        "publication_date": "2002-01-10",
+        "assignee_original": "Siemens Ag",
+        "title": "Radio-based train protection system for a rail network that can be traveled by a number of trains",
+        "patent_id": "patent/DE10018967C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10018967C1%2Fen"
+      },
+      {
+        "publication_number": "JP6296673B2",
+        "primary_language": "en",
+        "priority_date": "2011-09-30",
+        "publication_date": "2018-03-20",
+        "assignee_original": "\u65e5\u672c\u4fe1\u53f7\u682a\u5f0f\u4f1a\u793e",
+        "title": "Train control system ground equipment",
+        "patent_id": "patent/JP6296673B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6296673B2%2Fen"
+      },
+      {
+        "publication_number": "JP5940789B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-30",
+        "publication_date": "2016-06-29",
+        "assignee_original": "\u65e5\u672c\u4fe1\u53f7\u682a\u5f0f\u4f1a\u793e",
+        "title": "Train control system",
+        "patent_id": "patent/JP5940789B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5940789B2%2Fen"
+      },
+      {
+        "publication_number": "US10640134B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-09",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Misubishi Electric Corporation",
+        "title": "Train position detection device",
+        "patent_id": "patent/US10640134B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10640134B2%2Fen"
+      },
+      {
+        "publication_number": "US9669850B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-08",
+        "publication_date": "2017-06-06",
+        "assignee_original": "Genscape Intangible Holding, Inc.",
+        "title": "Method and system for monitoring rail operations and transport of commodities via rail",
+        "patent_id": "patent/US9669850B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9669850B2%2Fen"
+      },
+      {
+        "publication_number": "SE539532C2",
+        "primary_language": "en",
+        "priority_date": "2016-01-29",
+        "publication_date": "2017-10-10",
+        "assignee_original": "Icomera Ab",
+        "title": "Wireless communication system and method for trains and other vehicles using trackside base stations",
+        "patent_id": "patent/SE539532C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE539532C2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Farooq et al.; Radio Communication for Communications-Based Train Control (CBTC): A Tutorial and Survey; IEEE COMMUNICATIONS SURVEYS & TUTORIALS, VOL. 19, NO. 3, THIRD QUARTER 2017; pp. 1377-1402 (Year: 2017)",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20210270976A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-16",
+        "publication_date": "2021-09-02",
+        "assignee_original": "Westinghouse Air Brake Technologies Corporation",
+        "title": "System and method for determining vehicle position by triangulation",
+        "patent_id": "patent/US20210270976A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210270976A1%2Fen"
+      },
+      {
+        "publication_number": "CN113815683A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-25",
+        "publication_date": "2021-12-21",
+        "assignee_original": "\u901a\u53f7\u57ce\u5e02\u8f68\u9053\u4ea4\u901a\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Train positioning method and device, electronic equipment and storage medium",
+        "patent_id": "patent/CN113815683A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113815683A%2Fen"
+      },
+      {
+        "publication_number": "CN113928373A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-09",
+        "publication_date": "2022-01-14",
+        "assignee_original": "\u4ea4\u63a7\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Train positioning method and system",
+        "patent_id": "patent/CN113928373A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113928373A%2Fen"
+      },
+      {
+        "publication_number": "US11325624B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-29",
+        "publication_date": "2022-05-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11325624B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11325624B2%2Fen"
+      },
+      {
+        "publication_number": "US11483752B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-13",
+        "publication_date": "2022-10-25",
+        "assignee_original": "Fluidmesh Networks S.R.I.",
+        "title": "Antenna keyhole management in wireless radio communication",
+        "patent_id": "patent/US11483752B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11483752B2%2Fen"
+      },
+      {
+        "publication_number": "US11524709B2",
+        "primary_language": "en",
+        "priority_date": "2021-03-12",
+        "publication_date": "2022-12-13",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11524709B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11524709B2%2Fen"
+      },
+      {
+        "publication_number": "US11548542B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-28",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "System and/or method for platooning",
+        "patent_id": "patent/US11548542B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11548542B2%2Fen"
+      },
+      {
+        "publication_number": "US20230243950A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-25",
+        "publication_date": "2023-08-03",
+        "assignee_original": "Sony Semiconductor Solutions Corporation",
+        "title": "Signal processing device, signal processing method, and program",
+        "patent_id": "patent/US20230243950A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230243950A1%2Fen"
+      },
+      {
+        "publication_number": "US20230278604A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-17",
+        "publication_date": "2023-09-07",
+        "assignee_original": "Siemens Mobility GmbH",
+        "title": "Method for monitoring a danger area and monitoring device",
+        "patent_id": "patent/US20230278604A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230278604A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN111415679B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-25",
+        "publication_date": "2023-02-28",
+        "assignee_original": "Oppo\u5e7f\u4e1c\u79fb\u52a8\u901a\u4fe1\u6709\u9650\u516c\u53f8",
+        "title": "Site identification method, device, terminal and storage medium",
+        "patent_id": "patent/CN111415679B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111415679B%2Fen"
+      },
+      {
+        "publication_number": "SE546209C2",
+        "primary_language": "en",
+        "priority_date": "2021-01-20",
+        "publication_date": "2024-07-02",
+        "assignee_original": "Icomera Ab",
+        "title": "Wireless communication system for an evacuated tube transportation system, with widely separated base stations in a tube/tunnel for communication with antennas of a router in a moving capsule",
+        "patent_id": "patent/SE546209C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE546209C2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US12005943B2",
+      "primary_language": "en",
+      "publication_date": "2024-06-11",
+      "title": "System and apparatus for determining the position of railbound vehicles on a railway system",
+      "patent_id": "patent/US12005943B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12005943B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107161178B",
+      "primary_language": "en",
+      "publication_date": "2018-11-06",
+      "title": "A kind of automatic tracking system and method for suspension train position in rolling stock section",
+      "patent_id": "patent/CN107161178B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107161178B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108725520B",
+      "primary_language": "en",
+      "publication_date": "2021-02-19",
+      "title": "Train operation control system suitable for low-density railway",
+      "patent_id": "patent/CN108725520B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108725520B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9669853B2",
+      "primary_language": "en",
+      "publication_date": "2017-06-06",
+      "title": "Train control system",
+      "patent_id": "patent/US9669853B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9669853B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114194259B",
+      "primary_language": "en",
+      "publication_date": "2023-11-24",
+      "title": "Control system of nimble marshalling",
+      "patent_id": "patent/CN114194259B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114194259B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101934804B",
+      "primary_language": "en",
+      "publication_date": "2012-02-01",
+      "title": "Handover method of vehicle-ground wireless communication in urban rail transit system",
+      "patent_id": "patent/CN101934804B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101934804B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8924066B2",
+      "primary_language": "en",
+      "publication_date": "2014-12-30",
+      "title": "Systems and methods for determining route location",
+      "patent_id": "patent/US8924066B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8924066B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190114914A1",
+      "primary_language": "en",
+      "publication_date": "2019-04-18",
+      "title": "Vehicle on-board controller centered train control system",
+      "patent_id": "patent/US20190114914A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190114914A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103220738B",
+      "primary_language": "en",
+      "publication_date": "2016-03-02",
+      "title": "A kind of data communication system used for high-speed railway and communication means thereof",
+      "patent_id": "patent/CN103220738B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103220738B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107709136B",
+      "primary_language": "en",
+      "publication_date": "2020-07-03",
+      "title": "Method and device for determining driving authorization for a rail vehicle",
+      "patent_id": "patent/CN107709136B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107709136B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106507410B",
+      "primary_language": "en",
+      "publication_date": "2019-12-20",
+      "title": "Wireless communication method and terminal for traffic train",
+      "patent_id": "patent/CN106507410B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106507410B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9930594B2",
+      "primary_language": "en",
+      "publication_date": "2018-03-27",
+      "title": "Wireless communication system and method for trains and other vehicles using trackside base stations",
+      "patent_id": "patent/US9930594B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9930594B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101700814B1",
+      "primary_language": "en",
+      "publication_date": "2017-02-01",
+      "title": "T2T based train-centric train control system and method thereof",
+      "patent_id": "patent/KR101700814B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101700814B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190225246A1",
+      "primary_language": "en",
+      "publication_date": "2019-07-25",
+      "title": "Wireless Train Management System",
+      "patent_id": "patent/US20190225246A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190225246A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2007516121A",
+      "primary_language": "en",
+      "publication_date": "2007-06-21",
+      "title": "Apparatus and method for detecting and controlling the position of an orbital vehicle in a super-frequency wide area",
+      "patent_id": "patent/JP2007516121A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007516121A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2556263C2",
+      "primary_language": "en",
+      "publication_date": "2015-07-10",
+      "title": "Method and apparatus for monitoring train integrity",
+      "patent_id": "patent/RU2556263C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2556263C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210016812A1",
+      "primary_language": "en",
+      "publication_date": "2021-01-21",
+      "title": "Train control system and train control method including virtual train stop",
+      "patent_id": "patent/US20210016812A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210016812A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4945286B2",
+      "primary_language": "en",
+      "publication_date": "2012-06-06",
+      "title": "Train position detector",
+      "patent_id": "patent/JP4945286B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4945286B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103826959B",
+      "primary_language": "en",
+      "publication_date": "2017-09-15",
+      "title": "Train notification playback system",
+      "patent_id": "patent/CN103826959B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103826959B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101472992B1",
+      "primary_language": "en",
+      "publication_date": "2014-12-17",
+      "title": "Route control system and the method of electronic blocking type with train model in the Nearsurface-LRT",
+      "patent_id": "patent/KR101472992B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101472992B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11458999B2",
+      "primary_language": "en",
+      "publication_date": "2022-10-04",
+      "title": "On-board control apparatus and platform-door control system",
+      "patent_id": "patent/US11458999B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11458999B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5452569B2",
+      "primary_language": "en",
+      "publication_date": "2014-03-26",
+      "title": "Train position determination device and train position determination method",
+      "patent_id": "patent/JP5452569B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5452569B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2010269620A",
+      "primary_language": "en",
+      "publication_date": "2010-12-02",
+      "title": "Vehicle position detection device",
+      "patent_id": "patent/JP2010269620A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010269620A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107264573A",
+      "primary_language": "en",
+      "publication_date": "2017-10-20",
+      "title": "Train positioning system based on satellite navigation, wireless fingerprint and Big Dipper short message communication",
+      "patent_id": "patent/CN107264573A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107264573A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113247052B",
+      "primary_language": "en",
+      "publication_date": "2021-09-21",
+      "title": "Train positioning method and system",
+      "patent_id": "patent/CN113247052B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113247052B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2020-11-03",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2020-11-05",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ICOMERA AB, SWEDEN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:BJURSTROEM, JOEL;REEL/FRAME:054330/0218"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201103"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-12",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-20",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-11",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-20",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2024-01-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-05",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-27",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2024-02-29",
+      "code": "ZAAB",
+      "title": "Notice of allowance mailed",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ORIGINAL CODE: MN/=."
+        }
+      ]
+    },
+    {
+      "date": "2024-05-06",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-22",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 80
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "230000001413",
+        "name": "cellular effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000001133",
+        "name": "acceleration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004364",
+        "name": "calculation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000012423",
+        "name": "maintenance",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003340",
+        "name": "mental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010191",
+        "name": "image analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009434",
+        "name": "installation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005096",
+        "name": "rolling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004140",
+        "name": "cleaning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007613",
+        "name": "environmental effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006855",
+        "name": "networking",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001690",
+        "name": "polydopamine",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

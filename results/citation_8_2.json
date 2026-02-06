@@ -1,0 +1,604 @@
+{
+  "search_metadata": {
+    "id": "697a3634526c48fb952b9205",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1aee1f96d5e3ead6/697a3634526c48fb952b9205.json",
+    "created_at": "2026-01-28 16:15:48 UTC",
+    "processed_at": "2026-01-28 16:15:48 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN106577549A/en",
+    "raw_html_file": "https://serpapi.com/searches/1aee1f96d5e3ead6/697a3634526c48fb952b9205.html",
+    "total_time_taken": 0.93
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN106577549A/en"
+  },
+  "title": "Insect disease prevention and control method during the Myzus persi cae (Sulzer) breeding process",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/73/23/03/ba118848548164/CN106577549A.pdf",
+  "publication_number": "CN106577549A",
+  "country": "China",
+  "prior_art_keywords": [
+    "control",
+    "tobacco",
+    "aphids",
+    "spodoptera litura",
+    "breeding"
+  ],
+  "prior_art_date": "2016-12-05",
+  "application_number": "CN201611100236.8A",
+  "inventors": [
+    {
+      "name": "\u674e\u5b66\u536b",
+      "link": "https://patents.google.com/?inventor=%E6%9D%8E%E5%AD%A6%E5%8D%AB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%9D%8E%E5%AD%A6%E5%8D%AB"
+    },
+    {
+      "name": "\u97e9\u5929\u534e",
+      "link": "https://patents.google.com/?inventor=%E9%9F%A9%E5%A4%A9%E5%8D%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%9F%A9%E5%A4%A9%E5%8D%8E"
+    },
+    {
+      "name": "\u4efb\u4f1f",
+      "link": "https://patents.google.com/?inventor=%E4%BB%BB%E4%BC%9F",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%BB%BB%E4%BC%9F"
+    },
+    {
+      "name": "\u5f20\u96ea\u5947",
+      "link": "https://patents.google.com/?inventor=%E5%BC%A0%E9%9B%AA%E5%A5%87",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BC%A0%E9%9B%AA%E5%A5%87"
+    },
+    {
+      "name": "\u5f90\u4eae",
+      "link": "https://patents.google.com/?inventor=%E5%BE%90%E4%BA%AE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BE%90%E4%BA%AE"
+    },
+    {
+      "name": "\u548c\u5f3a",
+      "link": "https://patents.google.com/?inventor=%E5%92%8C%E5%BC%BA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%92%8C%E5%BC%BA"
+    },
+    {
+      "name": "\u7f57\u5229\u660e",
+      "link": "https://patents.google.com/?inventor=%E7%BD%97%E5%88%A9%E6%98%8E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%BD%97%E5%88%A9%E6%98%8E"
+    }
+  ],
+  "assignees": [
+    "YUNNAN TOBACCO Co LIJIANG Co"
+  ],
+  "priority_date": "2016-12-05",
+  "filing_date": "2016-12-05",
+  "publication_date": "2017-04-26",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-12-05",
+        "country_code": "CN",
+        "application_number": "CN201611100236.8A",
+        "document_id": "patent/CN106577549A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-12-05",
+      "title": "Application filed by YUNNAN TOBACCO Co LIJIANG Co",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "YUNNAN TOBACCO Co LIJIANG Co"
+    },
+    {
+      "date": "2016-12-05",
+      "title": "Priority to CN201611100236.8A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN106577549A/en"
+    },
+    {
+      "date": "2017-04-26",
+      "title": "Publication of CN106577549A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN106577549A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106577549A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201611100236/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN106577549A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01K67/30",
+      "description": "Rearing or breeding invertebrates",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01G13/00",
+      "description": "Protection of plants",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01M29/30",
+      "description": "Scaring or repelling devices, e.g. bird-scaring apparatus preventing or obstructing access or passage, e.g. by means of barriers, spikes, cords, obstacles or sprinkled water",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method for the prevention and control of pests and diseases in the breeding process of Aphids persicae. According to the time nodes and types of pests and diseases that are prone to occur in different breeding periods and production stages in the process of C. The combination of biological control measures and the whole process of pest control during the breeding process of Aphids aphidsia can effectively reduce the occurrence probability of diseases and insect pests, control the development of hazards, prevent the epidemic of diseases and insect pests in the breeding area, improve the breeding efficiency of Aphis persicae, and can To ensure the high quality of the bred Aphids persicae, and to avoid the risk of introducing diseases and insect pests into the farmland during release and causing the epidemic of diseases and insect pests.",
+  "abstract_original": "\u4e00\u79cd\u70df\u869c\u8327\u8702\u7e41\u80b2\u8fc7\u7a0b\u4e2d\u75c5\u866b\u5bb3\u9632\u63a7\u65b9\u6cd5\uff0c\u8be5\u65b9\u6cd5\u6839\u636e\u70df\u869c\u8327\u8702\u8fc7\u7a0b\u4e2d\u4e0d\u540c\u7e41\u80b2\u65f6\u671f\u3001\u751f\u4ea7\u9636\u6bb5\u5bb9\u6613\u53d1\u751f\u75c5\u866b\u5bb3\u7684\u65f6\u95f4\u8282\u70b9\u548c\u79cd\u7c7b\uff0c\u4ee5\u9884\u9632\u4e3a\u4e3b\uff0c\u91c7\u7528\u7269\u7406\u9632\u62a4\u3001\u5316\u5b66\u9632\u6cbb\u548c\u751f\u7269\u9632\u63a7\u63aa\u65bd\u7ed3\u5408\uff0c\u5bf9\u70df\u869c\u8327\u8702\u7684\u7e41\u80b2\u8fc7\u7a0b\u8fdb\u884c\u75c5\u866b\u5bb3\u5168\u7a0b\u9632\u63a7\uff0c\u80fd\u6709\u6548\u51cf\u5c11\u75c5\u866b\u5bb3\u7684\u53d1\u751f\u673a\u7387\uff0c\u63a7\u5236\u5371\u5bb3\u53d1\u5c55\uff0c\u675c\u7edd\u75c5\u866b\u5bb3\u5728\u7e41\u80b2\u533a\u57df\u5185\u6d41\u884c\uff0c\u63d0\u9ad8\u70df\u869c\u8327\u8702\u7684\u7e41\u80b2\u6548\u7387\uff0c\u80fd\u4fdd\u8bc1\u7e41\u80b2\u5f97\u5230\u7684\u70df\u869c\u8327\u8702\u54c1\u8d28\u4f18\u826f\uff0c\u907f\u514d\u91ca\u653e\u65f6\u5c06\u75c5\u866b\u5bb3\u5f15\u5165\u519c\u7530\u9020\u6210\u75c5\u866b\u5bb3\u6d41\u884c\u7684\u98ce\u9669\u3002",
+  "description_link": "https://serpapi.com/searches/697a3634526c48fb952b9205/google_patents_details/description.html",
+  "claims": [
+    "1.\u70df\u869c\u8327\u8702\u7e41\u80b2\u8fc7\u7a0b\u4e2d\u75c5\u866b\u5bb3\u9632\u63a7\u65b9\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5177\u4f53\u5305\u62ec\u4ee5\u4e0b\u6b65\u9aa4\uff1a1. the method for preventing and controlling diseases and insect pests in the breeding process of Aphids persicae, is characterized in that, specifically comprises the following steps:\n      \n      \n         \uff08a\uff09\u5728\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u8bbe\u7f6e\u5c3c\u9f99\u7f51(a) Nylon nets are set up in the breeding area of Aphids persicae\n      \n      \n         \u5728\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u7684\u56db\u5468\u53ca\u9876\u90e8\u7528\u767d\u8272\u7684\u5c3c\u9f99\u7f51\u9632\u62a4\u8d77\u6765\uff0c\u56db\u5468\u7684\u5c3c\u9f99\u7f51\u4e0a\u8fb9\u53e3\u4e0e\u9876\u90e8\u7684\u5c3c\u9f99\u7f51\u5bf9\u5e94\u8fb9\u53e3\u642d\u63a5\u5728\u4e00\u8d77\uff0c\u4f7f\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u4e0e\u5916\u754c\u73af\u5883\u4e4b\u95f4\u9694\u79bb\uff0c\u5c3c\u9f99\u7f51\u7684\u89c4\u683c\u4e3a70\u76ee\uff0c\u9876\u90e8\u5c3c\u9f99\u7f51\u7684\u79bb\u5730\u8ddd\u79bb\u63a7\u5236\u57281.5-1.8\u7c73\uff1bThe surrounding area and the top of the Aphididae breeding area are protected with white nylon nets, and the side openings of the surrounding nylon nets are overlapped with the corresponding side openings of the nylon netting on the top, so that the distance between the A. For isolation, the specification of the nylon mesh is 70 mesh, and the distance from the ground of the top nylon mesh is controlled at 1.5-1.8 meters;\n      \n      \n         \uff08b\uff09\u5728\u5bc4\u4e3b\u690d\u7269\u57f9\u80b2\u9636\u6bb5\u8fdb\u884c\u75c5\u866b\u5bb3\u9632\u63a7(b) Pest control during the cultivation stage of host plants\n      \n      \n         \u5728\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u5185\u64ad\u79cd\u5bc4\u4e3b\u690d\u7269\u70df\u8349\uff0c\u70df\u8349\u51fa\u82d7\u540e5-10\u5929\uff0c\u7e41\u80b2\u533a\u57df\u5185\u5f00\u59cb\u51fa\u73b0\u6709\u659c\u7eb9\u591c\u86fe\u3001\u70df\u84df\u9a6c\u3001\u6591\u6f5c\u8747\u3001\u70df\u8349\u76f2\u877d\u3001\u91cd\u5bc4\u751f\u8702\u7684\u6210\u866b\u8fc1\u5165\uff0c\u8fdb\u884c\u659c\u7eb9\u591c\u86fe\u7684\u6210\u866b\u9632\u63a7\uff0c\u7136\u540e\u5bf9\u70df\u84df\u9a6c\u3001\u6591\u6f5c\u8747\u3001\u70df\u8349\u76f2\u877d\u3001\u91cd\u5bc4\u751f\u8702\u8fdb\u884c\u9632\u63a7\uff1bThe host plant tobacco is sown in the breeding area of Aphidius tabaci, and 5-10 days after the emergence of tobacco, adults of Spodoptera litura, Thrips tabaci, Liriomyza sativus, Lygus tabacum, and hyperparasitoids begin to migrate into the breeding area , to prevent and control adults of Spodoptera litura, and then to prevent and control Thrips tabaci, Liriomyza sativus, Lygus tabacum, and hyperparasitoids;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e10-20\u5929\uff0c\u8fdb\u884c\u659c\u7eb9\u591c\u86fe\u7684\u866b\u5375\u9632\u63a7\uff1b10-20 days after the emergence of tobacco, carry out the control of the eggs of Spodoptera litura;\n      \n      \n         \uff08c\uff09\u5728\u70df\u869c\u7e41\u80b2\u9636\u6bb5\u8fdb\u884c\u75c5\u866b\u5bb3\u9632\u63a7(c) Control pests and diseases during the breeding stage of Aphids\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e20-25\u5929\uff0c\u5bf9\u70df\u8349\u7684\u75c5\u6b8b\u4f53\u8fdb\u884c\u4e00\u6b21\u5168\u9762\u7684\u6e05\u9664\uff0c\u7136\u540e\u5728\u70df\u8349\u690d\u682a\u4e0a\u63a5\u79cd\u70df\u869c\uff0c\u70df\u8349\u51fa\u82d7\u540e25-30\u5929\uff0c\u8fdb\u884c\u7b2c\u4e8c\u6b21\u659c\u7eb9\u591c\u86fe\u7684\u6210\u866b\u9632\u63a7\u548c\u98df\u869c\u8747\u7684\u6210\u866b\u9632\u63a7\uff0c\u7136\u540e\u5bf9\u767d\u7c89\u75c5\u3001\u869c\u9709\u83cc\u8fdb\u884c\u9632\u63a7\uff1b20-25 days after the emergence of tobacco, carry out a comprehensive removal of the diseased tobacco residues, and then inoculate the tobacco plants with aphids, and 25-30 days after the emergence of tobacco, carry out the second adult insect control of Spodoptera litura and aphid eating Fly adult control, and then control powdery mildew and aphid mold;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e30-35\u5929\uff0c\u5bf9\u70df\u84df\u9a6c\u3001\u6591\u6f5c\u8747\u3001\u70df\u8349\u76f2\u877d\u3001\u91cd\u5bc4\u751f\u8702\u8fdb\u884c\u7b2c\u4e8c\u6b21\u9632\u63a7\uff0c\u7136\u540e\u8fdb\u884c\u7b2c\u4e8c\u6b21\u659c\u7eb9\u591c\u86fe\u7684\u866b\u5375\u9632\u63a7\uff0c\u8fdb\u884c\u98df\u869c\u8747\u5e7c\u866b\u548c\u98df\u869c\u8747\u86f9\u9632\u63a7\uff1b30-35 days after the emergence of tobacco, the second control of Thrips tabaci, Liriomyza tabacum, Lygus tabacum, and hyperparasitic wasps is carried out, and then the eggs of Spodoptera litura are controlled for the second time, and hoverfly larvae are controlled. and hoverfly pupal control;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e35-40\u5929\uff0c\u5bf9\u666e\u901a\u82b1\u53f6\u75c5\u3001\u70df\u8349\u756a\u8304\u6591\u840e\u75c5\u6bd2\u75c5\u8fdb\u884c\u9632\u63a7\uff1b35-40 days after tobacco emergence, prevent and control common mosaic disease and tobacco tomato spotted wilt virus disease;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e40-45\u5929\uff0c\u5bf9\u9ed1\u80eb\u75c5\u3001\u6839\u9ed1\u8150\u75c5\u8fdb\u884c\u9632\u63a7\uff1b40-45 days after tobacco emergence, prevent and control black shank and root black rot;\n      \n      \n         \uff08d\uff09\u70df\u869c\u8327\u8702\u7e41\u80b2\u9636\u6bb5\u75c5\u866b\u5bb3\u9632\u63a7(d) Prevention and control of diseases and insect pests in the breeding stage of Aphids persicae\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e45-50\u5929\uff0c\u5728\u7e41\u80b2\u6709\u70df\u869c\u7684\u70df\u8349\u690d\u682a\u4e0a\u63a5\u79cd\u70df\u869c\u8327\u8702\uff0c\u70df\u869c\u8327\u8702\u63a5\u79cd\u7ed3\u675f\u540e\uff0c\u8fdb\u884c\u7b2c\u4e8c\u6b21\u767d\u7c89\u75c5\u3001\u869c\u9709\u83cc\u9632\u63a7\uff1b45-50 days after the emergence of tobacco, inoculate the Aphids aphids on the tobacco plants breeding with Aphids, after the inoculation of Aphis, carry out the second control of powdery mildew and aphid mold;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e50-53\u5929\uff0c\u8fdb\u884c\u7b2c\u4e09\u6b21\u659c\u7eb9\u591c\u86fe\u7684\u6210\u866b\u548c\u98df\u869c\u8747\u7684\u6210\u866b\u9632\u63a7\uff0c\u6e05\u9664\u70df\u8349\u7684\u75c5\u6b8b\u4f53\uff0c\u5bf9\u70df\u84df\u9a6c\u3001\u6591\u6f5c\u8747\u3001\u70df\u8349\u76f2\u877d\u3001\u91cd\u5bc4\u751f\u8702\u8fdb\u884c\u7b2c\u4e09\u6b21\u9632\u63a7\uff1b50-53 days after the emergence of tobacco, carry out the third prevention and control of adults of Spodoptera litura and hoverflies, remove the diseased residues of tobacco, and carry out the third control of Thrips tabaci, Liriomyza sativae, Lygus tabacum, and hyperparasitoids. Three prevention and control;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e53-57\u5929\uff0c\u5bf9\u666e\u901a\u82b1\u53f6\u75c5\u3001\u70df\u8349\u756a\u8304\u6591\u840e\u75c5\u6bd2\u75c5\u8fdb\u884c\u7b2c\u4e8c\u6b21\u9632\u63a7\uff0c\u7136\u540e\u8fdb\u884c\u7b2c\u4e09\u6b21\u659c\u7eb9\u591c\u86fe\u7684\u866b\u5375\u9632\u63a7\uff0c\u8fdb\u884c\u7b2c\u4e8c\u6b21\u98df\u869c\u8747\u5e7c\u866b\u548c\u98df\u869c\u8747\u86f9\u9632\u63a7\uff1b53-57 days after the emergence of tobacco, the second control of common mosaic disease and tobacco tomato spotted wilt virus disease is carried out, and then the third control of Spodoptera litura eggs is carried out, and the second control of hoverfly larvae and mealworms is carried out. Control of hoverfly pupae;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e57-60\u5929\uff0c\u5bf9\u9ed1\u80eb\u75c5\u3001\u6839\u9ed1\u8150\u75c5\u8fdb\u884c\u7b2c\u4e8c\u6b21\u9632\u63a7\uff0c\u7136\u540e\u8fdb\u884c\u659c\u7eb9\u591c\u86fe\u7684\u5e7c\u866b\u9632\u63a7\uff1b57-60 days after the emergence of tobacco, the second control of black shank and root black rot is carried out, and then the larvae of Spodoptera litura are controlled;\n      \n      \n         \u70df\u8349\u51fa\u82d7\u540e60-70\u5929\uff0c\u7e41\u80b2\u5f97\u5230\u5927\u91cf\u5065\u5eb7\u4f18\u8d28\u7684\u70df\u869c\u8327\u8702\uff1b60-70 days after the emergence of tobacco, a large number of healthy and high-quality Aphids aphids was bred;\n      \n      \n         \u4e0a\u8ff0\u6280\u672f\u65b9\u6848\u4e2d\uff1a\u659c\u7eb9\u591c\u86fe\u7684\u6210\u866b\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u7528\u624b\u6301\u5f0f\u6355\u866b\u7f51\u5bf9\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u5185\u7684\u659c\u7eb9\u591c\u86fe\u6210\u866b\u8fdb\u884c\u4eba\u5de5\u730e\u6355\uff0c\u5c06\u659c\u7eb9\u591c\u86fe\u7684\u6210\u866b\u730e\u5165\u6355\u866b\u7f51\u540e\u7f6e\u6b7b\uff0c\u7136\u540e\u5728\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u5185\u6bcf\u4ea9\u6302\u7f6e1\u20142\u4e2a\u659c\u7eb9\u591c\u86fe\u6027\u8bf1\u5242\u8bf1\u6355\u5668\uff1bAmong the above-mentioned technical schemes: the adult prevention and control method of Spodoptera litura is to manually hunt and catch the adults of Spodoptera litura in the breeding area of Aphidius mignina with a hand-held insect net, and hunt the adults of Spodoptera litura into the insect net and place them dead, and then hang 1-2 sex lure traps for Spodoptera litura per acre in the breeding area of Aphids persicae;\n      \n      \n         \u659c\u7eb9\u591c\u86fe\u7684\u5e7c\u866b\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u5c06\u659c\u7eb9\u591c\u86fe\u4fa7\u6c9f\u8327\u8702\u91ca\u653e\u5230\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u5185\uff0c\u63a7\u5236\u91ca\u653e\u7684\u659c\u7eb9\u591c\u86fe\u4fa7\u6c9f\u8327\u8702\u6570\u91cf\uff1a\u659c\u7eb9\u591c\u86fe\u5e7c\u866b\u6570\u91cf\u4e3a1:10-20\uff1bThe larva prevention and control method of Spodoptera litura is to release the larvae of Spodoptera litura into the breeding area of Aphidida litura, and control the number of released Spodoptera litura larvae: the number of larvae of Spodoptera litura is 1:10- 20;\n      \n      \n         \u659c\u7eb9\u591c\u86fe\u7684\u866b\u5375\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u5c06\u8d64\u773c\u8702\u866b\u5375\u8702\u5361\u653e\u7f6e\u5230\u70df\u8349\u7684\u53f6\u7247\u4e0a\uff0c\u63a7\u5236\u653e\u7f6e\u7684\u8d64\u773c\u8702\u866b\u5375\u6570\u91cf\uff1a\u659c\u7eb9\u591c\u86fe\u866b\u5375\u6570\u91cf\u4e3a1\uff1a20\u201430\uff1bThe egg control method of Spodoptera litura is to place the Trichogramma egg card on the leaves of tobacco, and control the number of placed Trichogramma eggs: the number of Trichogramma eggs is 1:20-30;\n      \n      \n         \u98df\u869c\u8747\u7684\u6210\u866b\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u7528\u624b\u6301\u5f0f\u6355\u866b\u7f51\u5bf9\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u5185\u7684\u98df\u869c\u8747\u6210\u866b\u8fdb\u884c\u4eba\u5de5\u730e\u6355\uff0c\u5c06\u98df\u869c\u8747\u7684\u6210\u866b\u730e\u5165\u6355\u866b\u7f51\u540e\u91ca\u653e\u5230\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u5916\uff1bThe adult control method of hoverfly is to use a hand-held insect net to manually hunt the adult hoverfly in the breeding area of H. outside the breeding area;\n      \n      \n         \u98df\u869c\u8747\u5e7c\u866b\u548c\u98df\u869c\u8747\u86f9\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u5c06\u98df\u869c\u8747\u59ec\u8702\u91ca\u653e\u5230\u70df\u869c\u8327\u8702\u7e41\u80b2\u533a\u57df\u5185\uff0c\u63a7\u5236\u91ca\u653e\u7684\u98df\u869c\u8747\u59ec\u8702\u6570\u91cf\uff1a\u98df\u869c\u8747\u5e7c\u866b\u4e0e\u98df\u869c\u8747\u86f9\u5408\u8ba1\u6570\u91cf\u4e3a1\uff1a20\u201450\uff1bThe prevention and control method of hoverfly larvae and hoverfly pupae is to release the hoverfly larvae into the breeding area of hoverfly wasps, and control the number of released hoverfly wasps: the total number of hoverfly larvae and hoverfly pupae 1:20-50;\n      \n      \n         \u70df\u84df\u9a6c\u3001\u6591\u6f5c\u8747\u3001\u70df\u8349\u76f2\u877d\u3001\u91cd\u5bc4\u751f\u8702\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u75286%\u4e59\u57fa\u591a\u6740\u83cc\u7d202000\u500d\u6db2\u5bf9\u70df\u8349\u7684\u690d\u682a\u8868\u9762\u8fdb\u884c\u55b7\u96fe\uff0c\u7528\u91cf\u63a7\u5236\u5728\u6bcf\u4ea9\u70df\u8349\u55b7\u96fe15-20kg\uff1bThe prevention and control method of thrips tabaci, Liriomyza tabacum, Lygus tabacum, and hyperparasitoids is to spray the surface of tobacco plants with 6% ethyl pleocidin 2000 times, and the dosage is controlled at 15-20kg per mu of tobacco spray;\n      \n      \n         \u666e\u901a\u82b1\u53f6\u75c5\u3001\u70df\u8349\u756a\u8304\u6591\u840e\u75c5\u6bd2\u75c5\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u75282%\u6c28\u57fa\u5be1\u7cd6\u7d20800\u500d\u6db2\u548c0.3%\u8fc7\u78f7\u9178\u9499\u7684\u6df7\u5408\u6db2\u5747\u5300\u55b7\u96fe\u5230\u70df\u8349\u7684\u53f6\u7247\u6b63\u9762\u548c\u80cc\u9762\uff0c\u7528\u91cf\u63a7\u5236\u5728\u6bcf\u4ea9\u70df\u8349\u55b7\u96fe20kg\uff1bThe prevention and control method of common mosaic disease and tobacco tomato spotted wilt virus disease is to spray evenly the mixture of 2% amino-oligosaccharin 800 times solution and 0.3% superphosphate to the front and back of tobacco leaves, and the dosage is controlled at per mu Tobacco spray 20kg;\n      \n      \n         \u767d\u7c89\u75c5\u3001\u869c\u9709\u83cc\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u752825%\u5627\u83cc\u916f1500\u500d\u6db2\u5747\u5300\u55b7\u96fe\u70df\u8349\u7684\u53f6\u7247\u6b63\u9762\u548c\u80cc\u9762\uff0c\u7528\u91cf\u63a7\u5236\u5728\u6bcf\u4ea9\u70df\u8349\u55b7\u96fe20kg\uff1bThe prevention and control method for powdery mildew and aphid mold is to evenly spray the front and back of tobacco leaves with 25% azoxystrobin 1500 times liquid, and the dosage is controlled at 20kg of tobacco spray per mu;\n      \n      \n         \u9ed1\u80eb\u75c5\u3001\u6839\u9ed1\u8150\u75c5\u9632\u63a7\u65b9\u6cd5\u662f\uff0c\u75286%\u8367\u5149\u5047\u5355\u5b62\u6746\u83cc\u30012%\u5948\u4e59\u9178\u53ef\u6e7f\u6027\u7c89\u5242\u548c25%\u7532\u971c\u7075\u53ef\u6e7f\u6027\u7c89\u5242\u5747\u4e3a1500\u500d\u7684\u6df7\u5408\u6db2\u5747\u5300\u55b7\u96fe\u70df\u8349\uff0c\u7528\u91cf\u63a7\u5236\u5728\u6bcf\u4ea9\u70df\u8349\u55b7\u96fe20kg\u3002The method of prevention and control of black shank and root black rot is to use a mixture of 6% Pseudomonas fluorescens, 2% Naacetic Acid WP and 25% Metalaxyl WP to be 1500 times evenly sprayed on tobacco. Controlled at 20kg of tobacco spray per acre."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201611100236.8A",
+      "representative_publication": "CN106577549A",
+      "primary_language": "en",
+      "priority_date": "2016-12-05",
+      "filing_date": "2016-12-05",
+      "title": "Insect disease prevention and control method during the Myzus persi cae (Sulzer) breeding process"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201611100236.8A",
+      "representative_publication": "CN106577549A",
+      "primary_language": "en",
+      "priority_date": "2016-12-05",
+      "filing_date": "2016-12-05",
+      "title": "Insect disease prevention and control method during the Myzus persi cae (Sulzer) breeding process"
+    }
+  ],
+  "family_id": "58596975",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN1706251A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-30",
+        "publication_date": "2005-12-14",
+        "assignee_original": "\u9b4f\u5b8f\u5112",
+        "title": "Composition for treating plant viral diseases and its use",
+        "patent_id": "patent/CN1706251A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1706251A%2Fen"
+      },
+      {
+        "publication_number": "JP2007014232A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-06",
+        "publication_date": "2007-01-25",
+        "assignee_original": "Arysta Lifescience Corp",
+        "title": "Method and apparatus for promoting emergence and mating of insects",
+        "patent_id": "patent/JP2007014232A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007014232A%2Fen"
+      },
+      {
+        "publication_number": "CN201336870Y",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2009-11-04",
+        "assignee_original": "\u4e91\u5357\u7701\u70df\u8349\u516c\u53f8\u7389\u6eaa\u5e02\u516c\u53f8",
+        "title": "Aphidius gifuensis breeding small plastic shed",
+        "patent_id": "patent/CN201336870Y/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN201336870Y%2Fen"
+      },
+      {
+        "publication_number": "CN101663975A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-30",
+        "publication_date": "2010-03-10",
+        "assignee_original": "\u4e91\u5357\u7701\u70df\u8349\u519c\u4e1a\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Method for loosely keeping adult flies of sulzer braconid flies",
+        "patent_id": "patent/CN101663975A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101663975A%2Fen"
+      },
+      {
+        "publication_number": "CN101904320A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-27",
+        "publication_date": "2010-12-08",
+        "assignee_original": "\u4e2d\u5c71\u5927\u5b66",
+        "title": "A method for the mass reproduction of Braconis bispotae",
+        "patent_id": "patent/CN101904320A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101904320A%2Fen"
+      },
+      {
+        "publication_number": "CN102396471A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-15",
+        "publication_date": "2012-04-04",
+        "assignee_original": "\u9655\u897f\u7f8e\u90a6\u519c\u836f\u6709\u9650\u516c\u53f8",
+        "title": "Pesticide composition containing spinetoram",
+        "patent_id": "patent/CN102396471A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102396471A%2Fen"
+      },
+      {
+        "publication_number": "CN102657011A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-10",
+        "publication_date": "2012-09-12",
+        "assignee_original": "\u4e91\u5357\u4e2d\u70df\u5de5\u4e1a\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Tobacco cultivation method for reducing harmfulness of cigarettes",
+        "patent_id": "patent/CN102657011A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102657011A%2Fen"
+      },
+      {
+        "publication_number": "CN103960092A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-06",
+        "publication_date": "2014-08-06",
+        "assignee_original": "\u4e91\u5357\u7701\u70df\u8349\u516c\u53f8\u7389\u6eaa\u5e02\u516c\u53f8",
+        "title": "Three-dimensional biological control method for plant diseases and insect pests of tobacco planting",
+        "patent_id": "patent/CN103960092A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103960092A%2Fen"
+      },
+      {
+        "publication_number": "CN104642390A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-28",
+        "publication_date": "2015-05-27",
+        "assignee_original": "\u4e2d\u56fd\u6c34\u7a3b\u7814\u7a76\u6240",
+        "title": "Biocontrol bacterium and azoxystrobin composition",
+        "patent_id": "patent/CN104642390A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104642390A%2Fen"
+      },
+      {
+        "publication_number": "CN104996228A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-30",
+        "publication_date": "2015-10-28",
+        "assignee_original": "\u674e\u4f69\u9f99",
+        "title": "Comprehensive control method for tomato prodenia litura",
+        "patent_id": "patent/CN104996228A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104996228A%2Fen"
+      },
+      {
+        "publication_number": "CN105165313A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-24",
+        "publication_date": "2015-12-23",
+        "assignee_original": "\u4e2d\u56fd\u70df\u8349\u603b\u516c\u53f8\u56db\u5ddd\u7701\u516c\u53f8",
+        "title": "Method for breeding aphidius gifuensis within short cycle",
+        "patent_id": "patent/CN105165313A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105165313A%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\u5f20\u6d01\u7b49: \"\u5927\u89c4\u6a21\u6269\u7e41\u70df\u869c\u8327\u8702\u7684\u869c\u7c7b\u5bc4\u4e3b\u7b5b\u9009\u7814\u7a76\", \u300a\u4e2d\u56fd\u751f\u7269\u9632\u6cbb\u5b66\u62a5\u300b",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "\u9648\u5bb6\u9a85\u7b49: \"\u300a\u4e2d\u56fd\u869c\u8327\u8702 \u819c\u7fc5\u76ee \u869c\u8327\u8702\u79d1\u300b\", 31 December 2001, \u798f\u5efa\u79d1\u5b66\u6280\u672f\u51fa\u7248\u793e",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN107333596A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-20",
+        "publication_date": "2017-11-10",
+        "assignee_original": "\u5317\u4eac\u5e02\u690d\u7269\u4fdd\u62a4\u7ad9",
+        "title": "A kind of method that watermelon thrips is prevented and treated using Orius",
+        "patent_id": "patent/CN107333596A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107333596A%2Fen"
+      },
+      {
+        "publication_number": "CN112471082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-17",
+        "publication_date": "2021-03-12",
+        "assignee_original": "\u6e56\u5357\u7701\u70df\u8349\u516c\u53f8\u957f\u6c99\u5e02\u516c\u53f8",
+        "title": "Broad-band optimized aphid fly breeding method",
+        "patent_id": "patent/CN112471082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112471082A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_scholar": true,
+      "scholar_id": "6555476970512414129",
+      "scholar_authors": "Heinrichs et al.",
+      "publication_date": "2017",
+      "title": "IPM for tropical crops: rice.",
+      "patent_id": "scholar/6555476970512414129",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6555476970512414129"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4546238926496023550",
+      "scholar_authors": "Skelley et al.",
+      "publication_date": "2004",
+      "title": "A synchronous rearing method for the Asian citrus psyllid and its parasitoids in quarantine",
+      "patent_id": "scholar/4546238926496023550",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4546238926496023550"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "949614774225092139",
+      "scholar_authors": "Dietrich",
+      "publication_date": "2009",
+      "title": "Auchenorrhyncha:(cicadas, spittlebugs, leafhoppers, treehoppers, and planthoppers)",
+      "patent_id": "scholar/949614774225092139",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F949614774225092139"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101496510B",
+      "primary_language": "en",
+      "publication_date": "2012-04-25",
+      "title": "Plant for trapping and killing borers and use method",
+      "patent_id": "patent/CN101496510B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101496510B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15778358945519404155",
+      "scholar_authors": "Iqbal",
+      "publication_date": "2020",
+      "title": "Insect, pest and disease management in rice",
+      "patent_id": "scholar/15778358945519404155",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15778358945519404155"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17411077965494038818",
+      "scholar_authors": "Bhatt et al.",
+      "publication_date": "2018",
+      "title": "Pests of rice",
+      "patent_id": "scholar/17411077965494038818",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17411077965494038818"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109757265A",
+      "primary_language": "en",
+      "publication_date": "2019-05-17",
+      "title": "The pest control method in natural enemy insect mixing field",
+      "patent_id": "patent/CN109757265A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109757265A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106577549A",
+      "primary_language": "en",
+      "publication_date": "2017-04-26",
+      "title": "Insect disease prevention and control method during the Myzus persi cae (Sulzer) breeding process",
+      "patent_id": "patent/CN106577549A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106577549A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108934885A",
+      "primary_language": "en",
+      "publication_date": "2018-12-07",
+      "title": "A kind of method of integrated control Fresh edible soybean primary pest",
+      "patent_id": "patent/CN108934885A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108934885A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4904625940174772237",
+      "scholar_authors": "Khan et al.",
+      "publication_date": "2018",
+      "title": "Pests of apple",
+      "patent_id": "scholar/4904625940174772237",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4904625940174772237"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2149319052463209680",
+      "scholar_authors": "Litsinger et al.",
+      "publication_date": "2013",
+      "title": "The rice whorl maggot, Hydrellia philippina Ferino (Diptera: Ephydridae) in the Philippines: a review",
+      "patent_id": "scholar/2149319052463209680",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2149319052463209680"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12217958481444295753",
+      "scholar_authors": "Chen",
+      "publication_date": "1998",
+      "title": "Ecology of the insect vectors of citrus systemic diseases and their control in Taiwan",
+      "patent_id": "scholar/12217958481444295753",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12217958481444295753"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15591006507992629783",
+      "scholar_authors": "Shiraku",
+      "publication_date": "2020",
+      "title": "ICIPE Makes the first release of parasitoids into the farm in fight against Tuta absoluta",
+      "patent_id": "scholar/15591006507992629783",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15591006507992629783"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105724004B",
+      "primary_language": "en",
+      "publication_date": "2018-07-31",
+      "title": "Method for preventing myzus persicae in three-stage mode during growth period of flue-cured tobacco",
+      "patent_id": "patent/CN105724004B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105724004B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116420569A",
+      "primary_language": "en",
+      "publication_date": "2023-07-14",
+      "title": "A comprehensive prevention and control method for reducing the use of pesticides in southern fresh-eating corn land armyworm Spodoptera",
+      "patent_id": "patent/CN116420569A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116420569A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113016458A",
+      "primary_language": "en",
+      "publication_date": "2021-06-25",
+      "title": "Ecological prevention and control method for rice stem borers",
+      "patent_id": "patent/CN113016458A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113016458A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4054789140038492366",
+      "scholar_authors": "Hajjar et al.",
+      "publication_date": "2023",
+      "title": "Integrated insect pest management techniques for rice [J]. Sustainability. 2023; 15: 4499",
+      "patent_id": "scholar/4054789140038492366",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4054789140038492366"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12042411239867903585",
+      "scholar_authors": "Laneesha et al.",
+      "publication_date": "2020",
+      "title": "Papaya mealybug (Paracoccus marginatus)(Hemiptera: Pseudococcidae): A new threat to agri-horticulture ecosystem",
+      "patent_id": "scholar/12042411239867903585",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12042411239867903585"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111066544A",
+      "primary_language": "en",
+      "publication_date": "2020-04-28",
+      "title": "Method for preventing and treating tomato yellow leaf curl virus",
+      "patent_id": "patent/CN111066544A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111066544A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6018900021584389876",
+      "scholar_authors": "Bentur",
+      "publication_date": "2011",
+      "title": "Insect pests of rice in India and their management",
+      "patent_id": "scholar/6018900021584389876",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6018900021584389876"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111316873A",
+      "primary_language": "en",
+      "publication_date": "2020-06-23",
+      "title": "Planting technology for biologically preventing and controlling high yield of organic rice",
+      "patent_id": "patent/CN111316873A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111316873A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "NL2038351B1",
+      "primary_language": "en",
+      "publication_date": "2025-09-22",
+      "title": "Shrub combination for reserving and conserving natural enemies for cropland ecosystem and use thereof",
+      "patent_id": "patent/NL2038351B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FNL2038351B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6567167373599629798",
+      "scholar_authors": "Prasad",
+      "publication_date": "2022",
+      "title": "Biotic Stresses of Major Pulse Crops and Their Management Strategies",
+      "patent_id": "scholar/6567167373599629798",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6567167373599629798"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2842431289322457231",
+      "scholar_authors": "Mishra et al.",
+      "publication_date": "2007",
+      "title": "Integrated pest management in rice",
+      "patent_id": "scholar/2842431289322457231",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2842431289322457231"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15870251392694599849",
+      "scholar_authors": "Kulkarni",
+      "publication_date": "2020",
+      "title": "Sucking Pests of Grapes",
+      "patent_id": "scholar/15870251392694599849",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15870251392694599849"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-04-26",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2017-04-26",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2019-10-18",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2019-10-18",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2021-11-12",
+      "code": "AD01",
+      "title": "Patent right deemed abandoned"
+    },
+    {
+      "date": "2021-11-12",
+      "code": "AD01",
+      "title": "Patent right deemed abandoned",
+      "attributes": [
+        {
+          "label": "Effective date of abandoning",
+          "value": "20211112"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1096 @@
+{
+  "search_metadata": {
+    "id": "697a3a60556ce39b48fa9528",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a5b3561facd6d83b/697a3a60556ce39b48fa9528.json",
+    "created_at": "2026-01-28 16:33:36 UTC",
+    "processed_at": "2026-01-28 16:33:36 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20200223613A1/en",
+    "raw_html_file": "https://serpapi.com/searches/a5b3561facd6d83b/697a3a60556ce39b48fa9528.html",
+    "total_time_taken": 1.44
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20200223613A1/en"
+  },
+  "title": "Cushioning material for packaging purposes, and method for cushioning an object",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/24/02/69/29f0aee03ba49c/US20200223613A1.pdf",
+  "publication_number": "US20200223613A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "cushioning material",
+    "sheetlike",
+    "edge portion",
+    "sheetlike element",
+    "adhesive"
+  ],
+  "prior_art_date": "2017-07-27",
+  "application_number": "US16/630,984",
+  "inventors": [
+    {
+      "name": "Paul Deis",
+      "link": "https://patents.google.com/?inventor=Paul+Deis",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paul+Deis"
+    }
+  ],
+  "assignees": [
+    "Storopack Hans Reichenecker GmbH"
+  ],
+  "priority_date": "2017-07-27",
+  "filing_date": "2018-07-24",
+  "publication_date": "2020-07-16",
+  "worldwide_applications": {
+    "2017": [
+      {
+        "filing_date": "2017-07-27",
+        "country_code": "DE",
+        "application_number": "DE102017117001.4A",
+        "document_id": "patent/DE102017117001A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ],
+    "2018": [
+      {
+        "filing_date": "2018-07-24",
+        "country_code": "WO",
+        "application_number": "PCT/EP2018/070045",
+        "document_id": "patent/WO2019020631A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2018-07-24",
+        "country_code": "DK",
+        "application_number": "DK18746153.8T",
+        "document_id": "patent/DK3658471T3/en",
+        "legal_status_cat": "active"
+      },
+      {
+        "filing_date": "2018-07-24",
+        "country_code": "EP",
+        "application_number": "EP18746153.8A",
+        "document_id": "patent/EP3658471B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-07-24",
+        "country_code": "US",
+        "application_number": "US16/630,984",
+        "document_id": "patent/US11440718B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2018-07-24",
+        "country_code": "PL",
+        "application_number": "PL18746153T",
+        "document_id": "patent/PL3658471T3/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2018-07-24",
+        "country_code": "ES",
+        "application_number": "ES18746153T",
+        "document_id": "patent/ES2895447T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2018-07-24",
+      "title": "Application filed by Storopack Hans Reichenecker GmbH",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Storopack Hans Reichenecker GmbH"
+    },
+    {
+      "date": "2020-07-16",
+      "title": "Publication of US20200223613A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20200223613A1/en"
+    },
+    {
+      "date": "2020-09-28",
+      "title": "Assigned to STOROPACK HANS REICHENECKER GMBH",
+      "type": "reassignment",
+      "assignee_search": "STOROPACK HANS REICHENECKER GMBH",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DEIS, PAUL"
+      ]
+    },
+    {
+      "date": "2022-09-13",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2022-09-13",
+      "title": "Publication of US11440718B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US11440718B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-04-14",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20200223613.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/16630984"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20200223613"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2020223613A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/16630984/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20200223613"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/3f/f4/6c/076ac199b1d8d8/US20200223613A1-20200716-D00000.png",
+    "https://patentimages.storage.googleapis.com/72/8a/37/4680845bffedca/US20200223613A1-20200716-D00001.png",
+    "https://patentimages.storage.googleapis.com/3c/b5/cf/4ea18ff7d61a1c/US20200223613A1-20200716-D00002.png",
+    "https://patentimages.storage.googleapis.com/fc/6b/a0/39aaabfe434fe5/US20200223613A1-20200716-D00003.png",
+    "https://patentimages.storage.googleapis.com/6c/22/dc/4c720517726142/US20200223613A1-20200716-D00004.png",
+    "https://patentimages.storage.googleapis.com/51/d5/45/dc712631f1fcea/US20200223613A1-20200716-D00005.png",
+    "https://patentimages.storage.googleapis.com/a1/23/95/21edab6404f3db/US20200223613A1-20200716-D00006.png"
+  ],
+  "classifications": [
+    {
+      "code": "B65D81/03",
+      "description": "Wrappers or envelopes with shock-absorbing properties, e.g. bubble films",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B65B55/20",
+      "description": "Embedding contents in shock-absorbing media, e.g. plastic foam, granular material",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A cushioning material for packaging comprises at least one sheetlike element having at least one edge portion and one cushion portion providing a property desired for protecting an item to be packaged. It is proposed that an adhesive system is applied to at least one edge portion, at least in some regions, and is designed for a releasable connection to a different section of another sheetlike element or of the same sheetlike element without auxiliary means and non-destructively.",
+  "description_link": "https://serpapi.com/searches/697a3a60556ce39b48fa9528/google_patents_details/description.html",
+  "claims": [
+    "1. A cushioning material for packaging purposes, comprising at least one sheetlike element, having at least one edge portion delimiting the sheetlike element and a cushion portion, the cushion portion being cushioned and providing a property desired for protecting an item to be packaged, wherein at least one edge portion is at least partially provided with an adhesive system which is designed for such a connection to another portion of another sheetlike element or of the same sheetlike element, the connection being releasable without any auxiliary means, that is, without special heating and without special tools, and non-destructively that is, without damaging the cushion material or the item.",
+    "2. The cushioning material according to claim 1, wherein the detachable adhesive system is designed so that it can be used after releasing at least one more time for a reattachment, in particular that the releasable adhesive system has an adhesive layer with a sticky note adhesive effect, for example, \u00e0 la Post-it\u00ae.",
+    "3. The cushioning material according to claim 1, wherein the adhesive system comprises an adhesive strip extending continuously along the edge portion.",
+    "4. The cushioning material according to claim 1, wherein the adhesive system comprises a non-continuous adhesive strip extending along the edge portion and/or individual adhesive dots.",
+    "5. The cushioning material according to claim 3, wherein the sheetlike element is rectangular in plan view, and that the edge portion on which the adhesive system is applied, is at least one longitudinal edge portion and/or at least one transverse edge portion.",
+    "6. The cushioning material according to claim 1, wherein the cushion portion is made of a paper or cardboard material in which a plurality of bulges is formed.",
+    "7. The cushioning material according to claim 6, wherein a bulge toward one side of the sheetlike element is adjacent to a bulge toward the other side of the sheetlike element.",
+    "8. The cushioning material according to claim 1, wherein the sheetlike element is detachably connected to a further sheetlike element, at least in a storage state, by means of a tear-off region, in particular a perforation or other material weakening.",
+    "9. The cushioning material according to claim 1, wherein in a storage state it comprises a plurality of sheetlike elements that are releasably connected to each other in a zig-zag fold.",
+    "10. A method for cushioning an item with the cushioning material of claim 1, comprising the following steps:\nwrapping the item with the sheetlike element or a plurality of associated sheetlike elements; and fastening at least one edge portion of the sheetlike element or the sheetlike elements by means of the releasable adhesive system, in particular with another edge portion of the sheetlike element or of another sheetlike element."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "DE102017117001.4A",
+      "representative_publication": "DE102017117001A1",
+      "primary_language": "en",
+      "priority_date": "2017-07-27",
+      "filing_date": "2017-07-27",
+      "title": "Padding material for packaging, and method for cushioning an article"
+    },
+    {
+      "application_number": "DE102017117001.4",
+      "filing_date": "2017-07-27"
+    },
+    {
+      "application_number": "PCT/EP2018/070045",
+      "representative_publication": "WO2019020631A1",
+      "primary_language": "en",
+      "priority_date": "2017-07-27",
+      "filing_date": "2018-07-24",
+      "title": "UPHOLSTERY MATERIAL FOR PACKAGING APPLICATIONS, AND METHOD FOR UPHOLSTERING A SUBJECT"
+    }
+  ],
+  "family_id": "63036046",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US3288353A",
+        "primary_language": "en",
+        "priority_date": "1964-12-16",
+        "publication_date": "1966-11-29",
+        "assignee_original": "Mccullough Jane Fiske",
+        "title": "Wrapping material and the fashioning of packaging blanks therefrom",
+        "patent_id": "patent/US3288353A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3288353A%2Fen"
+      },
+      {
+        "publication_number": "DE4307029A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-03-05",
+        "publication_date": "1994-09-08",
+        "assignee_original": "Siemens Ag",
+        "title": "Packaging film",
+        "patent_id": "patent/DE4307029A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4307029A1%2Fen"
+      },
+      {
+        "publication_number": "DE4403751A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-02-08",
+        "publication_date": "1995-08-10",
+        "assignee_original": "Strepp Gmbh & Co Kg Papierfabr",
+        "title": "Upholstery material and process for producing this upholstery material",
+        "patent_id": "patent/DE4403751A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4403751A1%2Fen"
+      },
+      {
+        "publication_number": "US5791476A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-18",
+        "publication_date": "1998-08-11",
+        "assignee_original": "Stekloff; Debra S.",
+        "title": "Package container for vials",
+        "patent_id": "patent/US5791476A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5791476A%2Fen"
+      },
+      {
+        "publication_number": "DE202005006427U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-21",
+        "publication_date": "2005-07-21",
+        "assignee_original": "L\u00d6RSCH, Johannes",
+        "title": "Apparatus for producing gas-filled packing",
+        "patent_id": "patent/DE202005006427U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202005006427U1%2Fen"
+      },
+      {
+        "publication_number": "DE202006007031U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-04-21",
+        "publication_date": "2006-08-31",
+        "assignee_original": "Degen, J\u00fcrgen",
+        "title": "Packing upholstery for filling hollow chambers in packaging made from paper and/or cardboard comprises lens-like hollow chambers each connected together on a narrow side of the lens shape",
+        "patent_id": "patent/DE202006007031U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202006007031U1%2Fen"
+      },
+      {
+        "publication_number": "US20090107862A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-10-24",
+        "publication_date": "2009-04-30",
+        "assignee_original": "Pascua Shelle B",
+        "title": "Fraud resistant stored value card and carrier system",
+        "patent_id": "patent/US20090107862A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090107862A1%2Fen"
+      },
+      {
+        "publication_number": "US20090078590A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-21",
+        "publication_date": "2009-03-26",
+        "assignee_original": "Smith Dennis R",
+        "title": "Ultrasecure card package",
+        "patent_id": "patent/US20090078590A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090078590A1%2Fen"
+      },
+      {
+        "publication_number": "DE102012102432B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-03-22",
+        "publication_date": "2013-08-08",
+        "assignee_original": "Rima Wolf",
+        "title": "Improved packaging",
+        "patent_id": "patent/DE102012102432B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012102432B4%2Fen"
+      },
+      {
+        "publication_number": "US20130216788A1",
+        "primary_language": "en",
+        "priority_date": "2012-02-16",
+        "publication_date": "2013-08-22",
+        "assignee_original": "Sealed Air Corporation (Us)",
+        "title": "Fan-Folded Cellular Cushioning Article",
+        "patent_id": "patent/US20130216788A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130216788A1%2Fen"
+      },
+      {
+        "publication_number": "DE202013002120U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-06",
+        "publication_date": "2013-03-18",
+        "assignee_original": "Moldex-Metric Ag & Co. Kg",
+        "title": "Protective device for a portable utility object",
+        "patent_id": "patent/DE202013002120U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202013002120U1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20230311443A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-15",
+        "publication_date": "2023-10-05",
+        "assignee_original": "Storopack Hans Reichenecker Gmbh",
+        "title": "An embossed wrapping material",
+        "patent_id": "patent/US20230311443A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230311443A1%2Fen"
+      },
+      {
+        "publication_number": "WO2023232650A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-31",
+        "publication_date": "2023-12-07",
+        "assignee_original": "Storopack Hans Reichenecker Gmbh",
+        "title": "Embossed cushioning material for protecting an object",
+        "patent_id": "patent/WO2023232650A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023232650A1%2Fen"
+      },
+      {
+        "publication_number": "US20240270468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-15",
+        "publication_date": "2024-08-15",
+        "assignee_original": "3M Innovative Properties Company",
+        "title": "Compostable compositions, articles and methods of making compostable articles",
+        "patent_id": "patent/US20240270468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240270468A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "EP3939778A1",
+        "primary_language": "en",
+        "priority_date": "2020-07-15",
+        "publication_date": "2022-01-19",
+        "assignee_original": "Storopack Hans Reichenecker GmbH",
+        "title": "Arrangement for producing embossed cushioning material and method for producing embossed cushioning material",
+        "patent_id": "patent/EP3939778A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3939778A1%2Fen"
+      },
+      {
+        "publication_number": "EP3939906B1",
+        "primary_language": "en",
+        "priority_date": "2020-07-15",
+        "publication_date": "2024-02-14",
+        "assignee_original": "Storopack Hans Reichenecker GmbH",
+        "title": "A supply of cushioning material for wrapping at least one object",
+        "patent_id": "patent/EP3939906B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3939906B1%2Fen"
+      },
+      {
+        "publication_number": "EP3939905A1",
+        "primary_language": "en",
+        "priority_date": "2020-07-15",
+        "publication_date": "2022-01-19",
+        "assignee_original": "Storopack Hans Reichenecker GmbH",
+        "title": "An embossed cushioning material for wrapping an article",
+        "patent_id": "patent/EP3939905A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3939905A1%2Fen"
+      },
+      {
+        "publication_number": "US20250135760A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-27",
+        "publication_date": "2025-05-01",
+        "assignee_original": "Storopack Hans Reichenecker Gmbh",
+        "title": "Stock of a protective packaging material, method for manufacturing a protective packaging product, and protective packaging product",
+        "patent_id": "patent/US20250135760A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250135760A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11440718B2",
+      "primary_language": "en",
+      "publication_date": "2022-09-13",
+      "title": "Cushioning material for packaging purposes, and method for cushioning an object",
+      "patent_id": "patent/US11440718B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11440718B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10427813B2",
+      "primary_language": "en",
+      "publication_date": "2019-10-01",
+      "title": "Methods of packaging products and packaging arrangements using a shrinkable protective cover to keep a graphic on a band formed, intact, and visible",
+      "patent_id": "patent/US10427813B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10427813B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "ES2535646T3",
+      "primary_language": "en",
+      "publication_date": "2015-05-13",
+      "title": "Set of boxes for packaging and method for stacking boxes on a pallet",
+      "patent_id": "patent/ES2535646T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2535646T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20100155292A1",
+      "primary_language": "en",
+      "publication_date": "2010-06-24",
+      "title": "Naked collation package",
+      "patent_id": "patent/US20100155292A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100155292A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6240734B1",
+      "primary_language": "en",
+      "publication_date": "2017-11-29",
+      "title": "Film packaging tissue manufacturing method and film packaging tissue assembly packaging body manufacturing method",
+      "patent_id": "patent/JP6240734B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6240734B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7032691B2",
+      "primary_language": "en",
+      "publication_date": "2022-03-09",
+      "title": "Fixing sheet",
+      "patent_id": "patent/JP7032691B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7032691B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113226728A",
+      "primary_language": "en",
+      "publication_date": "2021-08-06",
+      "title": "Compression resistant packaging material and construction",
+      "patent_id": "patent/CN113226728A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113226728A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7392891B2",
+      "primary_language": "en",
+      "publication_date": "2023-12-06",
+      "title": "How to store items using packaging bags",
+      "patent_id": "patent/JP7392891B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7392891B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1457424A1",
+      "primary_language": "en",
+      "publication_date": "2004-09-15",
+      "title": "Packaging for round-shaped biscuits",
+      "patent_id": "patent/EP1457424A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1457424A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12077360B2",
+      "primary_language": "en",
+      "publication_date": "2024-09-03",
+      "title": "Supply of cushioning material for wrapping at least one object",
+      "patent_id": "patent/US12077360B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12077360B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4287991A",
+      "primary_language": "en",
+      "publication_date": "1981-09-08",
+      "title": "Modularized unit load and disposable pallet therefor",
+      "patent_id": "patent/US4287991A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4287991A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5894447B2",
+      "primary_language": "en",
+      "publication_date": "2016-03-30",
+      "title": "Cardboard box",
+      "patent_id": "patent/JP5894447B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5894447B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3590867B1",
+      "primary_language": "en",
+      "publication_date": "2021-10-06",
+      "title": "Method for packing a pre-assembled product for use at a roof and packaging unit for such a product comprising a first and second packing",
+      "patent_id": "patent/EP3590867B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3590867B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7344021B2",
+      "primary_language": "en",
+      "publication_date": "2008-03-18",
+      "title": "Package block of envelopes",
+      "patent_id": "patent/US7344021B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7344021B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017129995A1",
+      "primary_language": "en",
+      "publication_date": "2017-08-03",
+      "title": "Packaging material",
+      "patent_id": "patent/WO2017129995A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017129995A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2015137112A",
+      "primary_language": "en",
+      "publication_date": "2015-07-30",
+      "title": "Binding tack label",
+      "patent_id": "patent/JP2015137112A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2015137112A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002029565A",
+      "primary_language": "en",
+      "publication_date": "2002-01-29",
+      "title": "Integrated packaging products",
+      "patent_id": "patent/JP2002029565A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002029565A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5675000B2",
+      "primary_language": "en",
+      "publication_date": "2015-02-25",
+      "title": "Delivery envelope bag",
+      "patent_id": "patent/JP5675000B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5675000B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240116692A1",
+      "primary_language": "en",
+      "publication_date": "2024-04-11",
+      "title": "Packaging envelope insertion-type paper buffer safety member",
+      "patent_id": "patent/US20240116692A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240116692A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2020070042A",
+      "primary_language": "en",
+      "publication_date": "2020-05-07",
+      "title": "Label roll packaging body",
+      "patent_id": "patent/JP2020070042A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2020070042A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2005022714A",
+      "primary_language": "en",
+      "publication_date": "2005-01-27",
+      "title": "Packaging container and its part",
+      "patent_id": "patent/JP2005022714A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005022714A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20200130241A",
+      "primary_language": "en",
+      "publication_date": "2020-11-18",
+      "title": "Assembly package, gusset packaging bag, and manufacturing method of gusset packaging bag",
+      "patent_id": "patent/KR20200130241A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20200130241A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3105591U",
+      "primary_language": "en",
+      "publication_date": "2004-11-18",
+      "title": "Attachment envelope",
+      "patent_id": "patent/JP3105591U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3105591U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2005280795A",
+      "primary_language": "en",
+      "publication_date": "2005-10-13",
+      "title": "Cushioning material using air for storage of product",
+      "patent_id": "patent/JP2005280795A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005280795A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2020-01-14",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-17",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED"
+        }
+      ]
+    },
+    {
+      "date": "2020-09-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "STOROPACK HANS REICHENECKER GMBH, GERMANY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:DEIS, PAUL;REEL/FRAME:053900/0667"
+        },
+        {
+          "label": "Effective date",
+          "value": "20191212"
+        }
+      ]
+    },
+    {
+      "date": "2021-08-20",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-21",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-29",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2022-04-26",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2022-05-11",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-24",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 93
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 57
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 56
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000012790",
+        "name": "adhesive layer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003313",
+        "name": "weakening effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011111",
+        "name": "cardboard",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011087",
+        "name": "paperboard",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000123",
+        "name": "paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000007858",
+        "name": "starting material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000758",
+        "name": "substrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "210000004209",
+        "name": "hair",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011324",
+        "name": "bead",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005520",
+        "name": "cutting process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001035",
+        "name": "drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000428",
+        "name": "dust",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004049",
+        "name": "embossing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006261",
+        "name": "foam material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007689",
+        "name": "inspection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012858",
+        "name": "packaging process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

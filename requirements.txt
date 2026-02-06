@@ -1,0 +1,6 @@
+opensearch-py==2.8.0
+dotenv
+requests
+crewai>=0.30.0
+langchain-core==0.3.63
+langchain-ollama==0.3.3

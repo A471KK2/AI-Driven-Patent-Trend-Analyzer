@@ -1,0 +1,786 @@
+{
+  "search_metadata": {
+    "id": "697a34c9d08cfec20c5f85da",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/05179fbfa84423ec/697a34c9d08cfec20c5f85da.json",
+    "created_at": "2026-01-28 16:09:45 UTC",
+    "processed_at": "2026-01-28 16:09:45 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20210096562A1/en",
+    "raw_html_file": "https://serpapi.com/searches/05179fbfa84423ec/697a34c9d08cfec20c5f85da.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20210096562A1/en"
+  },
+  "title": "System and Method for Controlling Tiltrotor Aircraft",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/9d/32/b7/85bc8f6b60aebf/US20210096562A1.pdf",
+  "publication_number": "US20210096562A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "rotorcraft",
+    "flight control",
+    "flight",
+    "ruddervator",
+    "control device"
+  ],
+  "prior_art_date": "2019-09-27",
+  "application_number": "US16/585,920",
+  "inventors": [
+    {
+      "name": "Paul David Ruckel",
+      "link": "https://patents.google.com/?inventor=Paul+David+Ruckel",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paul+David+Ruckel"
+    },
+    {
+      "name": "Jeremy Robert Chavez",
+      "link": "https://patents.google.com/?inventor=Jeremy+Robert+Chavez",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jeremy+Robert+Chavez"
+    }
+  ],
+  "assignees": [
+    "Textron Innovations Inc",
+    "Bell Textron Rhode Island Inc"
+  ],
+  "priority_date": "2019-09-27",
+  "filing_date": "2019-09-27",
+  "publication_date": "2021-04-01",
+  "worldwide_applications": {
+    "2019": [
+      {
+        "filing_date": "2019-09-27",
+        "country_code": "US",
+        "application_number": "US16/585,920",
+        "document_id": "patent/US11262750B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2020": [
+      {
+        "filing_date": "2020-01-09",
+        "country_code": "EP",
+        "application_number": "EP20151077.3A",
+        "document_id": "patent/EP3798780B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2022": [
+      {
+        "filing_date": "2022-02-28",
+        "country_code": "US",
+        "application_number": "US17/682,095",
+        "document_id": "patent/US11714408B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-09-27",
+      "title": "Application filed by Textron Innovations Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Textron Innovations Inc"
+    },
+    {
+      "date": "2019-09-27",
+      "title": "Priority to US16/585,920",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US11262750B2/en"
+    },
+    {
+      "date": "2019-09-27",
+      "title": "Assigned to Bell Textron Inc.",
+      "type": "reassignment",
+      "assignee_search": "Bell Textron Inc.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CHAVEZ, JEREMY ROBERT, RUCKEL, Paul David"
+      ]
+    },
+    {
+      "date": "2020-01-09",
+      "title": "Priority to EP20151077.3A",
+      "type": "priority",
+      "document_id": "patent/EP3798780B1/en"
+    },
+    {
+      "date": "2021-04-01",
+      "title": "Publication of US20210096562A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20210096562A1/en"
+    },
+    {
+      "date": "2021-04-30",
+      "title": "Assigned to BELL TEXTRON RHODE ISLAND INC.",
+      "type": "reassignment",
+      "assignee_search": "BELL TEXTRON RHODE ISLAND INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: Bell Textron Inc."
+      ]
+    },
+    {
+      "date": "2021-05-13",
+      "title": "Assigned to TEXTRON INNOVATIONS INC.",
+      "type": "reassignment",
+      "assignee_search": "TEXTRON INNOVATIONS INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: BELL TEXTRON RHODE ISLAND INC."
+      ]
+    },
+    {
+      "date": "2022-02-28",
+      "title": "Priority to US17/682,095",
+      "type": "priority",
+      "document_id": "patent/US11714408B2/en"
+    },
+    {
+      "date": "2022-03-01",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2022-03-01",
+      "title": "Publication of US11262750B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US11262750B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2040-03-03",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20210096562.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/16585920"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20210096562"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2021096562A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/16585920/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20210096562"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/80/80/d4/eb6cdff7097255/US20210096562A1-20210401-D00000.png",
+    "https://patentimages.storage.googleapis.com/27/7a/3a/31c2d883d831f0/US20210096562A1-20210401-D00001.png",
+    "https://patentimages.storage.googleapis.com/5e/75/61/b35ffb1790bce4/US20210096562A1-20210401-D00002.png",
+    "https://patentimages.storage.googleapis.com/77/78/fb/61d3b3b2f085aa/US20210096562A1-20210401-D00003.png",
+    "https://patentimages.storage.googleapis.com/02/65/5b/7b504fcc96f725/US20210096562A1-20210401-D00004.png",
+    "https://patentimages.storage.googleapis.com/f0/c8/4c/058e1469c65be8/US20210096562A1-20210401-D00005.png",
+    "https://patentimages.storage.googleapis.com/1f/9e/7a/9a0390ff220ea5/US20210096562A1-20210401-D00006.png",
+    "https://patentimages.storage.googleapis.com/d7/d1/d6/07f7486bdb9f9c/US20210096562A1-20210401-D00007.png",
+    "https://patentimages.storage.googleapis.com/ee/db/51/20362c8b353f2b/US20210096562A1-20210401-D00008.png",
+    "https://patentimages.storage.googleapis.com/5b/4f/2b/18f9bf256252d7/US20210096562A1-20210401-D00009.png",
+    "https://patentimages.storage.googleapis.com/9e/5c/e1/315aa8f1337502/US20210096562A1-20210401-D00010.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64C13/503",
+      "description": "Fly-by-Wire",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/0055",
+      "description": "Control of position, course, altitude or attitude of land, water, air or space vehicles, e.g. using automatic pilots with safety arrangements",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C29/0033",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft having its flight directional axis horizontal when grounded the lift during taking-off being created by free or ducted propellers or by blowers the propellers being tiltable relative to the fuselage",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D45/0005",
+      "description": "Devices specially adapted to indicate the position of a movable element of the aircraft, e.g. landing gear",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/0077",
+      "description": "Control of position, course, altitude or attitude of land, water, air or space vehicles, e.g. using automatic pilots with safety arrangements using redundant signals or controls",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/0858",
+      "description": "Control of attitude, i.e. control of roll, pitch, or yaw specially adapted for aircraft specially adapted for vertical take-off of aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C13/16",
+      "description": "Initiating means actuated automatically, e.g. responsive to gust detectors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C27/52",
+      "description": "Tilting of rotor bodily relative to fuselage",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C27/80",
+      "description": "Mechanisms for controlling blade adjustment or movement relative to rotor head, e.g. lag-lead movement for differential adjustment of blade pitch between two or more lifting rotors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C5/02",
+      "description": "Tailplanes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C9/00",
+      "description": "Adjustable control surfaces or members, e.g. rudders",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D2045/0085",
+      "description": "Devices for aircraft health monitoring, e.g. monitoring flutter or vibration",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "In an embodiment, a method includes: adjusting a first flight control device of a rotorcraft to control flight around a first axis of the rotorcraft, the first flight control device exercising flight control authority around the first axis of the rotorcraft; detecting a failure of the first flight control device; transitioning at least a portion of the flight control authority around the first axis of the rotorcraft from the first flight control device to a second flight control device of the rotorcraft, the transitioning being performed automatically in response to detecting the failure of the first flight control device; and adjusting the second flight control device to control flight around the first axis of the rotorcraft, the second flight control device being adjusted by a first control process when the rotorcraft is in a first flight mode, the second flight control device being adjusted by a second control process when the rotorcraft is in a second flight mode.",
+  "description_link": "https://serpapi.com/searches/697a34c9d08cfec20c5f85da/google_patents_details/description.html",
+  "claims": [
+    "1. A method comprising:\nadjusting a first flight control device of a rotorcraft to control flight around a first axis of the rotorcraft, the first flight control device exercising flight control authority around the first axis of the rotorcraft; detecting a failure of the first flight control device; transitioning at least a portion of the flight control authority around the first axis of the rotorcraft from the first flight control device to a second flight control device of the rotorcraft, the transitioning being performed automatically in response to detecting the failure of the first flight control device; and adjusting the second flight control device to control flight around the first axis of the rotorcraft, the second flight control device being adjusted by a first control process when the rotorcraft is in a first flight mode, the second flight control device being adjusted by a second control process when the rotorcraft is in a second flight mode.",
+    "2. The method of claim 1, wherein the first flight control device is a flight control surface disposed on an exterior of the rotorcraft.",
+    "3. The method of claim 2, wherein the flight control surface comprises a ruddervator.",
+    "4. The method of claim 1, wherein the second flight control device is a propulsion assembly.",
+    "5. The method of claim 1, wherein the first flight mode is a vertical flight mode, and the second flight mode is a forward flight mode.",
+    "6. The method of claim 1, wherein detecting the failure of the first flight control device comprises:\naccessing individualized equipment data for the rotorcraft, the individualized equipment data being stored at a computer of the rotorcraft; determining an expected performance of the first flight control device according to the individualized equipment data; measuring actual performance of the first flight control device during flight of the rotorcraft; and determining the first flight control device has failed in response to the actual performance of the first flight control device being less than the expected performance of the first flight control device.",
+    "7. The method of claim 6, wherein the individualized equipment data indicates the center of gravity of the rotorcraft, and wherein the expected performance of the first flight control device is determined according to the center of gravity of the rotorcraft.",
+    "8. The method of claim 6, wherein the individualized equipment data indicates the weight of the rotorcraft, and wherein the expected performance of the first flight control device is determined according to the weight of the rotorcraft.",
+    "9. The method of claim 6 further comprising:\ncollecting usage and maintenance data for the rotorcraft at the computer of the rotorcraft;\nsending the usage and maintenance data to a fleet management server;\nreceiving the individualized equipment data from the fleet management server; and\npersisting the individualized equipment data at the computer of the rotorcraft.",
+    "10. The method of claim 1, wherein detecting the failure of the first flight control device comprises:\ncommanding the first flight control device to move to an expected position; measuring an actual position of the first flight control device after the commanding; and determining the first flight control device has failed in response to the actual position of the first flight control device being mismatched with the expected position of the first flight control device.",
+    "11. A rotorcraft comprising:\na fuselage; a ruddervator mounted at an aft end of the fuselage; a plurality of propulsion assemblies mounted at a forward end of the fuselage; and a flight control computer coupled to the ruddervator and the propulsion assemblies, the flight control computer being configured to:\nadjust the ruddervator to control flight around a yaw axis and a pitch axis of the rotorcraft, the ruddervator exercising flight control authority around the yaw axis and the pitch axis of the rotorcraft;\ntransition at least a portion of the flight control authority around the yaw axis of the rotorcraft from the ruddervator to the propulsion assemblies, the transitioning being performed automatically in response to detecting a failure of the ruddervator, the ruddervator retaining flight control authority around the pitch axis of the rotorcraft after the transition; and\nadjust the propulsion assemblies to control flight around the yaw axis of the rotorcraft, the propulsion assemblies being adjusted by a first control process when the rotorcraft is in a vertical flight mode, the propulsion assemblies being adjusted by a second control process when the rotorcraft is in a forward flight mode.",
+    "12. The rotorcraft of claim 11, further comprising:\na configuration and maintenance computer coupled to the flight control computer, the configuration and maintenance computer being configured to:\ncollect usage and maintenance data for the rotorcraft;\nsend the usage and maintenance data to a fleet management server;\nreceive individualized equipment data for the rotorcraft from the fleet management server; and\npersist the individualized equipment data.",
+    "13. The rotorcraft of claim 12, wherein the flight control computer is further configured to:\naccess the individualized equipment data at the configuration and maintenance computer; determine an expected moment the ruddervator should produce around the yaw axis of the rotorcraft, the expected moment being determined according to the individualized equipment data for the rotorcraft; measure an actual moment the ruddervator produces around the yaw axis of the rotorcraft during flight of the rotorcraft; and determine the ruddervator has failed in response to the actual moment around the yaw axis of the rotorcraft being less than the expected moment around the yaw axis of the rotorcraft.",
+    "14. The rotorcraft of claim 13, wherein the individualized equipment data indicates the center of gravity of the rotorcraft, and wherein the flight control computer is configured to determine the expected moment the ruddervator should produce around the yaw axis of the rotorcraft according to the center of gravity of the rotorcraft.",
+    "15. The rotorcraft of claim 13, wherein the individualized equipment data indicates the weight of the rotorcraft, and wherein the flight control computer is configured to determine the expected moment the ruddervator should produce around the yaw axis of the rotorcraft according to the weight of the rotorcraft.",
+    "16. The rotorcraft of claim 11, wherein the flight control computer is further configured to:\ncommand the ruddervator to move to an expected position; measure an actual position of the ruddervator; and determining the ruddervator has failed in response to the actual position of the ruddervator being mismatched with the expected position of the ruddervator.",
+    "17. The rotorcraft of claim 11, wherein the propulsion assemblies comprise pylon assemblies, and wherein during the first control process the flight control computer is configured to:\nadjust orientations of the pylon assemblies differentially.",
+    "18. The rotorcraft of claim 11, wherein the propulsion assemblies comprise proprotor assemblies, and wherein during the second control process the flight control computer is configured to:\nadjust pitches of the proprotor assemblies differentially.",
+    "19. The rotorcraft of claim 11, wherein the flight control computer is configured to transition only a portion of the flight control authority exercised by the ruddervator to the propulsion assemblies.",
+    "20. The rotorcraft of claim 11, wherein the flight control computer is configured to transition all of the flight control authority exercised by the ruddervator to the propulsion assemblies.",
+    "21. A rotorcraft comprising:\na ruddervator; a plurality of propulsion assemblies; a configuration and maintenance computer configured to store individualized equipment data for the rotorcraft; and a flight control computer coupled to the ruddervator, the propulsion assemblies, and the configuration and maintenance computer, the flight control computer being configured to:\nadjust the ruddervator to control flight around a first axis of the rotorcraft, the ruddervator exercising flight control authority around the first axis of the rotorcraft;\ndetect a failure of the ruddervator according to the individualized equipment data for the rotorcraft;\ntransition at least a portion of the flight control authority around the first axis of the rotorcraft from the ruddervator to the propulsion assemblies, the transitioning being performed automatically in response to detecting the failure of the ruddervator; and\nadjust the propulsion assemblies to control flight around the first axis of the rotorcraft, the propulsion assemblies being adjusted according to the individualized equipment data for the rotorcraft.",
+    "22. The rotorcraft of claim 21 further comprising:\na temperature sensor coupled to the flight control computer;\na pressure sensor coupled to the flight control computer; and\nan altitude sensor coupled to the flight control computer,\nwherein the flight control computer is configured to detect the failure of the ruddervator according to the individualized equipment data for the rotorcraft, a temperature value measured with the temperature sensor, a pressure value measured with the pressure sensor, and an altitude value measured with the altitude sensor.",
+    "23. The rotorcraft of claim 22, wherein the flight control computer is configured to adjust the propulsion assemblies according to the individualized equipment data for the rotorcraft, the temperature value measured with the temperature sensor, the pressure value measured with the pressure sensor, and the altitude value measured with the altitude sensor."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US17/682,095",
+      "relation_type": "Continuation",
+      "representative_publication": "US11714408B2",
+      "primary_language": "en",
+      "priority_date": "2019-09-27",
+      "filing_date": "2022-02-28",
+      "title": "System and method for controlling tiltrotor aircraft"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US16/585,920",
+      "representative_publication": "US11262750B2",
+      "primary_language": "en",
+      "priority_date": "2019-09-27",
+      "filing_date": "2019-09-27",
+      "title": "System and method for controlling tiltrotor aircraft"
+    },
+    {
+      "application_number": "EP20151077.3A",
+      "representative_publication": "EP3798780B1",
+      "primary_language": "en",
+      "priority_date": "2019-09-27",
+      "filing_date": "2020-01-09",
+      "title": "System and method for controlling tiltrotor aircraft"
+    },
+    {
+      "application_number": "US17/682,095",
+      "representative_publication": "US11714408B2",
+      "primary_language": "en",
+      "priority_date": "2019-09-27",
+      "filing_date": "2022-02-28",
+      "title": "System and method for controlling tiltrotor aircraft"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US16/585,920",
+      "representative_publication": "US11262750B2",
+      "primary_language": "en",
+      "priority_date": "2019-09-27",
+      "filing_date": "2019-09-27",
+      "title": "System and method for controlling tiltrotor aircraft"
+    }
+  ],
+  "family_id": "69157664",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US6270038B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-04-22",
+        "publication_date": "2001-08-07",
+        "assignee_original": "Sikorsky Aircraft Corporation",
+        "title": "Unmanned aerial vehicle with counter-rotating ducted rotors and shrouded pusher-prop",
+        "patent_id": "patent/US6270038B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6270038B1%2Fen"
+      },
+      {
+        "publication_number": "CN101048313A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-28",
+        "publication_date": "2007-10-03",
+        "assignee_original": "\u8d1d\u5c14\u76f4\u5347\u673a\u6cf0\u514b\u65af\u7279\u9f99\u516c\u53f8",
+        "title": "Propulsive anti-torque system for rotorcraft",
+        "patent_id": "patent/CN101048313A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101048313A%2Fen"
+      },
+      {
+        "publication_number": "US8523102B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-03",
+        "publication_date": "2013-09-03",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Method and apparatus for aircraft sensor and actuator failure protection using reconfigurable flight control laws",
+        "patent_id": "patent/US8523102B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8523102B2%2Fen"
+      },
+      {
+        "publication_number": "CA2815994C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-12",
+        "publication_date": "2016-03-22",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Propulsive anti-torque nozzle system with rotating thrust director for a rotorcraft",
+        "patent_id": "patent/CA2815994C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2815994C%2Fen"
+      },
+      {
+        "publication_number": "US9334060B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-21",
+        "publication_date": "2016-05-10",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Infrared suppressing exhaust system",
+        "patent_id": "patent/US9334060B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9334060B2%2Fen"
+      },
+      {
+        "publication_number": "US10106253B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-31",
+        "publication_date": "2018-10-23",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Tilting ducted fan aircraft generating a pitch control moment",
+        "patent_id": "patent/US10106253B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10106253B2%2Fen"
+      },
+      {
+        "publication_number": "US11208207B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-31",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Vertical takeoff and landing (VTOL) aircraft",
+        "patent_id": "patent/US11208207B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11208207B2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US11420756B1",
+        "primary_language": "en",
+        "priority_date": "2021-07-01",
+        "publication_date": "2022-08-23",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Systems and methods for fault detection and control in an electric aircraft",
+        "patent_id": "patent/US11420756B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11420756B1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "AU2019257292B2",
+      "primary_language": "en",
+      "publication_date": "2021-06-24",
+      "title": "Multi-UAV management",
+      "patent_id": "patent/AU2019257292B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2019257292B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11599111B2",
+      "primary_language": "en",
+      "publication_date": "2023-03-07",
+      "title": "Reverse tactile cue for rotorcraft rotor overspeed protection",
+      "patent_id": "patent/US11599111B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11599111B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200070966A1",
+      "primary_language": "en",
+      "publication_date": "2020-03-05",
+      "title": "Stuck in Detent Monitors for Collective and Cyclic Sticks",
+      "patent_id": "patent/US20200070966A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200070966A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11714408B2",
+      "primary_language": "en",
+      "publication_date": "2023-08-01",
+      "title": "System and method for controlling tiltrotor aircraft",
+      "patent_id": "patent/US11714408B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11714408B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11972692B2",
+      "primary_language": "en",
+      "publication_date": "2024-04-30",
+      "title": "Unmanned aircraft vehicle state awareness",
+      "patent_id": "patent/US11972692B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11972692B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9567091B2",
+      "primary_language": "en",
+      "publication_date": "2017-02-14",
+      "title": "System and method for maximizing aircraft safe landing capability during one engine inoperative operation",
+      "patent_id": "patent/US9567091B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9567091B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20180301040A1",
+      "primary_language": "en",
+      "publication_date": "2018-10-18",
+      "title": "Optimal flight planner",
+      "patent_id": "patent/US20180301040A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180301040A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110750105A",
+      "primary_language": "en",
+      "publication_date": "2020-02-04",
+      "title": "System and method for rotorcraft flight control",
+      "patent_id": "patent/CN110750105A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110750105A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11468606B2",
+      "primary_language": "en",
+      "publication_date": "2022-10-11",
+      "title": "Systems and method for aligning augmented reality display with real-time location sensors",
+      "patent_id": "patent/US11468606B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11468606B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200354046A1",
+      "primary_language": "en",
+      "publication_date": "2020-11-12",
+      "title": "Differential Rotor Speed Resonance Avoidance System",
+      "patent_id": "patent/US20200354046A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200354046A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110658843A",
+      "primary_language": "en",
+      "publication_date": "2020-01-07",
+      "title": "System and method for determining speed of a rotorcraft",
+      "patent_id": "patent/CN110658843A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110658843A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12084200B2",
+      "primary_language": "en",
+      "publication_date": "2024-09-10",
+      "title": "Ground state determination systems for aircraft",
+      "patent_id": "patent/US12084200B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12084200B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4006317B1",
+      "primary_language": "en",
+      "publication_date": "2025-06-25",
+      "title": "Modeling and integrating aircraft engine installation deltas",
+      "patent_id": "patent/EP4006317B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4006317B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4406834B1",
+      "primary_language": "en",
+      "publication_date": "2025-11-26",
+      "title": "Aircraft actuator verification system and method",
+      "patent_id": "patent/EP4406834B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4406834B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4116190A1",
+      "primary_language": "en",
+      "publication_date": "2023-01-11",
+      "title": "Wear estimation for wear liner bearings",
+      "patent_id": "patent/EP4116190A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4116190A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5585363772764490651",
+      "scholar_authors": "Dantsker et al.",
+      "publication_date": "2025",
+      "title": "Flight testing instrumentation development and integration for a subscale integrated high lift propulsor testbed",
+      "patent_id": "scholar/5585363772764490651",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5585363772764490651"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12371153B2",
+      "primary_language": "en",
+      "publication_date": "2025-07-29",
+      "title": "Error monitors for collective and cyclic sticks",
+      "patent_id": "patent/US12371153B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12371153B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240409239A1",
+      "primary_language": "en",
+      "publication_date": "2024-12-12",
+      "title": "Predicting Structural Loads",
+      "patent_id": "patent/US20240409239A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240409239A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2019-09-27",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BELL TEXTRON INC., TEXAS"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:RUCKEL, PAUL DAVID;CHAVEZ, JEREMY ROBERT;SIGNING DATES FROM 20190926 TO 20190927;REEL/FRAME:050519/0619"
+        }
+      ]
+    },
+    {
+      "date": "2019-09-27",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BELL TEXTRON RHODE ISLAND INC., RHODE ISLAND"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:BELL TEXTRON INC.;REEL/FRAME:056095/0778"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200101"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-30",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2021-05-13",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "TEXTRON INNOVATIONS INC., RHODE ISLAND"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:BELL TEXTRON RHODE ISLAND INC.;REEL/FRAME:056233/0469"
+        },
+        {
+          "label": "Effective date",
+          "value": "20200101"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-08",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-27",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2021-09-21",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-14",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-09",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2025-09-02",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

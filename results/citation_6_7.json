@@ -1,0 +1,517 @@
+{
+  "search_metadata": {
+    "id": "697a35fb7d6e70675d1ef0d0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1a460947cca669f7/697a35fb7d6e70675d1ef0d0.json",
+    "created_at": "2026-01-28 16:14:51 UTC",
+    "processed_at": "2026-01-28 16:14:51 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/JP2006230229A/en",
+    "raw_html_file": "https://serpapi.com/searches/1a460947cca669f7/697a35fb7d6e70675d1ef0d0.html",
+    "total_time_taken": 1.79
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/JP2006230229A/en"
+  },
+  "title": "Method and apparatus for transporting insects and prey plants for natural enemy insects",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/1b/3f/43/dea97c6d05f088/JP2006230229A.pdf",
+  "publication_number": "JP2006230229A",
+  "country": "Japan",
+  "prior_art_keywords": [
+    "prey",
+    "insects",
+    "insect",
+    "natural enemy",
+    "thrips"
+  ],
+  "prior_art_date": "2005-02-23",
+  "application_number": "JP2005046635A",
+  "inventors": [
+    {
+      "name": "Katsuya Shima",
+      "link": "https://patents.google.com/?inventor=Katsuya+Shima",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Katsuya+Shima"
+    },
+    {
+      "name": "\u514b\u5f25 \u5cf6",
+      "link": "https://patents.google.com/?inventor=%E5%85%8B%E5%BC%A5+%E5%B3%B6",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%85%8B%E5%BC%A5+%E5%B3%B6"
+    },
+    {
+      "name": "Yoko Saiki",
+      "link": "https://patents.google.com/?inventor=Yoko+Saiki",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yoko+Saiki"
+    },
+    {
+      "name": "\u967d\u5b50 \u658e\u6728",
+      "link": "https://patents.google.com/?inventor=%E9%99%BD%E5%AD%90+%E6%96%8E%E6%9C%A8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%99%BD%E5%AD%90+%E6%96%8E%E6%9C%A8"
+    },
+    {
+      "name": "Yoshihiro Taguchi",
+      "link": "https://patents.google.com/?inventor=Yoshihiro+Taguchi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yoshihiro+Taguchi"
+    },
+    {
+      "name": "\u7fa9\u5e83 \u7530\u53e3",
+      "link": "https://patents.google.com/?inventor=%E7%BE%A9%E5%BA%83+%E7%94%B0%E5%8F%A3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%BE%A9%E5%BA%83+%E7%94%B0%E5%8F%A3"
+    },
+    {
+      "name": "Tetsuo Wada",
+      "link": "https://patents.google.com/?inventor=Tetsuo+Wada",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Tetsuo+Wada"
+    },
+    {
+      "name": "\u54f2\u592b \u548c\u7530",
+      "link": "https://patents.google.com/?inventor=%E5%93%B2%E5%A4%AB+%E5%92%8C%E7%94%B0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%93%B2%E5%A4%AB+%E5%92%8C%E7%94%B0"
+    }
+  ],
+  "assignees": [
+    "Arysta LifeScience Corp"
+  ],
+  "priority_date": "2005-02-23",
+  "filing_date": "2005-02-23",
+  "publication_date": "2006-09-07",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-02-23",
+        "country_code": "JP",
+        "application_number": "JP2005046635A",
+        "document_id": "patent/JP2006230229A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-02-23",
+      "title": "Application filed by Arysta LifeScience Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Arysta LifeScience Corp"
+    },
+    {
+      "date": "2005-02-23",
+      "title": "Priority to JP2005046635A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP2006230229A/en"
+    },
+    {
+      "date": "2006-09-07",
+      "title": "Publication of JP2006230229A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP2006230229A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Withdrawn",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=JP&NR=2006230229A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/JP/2005046635/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/JP2006230229A"
+    }
+  ],
+  "abstract": "<P>PROBLEM TO BE SOLVED: To provide a method for transporting bait insects for natural enemy insects and their bait plants in which the bait insects for natural enemy insects and their bait plants are compactly transported in lightweight and use of the natural enemy insects is facilitated and to provide an apparatus for transportation used for the method and to provide a method for using bait insects for natural enemy insects.  <P>SOLUTION: Only the bait insects of natural enemy insects and stems, leaves and flower clusters are retained in an apparatus in which a cushioning material is arranged and then, transported and natural enemy insects are released into a field used. Thereby, bait insects and natural enemy insects are efficiently increased.  <P>COPYRIGHT: (C)2006,JPO&NCIPI",
+  "description_link": "https://serpapi.com/searches/697a35fb7d6e70675d1ef0d0/google_patents_details/description.html",
+  "claims": [
+    "\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u3068\u990c\u6606\u866b\u306e\u990c\u690d\u7269\u3068\u3092\u7de9\u885d\u6750\u3067\u4fdd\u8b77\u3057\u305f\u5bb9\u5668\u5185\u306b\u5165\u308c\u3066\u8f38\u9001\u3001\u904b\u642c\u3057\u3001\u8fb2\u4f5c\u7269\u683d\u57f9\u5703\u5834\u306b\u304a\u3044\u3066\u4e88\u3081\u80b2\u3066\u305f\u990c\u6606\u866b\u306e\u990c\u690d\u7269\u4e0a\u306b\u5f53\u8a72\u990c\u6606\u866b\u3092\u653e\u3057\u3001\u305d\u306e\u5f8c\u306b\u8fb2\u4f5c\u7269\u306e\u5bb3\u866b\u306b\u5bfe\u3059\u308b\u5929\u6575\u6606\u866b\u3092\u5f53\u8a72\u990c\u6606\u866b\u306b\u5bc4\u751f\u3055\u305b\u3066\u5897\u6b96\u3055\u305b\u3001\u5f53\u8a72\u5bb3\u866b\u306e\u5897\u52a0\u3092\u6291\u5236\u3057\u8fb2\u4f5c\u7269\u306e\u88ab\u5bb3\u3092\u672a\u7136\u306b\u9632\u3050\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u3002\n\n\u00a0\u00a0A natural enemy prey insect and a prey insect prey plant are transported and transported in a container protected with a buffer material, and the prey insect is released on the prey grown prey plant in the crop cultivation field. A method for transporting prey insects of natural enemy insects, characterized in that the natural enemy insects against crop pests are caused to infest and grow on the prey insects, thereby suppressing the increase of the pests and preventing damage to the crops in advance.",
+    "\u8acb\u6c42\u9805\uff11\u306e\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u306b\u4f7f\u7528\u3059\u308b\u305f\u3081\u306e\u88c5\u7f6e\u3067\u3042\u3063\u3066\u3001\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u3068\u990c\u690d\u7269\u3092\u4fdd\u8b77\u3059\u308b\u305f\u3081\u306e\u7de9\u885d\u6750\u3092\u5bb9\u5668\u5185\u306b\u5099\u3048\u305f\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u7528\u88c5\u7f6e\u3002\n\n\u00a0\u00a0An apparatus for use in the method for transporting prey insects of the natural enemy insects according to claim 1, wherein the container is provided with a buffer material for protecting the prey insects and prey plants of the natural enemy insects. Equipment.",
+    "\u5f53\u8a72\u990c\u6606\u866b\u304c\u30a2\u30d6\u30e9\u30e0\u30b7\u985e\u3067\u3042\u308a\u3001\u5f53\u8a72\u5929\u6575\u6606\u866b\u304c\u30a2\u30d6\u30e9\u30d0\u30c1\u985e\u3067\u3042\u308a\u3001\u5f53\u8a72\u990c\u690d\u7269\u304c\u30a4\u30cd\u79d1\u690d\u7269\u3067\u3042\u308a\u3001\u5f53\u8a72\u990c\u6606\u866b\u3067\u3042\u308b\u30a2\u30d6\u30e9\u30e0\u30b7\u985e\u304c\u5bc4\u751f\u3057\u305f\u830e\u8449\u306e\u307f\u3092\u5207\u308a\u96c6\u3081\u3066\u8acb\u6c42\u9805\uff12\u306b\u8a18\u8f09\u306e\u88c5\u7f6e\u306b\u5165\u308c\u3001\u8f38\u9001\u3001\u904b\u642c\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u3002\n\n\u00a0\u00a03. The bait insect is an aphid, the natural enemy insect is an aphid, the bait plant is a gramineous plant, and only the foliage parasitized by the aphid being the bait insect is collected and collected according to claim 2. The method for transporting prey insects according to claim 1, wherein the method is carried in a device, transported, and transported.",
+    "\u5f53\u8a72\u990c\u6606\u866b\u304c\u30e0\u30ae\u30af\u30d3\u30ec\u30a2\u30d6\u30e9\u30e0\u30b7\u53ca\u3073\u5f53\u8a72\u5929\u6575\u6606\u866b\u304c\u30b3\u30ec\u30de\u30f3\u30a2\u30d6\u30e9\u30d0\u30c1\u3067\u3042\u308b\u304b\u3001\u53c8\u306f\u3001\u5f53\u8a72\u990c\u6606\u866b\u304c\u30e0\u30ae\u30d2\u30b2\u30ca\u30ac\u30a2\u30d6\u30e9\u30e0\u30b7\u53ca\u3073\u5f53\u8a72\u5929\u6575\u6606\u866b\u304c\u30a8\u30eb\u30d3\u30fc\u30a2\u30d6\u30e9\u30d0\u30c1\u3067\u3042\u3063\u3066\u3001\u5f53\u8a72\u990c\u690d\u7269\u304c\u9ea6\u985e\u306e\u830e\u8449\u3067\u3042\u308a\u3001\u5f53\u8a72\u990c\u6606\u866b\u304c\u5bc4\u751f\u3057\u305f\u830e\u8449\u306e\u307f\u3092\u5207\u308a\u96c6\u3081\u3066\u8acb\u6c42\u9805\uff12\u306e\u88c5\u7f6e\u306b\u5165\u308c\u3001\u8f38\u9001\u3001\u904b\u642c\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff13\u306b\u8a18\u8f09\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u3002\n\n\u00a0\u00a0The prey insect is wheat beetle and the natural enemy insect is a coleman abalone, or the prey insect is a wheat aphid and the natural enemy insect is an elbya beetle, and the prey plant is a barley foliage, The method for transporting prey insects according to claim 3, wherein only the foliage parasitized by the prey insects are collected and placed in the apparatus of claim 2, transported and transported.",
+    "\u5f53\u8a72\u990c\u6606\u866b\u304c\u30cf\u30ca\u30a2\u30b6\u30df\u30a6\u30de\u306a\u3069\u306e\u30a2\u30b6\u30df\u30a6\u30de\u985e\u3067\u3042\u308a\u3001\u5f53\u8a72\u5929\u6575\u6606\u866b\u304c\u30bf\u30a4\u30ea\u30af\u30d2\u30e1\u30cf\u30ca\u30ab\u30e1\u30e0\u30b7\u3001\u30c7\u30b8\u30a7\u30cd\u30e9\u30f3\u30b9\u30ab\u30d6\u30ea\u30c0\u30cb\u53ca\u3073\u30a2\u30ea\u30ac\u30bf\u30b7\u30de\u30a2\u30b6\u30df\u30a6\u30de\u306a\u3069\u306e\u30ab\u30e1\u30e0\u30b7\u985e\u3001\u30c0\u30cb\u985e\u53ca\u3073\u30a2\u30b6\u30df\u30a6\u30de\u985e\u3067\u3042\u3063\u3066\u3001\u5f53\u8a72\u990c\u690d\u7269\u304c\u30b9\u30d9\u30ea\u30d2\u30e6\u3001\u30d0\u30fc\u30d9\u30ca\u3001\u30ed\u30fc\u30de\u30f3\u30ab\u30e2\u30df\u30fc\u30eb\u306a\u3069\u306e\u30ad\u30af\u79d1\u690d\u7269\u3001\u53ca\u3073\u30c8\u30a6\u30e2\u30ed\u30b3\u30b7\u96cc\u854a\u3068\u82b1\u7c89\u304b\u3089\u9078\u3070\u308c\u308b\uff11\u7a2e\u4ee5\u4e0a\u3067\u3042\u308a\u3001\u5f53\u8a72\u990c\u6606\u866b\u304c\u5bc4\u751f\u3057\u305f\u830e\u8449\u82b1\u623f\u53c8\u306f\u96cc\u854a\u3068\u82b1\u7c89\u306e\u307f\u3092\u5207\u308a\u96c6\u3081\u3066\u8acb\u6c42\u9805\uff12\u306e\u88c5\u7f6e\u306b\u5165\u308c\u3001\u8f38\u9001\u3001\u904b\u642c\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u3002\n\n\u00a0\u00a0The prey insect is a thrips such as a thrips, and the natural enemy insects are stink bugs such as the tiger beetle, degeneration lancelet mite, and the thrips of the red thrips, mites and thrips, and the prey plant is One or more species selected from Asteraceae plants such as verbena and roman chamomile, and corn pistil and pollen, and only the foliage floret or pistil and pollen infested with the prey insect are collected and placed in the apparatus of claim 2 for transportation. The method for transporting prey insects according to claim 1, wherein the method is transported.",
+    "\u5f53\u8a72\u990c\u6606\u866b\u53ca\u3073\u990c\u690d\u7269\u3092\u5165\u308c\u308b\u88c5\u7f6e\u304c\u3001\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u88fd\u306e\u5186\u7b52\u5f62\u82e5\u3057\u304f\u306f\u76f4\u65b9\u4f53\u53c8\u306f\u888b\u72b6\u3092\u5448\u3059\u308b\u88c5\u7f6e\u3067\u3042\u3063\u3066\u3001\u5916\u90e8\u304b\u3089\u306e\u5727\u8feb\u306b\u3088\u308a\u7834\u58ca\u3057\u96e3\u304f\u3001\u304b\u3064\u5185\u58c1\u306b\u5f53\u8a72\u990c\u6606\u866b\u3092\u4fdd\u8b77\u3059\u308b\u76ee\u7684\u306e\u7de9\u885d\u6750\u3092\u914d\u7f6e\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff12\u306b\u8a18\u8f09\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u7528\u88c5\u7f6e\u3002\n\n\u00a0\u00a0The device for feeding the bait insect and the bait plant is a plastic cylindrical or rectangular parallelepiped or bag-shaped device, which is difficult to be destroyed by external pressure and protects the bait insect on the inner wall The apparatus for transporting prey insects according to claim 2, wherein:",
+    "\u5f53\u8a72\u990c\u6606\u866b\u53ca\u3073\u990c\u690d\u7269\u3092\u5165\u308c\u308b\u88c5\u7f6e\u304c\u3001\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u88fd\u306e\u888b\u72b6\u3067\u3042\u3063\u3066\u3001\u6210\u578b\u3055\u308c\u305f\u9aa8\u683c\u3092\u6709\u3057\u3001\u5f53\u8a72\u990c\u6606\u866b\u3068\u3057\u3066\u306e\u30e0\u30ae\u30af\u30d3\u30ec\u30a2\u30d6\u30e9\u30e0\u30b7\u53c8\u306f\u30e0\u30ae\u30d2\u30b2\u30ca\u30ac\u30a2\u30d6\u30e9\u30e0\u30b7\u53ca\u3073\u5f53\u8a72\u990c\u690d\u7269\u3068\u3057\u3066\u306e\u9ea6\u306e\u830e\u8449\u306e\u8f38\u9001\u4e2d\u306b\u3001\u5982\u4f55\u306a\u308b\u65b9\u5411\u306b\u5411\u3051\u3066\u3082\u305d\u306e\u904b\u642c\u304c\u53ef\u80fd\u3067\u3042\u308b\u8acb\u6c42\u9805\uff16\u306b\u8a18\u8f09\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u7528\u88c5\u7f6e\u3002\n\n\u00a0\u00a0The feeding insect and feeding plant are in a plastic bag-like shape and have a molded skeleton, and the wheat insect or aphid beetle as the feeding insect and the barley foliage as the feeding plant The device for transporting prey insects according to claim 6, which can be transported in any direction during transport.",
+    "\u5f53\u8a72\u990c\u6606\u866b\u53ca\u3073\u990c\u690d\u7269\u3092\u5165\u308c\u308b\u88c5\u7f6e\u304c\u3001\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u88fd\u306e\u888b\u72b6\u3067\u3042\u3063\u3066\u3001\u6210\u578b\u3055\u308c\u305f\u9aa8\u683c\u3092\u6709\u3057\u3001\u5f53\u8a72\u990c\u6606\u866b\u3068\u3057\u3066\u306e\u30cf\u30ca\u30a2\u30b6\u30df\u30a6\u30de\u53ca\u3073\u5f53\u8a72\u990c\u690d\u7269\u3068\u3057\u3066\u306e\u30b9\u30d9\u30ea\u30d2\u30e6\u3001\u30d0\u30fc\u30d9\u30ca\u3001\u82e5\u3057\u304f\u306f\u30ed\u30fc\u30de\u30f3\u30ab\u30e2\u30df\u30fc\u30eb\u306a\u3069\u306e\u30ad\u30af\u79d1\u690d\u7269\u306e\u830e\u8449\u82b1\u623f\u3001\u53c8\u306f\u30c8\u30a6\u30e2\u30ed\u30b3\u30b7\u96cc\u854a\u3068\u82b1\u7c89\u306e\u8f38\u9001\u4e2d\u306b\u3001\u5982\u4f55\u306a\u308b\u65b9\u5411\u306b\u5411\u3051\u3066\u3082\u305d\u306e\u904b\u642c\u304c\u53ef\u80fd\u3067\u3042\u308b\u8acb\u6c42\u9805\uff16\u306b\u8a18\u8f09\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u7528\u88c5\u7f6e\u3002\n\n\u00a0\u00a0The feeding insect and feeding plant are in a plastic bag shape, have a molded skeleton, such as the thrips as the feeding insect and the purslane, verbena, or roman chamomile as the feeding plant The apparatus for transporting prey insects according to claim 6, which can be transported in any direction during the transportation of foliage florets of asteraceae plants or corn pistil and pollen.",
+    "\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u306b\u3088\u308a\u904b\u642c\u3055\u308c\u3001\u5f53\u8a72\u904b\u642c\u5bb9\u5668\u5185\u306e\u990c\u6606\u866b\u304c\u5bc4\u751f\u3057\u305f\u990c\u690d\u7269\u3067\u3042\u308b\u3001\u9ea6\u306e\u830e\u8449\uff1b\u30b9\u30d9\u30ea\u30d2\u30e6\u3001\u30d0\u30fc\u30d9\u30ca\u3001\u82e5\u3057\u304f\u306f\u30ed\u30fc\u30de\u30f3\u30ab\u30e2\u30df\u30fc\u30eb\u306a\u3069\u306e\u30ad\u30af\u79d1\u690d\u7269\u306e\u830e\u8449\u82b1\u623f\uff1b\u53c8\u306f\u30c8\u30a6\u30e2\u30ed\u30b3\u30b7\u96cc\u854a\u3068\u82b1\u7c89\u3092\u3001\u8fb2\u4f5c\u7269\u683d\u57f9\u5703\u5834\u306b\u4e88\u3081\u80b2\u6210\u3057\u305f\u990c\u690d\u7269\u3067\u3042\u308b\u9ea6\u985e\u306e\u830e\u8449\u3042\u308b\u3044\u306f\u82b1\u985e\u306e\u82b1\u5f01\u306b\u8f09\u305b\u3001\u5f53\u8a72\u5703\u5834\u5185\u3067\u990c\u6606\u866b\u3092\u5897\u6b96\u3055\u305b\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u4f7f\u7528\u65b9\u6cd5\u3002\n\n\u00a0\u00a0Wheat stalks and leaves, which are transported by the method for transporting prey insects of natural enemy insects according to claim 1 and parasitized by the prey insects in the transporting containers; of asteraceae plants such as purslane, verbena or roman chamomile Stem and leaf inflorescence; or corn pistil and pollen are placed on the stems and leaves of wheat, which is a prey cultivated in a crop cultivation field, or petals of flowers, and the prey insects are propagated in the field. How to use prey insects.",
+    "\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u306b\u3088\u308a\u904b\u642c\u3055\u308c\u305f\u5f53\u8a72\u990c\u6606\u866b\u304c\u30a2\u30d6\u30e9\u30e0\u30b7\u985e\u3067\u3042\u3063\u3066\u3001\u305d\u306e\u5929\u6575\u6606\u866b\u3067\u3042\u308b\u30b3\u30ec\u30de\u30f3\u30a2\u30d6\u30e9\u30d0\u30c1\u53c8\u306f\u30a8\u30eb\u30d3\u30fc\u30a2\u30d6\u30e9\u30d0\u30c1\u3092\u3001\u3055\u3089\u306b\u8fb2\u4f5c\u7269\u683d\u57f9\u5703\u5834\u306b\u304a\u3044\u3066\u80b2\u6210\u3057\u305f\u9ea6\u985e\u306b\u653e\u3057\u3066\u3001\u5f53\u8a72\u5897\u52a0\u3055\u305b\u305f\u990c\u6606\u866b\u306b\u5bc4\u751f\u3055\u305b\u3066\u5897\u6b96\u3055\u305b\u3001\u5703\u5834\u5185\u306e\u5929\u6575\u6606\u866b\u306e\u751f\u606f\u91cf\u3092\u5897\u52a0\u3055\u305b\u3001\u5897\u52a0\u3057\u305f\u5f53\u8a72\u5929\u6575\u6606\u866b\u306b\u3088\u308a\u3001\u5703\u5834\u306b\u4fb5\u5165\u3057\u305f\u5bb3\u866b\u3067\u3042\u308b\u30a2\u30d6\u30e9\u30e0\u30b7\u985e\u306e\u5897\u52a0\u3092\u6291\u5236\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u3001\u8acb\u6c42\u9805\uff19\u306b\u8a18\u8f09\u306e\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u4f7f\u7528\u65b9\u6cd5\u3002\n\n\u00a0\u00a0The said prey insect carried by the carrying method of the prey insect of the natural enemy insect according to claim 1 is an aphid, and the wheat that was further cultivated in the crop cultivation field is the natural enemy insect, Koreman Arabati or Elbya To increase the amount of natural enemy insects in the field, increase the amount of natural enemy insects in the field, and suppress the increase in aphids that are pests that have invaded the field. The method of using a prey insect of the natural enemy insect according to claim 9, wherein",
+    "\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u904b\u642c\u65b9\u6cd5\u306b\u3088\u308a\u904b\u642c\u3055\u308c\u305f\u5f53\u8a72\u990c\u6606\u866b\u304c\u30a2\u30b6\u30df\u30a6\u30de\u985e\u3067\u3042\u3063\u3066\u3001\u305d\u306e\u5929\u6575\u6606\u866b\u3067\u3042\u308b\u30bf\u30a4\u30ea\u30af\u30d2\u30e1\u30cf\u30ca\u30ab\u30e1\u30e0\u30b7\u3001\u30c7\u30b8\u30a7\u30cd\u30e9\u30f3\u30b9\u30ab\u30d6\u30ea\u30c0\u30cb\u3001\u53ca\u3073\u30a2\u30ea\u30ac\u30bf\u30b7\u30de\u30a2\u30b6\u30df\u30a6\u30de\u3092\u3001\u3055\u3089\u306b\u8fb2\u4f5c\u7269\u683d\u57f9\u5703\u5834\u306b\u304a\u3044\u3066\u80b2\u6210\u3057\u305f\u82b1\u985e\u306e\u82b1\u5f01\u306b\u653e\u3057\u3066\u3001\u5f53\u8a72\u5897\u52a0\u3055\u305b\u305f\u990c\u6606\u866b\u306b\u5bc4\u751f\u3055\u305b\u3066\u5897\u6b96\u3055\u305b\u3001\u5703\u5834\u5185\u306e\u5929\u6575\u6606\u866b\u306e\u751f\u606f\u91cf\u3092\u5897\u52a0\u3055\u305b\u3001\u5897\u52a0\u3057\u305f\u5f53\u8a72\u5929\u6575\u6606\u866b\u306b\u3088\u308a\u3001\u5703\u5834\u306b\u4fb5\u5165\u3057\u305f\u5bb3\u866b\u3067\u3042\u308b\u30a2\u30b6\u30df\u30a6\u30de\u985e\u306e\u5897\u52a0\u3092\u6291\u5236\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff19\u306b\u8a18\u8f09\u306e\u5929\u6575\u6606\u866b\u306e\u990c\u6606\u866b\u306e\u4f7f\u7528\u65b9\u6cd5\u3002\n\nThe prey insect transported by the method for transporting prey insects of the natural enemy insect according to claim 1 is a thrips, and the natural enemy insects of the tiger spider, the degenerant cabbage mite, and the Arigatashima thrips, Release to the petals of the flowers grown in the crop cultivation field, infest the increased prey insects, increase the amount of natural enemy insects in the field, and enter the field by the increased natural enemy insects The method for using a prey insect of a natural enemy insect according to claim 9, wherein an increase in thrips that are pests is suppressed."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP2005046635A",
+      "representative_publication": "JP2006230229A",
+      "primary_language": "en",
+      "priority_date": "2005-02-23",
+      "filing_date": "2005-02-23",
+      "title": "Method and apparatus for transporting insects and prey plants for natural enemy insects"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2005046635A",
+      "representative_publication": "JP2006230229A",
+      "primary_language": "en",
+      "priority_date": "2005-02-23",
+      "filing_date": "2005-02-23",
+      "title": "Method and apparatus for transporting insects and prey plants for natural enemy insects"
+    }
+  ],
+  "family_id": "37038553",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "KR100720977B1",
+        "primary_language": "en",
+        "priority_date": "2006-09-29",
+        "publication_date": "2007-05-23",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc138\uc2e4",
+        "title": "Structure for spinning natural enemies and pest control method using the same",
+        "patent_id": "patent/KR100720977B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100720977B1%2Fen"
+      },
+      {
+        "publication_number": "JP2013252123A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-24",
+        "publication_date": "2013-12-19",
+        "assignee_original": "National Agriculture & Food Research Organization",
+        "title": "Method and container for rearing natural enemy insect of spider mite",
+        "patent_id": "patent/JP2013252123A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013252123A%2Fen"
+      },
+      {
+        "publication_number": "CN103478117A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-21",
+        "publication_date": "2014-01-01",
+        "assignee_original": "\u4e91\u5357\u745e\u5347\u70df\u8349\u6280\u672f\uff08\u96c6\u56e2\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Diffusion breeding and releasing method for preventing myzus persicae through harmonia axyridis",
+        "patent_id": "patent/CN103478117A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103478117A%2Fen"
+      },
+      {
+        "publication_number": "JP2014531209A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-20",
+        "publication_date": "2014-11-27",
+        "assignee_original": "\u30b3\u30c3\u30d1\u30fc\u30c8\u30fb\u30d9\u30b9\u30ed\u30fc\u30c6\u30f3\u30fb\u30d5\u30a7\u30f3\u30ce\u30fc\u30c8\u30b7\u30e3\u30c3\u30d7",
+        "title": "Predatory mite release system and method of preparation.",
+        "patent_id": "patent/JP2014531209A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2014531209A%2Fen"
+      },
+      {
+        "publication_number": "CN105211006A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-21",
+        "publication_date": "2016-01-06",
+        "assignee_original": "\u5e7f\u4e1c\u7701\u7cae\u98df\u79d1\u5b66\u7814\u7a76\u6240",
+        "title": "Parasitic wasp class natural enemy release cup and parasitic wasp class natural enemy sustained release method",
+        "patent_id": "patent/CN105211006A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105211006A%2Fen"
+      },
+      {
+        "publication_number": "CN105831020A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-07",
+        "publication_date": "2016-08-10",
+        "assignee_original": "\u5e7f\u897f\u5357\u5b81\u76ca\u571f\u751f\u7269\u79d1\u6280\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Automatic-moisturizing rice planthopper breeding box",
+        "patent_id": "patent/CN105831020A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105831020A%2Fen"
+      },
+      {
+        "publication_number": "JP2016146792A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-13",
+        "publication_date": "2016-08-18",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30a2\u30b0\u30ea\u7dcf\u7814",
+        "title": "Manufacturing method of bunker type biological pesticide",
+        "patent_id": "patent/JP2016146792A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2016146792A%2Fen"
+      },
+      {
+        "publication_number": "CN112167173A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-28",
+        "publication_date": "2021-01-05",
+        "assignee_original": "\u798f\u5efa\u7701\u519c\u4e1a\u79d1\u5b66\u9662\u6c34\u7a3b\u7814\u7a76\u6240",
+        "title": "Pest natural enemy feeding and releasing device and using method thereof",
+        "patent_id": "patent/CN112167173A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112167173A%2Fen"
+      },
+      {
+        "publication_number": "KR20220028601A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-31",
+        "publication_date": "2022-03-08",
+        "assignee_original": "\uac70\ucc3d\uad70",
+        "title": "Methods of mass rearing and storage about Megoura crassicauda Mordvilko for breeding predatory natural enemies.",
+        "patent_id": "patent/KR20220028601A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20220028601A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_scholar": true,
+      "scholar_id": "2001716991736450496",
+      "scholar_authors": "Dhillon et al.",
+      "publication_date": "2005",
+      "title": "The melon fruit fly, Bactrocera cucurbitae: A review of its biology and management",
+      "patent_id": "scholar/2001716991736450496",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2001716991736450496"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17226501901970931538",
+      "scholar_authors": "Dolinski et al.",
+      "publication_date": "2015",
+      "title": "Insect cadaver applications: pros and cons",
+      "patent_id": "scholar/17226501901970931538",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17226501901970931538"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2006230229A",
+      "primary_language": "en",
+      "publication_date": "2006-09-07",
+      "title": "Method and apparatus for transporting insects and prey plants for natural enemy insects",
+      "patent_id": "patent/JP2006230229A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006230229A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10152222036853197829",
+      "scholar_authors": "Dhakal et al.",
+      "publication_date": "2022",
+      "title": "Arthropod and disease management in boxwood production",
+      "patent_id": "scholar/10152222036853197829",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10152222036853197829"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2006271307A",
+      "primary_language": "en",
+      "publication_date": "2006-10-12",
+      "title": "Method for releasing natural enemy insects, method for transporting and propagating, and device for transporting and propagating",
+      "patent_id": "patent/JP2006271307A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006271307A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2006109726A",
+      "primary_language": "en",
+      "publication_date": "2006-04-27",
+      "title": "Biological control method",
+      "patent_id": "patent/JP2006109726A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006109726A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13906351536180747843",
+      "scholar_authors": "Gonz\u00e1lez-Fern\u00e1ndez et al.",
+      "publication_date": "2022",
+      "title": "Pest and diseases in mango (Mangifera indica L.)",
+      "patent_id": "scholar/13906351536180747843",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13906351536180747843"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1040523950535468459",
+      "scholar_authors": "Usha et al.",
+      "publication_date": "2019",
+      "title": "Pest and disease control strategies in organic fruit production",
+      "patent_id": "scholar/1040523950535468459",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1040523950535468459"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5889625825766934185",
+      "scholar_authors": "Khan",
+      "publication_date": "2021",
+      "title": "Insect pests management in the agriculture plants and crops",
+      "patent_id": "scholar/5889625825766934185",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5889625825766934185"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10554629416510329202",
+      "scholar_authors": "Khatkar et al.",
+      "publication_date": "2025",
+      "title": "Neonicotinoids: A potential insecticide of the decade",
+      "patent_id": "scholar/10554629416510329202",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10554629416510329202"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1307267244220641134",
+      "scholar_authors": "Narayanamma et al.",
+      "publication_date": "2013",
+      "title": "Integrated pest and disease management practices in oilseeds\u2013a critical review",
+      "patent_id": "scholar/1307267244220641134",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1307267244220641134"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "10699813582777738266",
+      "scholar_authors": "Addis et al.",
+      "publication_date": "2010",
+      "title": "Biology, geographical distribution, prevention and control of the enset root mealybug, Cataenococcus ensete (Homoptera: Pseudococcidae) in Ethiopia",
+      "patent_id": "scholar/10699813582777738266",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F10699813582777738266"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5522335620845323998",
+      "scholar_authors": "Channakeshava et al.",
+      "publication_date": "2009",
+      "title": "Seasonal incidence and management of bollworm complex in Bt cotton under irrigated ecosystem",
+      "patent_id": "scholar/5522335620845323998",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5522335620845323998"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2865612B2",
+      "primary_language": "en",
+      "publication_date": "1999-03-08",
+      "title": "Biological pesticide for control of leaf flies and its control method",
+      "patent_id": "patent/JP2865612B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2865612B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "11879417275050895668",
+      "scholar_authors": "SANNAPPA",
+      "publication_date": "2021",
+      "title": "KIRANKUMAR, R.",
+      "patent_id": "scholar/11879417275050895668",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F11879417275050895668"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16856399606768886931",
+      "scholar_authors": "MATCHA",
+      "publication_date": "2021",
+      "title": "Studies on chemical and non-chemical approaches for the management of Spodoptera species complex on soybean and castor and its safety to beneficial insects",
+      "patent_id": "scholar/16856399606768886931",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16856399606768886931"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1795011959521453635",
+      "scholar_authors": "Gautam et al.",
+      "publication_date": "2020",
+      "title": "Specialty Flower Production and Trade Affected by Insect Pests and Quarantine Issues",
+      "patent_id": "scholar/1795011959521453635",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1795011959521453635"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "12576448479378574235",
+      "scholar_authors": "Visser",
+      "publication_date": "2004",
+      "title": "The Potato Tuber Moth, Phthorimaea Operculella (Zeller) in South Africa: Potential Control Measures in Non-refrigerated Store Environments",
+      "patent_id": "scholar/12576448479378574235",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F12576448479378574235"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "13879707084232289300",
+      "scholar_authors": "Epsy",
+      "publication_date": "2025",
+      "title": "Integrated Pest Management Strategies for Sustainable Control of Major Corn Pests",
+      "patent_id": "scholar/13879707084232289300",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F13879707084232289300"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "15519883785303490043",
+      "scholar_authors": "SUBBIAH",
+      "publication_date": "2023",
+      "title": "Management of Cucurbit fruit flies in Bitter gourd by pheromone trap\u2013A Success story",
+      "patent_id": "scholar/15519883785303490043",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F15519883785303490043"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16926737963238052280",
+      "scholar_authors": "Knutson et al.",
+      "publication_date": "2018",
+      "title": "Insect and Disease Pests of Peaches, Plums, and Blackberries in a Small Fruit Orchard",
+      "patent_id": "scholar/16926737963238052280",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16926737963238052280"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7302438187051329659",
+      "scholar_authors": "Rao et al.",
+      "publication_date": "2013",
+      "title": "Handbook on Chickpea and Pigeonpea Insect Pests Identification and Management. Information Bulletin No. 57",
+      "patent_id": "scholar/7302438187051329659",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7302438187051329659"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16343031364004510679",
+      "scholar_authors": "Patel et al.",
+      "publication_date": "2025",
+      "title": "COMPENDIUM COMPENDIUM",
+      "patent_id": "scholar/16343031364004510679",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16343031364004510679"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "733314177208271589",
+      "scholar_authors": "Naher",
+      "publication_date": "2005",
+      "title": "Integrated management of two-spotted spider mite infesting beans",
+      "patent_id": "scholar/733314177208271589",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F733314177208271589"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20120282344A1",
+      "primary_language": "en",
+      "publication_date": "2012-11-08",
+      "title": "Formulation for the biological control of insect-pests",
+      "patent_id": "patent/US20120282344A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120282344A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2008-05-13",
+      "code": "A300",
+      "title": "Application deemed to be withdrawn because no request for examination was validly filed",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "JAPANESE INTERMEDIATE CODE: A300"
+        },
+        {
+          "label": "Effective date",
+          "value": "20080513"
+        }
+      ]
+    }
+  ]
+}

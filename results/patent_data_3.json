@@ -1,0 +1,1037 @@
+{
+  "search_metadata": {
+    "id": "697a3a4dafea45f14ab890be",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/044213e1c9c3283e/697a3a4dafea45f14ab890be.json",
+    "created_at": "2026-01-28 16:33:17 UTC",
+    "processed_at": "2026-01-28 16:33:17 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20200308359A1/en",
+    "raw_html_file": "https://serpapi.com/searches/044213e1c9c3283e/697a3a4dafea45f14ab890be.html",
+    "total_time_taken": 1.54
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20200308359A1/en"
+  },
+  "title": "Compositions and processes for renewable rigid foam",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/e5/1f/45/96940c55a1240c/US20200308359A1.pdf",
+  "publication_number": "US20200308359A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "fiber",
+    "foam",
+    "composition",
+    "binder",
+    "foaming agent"
+  ],
+  "prior_art_date": "2019-03-29",
+  "application_number": "US16/832,650",
+  "inventors": [
+    {
+      "name": "Gregory M. Glenn",
+      "link": "https://patents.google.com/?inventor=Gregory+M.+Glenn",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gregory+M.+Glenn"
+    },
+    {
+      "name": "Xing Jin",
+      "link": "https://patents.google.com/?inventor=Xing+Jin",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Xing+Jin"
+    },
+    {
+      "name": "Gaunt Murdock",
+      "link": "https://patents.google.com/?inventor=Gaunt+Murdock",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gaunt+Murdock"
+    }
+  ],
+  "assignees": [
+    "US Department of Agriculture USDA",
+    "World Centric"
+  ],
+  "priority_date": "2019-03-29",
+  "filing_date": "2020-03-27",
+  "publication_date": "2020-10-01",
+  "worldwide_applications": {
+    "2020": [
+      {
+        "filing_date": "2020-03-27",
+        "country_code": "US",
+        "application_number": "US16/832,650",
+        "document_id": "patent/US20200308359A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      },
+      {
+        "filing_date": "2020-03-30",
+        "country_code": "WO",
+        "application_number": "PCT/US2020/025654",
+        "document_id": "patent/WO2020205701A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2020-03-30",
+        "country_code": "CN",
+        "application_number": "CN202080024910.7A",
+        "document_id": "patent/CN113631774A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2020-03-27",
+      "title": "Application filed by US Department of Agriculture USDA, World Centric",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "US Department of Agriculture USDA"
+    },
+    {
+      "date": "2020-03-27",
+      "title": "Priority to US16/832,650",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US20200308359A1/en"
+    },
+    {
+      "date": "2020-03-30",
+      "title": "Priority to PCT/US2020/025654",
+      "type": "priority",
+      "document_id": "patent/WO2020205701A1/en"
+    },
+    {
+      "date": "2020-03-30",
+      "title": "Priority to CN202080024910.7A",
+      "type": "priority",
+      "document_id": "patent/CN113631774A/en"
+    },
+    {
+      "date": "2020-10-01",
+      "title": "Publication of US20200308359A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20200308359A1/en"
+    },
+    {
+      "date": "2023-01-25",
+      "title": "Assigned to World Centric",
+      "type": "reassignment",
+      "assignee_search": "World Centric",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: JIN, Xing, Murdock, Gaunt"
+      ]
+    },
+    {
+      "date": "2023-07-14",
+      "title": "Assigned to THE UNITED STATES OF AMERICA, AS REPRESENTED BY THE SECRETARY OF AGRICULTURE",
+      "type": "reassignment",
+      "assignee_search": "THE UNITED STATES OF AMERICA, AS REPRESENTED BY THE SECRETARY OF AGRICULTURE",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: GLENN, GREGORY M"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20200308359.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/16832650"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20200308359"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2020308359A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/16832650/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20200308359"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/79/0d/e0/4817fe981cd9db/US20200308359A1-20201001-D00000.png",
+    "https://patentimages.storage.googleapis.com/60/7e/02/edf3fce8151687/US20200308359A1-20201001-D00001.png",
+    "https://patentimages.storage.googleapis.com/79/de/5b/ee281a8dbcdefc/US20200308359A1-20201001-D00002.png",
+    "https://patentimages.storage.googleapis.com/55/42/eb/2b45008c14ce4a/US20200308359A1-20201001-D00003.png",
+    "https://patentimages.storage.googleapis.com/fa/b7/b9/4149a6383ce3ce/US20200308359A1-20201001-D00004.png",
+    "https://patentimages.storage.googleapis.com/a4/b8/24/eb804e394b3870/US20200308359A1-20201001-D00005.png",
+    "https://patentimages.storage.googleapis.com/5c/e1/45/60e307f58c02c5/US20200308359A1-20201001-D00006.png",
+    "https://patentimages.storage.googleapis.com/85/fc/aa/e88043a9f3ee84/US20200308359A1-20201001-D00007.png",
+    "https://patentimages.storage.googleapis.com/af/9b/f4/5be7cfd41d9e2f/US20200308359A1-20201001-D00008.png"
+  ],
+  "classifications": [
+    {
+      "code": "C08J9/009",
+      "description": "Use of pretreated compounding ingredients",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/28",
+      "description": "Working-up of macromolecular substances to porous or cellular articles or materials; After-treatment thereof by elimination of a liquid phase from a macromolecular composition or article, e.g. drying of coagulum",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/0061",
+      "description": "Working-up of macromolecular substances to porous or cellular articles or materials; After-treatment thereof characterized by the use of several polymeric components",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/0085",
+      "description": "Use of fibrous compounding ingredients",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/0095",
+      "description": "Mixtures of at least two compounding ingredients belonging to different one-dot groups",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2301/02",
+      "description": "Cellulose; Modified cellulose",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2303/02",
+      "description": "Starch; Degradation products thereof, e.g. dextrin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2329/04",
+      "description": "Polyvinyl alcohol; Partially hydrolysed homopolymers or copolymers of esters of unsaturated alcohols with saturated carboxylic acids",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2401/26",
+      "description": "Cellulose ethers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2403/02",
+      "description": "Starch; Degradation products thereof, e.g. dextrin",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2429/04",
+      "description": "Polyvinyl alcohol; Partially hydrolysed homopolymers or copolymers of esters of unsaturated alcohols with saturated carboxylic acids",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2497/02",
+      "description": "Lignocellulosic material, e.g. wood, straw or bagasse",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D21F11/00",
+      "description": "Processes for making continuous lengths of paper, or of cardboard, or of wet web for fibre board production, on paper-making machines",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A composition comprising a fiber component, at least one surfactant/foaming agent, at least one dispersant, and optionally at least one binder, wherein the fiber component forms a viscous mixture that is converted to a foam product upon the addition of the surfactant/foaming agent once the viscous mixture reaches a predetermined dryness, wherein the foam product is resistant to shrinkage during drying and remains rigid.",
+  "description_link": "https://serpapi.com/searches/697a3a4dafea45f14ab890be/google_patents_details/description.html",
+  "claims": [
+    "1. A composition comprising a fiber component, at least one foaming agent, at least one dispersant, and at optionally least one binder, wherein the fiber component forms a viscous mixture that is converted to a foam product upon the addition of the foaming agent once the viscous mixture reaches a predetermined dryness, wherein the foam product is resistant to shrinkage during drying and remains rigid.",
+    "2. The composition of claim 1, wherein the fiber component is selected from the group consisting of at least one plant-derived complex carbohydrate, crop waste fibers, wood, lignocellulosic fibrous material, fiber crops, and combinations thereof.",
+    "3. The composition of claim 1, wherein the binder is distributed essentially throughout the fiber component to create a fiber matrix.",
+    "4. The composition of claim 1, wherein the binder is selected from the group consisting of polyvinyl alcohols, starches, gums, alginate, sodium silicate, and combinations thereof.",
+    "5. The composition of claim 1, wherein the binder is native starch.",
+    "6. The composition of claim 1, wherein the foaming agent is SDS.",
+    "7. The composition of claim 1, wherein the binder is polyvinyl alcohol and is present in an amount from 0.5 to about 10 in terms of wt % of the foam product.",
+    "8. The composition of claim 1, wherein said dispersant is selected from the group consisting of polyvinyl alcohol; pregelatinized starches; carboxymethyl cellulose and its derivatives; hydroxymethyl cellulose and its derivatives; water soluble viscosity modifiers; plant gums; and combinations thereof.",
+    "9. The composition of claim 1, wherein the viscous mixture has a predetermined viscosity.",
+    "10. The composition of claim 1, further comprising increased thermal insulative properties.",
+    "11. The composition of claim 1, further comprising increased acoustic insulative properties.",
+    "12. The composition of claim 1, wherein the foam product is rigid and stable.",
+    "13. The composition of claim 1, wherein the foam product is at least about 95% of its pre-dried size after drying.",
+    "14. The composition of claim 1, wherein said composition comprises at least one binder.",
+    "15. A process for a making a foam composition, said process comprising mixing a fiber component in water to create a hydrated fiber; removing excess water and mixing said fiber with at least one dispersant and optionally at least one binder, and subsequently mixing in at least one foaming agent to create the foam composition.",
+    "16. The process of claim 15, comprising mixing a fiber component in water to create a hydrated fiber; removing excess water and mixing said fiber with at least one dispersant and at least one binder, and subsequently mixing in at least one foaming agent to create the foam composition.",
+    "17. The process of claim 14, wherein the fiber is a fiber pulp.",
+    "18. The process of claim 14, wherein the binder is selected from the group consisting of a gelatinized slurry of starch and a pregelatinized starch powder.",
+    "19. An article of manufacture made from the composition of claim 1.",
+    "20. An article of manufacture made from the composition of claim 1, wherein said article is compression molded.",
+    "21. A composition comprising a fiber component, at least one foaming agent, at least one dispersant, and optionally at least one binder, wherein the fiber component forms a viscous mixture that is converted to a foam product upon the addition of the foaming agent once the viscous mixture reaches a predetermined dryness, wherein the foam product is resistant to shrinkage during drying and remains rigid; wherein said composition is produced by a process comprising mixing a fiber component in water to create a hydrated fiber; removing excess water and mixing said fiber with at least one dispersant and optionally at least one binder, and subsequently mixing in at least one foaming agent to create the foam composition.",
+    "22. The composition according to claim 21, wherein said composition comprises a fiber component, at least one foaming agent, at least one dispersant, and at least one binder, wherein the fiber component forms a viscous mixture that is converted to a foam product upon the addition of the foaming agent once the viscous mixture reaches a predetermined dryness, wherein the foam product is resistant to shrinkage during drying and remains rigid; wherein said composition is produced by a process comprising mixing a fiber component in water to create a hydrated fiber; removing excess water and mixing said fiber with at least one dispersant and at least one binder, and subsequently mixing in at least one foaming agent to create the foam composition."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US16/832,650",
+      "representative_publication": "US20200308359A1",
+      "primary_language": "en",
+      "priority_date": "2019-03-29",
+      "filing_date": "2020-03-27",
+      "title": "Compositions and processes for renewable rigid foam"
+    },
+    {
+      "application_number": "PCT/US2020/025654",
+      "representative_publication": "WO2020205701A1",
+      "primary_language": "en",
+      "priority_date": "2019-03-29",
+      "filing_date": "2020-03-30",
+      "title": "Compositions and processes for renewable rigid foam"
+    },
+    {
+      "application_number": "CN202080024910.7A",
+      "representative_publication": "CN113631774A",
+      "primary_language": "en",
+      "priority_date": "2019-03-29",
+      "filing_date": "2020-03-30",
+      "title": "Compositions and methods for renewable rigid foams"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201962826201P",
+      "priority_date": "2019-03-29",
+      "filing_date": "2019-03-29"
+    },
+    {
+      "application_number": "US16/832,650",
+      "representative_publication": "US20200308359A1",
+      "primary_language": "en",
+      "priority_date": "2019-03-29",
+      "filing_date": "2020-03-27",
+      "title": "Compositions and processes for renewable rigid foam"
+    }
+  ],
+  "family_id": "72607243",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "USRE39339E1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-08-11",
+        "publication_date": "2006-10-17",
+        "assignee_original": "E. Khashoggi Industries, Llc",
+        "title": "Compositions for manufacturing fiber-reinforced, starch-bound articles having a foamed cellular matrix",
+        "patent_id": "patent/USRE39339E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE39339E1%2Fen"
+      },
+      {
+        "publication_number": "US20160289453A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-05",
+        "publication_date": "2016-10-06",
+        "assignee_original": "Fpinnovations",
+        "title": "Method of producing ultra-low density fiber composite materials",
+        "patent_id": "patent/US20160289453A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160289453A1%2Fen"
+      },
+      {
+        "publication_number": "WO2018097312A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-28",
+        "publication_date": "2018-05-31",
+        "assignee_original": "\u65e5\u672c\u88fd\u7d19\u682a\u5f0f\u4f1a\u793e",
+        "title": "Composite of fiber and inorganic particles",
+        "patent_id": "patent/WO2018097312A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018097312A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "ATE140046T1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-10-17",
+        "publication_date": "1996-07-15",
+        "assignee_original": "James River Corp",
+        "title": "FOAM-FORMING METHOD AND APPARATUS",
+        "patent_id": "patent/ATE140046T1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FATE140046T1%2Fen"
+      },
+      {
+        "publication_number": "JP3166763B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-31",
+        "publication_date": "2001-05-14",
+        "assignee_original": "\u738b\u5b50\u88fd\u7d19\u682a\u5f0f\u4f1a\u793e",
+        "title": "Foam particle mixed paper",
+        "patent_id": "patent/JP3166763B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3166763B2%2Fen"
+      },
+      {
+        "publication_number": "US20020096278A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-05-24",
+        "publication_date": "2002-07-25",
+        "assignee_original": "Armstrong World Industries, Inc.",
+        "title": "Durable acoustical panel and method of making the same",
+        "patent_id": "patent/US20020096278A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020096278A1%2Fen"
+      },
+      {
+        "publication_number": "FI126194B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-13",
+        "publication_date": "2016-08-15",
+        "assignee_original": "Teknologian Tutkimuskeskus Vtt Oy",
+        "title": "Ways to form fibrous product",
+        "patent_id": "patent/FI126194B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI126194B%2Fen"
+      },
+      {
+        "publication_number": "FI20155419A7",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-02",
+        "publication_date": "2016-12-03",
+        "assignee_original": "Teknologian Tutkimuskeskus Vtt Oy",
+        "title": "A method for increasing foam stability",
+        "patent_id": "patent/FI20155419A7/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI20155419A7%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20220251783A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-11",
+        "publication_date": "2022-08-11",
+        "assignee_original": "Pratt Corrugated Holdings, Inc.",
+        "title": "Starch-cellulose composite material",
+        "patent_id": "patent/US20220251783A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220251783A1%2Fen"
+      },
+      {
+        "publication_number": "US20230194481A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-20",
+        "publication_date": "2023-06-22",
+        "assignee_original": "Shimadzu Corporation",
+        "title": "Column oven and gas chromatograph",
+        "patent_id": "patent/US20230194481A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230194481A1%2Fen"
+      },
+      {
+        "publication_number": "US20230212365A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-30",
+        "publication_date": "2023-07-06",
+        "assignee_original": "The United States Of America, As Represented By The Secretary Of Agriculture",
+        "title": "Moisture resistant cellulose foams",
+        "patent_id": "patent/US20230212365A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230212365A1%2Fen"
+      },
+      {
+        "publication_number": "SE2230306A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "A flexible solid cellulose foam",
+        "patent_id": "patent/SE2230306A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2230306A1%2Fen"
+      },
+      {
+        "publication_number": "SE2230304A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "A protective packaging insert",
+        "patent_id": "patent/SE2230304A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2230304A1%2Fen"
+      },
+      {
+        "publication_number": "SE2230303A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Method of forming a solid cellulose foam and product made of a solid cellulose foam",
+        "patent_id": "patent/SE2230303A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2230303A1%2Fen"
+      },
+      {
+        "publication_number": "SE2230305A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "A solid cellulose foam product for protection of an object, and a method of producing said solid foam product",
+        "patent_id": "patent/SE2230305A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2230305A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024062433A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-28",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "A foldable solid cellulose foam",
+        "patent_id": "patent/WO2024062433A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024062433A1%2Fen"
+      },
+      {
+        "publication_number": "US11975910B2",
+        "primary_language": "en",
+        "priority_date": "2020-05-05",
+        "publication_date": "2024-05-07",
+        "assignee_original": "Pratt Retail Specialties, Llc",
+        "title": "Hinged wrap insulated container",
+        "patent_id": "patent/US11975910B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11975910B2%2Fen"
+      },
+      {
+        "publication_number": "US12179990B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-18",
+        "publication_date": "2024-12-31",
+        "assignee_original": "Pratt Retail Specialties, Llc",
+        "title": "Modular box assembly",
+        "patent_id": "patent/US12179990B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12179990B2%2Fen"
+      },
+      {
+        "publication_number": "US12298060B2",
+        "primary_language": "en",
+        "priority_date": "2017-07-31",
+        "publication_date": "2025-05-13",
+        "assignee_original": "Pratt Retail Specialties, Llc",
+        "title": "Modular box assembly",
+        "patent_id": "patent/US12298060B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12298060B2%2Fen"
+      },
+      {
+        "publication_number": "US12297016B2",
+        "primary_language": "en",
+        "priority_date": "2018-11-13",
+        "publication_date": "2025-05-13",
+        "assignee_original": "Pratt Retail Specialties, Llc",
+        "title": "Insulated box assembly with overlapping panels",
+        "patent_id": "patent/US12297016B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12297016B2%2Fen"
+      },
+      {
+        "publication_number": "US12344454B2",
+        "primary_language": "en",
+        "priority_date": "2019-05-02",
+        "publication_date": "2025-07-01",
+        "assignee_original": "Pratt Retail Specialties, Llc",
+        "title": "Box defining walls with insulation cavities",
+        "patent_id": "patent/US12344454B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12344454B2%2Fen"
+      },
+      {
+        "publication_number": "US12365529B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-16",
+        "publication_date": "2025-07-22",
+        "assignee_original": "Pratt Retail Specialties, Llc",
+        "title": "Repulpable container",
+        "patent_id": "patent/US12365529B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12365529B2%2Fen"
+      },
+      {
+        "publication_number": "US12454795B2",
+        "primary_language": "en",
+        "priority_date": "2020-08-14",
+        "publication_date": "2025-10-28",
+        "assignee_original": "The United States Of America, As Represented By The Secretary Of Agriculture",
+        "title": "Moisture/oil-resistant fiber/starch composite materials",
+        "patent_id": "patent/US12454795B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12454795B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "MX2024007644A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-22",
+        "publication_date": "2024-07-15",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Preparation of a foam comprising discrete units of foam embedded in a foam matrix.",
+        "patent_id": "patent/MX2024007644A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX2024007644A%2Fen"
+      },
+      {
+        "publication_number": "SE546543C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-22",
+        "publication_date": "2024-11-26",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Foam composition comprising cellulose fibres, water-soluble thickener and surfactants, and method for its preparation",
+        "patent_id": "patent/SE546543C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE546543C2%2Fen"
+      },
+      {
+        "publication_number": "SE545669C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-22",
+        "publication_date": "2023-11-28",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Preparation of a foam comprising discrete units of foam embedded in a foam matrix",
+        "patent_id": "patent/SE545669C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE545669C2%2Fen"
+      },
+      {
+        "publication_number": "SE547309C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-22",
+        "publication_date": "2025-06-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Foam composition comprising cellulose fibres, water -soluble thickener and surfactants, and method for its preparation",
+        "patent_id": "patent/SE547309C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE547309C2%2Fen"
+      },
+      {
+        "publication_number": "SE547308C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-22",
+        "publication_date": "2025-06-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Foam composition comprising cellulose fibres, water-soluble thickener and surfactants, and method for its preparation",
+        "patent_id": "patent/SE547308C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE547308C2%2Fen"
+      },
+      {
+        "publication_number": "SE546346C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-16",
+        "publication_date": "2024-10-08",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Method for producing a solid cellulose foam, a solid cellulose foam, and use thereof",
+        "patent_id": "patent/SE546346C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE546346C2%2Fen"
+      },
+      {
+        "publication_number": "SE546347C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-16",
+        "publication_date": "2024-10-08",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Solid cellulose foam comprising discrete units of cellulose foam embedded in a cellulose foam matrix",
+        "patent_id": "patent/SE546347C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE546347C2%2Fen"
+      },
+      {
+        "publication_number": "SE2330086A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-16",
+        "publication_date": "2024-08-17",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Method of hot pressing a solid cellulose foam",
+        "patent_id": "patent/SE2330086A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2330086A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20200308359A1",
+      "primary_language": "en",
+      "publication_date": "2020-10-01",
+      "title": "Compositions and processes for renewable rigid foam",
+      "patent_id": "patent/US20200308359A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200308359A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3296565B2",
+      "primary_language": "en",
+      "publication_date": "2002-07-02",
+      "title": "Method for producing molded sheet with high starch content",
+      "patent_id": "patent/JP3296565B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3296565B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "DE60313679T2",
+      "primary_language": "en",
+      "publication_date": "2008-01-17",
+      "title": "Biodegradable and compostable containers",
+      "patent_id": "patent/DE60313679T2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE60313679T2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10449694B2",
+      "primary_language": "en",
+      "publication_date": "2019-10-22",
+      "title": "Production of high performance thermoplastic composites",
+      "patent_id": "patent/US10449694B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10449694B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3425959B2",
+      "primary_language": "en",
+      "publication_date": "2003-07-14",
+      "title": "Compositions having highly ungelatinized contents",
+      "patent_id": "patent/JP3425959B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3425959B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6200404B1",
+      "primary_language": "en",
+      "publication_date": "2001-03-13",
+      "title": "Compositions and methods for manufacturing starch-based sheets",
+      "patent_id": "patent/US6200404B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6200404B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2142878C1",
+      "primary_language": "en",
+      "publication_date": "1999-12-20",
+      "title": "Manufactured article, method of this article manufacture, system for this article manufacture",
+      "patent_id": "patent/RU2142878C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2142878C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230212365A1",
+      "primary_language": "en",
+      "publication_date": "2023-07-06",
+      "title": "Moisture resistant cellulose foams",
+      "patent_id": "patent/US20230212365A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230212365A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11339275B2",
+      "primary_language": "en",
+      "publication_date": "2022-05-24",
+      "title": "Compositions and methods for food packaging",
+      "patent_id": "patent/US11339275B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11339275B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107250458A",
+      "primary_language": "en",
+      "publication_date": "2017-10-13",
+      "title": "Thermoplastic fiber materials and preparation method thereof",
+      "patent_id": "patent/CN107250458A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107250458A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2003099539A1",
+      "primary_language": "en",
+      "publication_date": "2003-12-04",
+      "title": "Biodegradable compound and preparation method thereof, and molded material made of the same and molding method thereof",
+      "patent_id": "patent/WO2003099539A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2003099539A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103290741A",
+      "primary_language": "en",
+      "publication_date": "2013-09-11",
+      "title": "Packing materials containing plant fibers and foamed plastic waste and preparation method thereof",
+      "patent_id": "patent/CN103290741A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103290741A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12338048B1",
+      "primary_language": "en",
+      "publication_date": "2025-06-24",
+      "title": "Biodegradable pulp packaging products from natural fibers",
+      "patent_id": "patent/US12338048B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12338048B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6107715650330213178",
+      "scholar_authors": "Huang et al.",
+      "publication_date": "2014",
+      "title": "Effects of Micronized Fibers on the Cushion Properties of Foam Buffer Package Materials.",
+      "patent_id": "scholar/6107715650330213178",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6107715650330213178"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK40064185A",
+      "primary_language": "en",
+      "publication_date": "2022-06-30",
+      "title": "Compositions and processes for renewable rigid foam",
+      "patent_id": "patent/HK40064185A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK40064185A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "TW202210685A",
+      "primary_language": "en",
+      "publication_date": "2022-03-16",
+      "title": "Compositions and processes for renewable rigid foam",
+      "patent_id": "patent/TW202210685A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW202210685A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2172749C2",
+      "primary_language": "en",
+      "publication_date": "2001-08-27",
+      "title": "Composition for manufacturing sheet and starch-bonded sheet (variants)",
+      "patent_id": "patent/RU2172749C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2172749C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20260015144A1",
+      "primary_language": "en",
+      "publication_date": "2026-01-15",
+      "title": "Biodegradable pulp packaging products from natural fibers",
+      "patent_id": "patent/US20260015144A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20260015144A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14235918039032011446",
+      "scholar_authors": "Onuoha et al.",
+      "publication_date": "2017",
+      "title": "Morphology and physical/end-use properties of recycled polypropylene-corn cob powder composites",
+      "patent_id": "scholar/14235918039032011446",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14235918039032011446"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101337374B",
+      "primary_language": "en",
+      "publication_date": "2010-06-09",
+      "title": "Manufacture method of pure plant fiber puffing foaming package material",
+      "patent_id": "patent/CN101337374B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101337374B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "16077681894081594915",
+      "scholar_authors": "Jo et al.",
+      "publication_date": "2023",
+      "title": "Evaluation of structure and compressive properties of eco-friendly cushioning materials based on starch and cellulose types",
+      "patent_id": "scholar/16077681894081594915",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F16077681894081594915"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2026012850A1",
+      "primary_language": "en",
+      "publication_date": "2026-01-15",
+      "title": "Biodegradable pulp products from natural fibers",
+      "patent_id": "patent/WO2026012850A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2026012850A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100191735B1",
+      "primary_language": "en",
+      "publication_date": "1999-06-15",
+      "title": "Foaming pulp composition having degradability",
+      "patent_id": "patent/KR100191735B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100191735B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "8352040828492195118",
+      "scholar_authors": "Glenn et al.",
+      "publication_date": "2009",
+      "title": "Green composites derived from natural fibers",
+      "patent_id": "scholar/8352040828492195118",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F8352040828492195118"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "86523726665483990",
+      "scholar_authors": "Panigrahi et al.",
+      "publication_date": "2008",
+      "title": "Biodegradable green composite boards for industrial application",
+      "patent_id": "scholar/86523726665483990",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F86523726665483990"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2020-05-19",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-07",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-11",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2022-11-28",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2023-01-25",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WORLD CENTRIC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:JIN, XING;MURDOCK, GAUNT;SIGNING DATES FROM 20220625 TO 20220715;REEL/FRAME:062480/0277"
+        }
+      ]
+    },
+    {
+      "date": "2023-06-22",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-14",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "THE UNITED STATES OF AMERICA, AS REPRESENTED BY THE SECRETARY OF AGRICULTURE, DISTRICT OF COLUMBIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:GLENN, GREGORY M;REEL/FRAME:064265/0242"
+        },
+        {
+          "label": "Effective date",
+          "value": "20230712"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-02",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2023-10-12",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "FINAL REJECTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-18",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ]
+}

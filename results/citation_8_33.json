@@ -1,0 +1,1209 @@
+{
+  "search_metadata": {
+    "id": "697a349fcc56d3d9b041c71e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/46429059b023d7fd/697a349fcc56d3d9b041c71e.json",
+    "created_at": "2026-01-28 16:09:03 UTC",
+    "processed_at": "2026-01-28 16:09:03 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20190193855A1/en",
+    "raw_html_file": "https://serpapi.com/searches/46429059b023d7fd/697a349fcc56d3d9b041c71e.html",
+    "total_time_taken": 1.47
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20190193855A1/en"
+  },
+  "title": "Methods and Systems for Door-Enabled Loading and Release of Payloads in an Unmanned Aerial Vehicle (UAV)",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/b9/7f/12/9bfd3bc9cb2449/US20190193855A1.pdf",
+  "publication_number": "US20190193855A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "uav",
+    "payload",
+    "door",
+    "chamber",
+    "control system"
+  ],
+  "prior_art_date": "2017-12-21",
+  "application_number": "US15/850,705",
+  "inventors": [
+    {
+      "name": "Andre Prager",
+      "link": "https://patents.google.com/?inventor=Andre+Prager",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Andre+Prager"
+    },
+    {
+      "name": "Adam Woodworth",
+      "link": "https://patents.google.com/?inventor=Adam+Woodworth",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Adam+Woodworth"
+    }
+  ],
+  "assignees": [
+    "Wing Aviation LLC"
+  ],
+  "priority_date": "2017-12-21",
+  "filing_date": "2017-12-21",
+  "publication_date": "2019-06-27",
+  "worldwide_applications": {
+    "2017": [
+      {
+        "filing_date": "2017-12-21",
+        "country_code": "US",
+        "application_number": "US15/850,705",
+        "document_id": "patent/US11186368B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2018": [
+      {
+        "filing_date": "2018-12-19",
+        "country_code": "CN",
+        "application_number": "CN201880082587.1A",
+        "document_id": "patent/CN111511642A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2018-12-19",
+        "country_code": "WO",
+        "application_number": "PCT/US2018/066410",
+        "document_id": "patent/WO2019126275A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2018-12-19",
+        "country_code": "SG",
+        "application_number": "SG11202004871VA",
+        "document_id": "patent/SG11202004871VA/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2018-12-19",
+        "country_code": "EP",
+        "application_number": "EP18891650.6A",
+        "document_id": "patent/EP3728030B8/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-12-19",
+        "country_code": "AU",
+        "application_number": "AU2018392452A",
+        "document_id": "patent/AU2018392452B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2021": [
+      {
+        "filing_date": "2021-10-22",
+        "country_code": "US",
+        "application_number": "US17/508,635",
+        "document_id": "patent/US11858633B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2022": [
+      {
+        "filing_date": "2022-04-28",
+        "country_code": "AU",
+        "application_number": "AU2022202827A",
+        "document_id": "patent/AU2022202827B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2017-12-21",
+      "title": "Application filed by Wing Aviation LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Wing Aviation LLC"
+    },
+    {
+      "date": "2017-12-21",
+      "title": "Priority to US15/850,705",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US11186368B2/en"
+    },
+    {
+      "date": "2018-01-22",
+      "title": "Assigned to X DEVELOPMENT LLC",
+      "type": "reassignment",
+      "assignee_search": "X DEVELOPMENT LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WOODWORTH, ADAM, PRAGER, ANDRE"
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "title": "Assigned to WING AVIATION LLC",
+      "type": "reassignment",
+      "assignee_search": "WING AVIATION LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: X DEVELOPMENT LLC"
+      ]
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Priority to AU2018392452A",
+      "type": "priority",
+      "document_id": "patent/AU2018392452B2/en"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Priority to SG11202004871VA",
+      "type": "priority",
+      "document_id": "patent/SG11202004871VA/en"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Priority to EP18891650.6A",
+      "type": "priority",
+      "document_id": "patent/EP3728030B8/en"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Priority to PCT/US2018/066410",
+      "type": "priority",
+      "document_id": "patent/WO2019126275A1/en"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Priority to CN201880082587.1A",
+      "type": "priority",
+      "document_id": "patent/CN111511642A/en"
+    },
+    {
+      "date": "2019-06-27",
+      "title": "Publication of US20190193855A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20190193855A1/en"
+    },
+    {
+      "date": "2021-10-22",
+      "title": "Priority to US17/508,635",
+      "type": "priority",
+      "document_id": "patent/US11858633B2/en"
+    },
+    {
+      "date": "2021-11-30",
+      "title": "Publication of US11186368B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US11186368B2/en"
+    },
+    {
+      "date": "2021-11-30",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2022-04-28",
+      "title": "Priority to AU2022202827A",
+      "type": "priority",
+      "document_id": "patent/AU2022202827B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2039-06-25",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20190193855.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15850705"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20190193855"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2019193855A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15850705/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20190193855"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/c9/8a/ba/4c304ad3dc9c2d/US20190193855A1-20190627-D00000.png",
+    "https://patentimages.storage.googleapis.com/47/8d/d6/2f8566042a43ca/US20190193855A1-20190627-D00001.png",
+    "https://patentimages.storage.googleapis.com/15/25/71/fa7e8206416737/US20190193855A1-20190627-D00002.png",
+    "https://patentimages.storage.googleapis.com/99/7b/58/56992052800107/US20190193855A1-20190627-D00003.png",
+    "https://patentimages.storage.googleapis.com/8b/20/bc/ed19cf6a8841bc/US20190193855A1-20190627-D00004.png",
+    "https://patentimages.storage.googleapis.com/70/f9/c0/34d85e02b433fa/US20190193855A1-20190627-D00005.png",
+    "https://patentimages.storage.googleapis.com/33/1c/c2/2dac97e06c5835/US20190193855A1-20190627-D00006.png",
+    "https://patentimages.storage.googleapis.com/c5/e4/4a/52506e924e1d4f/US20190193855A1-20190627-D00007.png",
+    "https://patentimages.storage.googleapis.com/ed/31/52/b3ca64be362a0b/US20190193855A1-20190627-D00008.png",
+    "https://patentimages.storage.googleapis.com/6a/ad/88/f91f29257b71b2/US20190193855A1-20190627-D00009.png",
+    "https://patentimages.storage.googleapis.com/45/c2/e9/9a1b5a77850613/US20190193855A1-20190627-D00010.png",
+    "https://patentimages.storage.googleapis.com/fb/6f/cb/2c0084f083842d/US20190193855A1-20190627-D00011.png",
+    "https://patentimages.storage.googleapis.com/d2/07/6e/852c11cc63b304/US20190193855A1-20190627-D00012.png",
+    "https://patentimages.storage.googleapis.com/ac/de/8c/08e3133a295901/US20190193855A1-20190627-D00013.png",
+    "https://patentimages.storage.googleapis.com/2c/b7/97/acfd0e549e1ba8/US20190193855A1-20190627-D00014.png",
+    "https://patentimages.storage.googleapis.com/d1/45/38/a5c07ced4dafa8/US20190193855A1-20190627-D00015.png",
+    "https://patentimages.storage.googleapis.com/60/3b/9f/16db657c9f0a51/US20190193855A1-20190627-D00016.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64D1/10",
+      "description": "Stowage arrangements for the devices in aircraft",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/10",
+      "description": "Rotorcrafts",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/14",
+      "description": "Flying platforms with four distinct rotor axes, e.g. quadcopters",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G06F21/31",
+      "description": "User authentication",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/128",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/141",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/146",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/64",
+      "description": "UAVs specially adapted for particular uses or applications for transporting passengers; for transporting goods other than weapons for parcel delivery or retrieval",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/10",
+      "description": "UAVs characterised by their flight controls autonomous, i.e. by navigating independently from ground or air stations, e.g. by using inertial navigation systems [INS]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/20",
+      "description": "Remote controls",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Example implementations may relate to door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV), which could be a type of UAV in a group of UAVs that is assigned to carry out certain transport tasks. In particular, the UAV may include a fuselage having a first side and a second side, as well as a chamber formed within the fuselage and arranged to house a payload. A first door may be arranged on the first side of the fuselage, such that an opening of the first door enables loading of the payload into the chamber. And a second door may be arranged on the second side of the fuselage, such that an opening of the second door enables release of the payload from the chamber. Moreover, the UAV may include a control system configured to control flight of the UAV, and possibly opening and/or closing of door(s).",
+  "description_link": "https://serpapi.com/searches/697a349fcc56d3d9b041c71e/google_patents_details/description.html",
+  "claims": [
+    "1. An unmanned aerial vehicle (UAV) comprising:\na control system configured to control flight of the UAV; a fuselage having a first side, a second side, and a chamber arranged to house a payload; a first door arranged on the first side of the fuselage, wherein an opening of the first door enables loading of the payload into the chamber; and a second door arranged on the second side of the fuselage, wherein an opening of the second door enables release of the payload from the chamber.",
+    "2. The UAV of claim 1, wherein the second side is a bottom side that is substantially oriented towards the ground during flight of the UAV, and wherein the first side is a top side that is substantially opposite the bottom side.",
+    "3. The UAV of claim 1, wherein the first side is a bottom side that is substantially oriented towards the ground during flight of the UAV, and wherein the second side is a top side that is substantially opposite the bottom side.",
+    "4. The UAV of claim 1, wherein the control system is further configured to:\ndetermine that the UAV is at a pickup location for pickup of the payload; and in response to determining that the UAV is at a pickup location for pickup of the payload, cause the opening of the first door to enable loading of the payload into the chamber.",
+    "5. The UAV of claim 1, wherein the control system is further configured to:\ndetermine that the UAV is at a delivery location for delivery of the payload; and in response to determining that the UAV is at a delivery location for delivery of the payload, cause the opening of the second door to enable release of the payload from the chamber.",
+    "6. The UAV of claim 1, further comprising:\na propulsion unit including one or more unexposed propellers.",
+    "7. The UAV of claim 1, wherein the UAV is a lightweight UAV having a weight that is below a threshold weight.",
+    "8. The UAV of claim 1, further comprising an authentication system, wherein the control system is further configured to:\nwhile the UAV is at a pickup location for pickup of the payload, receive, from the authentication system, authentication data indicating that a user is an authorized user; and in response to receiving authentication data indicating that a user is an authorized user, cause the opening of the first door to enable loading of the payload into the chamber.",
+    "9. The UAV of claim 1, further comprising an authentication system, wherein the control system is further configured to:\nwhile the UAV is at a delivery location for delivery of the payload, receive, from the authentication system, authentication data indicating that a user is an authorized user; and in response to receiving authentication data indicating that a user is an authorized user, cause the opening of the second door to enable release of the payload from the chamber.",
+    "10. A method comprising:\ndetermining, by a control system, that an unmanned aerial vehicle (UAV) is at a pickup location for pickup of a payload, wherein the UAV comprises a fuselage having a first side, a second side, and a chamber arranged to house the payload, wherein a first door is arranged on the first side of the fuselage, wherein an opening of the first door enables loading of the payload into the chamber, wherein a second door is arranged on the second side of the fuselage, and wherein an opening of the second door enables release of the payload from the chamber; in response to determining that the UAV is at the pickup location for pickup of the payload, causing, by the control system, the opening of the first door to enable loading of the payload into the chamber; determining, by the control system, that the UAV is at a delivery location for delivery of the payload; and in response to determining that the UAV is at a delivery location for delivery of the payload, causing, by the control system, the opening of the second door to enable release of the payload from the chamber.",
+    "11. The method of claim 10, wherein the second side is a bottom side that is substantially oriented towards the ground during flight of the UAV, and wherein the first side is a top side that is substantially opposite the bottom side.",
+    "12. The method of claim 10, wherein the first side is a bottom side that is substantially oriented towards the ground during flight of the UAV, and wherein the second side is a top side that is substantially opposite the bottom side.",
+    "13. The method of claim 10, wherein the UAV further comprises an authentication system, the method further comprising:\nwhile the UAV is at the pickup location for pickup of the payload, receiving, by the control system from the authentication system, authentication data indicating that a user is an authorized user, wherein causing the opening of the first door to enable loading of the payload into the chamber is further in response to receiving authentication data indicating that a user is an authorized user.",
+    "14. The method of claim 10, wherein the UAV further comprises an authentication system, the method further comprising:\nwhile the UAV is at the delivery location for delivery of the payload, receiving, by the control system from the authentication system, authentication data indicating that a user is an authorized user, wherein causing the opening of the second door to enable release of the payload from the chamber is further in response to receiving authentication data indicating that a user is an authorized user.",
+    "15. A method comprising:\nreceiving, by a control system, a request for a transport task to be performed by at least one unmanned aerial vehicle (UAV) from a group of UAVs, wherein the group of UAVs includes at least a first UAV of a first type and a second UAV of a second type, wherein the first type of UAV comprises a fuselage having a first side, a second side, and a chamber arranged to house a payload, wherein a first door is arranged on the first side of the fuselage, wherein an opening of the first door enables loading of the payload into the chamber, wherein a second door is arranged on the second side of the fuselage, and wherein an opening of the second door enables release of the payload from the chamber; based on the first UAV being of the first type, determining, by the control system, that the first UAV meets a criteria for the transport task; and in response to determining that the first UAV meets the criteria for the transport task, causing, by the control system, the first UAV to perform the transport task corresponding to the received request.",
+    "16. The method of claim 15, wherein the transport task is associated with a requested item, wherein the first type of UAV is arranged to transport one or more items having a collective weight up to a first weight, wherein the second type of UAV is arranged to transport one or more items having a collective weight up to a second weight, wherein the second weight is greater than the first weight, and wherein determining, based on the first UAV being of the first type, that the first UAV meets the criteria for the transport task comprises:\nbased on the first UAV being of the first type, determining that the first UAV is arranged to transport the requested item that is of a weight lesser than the first weight.",
+    "17. The method of claim 15, wherein the transport task is associated with a requested item, wherein the first type of UAV is arranged to transport one or more items having a collective size up to a first size, wherein the second type of UAV is arranged to transport one or more items having a collective size up to a second seize, wherein the second size is greater than the first size, and wherein determining, based on the first UAV being of the first type, that the first UAV meets the criteria for the transport task comprises:\nbased on the first UAV being of the first type, determining that the first UAV is arranged to transport the requested item that is of a size lesser than the first size.",
+    "18. The method of claim 15, wherein the second type of UAV is arranged to perform tethered delivery of payloads without use of doors to enable loading and release of payloads.",
+    "19. A method comprising:\ndetermining, by a control system, that an unmanned aerial vehicle (UAV) is at a pickup location for pickup of a payload, wherein the UAV comprises a fuselage having a door and a chamber arranged to house the payload; in response to determining that the UAV is at the pickup location for pickup of the payload, causing, by the control system, an opening of the door to enable loading of the payload into the chamber; determining, by the control system, that the UAV is at a delivery location for delivery of the payload; and in response to determining that the UAV is at a delivery location for delivery of the payload, causing, by the control system, an opening of the door to enable release of the payload from the chamber.",
+    "20. The method of claim 19, wherein the fuselage has a bottom side that is substantially oriented towards the ground during flight of the UAV, and wherein the door is arranged on a top side that is substantially opposite the bottom side.",
+    "21. The method of claim 19, wherein the fuselage has a bottom side that is substantially oriented towards the ground during flight of the UAV, and wherein the door is arranged on the bottom side.",
+    "22. The method of claim 19, wherein the fuselage has (i) a bottom side that is substantially oriented towards the ground during flight of the UAV and (ii) a top side that is substantially opposite the bottom side, and wherein the door is arranged on the bottom side, the method further comprising:\nwhile the UAV is at the pickup location for pickup of the payload, causing, by the control system, the UAV to carry out a flip maneuver, wherein the flip maneuver comprising the UAV landing substantially on the top side, wherein causing the opening of the door to enable loading of the payload into the chamber comprises causing the opening of the door to enable loading of the payload into the chamber after completion of the flip maneuver."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US17/508,635",
+      "relation_type": "Continuation",
+      "representative_publication": "US11858633B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2021-10-22",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV)"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/850,705",
+      "representative_publication": "US11186368B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2017-12-21",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV)"
+    },
+    {
+      "application_number": "CN201880082587.1A",
+      "representative_publication": "CN111511642A",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-12-19",
+      "title": "Method and system for door-enabled payload loading and release in an unmanned aerial vehicle (UAV)"
+    },
+    {
+      "application_number": "AU2018392452A",
+      "representative_publication": "AU2018392452B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-12-19",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV)"
+    },
+    {
+      "application_number": "SG11202004871VA",
+      "representative_publication": "SG11202004871VA",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-12-19",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (uav)"
+    },
+    {
+      "application_number": "EP18891650.6A",
+      "representative_publication": "EP3728030B8",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-12-19",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (uav)"
+    },
+    {
+      "application_number": "PCT/US2018/066410",
+      "representative_publication": "WO2019126275A1",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-12-19",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (uav)"
+    },
+    {
+      "application_number": "US17/508,635",
+      "representative_publication": "US11858633B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2021-10-22",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV)"
+    },
+    {
+      "application_number": "AU2022202827A",
+      "representative_publication": "AU2022202827B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2022-04-28",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV)"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US15/850,705",
+      "representative_publication": "US11186368B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2017-12-21",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV)"
+    }
+  ],
+  "family_id": "66949347",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20160068264A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-09-08",
+        "publication_date": "2016-03-10",
+        "assignee_original": "Qualcomm Incorporated",
+        "title": "Methods, Systems and Devices for Delivery Drone Security",
+        "patent_id": "patent/US20160068264A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160068264A1%2Fen"
+      },
+      {
+        "publication_number": "US20170320572A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-04",
+        "publication_date": "2017-11-09",
+        "assignee_original": "Wal-Mart Stores, Inc.",
+        "title": "Systems and methods for transporting products via unmanned aerial vehicles",
+        "patent_id": "patent/US20170320572A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170320572A1%2Fen"
+      },
+      {
+        "publication_number": "US20180137454A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-16",
+        "publication_date": "2018-05-17",
+        "assignee_original": "Staples, Inc.",
+        "title": "Autonomous Multimodal Logistics",
+        "patent_id": "patent/US20180137454A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180137454A1%2Fen"
+      },
+      {
+        "publication_number": "US20190112025A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-19",
+        "publication_date": "2019-04-18",
+        "assignee_original": "Prodrone Co., Ltd.",
+        "title": "Unmanned aerial vehicle",
+        "patent_id": "patent/US20190112025A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190112025A1%2Fen"
+      },
+      {
+        "publication_number": "US20190144116A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-12",
+        "publication_date": "2019-05-16",
+        "assignee_original": "SZ DJI Technology Co., Ltd.",
+        "title": "Systems and methods for multi-orientation flight",
+        "patent_id": "patent/US20190144116A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190144116A1%2Fen"
+      },
+      {
+        "publication_number": "US20200046156A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-30",
+        "publication_date": "2020-02-13",
+        "assignee_original": "Nikolaus Holzer",
+        "title": "Receiving Device for Parcels or Packages Delivered By Air",
+        "patent_id": "patent/US20200046156A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200046156A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US8453962B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-02-16",
+        "publication_date": "2013-06-04",
+        "assignee_original": "Donald Orval Shaw",
+        "title": "Modular flying vehicle",
+        "patent_id": "patent/US8453962B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8453962B2%2Fen"
+      },
+      {
+        "publication_number": "WO2013123944A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-02-20",
+        "publication_date": "2013-08-29",
+        "assignee_original": "Lifedrone Aps",
+        "title": "Unmanned aerial device and system thereof",
+        "patent_id": "patent/WO2013123944A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013123944A1%2Fen"
+      },
+      {
+        "publication_number": "US9428272B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-04",
+        "publication_date": "2016-08-30",
+        "assignee_original": "Michael Beaugavin Markov",
+        "title": "Aerial material distribution method and apparatus",
+        "patent_id": "patent/US9428272B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9428272B2%2Fen"
+      },
+      {
+        "publication_number": "US9382003B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-24",
+        "publication_date": "2016-07-05",
+        "assignee_original": "Bee Robotics Corporation",
+        "title": "Aerial farm robot system for crop dusting, planting, fertilizing and other field jobs",
+        "patent_id": "patent/US9382003B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9382003B2%2Fen"
+      },
+      {
+        "publication_number": "US9346547B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-26",
+        "publication_date": "2016-05-24",
+        "assignee_original": "Google Inc.",
+        "title": "Mechanisms for lowering a payload to the ground from a UAV",
+        "patent_id": "patent/US9346547B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9346547B2%2Fen"
+      },
+      {
+        "publication_number": "US9990684B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-01",
+        "publication_date": "2018-06-05",
+        "assignee_original": "Sammy Hejazi",
+        "title": "Mailport for automated parcel carriers",
+        "patent_id": "patent/US9990684B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9990684B2%2Fen"
+      },
+      {
+        "publication_number": "US20160016664A1",
+        "primary_language": "en",
+        "priority_date": "2014-07-19",
+        "publication_date": "2016-01-21",
+        "assignee_original": "Umm Al-Qura University",
+        "title": "Unmanned aerial delivery device",
+        "patent_id": "patent/US20160016664A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160016664A1%2Fen"
+      },
+      {
+        "publication_number": "US10163177B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-31",
+        "publication_date": "2018-12-25",
+        "assignee_original": "Emmett Farris",
+        "title": "System and method for controlling drone delivery or pick up during a delivery or pick up phase of drone operation",
+        "patent_id": "patent/US10163177B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10163177B2%2Fen"
+      },
+      {
+        "publication_number": "EP3494767B1",
+        "primary_language": "en",
+        "priority_date": "2014-09-23",
+        "publication_date": "2021-07-14",
+        "assignee_original": "Biocarbon Engineering Ltd.",
+        "title": "Techniques for automated planting",
+        "patent_id": "patent/EP3494767B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3494767B1%2Fen"
+      },
+      {
+        "publication_number": "DE102014119557A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-23",
+        "publication_date": "2016-06-23",
+        "assignee_original": "Deutsche Post Ag",
+        "title": "compartment system",
+        "patent_id": "patent/DE102014119557A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102014119557A1%2Fen"
+      },
+      {
+        "publication_number": "CN104743121B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-08",
+        "publication_date": "2018-03-27",
+        "assignee_original": "\u4e07\u6ce2",
+        "title": "Cargo compartment assembly for unmanned aerial vehicle and unmanned aerial vehicle having same",
+        "patent_id": "patent/CN104743121B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104743121B%2Fen"
+      },
+      {
+        "publication_number": "CN105069595A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-18",
+        "publication_date": "2015-11-18",
+        "assignee_original": "\u6768\u73ca\u73ca",
+        "title": "Express system and method employing unmanned plane",
+        "patent_id": "patent/CN105069595A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105069595A%2Fen"
+      },
+      {
+        "publication_number": "US10336453B2",
+        "primary_language": "en",
+        "priority_date": "2016-01-14",
+        "publication_date": "2019-07-02",
+        "assignee_original": "Elwha Llc",
+        "title": "System and method for payload management for unmanned aircraft",
+        "patent_id": "patent/US10336453B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10336453B2%2Fen"
+      },
+      {
+        "publication_number": "CN205427963U",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-03-21",
+        "publication_date": "2016-08-03",
+        "assignee_original": "\u738b\u827a\u970f",
+        "title": "System's device of person's delivery that unmanned aerial vehicle express delivery intelligent recognition connects goods",
+        "patent_id": "patent/CN205427963U/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN205427963U%2Fen"
+      },
+      {
+        "publication_number": "CA3022379C",
+        "primary_language": "en",
+        "priority_date": "2016-04-29",
+        "publication_date": "2021-03-23",
+        "assignee_original": "United Parcel Service Of America, Inc.",
+        "title": "Unmanned aerial vehicle pick-up and delivery systems",
+        "patent_id": "patent/CA3022379C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3022379C%2Fen"
+      },
+      {
+        "publication_number": "CN105966620A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-05-03",
+        "publication_date": "2016-09-28",
+        "assignee_original": "\u5929\u673a\u667a\u6c47\u79d1\u6280\uff08\u6df1\u5733\uff09\u6709\u9650\u516c\u53f8",
+        "title": "Unmanned aerial vehicle system and cargo hold thereof",
+        "patent_id": "patent/CN105966620A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105966620A%2Fen"
+      },
+      {
+        "publication_number": "CN106628181A",
+        "primary_language": "en",
+        "priority_date": "2016-11-12",
+        "publication_date": "2017-05-10",
+        "assignee_original": "\u82cf\u5dde\u66fe\u667a\u6c83\u5fb7\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Unmanned aerial vehicle for earthquake relief work",
+        "patent_id": "patent/CN106628181A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106628181A%2Fen"
+      },
+      {
+        "publication_number": "WO2018094554A1",
+        "primary_language": "en",
+        "priority_date": "2016-11-22",
+        "publication_date": "2018-05-31",
+        "assignee_original": "\u6df1\u5733\u524d\u6d77\u8fbe\u95fc\u4e91\u7aef\u667a\u80fd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Method for improving security of unmanned aerial vehicle transportation, and unmanned aerial vehicle, terminal, server and computer program product",
+        "patent_id": "patent/WO2018094554A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018094554A1%2Fen"
+      },
+      {
+        "publication_number": "CN106708080A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-16",
+        "publication_date": "2017-05-24",
+        "assignee_original": "\u6c5f\u897f\u5e08\u8303\u5927\u5b66",
+        "title": "Cloud control-based automatic express delivery system employing unmanned aerial vehicle",
+        "patent_id": "patent/CN106708080A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106708080A%2Fen"
+      },
+      {
+        "publication_number": "CN107444643A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-04",
+        "publication_date": "2017-12-08",
+        "assignee_original": "\u9676\u6587\u82f1",
+        "title": "A kind of box shipping unmanned plane and its corollary system and application",
+        "patent_id": "patent/CN107444643A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107444643A%2Fen"
+      },
+      {
+        "publication_number": "US10870486B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-22",
+        "publication_date": "2020-12-22",
+        "assignee_original": "Stephen Lee Bailey",
+        "title": "Diamond quadcopter",
+        "patent_id": "patent/US10870486B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10870486B2%2Fen"
+      },
+      {
+        "publication_number": "DE202017005797U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-08",
+        "publication_date": "2017-11-15",
+        "assignee_original": "Nickel Holding Gmbh",
+        "title": "Carrying structure for a multicopter",
+        "patent_id": "patent/DE202017005797U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202017005797U1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN110536266A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-08-22",
+        "publication_date": "2019-12-03",
+        "assignee_original": "\u5408\u80a5\u5de5\u4e1a\u5927\u5b66",
+        "title": "The periodically online equalization methods and device of unmanned plane formation communication energy consumption",
+        "patent_id": "patent/CN110536266A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110536266A%2Fen"
+      },
+      {
+        "publication_number": "US20200391848A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-28",
+        "publication_date": "2020-12-17",
+        "assignee_original": "Zhiyong SHI",
+        "title": "Double-ring rotary wing spherical cabin aircraft",
+        "patent_id": "patent/US20200391848A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200391848A1%2Fen"
+      },
+      {
+        "publication_number": "US20210073715A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-23",
+        "publication_date": "2021-03-11",
+        "assignee_original": "Ntt Docomo, Inc.",
+        "title": "Information processing apparatus",
+        "patent_id": "patent/US20210073715A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210073715A1%2Fen"
+      },
+      {
+        "publication_number": "US20210309358A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-06",
+        "publication_date": "2021-10-07",
+        "assignee_original": "Workhorse Group Inc.",
+        "title": "Flying vehicle systems and methods",
+        "patent_id": "patent/US20210309358A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210309358A1%2Fen"
+      },
+      {
+        "publication_number": "WO2022119913A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-02",
+        "publication_date": "2022-06-09",
+        "assignee_original": "Zipline International Inc.",
+        "title": "Steerable dependent vehicle for unmanned aerial vehicles",
+        "patent_id": "patent/WO2022119913A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022119913A1%2Fen"
+      },
+      {
+        "publication_number": "US11440679B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-27",
+        "publication_date": "2022-09-13",
+        "assignee_original": "Cowden Technologies, Inc.",
+        "title": "Drone docking station and docking module",
+        "patent_id": "patent/US11440679B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11440679B2%2Fen"
+      },
+      {
+        "publication_number": "US11475778B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-01",
+        "publication_date": "2022-10-18",
+        "assignee_original": "Express Scripts Strategic Development, Inc.",
+        "title": "System and method for secure delivery of a medication package",
+        "patent_id": "patent/US11475778B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11475778B1%2Fen"
+      },
+      {
+        "publication_number": "WO2022133132A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-16",
+        "publication_date": "2022-10-20",
+        "assignee_original": "Dash Systems, Inc.",
+        "title": "Autorotating payload delivery device",
+        "patent_id": "patent/WO2022133132A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022133132A3%2Fen"
+      },
+      {
+        "publication_number": "CN115397731A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-08",
+        "publication_date": "2022-11-25",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u7231\u9686\u672a\u6765",
+        "title": "Flying object and method for transporting cargo using same",
+        "patent_id": "patent/CN115397731A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115397731A%2Fen"
+      },
+      {
+        "publication_number": "US20230410025A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-05-20",
+        "publication_date": "2023-12-21",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Staging unmanned aerial vehicles at merchant facilities",
+        "patent_id": "patent/US20230410025A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230410025A1%2Fen"
+      },
+      {
+        "publication_number": "US20240017827A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-14",
+        "publication_date": "2024-01-18",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "UAV with Open Cargo Bay and Method of Operation",
+        "patent_id": "patent/US20240017827A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240017827A1%2Fen"
+      },
+      {
+        "publication_number": "US20240017825A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-14",
+        "publication_date": "2024-01-18",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "UAV with Upper Door Including Winch and Method of Operation",
+        "patent_id": "patent/US20240017825A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240017825A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "WO2024097197A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-02",
+        "publication_date": "2024-05-10",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav having lower cargo bay door(s)",
+        "patent_id": "patent/WO2024097197A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024097197A1%2Fen"
+      },
+      {
+        "publication_number": "DE102024103724A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-02-09",
+        "publication_date": "2025-08-14",
+        "assignee_original": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e.V.",
+        "title": "Unmanned aircraft and its use",
+        "patent_id": "patent/DE102024103724A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102024103724A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US12179902B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-14",
+        "publication_date": "2024-12-31",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Smart cargo bay door(s) for a UAV",
+        "patent_id": "patent/US12179902B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12179902B2%2Fen"
+      },
+      {
+        "publication_number": "US11767111B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-14",
+        "publication_date": "2023-09-26",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Slotted receptacle for payload handle to secure payload within a UAV",
+        "patent_id": "patent/US11767111B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11767111B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11858633B2",
+      "primary_language": "en",
+      "publication_date": "2024-01-02",
+      "title": "Methods and systems for door-enabled loading and release of payloads in an unmanned aerial vehicle (UAV)",
+      "patent_id": "patent/US11858633B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11858633B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12469000B2",
+      "primary_language": "en",
+      "publication_date": "2025-11-11",
+      "title": "Dynamic UAV transport tasks for pickup and delivery of non-specifically assigned packages",
+      "patent_id": "patent/US12469000B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12469000B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11618565B2",
+      "primary_language": "en",
+      "publication_date": "2023-04-04",
+      "title": "Methods and systems for self-deployment of operational infrastructure by an unmanned aerial vehicle (UAV)",
+      "patent_id": "patent/US11618565B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11618565B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3728029B1",
+      "primary_language": "en",
+      "publication_date": "2024-11-06",
+      "title": "System and methods for automatic payload pickup by uav",
+      "patent_id": "patent/EP3728029B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3728029B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11803804B2",
+      "primary_language": "en",
+      "publication_date": "2023-10-31",
+      "title": "Recipient-assisted vehicle recharging",
+      "patent_id": "patent/US11803804B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11803804B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10953984B2",
+      "primary_language": "en",
+      "publication_date": "2021-03-23",
+      "title": "Methods and systems for using an unmanned aerial vehicle (UAV) dedicated to deployment of operational infrastructure",
+      "patent_id": "patent/US10953984B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10953984B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2019331501A1",
+      "primary_language": "en",
+      "publication_date": "2021-04-15",
+      "title": "Safe unmanned aircraft",
+      "patent_id": "patent/AU2019331501A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2019331501A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-12-21",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "X DEVELOPMENT LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PRAGER, ANDRE;WOODWORTH, ADAM;SIGNING DATES FROM 20180109 TO 20180122;REEL/FRAME:044690/0135"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-10",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WING AVIATION LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:X DEVELOPMENT LLC;REEL/FRAME:047567/0433"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180627"
+        }
+      ]
+    },
+    {
+      "date": "2020-01-08",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2020-04-11",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "FINAL REJECTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2021-03-16",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2021-04-01",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-12",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2021-07-23",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-22",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED"
+        }
+      ]
+    },
+    {
+      "date": "2021-10-25",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2021-11-10",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-14",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

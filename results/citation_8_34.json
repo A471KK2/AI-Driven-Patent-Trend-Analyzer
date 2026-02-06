@@ -1,0 +1,1734 @@
+{
+  "search_metadata": {
+    "id": "697a34a6d10c6a1659c6783d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/52e09e640e71a84f/697a34a6d10c6a1659c6783d.json",
+    "created_at": "2026-01-28 16:09:10 UTC",
+    "processed_at": "2026-01-28 16:09:10 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20190193856A1/en",
+    "raw_html_file": "https://serpapi.com/searches/52e09e640e71a84f/697a34a6d10c6a1659c6783d.html",
+    "total_time_taken": 1.21
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20190193856A1/en"
+  },
+  "title": "Active Position Control of Tethered Hook",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/3f/67/a6/b2c46e1afbd073/US20190193856A1.pdf",
+  "publication_number": "US20190193856A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "payload",
+    "coupling apparatus",
+    "uav",
+    "payload coupling",
+    "aerial vehicle"
+  ],
+  "prior_art_date": "2017-12-21",
+  "application_number": "US15/851,654",
+  "inventors": [
+    {
+      "name": "Andre Prager",
+      "link": "https://patents.google.com/?inventor=Andre+Prager",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Andre+Prager"
+    },
+    {
+      "name": "Trevor SHANNON",
+      "link": "https://patents.google.com/?inventor=Trevor+SHANNON",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Trevor+SHANNON"
+    },
+    {
+      "name": "Adam Woodworth",
+      "link": "https://patents.google.com/?inventor=Adam+Woodworth",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Adam+Woodworth"
+    }
+  ],
+  "assignees": [
+    "Wing Aviation LLC"
+  ],
+  "priority_date": "2017-12-21",
+  "filing_date": "2017-12-21",
+  "publication_date": "2019-06-27",
+  "worldwide_applications": {
+    "2017": [
+      {
+        "filing_date": "2017-12-21",
+        "country_code": "US",
+        "application_number": "US15/851,654",
+        "document_id": "patent/US10689113B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2018": [
+      {
+        "filing_date": "2018-11-30",
+        "country_code": "CN",
+        "application_number": "CN201880083163.7A",
+        "document_id": "patent/CN111512253B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-11-30",
+        "country_code": "AU",
+        "application_number": "AU2018390414A",
+        "document_id": "patent/AU2018390414B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-11-30",
+        "country_code": "EP",
+        "application_number": "EP18830331.7A",
+        "document_id": "patent/EP3729220B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2018-11-30",
+        "country_code": "SG",
+        "application_number": "SG11202005722VA",
+        "document_id": "patent/SG11202005722VA/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2018-11-30",
+        "country_code": "EP",
+        "application_number": "EP22166409.7A",
+        "document_id": "patent/EP4047438A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2018-11-30",
+        "country_code": "WO",
+        "application_number": "PCT/US2018/063223",
+        "document_id": "patent/WO2019125724A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ],
+    "2020": [
+      {
+        "filing_date": "2020-05-12",
+        "country_code": "US",
+        "application_number": "US15/930,107",
+        "document_id": "patent/US10974831B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2021": [
+      {
+        "filing_date": "2021-03-16",
+        "country_code": "AU",
+        "application_number": "AU2021201663A",
+        "document_id": "patent/AU2021201663B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2017-12-21",
+      "title": "Application filed by Wing Aviation LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Wing Aviation LLC"
+    },
+    {
+      "date": "2017-12-21",
+      "title": "Priority to US15/851,654",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US10689113B2/en"
+    },
+    {
+      "date": "2018-01-22",
+      "title": "Assigned to X DEVELOPMENT LLC",
+      "type": "reassignment",
+      "assignee_search": "X DEVELOPMENT LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: WOODWORTH, ADAM, PRAGER, ANDRE, SHANNON, TREVOR"
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "title": "Assigned to WING AVIATION LLC",
+      "type": "reassignment",
+      "assignee_search": "WING AVIATION LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: X DEVELOPMENT LLC"
+      ]
+    },
+    {
+      "date": "2018-11-30",
+      "title": "Priority to AU2018390414A",
+      "type": "priority",
+      "document_id": "patent/AU2018390414B2/en"
+    },
+    {
+      "date": "2018-11-30",
+      "title": "Priority to EP22166409.7A",
+      "type": "priority",
+      "document_id": "patent/EP4047438A1/en"
+    },
+    {
+      "date": "2018-11-30",
+      "title": "Priority to SG11202005722VA",
+      "type": "priority",
+      "document_id": "patent/SG11202005722VA/en"
+    },
+    {
+      "date": "2018-11-30",
+      "title": "Priority to CN201880083163.7A",
+      "type": "priority",
+      "document_id": "patent/CN111512253B/en"
+    },
+    {
+      "date": "2018-11-30",
+      "title": "Priority to EP18830331.7A",
+      "type": "priority",
+      "document_id": "patent/EP3729220B1/en"
+    },
+    {
+      "date": "2018-11-30",
+      "title": "Priority to PCT/US2018/063223",
+      "type": "priority",
+      "document_id": "patent/WO2019125724A1/en"
+    },
+    {
+      "date": "2019-06-27",
+      "title": "Publication of US20190193856A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20190193856A1/en"
+    },
+    {
+      "date": "2020-05-12",
+      "title": "Priority to US15/930,107",
+      "type": "priority",
+      "document_id": "patent/US10974831B2/en"
+    },
+    {
+      "date": "2020-06-23",
+      "title": "Publication of US10689113B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10689113B2/en"
+    },
+    {
+      "date": "2020-06-23",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2021-03-16",
+      "title": "Priority to AU2021201663A",
+      "type": "priority",
+      "document_id": "patent/AU2021201663B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2038-09-06",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20190193856.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15851654"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20190193856"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2019193856A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15851654/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20190193856"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/25/82/8c/cc415d48b1b026/US20190193856A1-20190627-D00000.png",
+    "https://patentimages.storage.googleapis.com/57/f0/64/b3ecf9c0fe3c36/US20190193856A1-20190627-D00001.png",
+    "https://patentimages.storage.googleapis.com/9e/5d/7a/861b37ac8de26c/US20190193856A1-20190627-D00002.png",
+    "https://patentimages.storage.googleapis.com/e9/b9/6d/0d53ef16681055/US20190193856A1-20190627-D00003.png",
+    "https://patentimages.storage.googleapis.com/13/a7/45/2b2c12a981e700/US20190193856A1-20190627-D00004.png",
+    "https://patentimages.storage.googleapis.com/f8/36/27/50be4a5848200b/US20190193856A1-20190627-D00005.png",
+    "https://patentimages.storage.googleapis.com/57/d5/86/3066d3589f2404/US20190193856A1-20190627-D00006.png",
+    "https://patentimages.storage.googleapis.com/66/02/1d/275506d7ce2e1b/US20190193856A1-20190627-D00007.png",
+    "https://patentimages.storage.googleapis.com/29/6c/f6/684b283182a1ac/US20190193856A1-20190627-D00008.png",
+    "https://patentimages.storage.googleapis.com/68/47/92/c730f3efcd666b/US20190193856A1-20190627-D00009.png",
+    "https://patentimages.storage.googleapis.com/30/68/96/ae60939982c7bf/US20190193856A1-20190627-D00010.png",
+    "https://patentimages.storage.googleapis.com/e5/f1/8f/fc455d56786b62/US20190193856A1-20190627-D00011.png",
+    "https://patentimages.storage.googleapis.com/82/ba/39/e9452ef411b038/US20190193856A1-20190627-D00012.png",
+    "https://patentimages.storage.googleapis.com/12/8f/bf/0ef017be8900b8/US20190193856A1-20190627-D00013.png",
+    "https://patentimages.storage.googleapis.com/d3/f1/93/bdf394980128e3/US20190193856A1-20190627-D00014.png",
+    "https://patentimages.storage.googleapis.com/06/43/77/826a15c6687185/US20190193856A1-20190627-D00015.png",
+    "https://patentimages.storage.googleapis.com/80/28/ef/44f1e7d73bda8f/US20190193856A1-20190627-D00016.png",
+    "https://patentimages.storage.googleapis.com/3d/fd/de/88f415d1213245/US20190193856A1-20190627-D00017.png",
+    "https://patentimages.storage.googleapis.com/36/16/b4/767804e36d8a92/US20190193856A1-20190627-D00018.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64D1/22",
+      "description": "Taking-up articles from earth's surface",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B66C1/425",
+      "description": "Gripping members engaging only the external or internal surfaces of the articles motor actuated",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B66D1/12",
+      "description": "Driving gear incorporating electric motors",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/0094",
+      "description": "Control of position, course, altitude or attitude of land, water, air or space vehicles, e.g. using automatic pilots involving pointing a payload, e.g. camera, weapon, sensor, towards a fixed or moving target",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/128",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/141",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/146",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D1/12",
+      "description": "Releasing",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/67",
+      "description": "UAVs specially adapted for particular uses or applications for transporting passengers; for transporting goods other than weapons the UAVs comprising tethers for lowering the goods",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/00",
+      "description": "UAVs characterised by their flight controls",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/10",
+      "description": "UAVs characterised by their flight controls autonomous, i.e. by navigating independently from ground or air stations, e.g. by using inertial navigation systems [INS]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/20",
+      "description": "Remote controls",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An example system includes an aerial vehicle, a sensor, and a winch system. The winch system includes a tether disposed on a spool, a motor operable to apply a torque to the tether, and a payload coupling apparatus coupled to the tether and configured to mechanically couple to a payload. The system also includes a repositioning apparatus configured to reposition the payload coupling apparatus in at least a horizontal direction. A control system is configured to control the aerial vehicle to deploy the payload coupling apparatus by unwinding the tether from the spool; receive, while the aerial vehicle hovers above the payload and from the sensor, data indicative of a position of the payload coupling apparatus in relation to the payload; and reposition, using the repositioning apparatus and based on the data, the payload coupling apparatus in the horizontal direction to mechanically couple to the payload.",
+  "description_link": "https://serpapi.com/searches/697a34a6d10c6a1659c6783d/google_patents_details/description.html",
+  "claims": [
+    "1. A system comprising:\nan aerial vehicle; a sensor coupled to the aerial vehicle; a winch system coupled to the aerial vehicle, wherein the winch system comprises a tether disposed on a spool, a motor operable to apply a torque to the tether, and a payload coupling apparatus coupled to a leading end of the tether and configured to mechanically couple to a payload; a repositioning apparatus configured to reposition the payload coupling apparatus in at least a horizontal direction; and a control system configured to:\nidentify the payload to be picked up by the aerial vehicle within an environment;\ncontrol the aerial vehicle to hover above the payload;\ncontrol the winch system to deploy the payload coupling apparatus by unwinding the tether from the spool;\nreceive, while the aerial vehicle hovers above the payload and from the sensor, sensor data indicative of a position of the payload coupling apparatus in relation to the payload; and\nwhile the aerial vehicle hovers above the payload, reposition, using the repositioning apparatus and based on the sensor data, the payload coupling apparatus in the horizontal direction to mechanically couple to the payload.",
+    "2. The system of claim 1, wherein the control system is configured to control the aerial vehicle to hover above the payload and control the winch system to deploy the payload coupling apparatus by:\ncontrolling the position of the aerial vehicle in coordination with the winch system to maneuver the payload coupling apparatus to within a threshold distance of the payload; and based on the payload coupling apparatus being maneuvered to within the threshold distance of the payload, causing the aerial vehicle to hover in a fixed location above the payload to maintain the payload coupling apparatus within the threshold distance of the payload.",
+    "3. The system of claim 1, wherein the control system is further configured to:\ndetermine a trajectory for the payload coupling apparatus to follow to mechanically couple to the payload, wherein the trajectory is defined in at least the horizontal direction, and wherein an end of the trajectory coincides with an attachment point for the payload coupling apparatus on the payload; and actuate the repositioning apparatus to reposition the payload coupling apparatus according to the trajectory.",
+    "4. The system of claim 3, wherein the control system is further configured to:\nsuppress oscillation of the payload coupling apparatus as the payload coupling apparatus approaches the end of the trajectory to reduce a difference between a position indicated by the trajectory and an actual position of the payload coupling apparatus.",
+    "5. The system of claim 3, wherein the trajectory defines an orientation of the payload coupling apparatus relative to the attachment point on the payload, and wherein the orientation of the payload coupling apparatus at the end of the trajectory matches an orientation of the attachment point on the payload to mate the payload coupling apparatus with the attachment point.",
+    "6. The system of claim 1, wherein the repositioning apparatus comprises wheels coupled to the payload coupling apparatus and driven by additional corresponding motors, and wherein the control system is configured to control the aerial vehicle to hover above the payload and control the winch system to deploy the payload coupling apparatus by:\ncontrolling the position of the aerial vehicle in coordination with the winch system to deposit the payload coupling apparatus and the wheels thereof onto a surface in the environment near the payload.",
+    "7. The system of claim 6, wherein the control system is configured to reposition the payload coupling apparatus in the horizontal direction to mechanically couple to the payload by:\nidentifying, based on the sensor data, an attachment point on the payload to which to mechanically couple the payload coupling apparatus; and causing the additional corresponding motors to drive the wheels over the surface and towards the attachment point to mechanically couple the payload using the payload coupling apparatus.",
+    "8. The system of claim 6, wherein the wheels comprise two wheels, and wherein the control system is further configured to:\nwhile the aerial vehicle hovers above the payload, control the motor of the winch system to maintain tension on the tether while the payload coupling apparatus is repositioned in the horizontal direction to maintain the payload coupling apparatus upright on the two wheels.",
+    "9. The system of claim 6, wherein the wheels comprise two wheels, wherein the payload coupling apparatus includes one or more gyroscopes coupled thereto, and wherein the control system is further configured to:\nreceive, from the one or more gyroscopes, data indicative of a tilt of the payload coupling apparatus; and based on the data indicative of the tilt of the payload coupling apparatus, actuate one or more of the additional corresponding motors to maintain the payload coupling apparatus upright on the two wheels.",
+    "10. The system of claim 1, wherein the repositioning apparatus comprises a plurality of adjustable aerodynamic features on the payload coupling apparatus, and wherein the control system is configured to reposition the payload coupling apparatus in the horizontal direction by:\nadjusting the adjustable aerodynamic features on the payload coupling apparatus to generate on the payload coupling apparatus, using a downwash of air generated by the aerial vehicle while hovering above the payload, a force to reposition the payload coupling apparatus in the horizontal direction.",
+    "11. The system of claim 1, wherein the payload coupling apparatus includes thereon a plurality of passive aerodynamic features configured to dampen oscillations of the payload coupling apparatus using a downwash of air generated by the aerial vehicle while hovering above the payload.",
+    "12. The system of claim 1, wherein the repositioning apparatus comprises one or more thrusters on the payload coupling apparatus configured to push the payload coupling apparatus in one or more directions, and wherein the control system is configured to reposition the payload coupling apparatus in the horizontal direction by:\nactuating the one or more thrusters to reposition the payload coupling apparatus in the horizontal direction.",
+    "13. The system of claim 1, wherein the repositioning apparatus comprises an actuated arm connected at a first end thereof to the aerial vehicle, wherein the actuated arm comprises at a second end thereof a tether guide through which the tether extends, and wherein the control system is configured to reposition the payload coupling apparatus in the horizontal direction by:\nactuating the actuated arm to push the tether and the payload coupling apparatus in the horizontal direction.",
+    "14. The system of claim 1, wherein the system further comprises an arm connected at a first end thereof to the aerial vehicle, wherein the arm comprises at a second end thereof a tether guide through which the tether extends, and wherein the arm is configured to dampen oscillations of the payload coupling apparatus while the aerial vehicle hovers in a fixed location above the payload.",
+    "15. The system of claim 1, wherein the sensor is disposed on the payload coupling apparatus and coupled to the aerial vehicle by way of the winch system.",
+    "16. The system of claim 1, wherein the control system is configured to control the aerial vehicle to hover above the payload and control the winch system to deploy the payload coupling apparatus by:\ndetermining, based on the sensor data, synchronized adjustments to (i) a vertical position of the aerial vehicle, (ii) a horizontal position of the aerial vehicle, and (iii) an extent to which the tether is unwound from the spool; and adjusting a position of the aerial vehicle in coordination with the winch system to perform the synchronized adjustments.",
+    "17. The system of claim 16, wherein the control system is further configured to:\ndetermine, based on a length by which the tether has been unwound from the spool, a delay between adjustments in a position of the aerial vehicle and corresponding changes in a position of the payload coupling apparatus; and adjust the position of the aerial vehicle in coordination with the winch system based on the determined delay.",
+    "18. The system of claim 1, wherein the control system is further configured to:\nafter mechanically coupling to the payload, control the aerial vehicle in coordination with the winch system to pick up the payload.",
+    "19. A method comprising:\nidentifying, by a control system, a payload to be picked up by an aerial vehicle within an environment, wherein a winch system is coupled to the aerial vehicle, wherein the winch system comprises a tether disposed on a spool, a motor operable to apply a torque to the tether, and a payload coupling apparatus coupled to a leading end of the tether and configured to mechanically couple to the payload; controlling, by the control system, the aerial vehicle to hover above the payload; controlling, by the control system, the winch system to deploy the payload coupling apparatus by unwinding the tether from the spool; receiving, by the control system, while the aerial vehicle hovers above the payload, from a sensor on the aerial vehicle, sensor data indicative of a position of the payload coupling apparatus in relation to the payload; and while the aerial vehicle hovers above the payload, providing instructions by the control system to reposition, using a repositioning apparatus configured to reposition the payload coupling apparatus in at least a horizontal direction, based on the sensor data, the payload coupling apparatus in the horizontal direction to mechanically couple to the payload.",
+    "20. A non-transitory computer readable storage medium having stored thereon instructions that, when executed by a computing device, cause the computing device to perform operations comprising:\nidentifying a payload to be picked up by an aerial vehicle within an environment, wherein a winch system is coupled to the aerial vehicle, wherein the winch system comprises a tether disposed on a spool, a motor operable to apply a torque to the tether, and a payload coupling apparatus coupled to a leading end of the tether and configured to mechanically couple to the payload; controlling the aerial vehicle to hover above the payload; controlling the winch system to deploy the payload coupling apparatus by unwinding the tether from the spool; receiving, while the aerial vehicle hovers above the payload, from a sensor on the aerial vehicle, sensor data indicative of a position of the payload coupling apparatus in relation to the payload; and while the aerial vehicle hovers above the payload, providing instructions to reposition, using a repositioning apparatus configured to reposition the payload coupling apparatus in at least a horizontal direction, based on the sensor data, the payload coupling apparatus in the horizontal direction to mechanically couple to the payload."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US15/930,107",
+      "relation_type": "Continuation",
+      "representative_publication": "US10974831B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2020-05-12",
+      "title": "Active position control of tethered hook"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/851,654",
+      "representative_publication": "US10689113B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2017-12-21",
+      "title": "Active position control of tethered hook"
+    },
+    {
+      "application_number": "PCT/US2018/063223",
+      "representative_publication": "WO2019125724A1",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-11-30",
+      "title": "Active position control of tethered hook"
+    },
+    {
+      "application_number": "EP18830331.7A",
+      "representative_publication": "EP3729220B1",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-11-30",
+      "title": "Active position control of tethered hook"
+    },
+    {
+      "application_number": "EP22166409.7A",
+      "representative_publication": "EP4047438A1",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-11-30",
+      "title": "Active position control of tethered hook"
+    },
+    {
+      "application_number": "SG11202005722VA",
+      "representative_publication": "SG11202005722VA",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-11-30",
+      "title": "Active position control of tethered hook"
+    },
+    {
+      "application_number": "CN201880083163.7A",
+      "representative_publication": "CN111512253B",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-11-30",
+      "title": "Active position control of rope hooks"
+    },
+    {
+      "application_number": "AU2018390414A",
+      "representative_publication": "AU2018390414B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2018-11-30",
+      "title": "Active position control of tethered hook"
+    },
+    {
+      "application_number": "US15/930,107",
+      "representative_publication": "US10974831B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2020-05-12",
+      "title": "Active position control of tethered hook"
+    },
+    {
+      "application_number": "AU2021201663A",
+      "representative_publication": "AU2021201663B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2021-03-16",
+      "title": "Active position control of tethered hook"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US15/851,654",
+      "representative_publication": "US10689113B2",
+      "primary_language": "en",
+      "priority_date": "2017-12-21",
+      "filing_date": "2017-12-21",
+      "title": "Active position control of tethered hook"
+    }
+  ],
+  "family_id": "64959409",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20070200032A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-02-24",
+        "publication_date": "2007-08-30",
+        "assignee_original": "Eadie William J",
+        "title": "Radio frequency emitting hook system for a rotary-wing aircraft external load handling",
+        "patent_id": "patent/US20070200032A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070200032A1%2Fen"
+      },
+      {
+        "publication_number": "US9676481B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-03-27",
+        "publication_date": "2017-06-13",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Tether compensated airborne delivery",
+        "patent_id": "patent/US9676481B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9676481B1%2Fen"
+      },
+      {
+        "publication_number": "US20190114578A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-29",
+        "publication_date": "2019-04-18",
+        "assignee_original": "Orestis Afordakos",
+        "title": "Transportation System Using Drones For Airbourne Pickup of Parcels From Hubs and Delivery of Parcels to Hubs",
+        "patent_id": "patent/US20190114578A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190114578A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US3128068A",
+        "primary_language": "en",
+        "priority_date": "1962-11-09",
+        "publication_date": "1964-04-07",
+        "assignee_original": "Lockheed Aircraft Corp",
+        "title": "Petal type door for cargo aircraft",
+        "patent_id": "patent/US3128068A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3128068A%2Fen"
+      },
+      {
+        "publication_number": "US3113751A",
+        "primary_language": "en",
+        "priority_date": "1962-12-28",
+        "publication_date": "1963-12-10",
+        "assignee_original": "All American Eng Co",
+        "title": "Aerial cargo delivery system",
+        "patent_id": "patent/US3113751A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3113751A%2Fen"
+      },
+      {
+        "publication_number": "US3612448A",
+        "primary_language": "en",
+        "priority_date": "1970-01-23",
+        "publication_date": "1971-10-12",
+        "assignee_original": "Gentex Corp",
+        "title": "Aerial delivery system",
+        "patent_id": "patent/US3612448A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3612448A%2Fen"
+      },
+      {
+        "publication_number": "US3904156A",
+        "primary_language": "en",
+        "priority_date": "1974-07-11",
+        "publication_date": "1975-09-09",
+        "assignee_original": "Us Army",
+        "title": "External load stabilization apparatus",
+        "patent_id": "patent/US3904156A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3904156A%2Fen"
+      },
+      {
+        "publication_number": "WO1981001698A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1979-12-13",
+        "publication_date": "1981-06-25",
+        "assignee_original": "C Chapman",
+        "title": "Apparatus and methods for line stringing with load pickup coupling device",
+        "patent_id": "patent/WO1981001698A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1981001698A1%2Fen"
+      },
+      {
+        "publication_number": "US4396945A",
+        "primary_language": "en",
+        "priority_date": "1981-08-19",
+        "publication_date": "1983-08-02",
+        "assignee_original": "Solid Photography Inc.",
+        "title": "Method of sensing the position and orientation of elements in space",
+        "patent_id": "patent/US4396945A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4396945A%2Fen"
+      },
+      {
+        "publication_number": "US4881601A",
+        "primary_language": "en",
+        "priority_date": "1988-05-18",
+        "publication_date": "1989-11-21",
+        "assignee_original": "Smith Wayne D",
+        "title": "Apparatus for deployment of aerial-drop units",
+        "patent_id": "patent/US4881601A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4881601A%2Fen"
+      },
+      {
+        "publication_number": "SE507623C3",
+        "primary_language": "en",
+        "priority_date": "1992-02-18",
+        "publication_date": "1998-08-10",
+        "assignee_original": "Wiklund Henry & Co",
+        "title": "Lifting hook with safety lock and possibility for automatic load release",
+        "patent_id": "patent/SE507623C3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE507623C3%2Fen"
+      },
+      {
+        "publication_number": "JPH10114489A",
+        "primary_language": "en",
+        "priority_date": "1996-10-11",
+        "publication_date": "1998-05-06",
+        "assignee_original": "Nippon Juki Hanbai Kk",
+        "title": "Hanging hook",
+        "patent_id": "patent/JPH10114489A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH10114489A%2Fen"
+      },
+      {
+        "publication_number": "US5788186A",
+        "primary_language": "en",
+        "priority_date": "1997-02-10",
+        "publication_date": "1998-08-04",
+        "assignee_original": "Sail D. White Ent. Inc.",
+        "title": "Helicopter load suspending apparatus",
+        "patent_id": "patent/US5788186A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5788186A%2Fen"
+      },
+      {
+        "publication_number": "US6086015A",
+        "primary_language": "en",
+        "priority_date": "1999-05-07",
+        "publication_date": "2000-07-11",
+        "assignee_original": "Aerovironment, Inc.",
+        "title": "Aerial transport method and apparatus",
+        "patent_id": "patent/US6086015A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6086015A%2Fen"
+      },
+      {
+        "publication_number": "US6334537B1",
+        "primary_language": "en",
+        "priority_date": "2000-04-20",
+        "publication_date": "2002-01-01",
+        "assignee_original": "Daniel A. Tepper",
+        "title": "Inflatable container for protecting an item packaged therein",
+        "patent_id": "patent/US6334537B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6334537B1%2Fen"
+      },
+      {
+        "publication_number": "JP3383283B2",
+        "primary_language": "en",
+        "priority_date": "2000-11-13",
+        "publication_date": "2003-03-04",
+        "assignee_original": "\u77f3\u5ddd\u7523\u696d\u6709\u9650\u4f1a\u793e",
+        "title": "Auto hook",
+        "patent_id": "patent/JP3383283B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3383283B2%2Fen"
+      },
+      {
+        "publication_number": "US6758442B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-30",
+        "publication_date": "2004-07-06",
+        "assignee_original": "Stara Technologies, Inc.",
+        "title": "Guided parafoil system for delivering lightweight payloads",
+        "patent_id": "patent/US6758442B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6758442B2%2Fen"
+      },
+      {
+        "publication_number": "USRE45452E1",
+        "primary_language": "en",
+        "priority_date": "2006-02-13",
+        "publication_date": "2015-04-07",
+        "assignee_original": "Max-Viz, Inc.",
+        "title": "System for and method of synchronous acquisition of pulsed source light in performance of monitoring aircraft flight operation",
+        "patent_id": "patent/USRE45452E1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSRE45452E1%2Fen"
+      },
+      {
+        "publication_number": "WO2008018912A2",
+        "primary_language": "en",
+        "priority_date": "2006-02-23",
+        "publication_date": "2008-02-14",
+        "assignee_original": "Sikorsky Aircraft Corporation",
+        "title": "Radio frequency emitting hook system for a rotary-wing aircraft external load handling",
+        "patent_id": "patent/WO2008018912A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008018912A2%2Fen"
+      },
+      {
+        "publication_number": "US7762194B2",
+        "primary_language": "en",
+        "priority_date": "2006-09-12",
+        "publication_date": "2010-07-27",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Apparatus comprising a payload ejection mechanism",
+        "patent_id": "patent/US7762194B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7762194B2%2Fen"
+      },
+      {
+        "publication_number": "US7708222B2",
+        "primary_language": "en",
+        "priority_date": "2007-04-27",
+        "publication_date": "2010-05-04",
+        "assignee_original": "Stratocomm Corporation",
+        "title": "Long mission tethered aerostat and method of accomplishing",
+        "patent_id": "patent/US7708222B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7708222B2%2Fen"
+      },
+      {
+        "publication_number": "US8251307B2",
+        "primary_language": "en",
+        "priority_date": "2007-06-11",
+        "publication_date": "2012-08-28",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Airborne manipulator system",
+        "patent_id": "patent/US8251307B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8251307B2%2Fen"
+      },
+      {
+        "publication_number": "US8979031B2",
+        "primary_language": "en",
+        "priority_date": "2008-06-10",
+        "publication_date": "2015-03-17",
+        "assignee_original": "Roy L. Fox, Jr.",
+        "title": "Aerial delivery system with munition adapter and latching release",
+        "patent_id": "patent/US8979031B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8979031B2%2Fen"
+      },
+      {
+        "publication_number": "US8162263B2",
+        "primary_language": "en",
+        "priority_date": "2009-03-31",
+        "publication_date": "2012-04-24",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Payload quick release for an aerial system",
+        "patent_id": "patent/US8162263B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8162263B2%2Fen"
+      },
+      {
+        "publication_number": "US20110192938A1",
+        "primary_language": "en",
+        "priority_date": "2010-02-09",
+        "publication_date": "2011-08-11",
+        "assignee_original": "Northrop Grumman Systems Corporation",
+        "title": "Wind power generation system for lighter than air (lta) platforms",
+        "patent_id": "patent/US20110192938A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110192938A1%2Fen"
+      },
+      {
+        "publication_number": "DE202010002309U1",
+        "primary_language": "en",
+        "priority_date": "2010-02-11",
+        "publication_date": "2010-05-06",
+        "assignee_original": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e.V.",
+        "title": "Regulator device for helicopters",
+        "patent_id": "patent/DE202010002309U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE202010002309U1%2Fen"
+      },
+      {
+        "publication_number": "US8643850B1",
+        "primary_language": "en",
+        "priority_date": "2010-03-02",
+        "publication_date": "2014-02-04",
+        "assignee_original": "Richard L. Hartman",
+        "title": "Automated system for load acquisition and engagement",
+        "patent_id": "patent/US8643850B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8643850B1%2Fen"
+      },
+      {
+        "publication_number": "US9223008B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-02",
+        "publication_date": "2015-12-29",
+        "assignee_original": "Advanced Optical Systems Inc.",
+        "title": "Load tracking and stabilization",
+        "patent_id": "patent/US9223008B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9223008B1%2Fen"
+      },
+      {
+        "publication_number": "JP2013530093A",
+        "primary_language": "en",
+        "priority_date": "2010-06-29",
+        "publication_date": "2013-07-25",
+        "assignee_original": "\u30a8\u30a2\u30ed\u30f4\u30a1\u30a4\u30ed\u30f3\u30e1\u30f3\u30c8  \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9",
+        "title": "Unmanned aerial payload module camera assembly and retract mechanism",
+        "patent_id": "patent/JP2013530093A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013530093A%2Fen"
+      },
+      {
+        "publication_number": "US11724836B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-15",
+        "publication_date": "2023-08-15",
+        "assignee_original": "Arthur M Dula",
+        "title": "Tether for spacecraft reaction control system",
+        "patent_id": "patent/US11724836B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11724836B2%2Fen"
+      },
+      {
+        "publication_number": "US9014967B2",
+        "primary_language": "en",
+        "priority_date": "2011-05-26",
+        "publication_date": "2015-04-21",
+        "assignee_original": "The Boeing Company",
+        "title": "Airdrop controller system",
+        "patent_id": "patent/US9014967B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9014967B2%2Fen"
+      },
+      {
+        "publication_number": "US9469410B2",
+        "primary_language": "en",
+        "priority_date": "2011-07-22",
+        "publication_date": "2016-10-18",
+        "assignee_original": "Carleton Life Support Systems Inc.",
+        "title": "Aerial refueling system, apparatus and methods",
+        "patent_id": "patent/US9469410B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9469410B2%2Fen"
+      },
+      {
+        "publication_number": "US8532846B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-26",
+        "publication_date": "2013-09-10",
+        "assignee_original": "Donald John Tollenaere",
+        "title": "Helicopter sling-load stability control and release system",
+        "patent_id": "patent/US8532846B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8532846B2%2Fen"
+      },
+      {
+        "publication_number": "US9061764B2",
+        "primary_language": "en",
+        "priority_date": "2011-08-31",
+        "publication_date": "2015-06-23",
+        "assignee_original": "The Boeing Company",
+        "title": "Steerable container delivery system",
+        "patent_id": "patent/US9061764B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9061764B2%2Fen"
+      },
+      {
+        "publication_number": "US8591161B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-04",
+        "publication_date": "2013-11-26",
+        "assignee_original": "The Boeing Company",
+        "title": "Maneuvering autonomous rotorcraft cargo attachment system with motion compensation",
+        "patent_id": "patent/US8591161B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8591161B1%2Fen"
+      },
+      {
+        "publication_number": "US8909379B2",
+        "primary_language": "en",
+        "priority_date": "2012-03-07",
+        "publication_date": "2014-12-09",
+        "assignee_original": "Tait Towers Manufacturing, LLC",
+        "title": "Winch control system",
+        "patent_id": "patent/US8909379B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8909379B2%2Fen"
+      },
+      {
+        "publication_number": "US9384668B2",
+        "primary_language": "en",
+        "priority_date": "2012-05-09",
+        "publication_date": "2016-07-05",
+        "assignee_original": "Singularity University",
+        "title": "Transportation using network of unmanned aerial vehicles",
+        "patent_id": "patent/US9384668B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9384668B2%2Fen"
+      },
+      {
+        "publication_number": "US9085362B1",
+        "primary_language": "en",
+        "priority_date": "2012-11-21",
+        "publication_date": "2015-07-21",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Counter-unmanned aerial vehicle system and method",
+        "patent_id": "patent/US9085362B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9085362B1%2Fen"
+      },
+      {
+        "publication_number": "US9205922B1",
+        "primary_language": "en",
+        "priority_date": "2013-07-17",
+        "publication_date": "2015-12-08",
+        "assignee_original": "The Boeing Company",
+        "title": "Systems and methods for implementing a payload distribution system",
+        "patent_id": "patent/US9205922B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9205922B1%2Fen"
+      },
+      {
+        "publication_number": "US9346547B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-26",
+        "publication_date": "2016-05-24",
+        "assignee_original": "Google Inc.",
+        "title": "Mechanisms for lowering a payload to the ground from a UAV",
+        "patent_id": "patent/US9346547B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9346547B2%2Fen"
+      },
+      {
+        "publication_number": "CA2927096C",
+        "primary_language": "en",
+        "priority_date": "2013-10-26",
+        "publication_date": "2023-02-28",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Unmanned aerial vehicle delivery system",
+        "patent_id": "patent/CA2927096C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2927096C%2Fen"
+      },
+      {
+        "publication_number": "US9308994B2",
+        "primary_language": "en",
+        "priority_date": "2014-02-27",
+        "publication_date": "2016-04-12",
+        "assignee_original": "Aai Corporation",
+        "title": "Apparatus and method of attachment of a payload",
+        "patent_id": "patent/US9308994B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9308994B2%2Fen"
+      },
+      {
+        "publication_number": "US9336506B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-02",
+        "publication_date": "2016-05-10",
+        "assignee_original": "Google Inc.",
+        "title": "Machine-readable delivery platform for automated package delivery",
+        "patent_id": "patent/US9336506B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9336506B2%2Fen"
+      },
+      {
+        "publication_number": "US10739790B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-13",
+        "publication_date": "2020-08-11",
+        "assignee_original": "The Boeing Company",
+        "title": "Control method to damp quadrotor slung payload mode",
+        "patent_id": "patent/US10739790B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10739790B2%2Fen"
+      },
+      {
+        "publication_number": "US9422139B1",
+        "primary_language": "en",
+        "priority_date": "2014-05-19",
+        "publication_date": "2016-08-23",
+        "assignee_original": "Google Inc.",
+        "title": "Method of actively controlling winch swing via modulated uptake and release",
+        "patent_id": "patent/US9422139B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9422139B1%2Fen"
+      },
+      {
+        "publication_number": "US9580173B1",
+        "primary_language": "en",
+        "priority_date": "2014-08-28",
+        "publication_date": "2017-02-28",
+        "assignee_original": "X Development Llc",
+        "title": "Translational correction of payload-release device based on tracked position",
+        "patent_id": "patent/US9580173B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9580173B1%2Fen"
+      },
+      {
+        "publication_number": "US9174733B1",
+        "primary_language": "en",
+        "priority_date": "2014-08-28",
+        "publication_date": "2015-11-03",
+        "assignee_original": "Google Inc.",
+        "title": "Payload-release device and operation thereof",
+        "patent_id": "patent/US9174733B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9174733B1%2Fen"
+      },
+      {
+        "publication_number": "US9688404B1",
+        "primary_language": "en",
+        "priority_date": "2014-12-02",
+        "publication_date": "2017-06-27",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Stabilized airborne drop delivery",
+        "patent_id": "patent/US9688404B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9688404B1%2Fen"
+      },
+      {
+        "publication_number": "US20160318609A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-01",
+        "publication_date": "2016-11-03",
+        "assignee_original": "Other Lab, Llc",
+        "title": "System and method for flying trucks",
+        "patent_id": "patent/US20160318609A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160318609A1%2Fen"
+      },
+      {
+        "publication_number": "US9567081B1",
+        "primary_language": "en",
+        "priority_date": "2015-06-26",
+        "publication_date": "2017-02-14",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Maneuvering a package following in-flight release from an unmanned aerial vehicle (UAV)",
+        "patent_id": "patent/US9567081B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9567081B1%2Fen"
+      },
+      {
+        "publication_number": "KR200479199Y1",
+        "primary_language": "en",
+        "priority_date": "2015-07-31",
+        "publication_date": "2015-12-31",
+        "assignee_original": "\uae40\uc6a9\uad6d",
+        "title": "unmanned air vehicle",
+        "patent_id": "patent/KR200479199Y1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR200479199Y1%2Fen"
+      },
+      {
+        "publication_number": "EP3337728B1",
+        "primary_language": "en",
+        "priority_date": "2015-10-17",
+        "publication_date": "2022-04-13",
+        "assignee_original": "Wing Aviation LLC",
+        "title": "Aerodynamic tote package and method for forming the same",
+        "patent_id": "patent/EP3337728B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3337728B1%2Fen"
+      },
+      {
+        "publication_number": "CA3003266A1",
+        "primary_language": "en",
+        "priority_date": "2015-10-28",
+        "publication_date": "2017-05-04",
+        "assignee_original": "Walmart Apollo, Llc",
+        "title": "Apparatus and method for providing package release to unmanned aerial system",
+        "patent_id": "patent/CA3003266A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3003266A1%2Fen"
+      },
+      {
+        "publication_number": "US20170073071A1",
+        "primary_language": "en",
+        "priority_date": "2015-11-20",
+        "publication_date": "2017-03-16",
+        "assignee_original": "Guided Systems Technologies, Inc.",
+        "title": "Unmanned aircraft and unmanned ground vehicle teaming for remote infrastructure inspection",
+        "patent_id": "patent/US20170073071A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170073071A1%2Fen"
+      },
+      {
+        "publication_number": "WO2017128318A1",
+        "primary_language": "en",
+        "priority_date": "2016-01-29",
+        "publication_date": "2017-08-03",
+        "assignee_original": "SZ DJI Technology Co., Ltd.",
+        "title": "Uav with transformable arms",
+        "patent_id": "patent/WO2017128318A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017128318A1%2Fen"
+      },
+      {
+        "publication_number": "US9823089B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-06-21",
+        "publication_date": "2017-11-21",
+        "assignee_original": "Amazon Technologies, Inc.",
+        "title": "Unmanned aerial vehicle sensor calibration as part of departure from a materials handling facility",
+        "patent_id": "patent/US9823089B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9823089B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20180305018A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-30",
+        "publication_date": "2018-10-25",
+        "assignee_original": "Haoxiang Electric Energy (Kunshan) Co., Ltd.",
+        "title": "Transport drone",
+        "patent_id": "patent/US20180305018A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180305018A1%2Fen"
+      },
+      {
+        "publication_number": "US20190100413A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-25",
+        "publication_date": "2019-04-04",
+        "assignee_original": "Columbia Helicopters, Inc.",
+        "title": "Load placement system",
+        "patent_id": "patent/US20190100413A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190100413A1%2Fen"
+      },
+      {
+        "publication_number": "US20190129427A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-20",
+        "publication_date": "2019-05-02",
+        "assignee_original": "Prodrone Co., Ltd.",
+        "title": "Unmanned aerial vehicle and moving object capturing system",
+        "patent_id": "patent/US20190129427A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190129427A1%2Fen"
+      },
+      {
+        "publication_number": "CN111846226A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-28",
+        "publication_date": "2020-10-30",
+        "assignee_original": "\u5317\u4eac\u4eac\u4e1c\u4e7e\u77f3\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Unmanned aerial vehicle and its control method",
+        "patent_id": "patent/CN111846226A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111846226A%2Fen"
+      },
+      {
+        "publication_number": "US11010851B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-22",
+        "publication_date": "2021-05-18",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Distribution of aerial vehicle transport capacity based on item-provider performance metrics",
+        "patent_id": "patent/US11010851B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11010851B2%2Fen"
+      },
+      {
+        "publication_number": "US20210309357A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-06",
+        "publication_date": "2021-10-07",
+        "assignee_original": "Workhorse Group Inc.",
+        "title": "Flying vehicle systems and methods",
+        "patent_id": "patent/US20210309357A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210309357A1%2Fen"
+      },
+      {
+        "publication_number": "CN113753235A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-13",
+        "publication_date": "2021-12-07",
+        "assignee_original": "\u897f\u5317\u5de5\u4e1a\u5927\u5b66",
+        "title": "A system and method for maneuvering autonomous docking at the end of a rope",
+        "patent_id": "patent/CN113753235A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113753235A%2Fen"
+      },
+      {
+        "publication_number": "US11210956B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-24",
+        "publication_date": "2021-12-28",
+        "assignee_original": "Telefonaktiebolaget Lm Ericsson (Publ)",
+        "title": "Method for directing an unmanned aerial vehicle to a destination",
+        "patent_id": "patent/US11210956B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11210956B2%2Fen"
+      },
+      {
+        "publication_number": "US11214386B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-08-02",
+        "publication_date": "2022-01-04",
+        "assignee_original": "Hapsmobile Inc.",
+        "title": "System, control device and light aircraft",
+        "patent_id": "patent/US11214386B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11214386B2%2Fen"
+      },
+      {
+        "publication_number": "US11256271B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-21",
+        "publication_date": "2022-02-22",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Anticipatory dispatch of UAVs to pre-staging locations",
+        "patent_id": "patent/US11256271B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11256271B2%2Fen"
+      },
+      {
+        "publication_number": "US11319070B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-28",
+        "publication_date": "2022-05-03",
+        "assignee_original": "The Boeing Company",
+        "title": "Deployable clasping systems and methods",
+        "patent_id": "patent/US11319070B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11319070B2%2Fen"
+      },
+      {
+        "publication_number": "US20220223158A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-24",
+        "publication_date": "2022-07-14",
+        "assignee_original": "Darrell Poirier",
+        "title": "Audio collection system and method for sound capture, broadcast, analysis, and presentation",
+        "patent_id": "patent/US20220223158A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220223158A1%2Fen"
+      },
+      {
+        "publication_number": "US11401034B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-28",
+        "publication_date": "2022-08-02",
+        "assignee_original": "Walmart Apollo, Llc",
+        "title": "Drone delivery system having a single use lowering line",
+        "patent_id": "patent/US11401034B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11401034B2%2Fen"
+      },
+      {
+        "publication_number": "US11440679B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-27",
+        "publication_date": "2022-09-13",
+        "assignee_original": "Cowden Technologies, Inc.",
+        "title": "Drone docking station and docking module",
+        "patent_id": "patent/US11440679B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11440679B2%2Fen"
+      },
+      {
+        "publication_number": "CN115135579A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-25",
+        "publication_date": "2022-09-30",
+        "assignee_original": "\u7ef4\u5854\u56e0\u514b\u83b1\u7eb3\u5854\u6280\u672f\u516c\u53f8",
+        "title": "Coupling for a suspended load control device, system and method",
+        "patent_id": "patent/CN115135579A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115135579A%2Fen"
+      },
+      {
+        "publication_number": "WO2022263689A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-15",
+        "publication_date": "2022-12-22",
+        "assignee_original": "Elebia Autohooks, S.L.U.",
+        "title": "System and method for manipulating containers",
+        "patent_id": "patent/WO2022263689A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022263689A1%2Fen"
+      },
+      {
+        "publication_number": "US20230135603A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-03",
+        "publication_date": "2023-05-04",
+        "assignee_original": "Toyota Motor Engineering & Manufacturing North America, Inc.",
+        "title": "Methods and systems for providing roadside drone service",
+        "patent_id": "patent/US20230135603A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230135603A1%2Fen"
+      },
+      {
+        "publication_number": "CN116692470A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-06-29",
+        "publication_date": "2023-09-05",
+        "assignee_original": "\u6b66\u6c49\u7406\u5de5\u5927\u5b66",
+        "title": "Two-way fixed point handling device based on visual recognition",
+        "patent_id": "patent/CN116692470A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116692470A%2Fen"
+      },
+      {
+        "publication_number": "US11814175B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-22",
+        "publication_date": "2023-11-14",
+        "assignee_original": "Autoflight (Kunshan) Co., Ltd.",
+        "title": "Unmanned aerial vehicle (UAV) delivery structure",
+        "patent_id": "patent/US11814175B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11814175B1%2Fen"
+      },
+      {
+        "publication_number": "EP4311771A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-28",
+        "publication_date": "2024-01-31",
+        "assignee_original": "Rakuten Group, Inc.",
+        "title": "Control device, unmanned aerial vehicle, and control method",
+        "patent_id": "patent/EP4311771A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4311771A1%2Fen"
+      },
+      {
+        "publication_number": "US20240076067A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-07",
+        "publication_date": "2024-03-07",
+        "assignee_original": "Daifuku Co., Ltd.",
+        "title": "Operation System of Unmanned Aircraft",
+        "patent_id": "patent/US20240076067A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240076067A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "CN117874400A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-03-13",
+        "publication_date": "2024-04-12",
+        "assignee_original": "\u4e2d\u56fd\u7a7a\u6c14\u52a8\u529b\u7814\u7a76\u4e0e\u53d1\u5c55\u4e2d\u5fc3\u8bbe\u5907\u8bbe\u8ba1\u4e0e\u6d4b\u8bd5\u6280\u672f\u7814\u7a76\u6240",
+        "title": "Aircraft model dynamic derivative test data processing system",
+        "patent_id": "patent/CN117874400A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117874400A%2Fen"
+      },
+      {
+        "publication_number": "US20240417072A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-01-10",
+        "publication_date": "2024-12-19",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Payload Saddle Assemblies for Use on Aircraft",
+        "patent_id": "patent/US20240417072A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240417072A1%2Fen"
+      },
+      {
+        "publication_number": "US12515796B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-07-28",
+        "publication_date": "2026-01-06",
+        "assignee_original": "Rakuten Group, Inc.",
+        "title": "Control device, unmanned aerial vehicle, and control method",
+        "patent_id": "patent/US12515796B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12515796B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US11307063B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-23",
+        "publication_date": "2022-04-19",
+        "assignee_original": "Gtc Law Group Pc & Affiliates",
+        "title": "Inspection robot for horizontal tube inspection having vertically positionable sensor carriage",
+        "patent_id": "patent/US11307063B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11307063B2%2Fen"
+      },
+      {
+        "publication_number": "US12358141B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-23",
+        "publication_date": "2025-07-15",
+        "assignee_original": "Gecko Robotics, Inc.",
+        "title": "Systems, methods, and apparatus for providing interactive inspection map for inspection robot",
+        "patent_id": "patent/US12358141B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12358141B2%2Fen"
+      },
+      {
+        "publication_number": "US11673272B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-23",
+        "publication_date": "2023-06-13",
+        "assignee_original": "Gecko Robotics, Inc.",
+        "title": "Inspection robot with stability assist device",
+        "patent_id": "patent/US11673272B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11673272B2%2Fen"
+      },
+      {
+        "publication_number": "ES2901649T3",
+        "primary_language": "en",
+        "priority_date": "2016-12-23",
+        "publication_date": "2022-03-23",
+        "assignee_original": "Gecko Robotics Inc",
+        "title": "inspection robot",
+        "patent_id": "patent/ES2901649T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2901649T3%2Fen"
+      },
+      {
+        "publication_number": "US12162160B2",
+        "primary_language": "en",
+        "priority_date": "2016-12-23",
+        "publication_date": "2024-12-10",
+        "assignee_original": "Gecko Robotics, Inc.",
+        "title": "System, apparatus and method for improved location identification with prism",
+        "patent_id": "patent/US12162160B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12162160B2%2Fen"
+      },
+      {
+        "publication_number": "CN111284694A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-10",
+        "publication_date": "2020-06-16",
+        "assignee_original": "\u5357\u4eac\u667a\u6167\u5ca9\u571f\u5de5\u7a0b\u6280\u672f\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+        "title": "Engineering investigation unmanned aerial vehicle system based on satellite positioning navigation and investigation method",
+        "patent_id": "patent/CN111284694A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111284694A%2Fen"
+      },
+      {
+        "publication_number": "CN112650298B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-30",
+        "publication_date": "2021-08-17",
+        "assignee_original": "\u5e7f\u4e1c\u5de5\u4e1a\u5927\u5b66",
+        "title": "A UAV tracking and landing method and system",
+        "patent_id": "patent/CN112650298B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112650298B%2Fen"
+      },
+      {
+        "publication_number": "EP4326493A4",
+        "primary_language": "en",
+        "priority_date": "2021-04-20",
+        "publication_date": "2025-03-12",
+        "assignee_original": "Gecko Robotics, Inc.",
+        "title": "Flexible inspection robot",
+        "patent_id": "patent/EP4326493A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4326493A4%2Fen"
+      },
+      {
+        "publication_number": "US11971389B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-22",
+        "publication_date": "2024-04-30",
+        "assignee_original": "Gecko Robotics, Inc.",
+        "title": "Systems, methods, and apparatus for ultra-sonic inspection of a surface",
+        "patent_id": "patent/US11971389B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11971389B2%2Fen"
+      },
+      {
+        "publication_number": "CN113085462B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-23",
+        "publication_date": "2023-06-13",
+        "assignee_original": "\u5357\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "title": "A cross-media unmanned aerial vehicle device and its control method",
+        "patent_id": "patent/CN113085462B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113085462B%2Fen"
+      },
+      {
+        "publication_number": "US11899471B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-06",
+        "publication_date": "2024-02-13",
+        "assignee_original": "Insitu, Inc. (A Subsidiary Of The Boeing Company)",
+        "title": "Methods and apparatus to guide an unmanned aerial vehicle for recovery thereof",
+        "patent_id": "patent/US11899471B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11899471B2%2Fen"
+      },
+      {
+        "publication_number": "TWI856613B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-20",
+        "publication_date": "2024-09-21",
+        "assignee_original": "\u5967\u69ae\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Method and device for controlling downward release and upward retrieval of sling load hook of unmanned aerial vehicle",
+        "patent_id": "patent/TWI856613B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI856613B%2Fen"
+      },
+      {
+        "publication_number": "CN115180150B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-30",
+        "publication_date": "2024-11-15",
+        "assignee_original": "\u897f\u5b89\u7cbe\u79d1\u534e\u76fe\u5e94\u6025\u6551\u63f4\u88c5\u5907\u6709\u9650\u516c\u53f8",
+        "title": "Multifunctional unmanned aerial vehicle delivery box and use method",
+        "patent_id": "patent/CN115180150B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115180150B%2Fen"
+      },
+      {
+        "publication_number": "WO2024097795A2",
+        "primary_language": "en",
+        "priority_date": "2022-11-01",
+        "publication_date": "2024-05-10",
+        "assignee_original": "Gecko Robotics, Inc.",
+        "title": "Inspection robot with profile adapting sled, couplant reduction film and transducer pod for thick assets",
+        "patent_id": "patent/WO2024097795A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024097795A2%2Fen"
+      },
+      {
+        "publication_number": "US20240400236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-05-31",
+        "publication_date": "2024-12-05",
+        "assignee_original": "Usa As Represented By The Secretary Of The Navy",
+        "title": "Autonomous Tether Management System and Method for an Unmanned Aerial and Surface Vehicle Team",
+        "patent_id": "patent/US20240400236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240400236A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "AU2021201663B2",
+      "primary_language": "en",
+      "publication_date": "2022-05-26",
+      "title": "Active position control of tethered hook",
+      "patent_id": "patent/AU2021201663B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2021201663B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12054259B2",
+      "primary_language": "en",
+      "publication_date": "2024-08-06",
+      "title": "Loading structure with tether guide for unmanned aerial vehicle",
+      "patent_id": "patent/US12054259B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12054259B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11220338B2",
+      "primary_language": "en",
+      "publication_date": "2022-01-11",
+      "title": "Package loading mechanism",
+      "patent_id": "patent/US11220338B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11220338B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3728029B1",
+      "primary_language": "en",
+      "publication_date": "2024-11-06",
+      "title": "System and methods for automatic payload pickup by uav",
+      "patent_id": "patent/EP3728029B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3728029B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2022203944B2",
+      "primary_language": "en",
+      "publication_date": "2023-11-23",
+      "title": "Safe unmanned aircraft",
+      "patent_id": "patent/AU2022203944B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2022203944B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10807715B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-20",
+      "title": "Method for automatic drone package pickup",
+      "patent_id": "patent/US10807715B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10807715B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2024097197A1",
+      "primary_language": "en",
+      "publication_date": "2024-05-10",
+      "title": "Uav having lower cargo bay door(s)",
+      "patent_id": "patent/WO2024097197A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024097197A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12497169B2",
+      "primary_language": "en",
+      "publication_date": "2025-12-16",
+      "title": "Package loading mechanism",
+      "patent_id": "patent/US12497169B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12497169B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12515794B2",
+      "primary_language": "en",
+      "publication_date": "2026-01-06",
+      "title": "UAV having a rotatable cargo bay",
+      "patent_id": "patent/US12515794B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12515794B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240140626A1",
+      "primary_language": "en",
+      "publication_date": "2024-05-02",
+      "title": "UAV Having a Rotatable Cargo Bay",
+      "patent_id": "patent/US20240140626A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240140626A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2025076408A1",
+      "primary_language": "en",
+      "publication_date": "2025-04-10",
+      "title": "Drag reduction device for externally carried payloads on aircraft",
+      "patent_id": "patent/WO2025076408A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025076408A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-12-21",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2018-01-22",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "X DEVELOPMENT LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:PRAGER, ANDRE;SHANNON, TREVOR;WOODWORTH, ADAM;SIGNING DATES FROM 20171222 TO 20180122;REEL/FRAME:044690/0001"
+        }
+      ]
+    },
+    {
+      "date": "2018-09-12",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "WING AVIATION LLC, CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:X DEVELOPMENT LLC;REEL/FRAME:047567/0433"
+        },
+        {
+          "label": "Effective date",
+          "value": "20180627"
+        }
+      ]
+    },
+    {
+      "date": "2019-11-06",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2020-02-08",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2020-03-31",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2020-05-18",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2020-06-03",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-20",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    }
+  ]
+}

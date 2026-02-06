@@ -1,0 +1,1825 @@
+{
+  "search_metadata": {
+    "id": "697a3670634a63fb1136b925",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3a5a12c412613aa2/697a3670634a63fb1136b925.json",
+    "created_at": "2026-01-28 16:16:48 UTC",
+    "processed_at": "2026-01-28 16:16:48 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2010095151A2/en",
+    "raw_html_file": "https://serpapi.com/searches/3a5a12c412613aa2/697a3670634a63fb1136b925.html",
+    "total_time_taken": 1.18
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2010095151A2/en"
+  },
+  "title": "A novel water dispersible granular composition",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/00/27/d8/f0621c6c50a3a0/WO2010095151A2.pdf",
+  "publication_number": "WO2010095151A2",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "active substance",
+    "composition",
+    "agrochemically active",
+    "liquid",
+    "agrochemically"
+  ],
+  "prior_art_date": "2009-02-20",
+  "application_number": "PCT/IN2010/000097",
+  "inventors": [
+    {
+      "name": "Deepak Pranjivandas Shah",
+      "link": "https://patents.google.com/?inventor=Deepak+Pranjivandas+Shah",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Deepak+Pranjivandas+Shah"
+    },
+    {
+      "name": "Puthenveetil Kunjukrishna Menon Ramdas",
+      "link": "https://patents.google.com/?inventor=Puthenveetil+Kunjukrishna+Menon+Ramdas",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Puthenveetil+Kunjukrishna+Menon+Ramdas"
+    },
+    {
+      "name": "Balachandran Thankappan Vadakkekuttu",
+      "link": "https://patents.google.com/?inventor=Balachandran+Thankappan+Vadakkekuttu",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Balachandran+Thankappan+Vadakkekuttu"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2009-02-20",
+  "filing_date": "2010-02-18",
+  "publication_date": "2010-08-26",
+  "worldwide_applications": {
+    "2010": [
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "EA",
+        "application_number": "EA201101220A",
+        "document_id": "patent/EA019550B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "MX",
+        "application_number": "MX2011008809A",
+        "document_id": "patent/MX341694B/en",
+        "legal_status_cat": "active",
+        "legal_status": "IP Right Grant"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "BR",
+        "application_number": "BRPI1007854-1A",
+        "document_id": "patent/BRPI1007854B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "US",
+        "application_number": "US13/202,125",
+        "document_id": "patent/US10791732B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "CN",
+        "application_number": "CN201510659463.3A",
+        "document_id": "patent/CN105360114A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "AU",
+        "application_number": "AU2010215126A",
+        "document_id": "patent/AU2010215126B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "WO",
+        "application_number": "PCT/IN2010/000097",
+        "document_id": "patent/WO2010095151A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "NZ",
+        "application_number": "NZ595277A",
+        "document_id": "patent/NZ595277A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "MY",
+        "application_number": "MYPI2011003895A",
+        "document_id": "patent/MY156436A/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2010-02-18",
+        "country_code": "CN",
+        "application_number": "CN201080008873.7A",
+        "document_id": "patent/CN102325445B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2011": [
+      {
+        "filing_date": "2011-09-19",
+        "country_code": "ZA",
+        "application_number": "ZA2011/06829A",
+        "document_id": "patent/ZA201106829B/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2011-09-19",
+        "country_code": "MA",
+        "application_number": "MA34188A",
+        "document_id": "patent/MA34850B1/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2011-09-20",
+        "country_code": "CO",
+        "application_number": "CO11122224A",
+        "document_id": "patent/CO6450674A2/en",
+        "legal_status_cat": "active",
+        "legal_status": "IP Right Grant"
+      },
+      {
+        "filing_date": "2011-09-20",
+        "country_code": "CR",
+        "application_number": "CR20110495A",
+        "document_id": "patent/CR20110495A/en",
+        "legal_status_cat": "unknown"
+      }
+    ],
+    "2017": [
+      {
+        "filing_date": "2017-12-05",
+        "country_code": "PH",
+        "application_number": "PH12017502223A",
+        "document_id": "patent/PH12017502223A1/en",
+        "legal_status_cat": "unknown"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2010-02-18",
+      "title": "Priority to CN201080008873.7A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN102325445B/en"
+    },
+    {
+      "date": "2010-02-18",
+      "title": "Priority to BRPI1007854-1A",
+      "type": "priority",
+      "document_id": "patent/BRPI1007854B1/en"
+    },
+    {
+      "date": "2010-02-18",
+      "title": "Priority to AU2010215126A",
+      "type": "priority",
+      "document_id": "patent/AU2010215126B2/en"
+    },
+    {
+      "date": "2010-02-18",
+      "title": "Priority to MX2011008809A",
+      "type": "priority",
+      "document_id": "patent/MX341694B/en"
+    },
+    {
+      "date": "2010-02-18",
+      "title": "Priority to US13/202,125",
+      "type": "priority",
+      "document_id": "patent/US10791732B2/en"
+    },
+    {
+      "date": "2010-02-18",
+      "title": "Priority to NZ595277A",
+      "type": "priority",
+      "document_id": "patent/NZ595277A/en"
+    },
+    {
+      "date": "2010-02-18",
+      "title": "Priority to EA201101220A",
+      "type": "priority",
+      "document_id": "patent/EA019550B1/en"
+    },
+    {
+      "date": "2010-02-18",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2010-08-26",
+      "title": "Publication of WO2010095151A2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2010095151A2/en"
+    },
+    {
+      "date": "2010-12-16",
+      "title": "Publication of WO2010095151A3",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2010095151A3/en"
+    },
+    {
+      "date": "2011-03-10",
+      "title": "Publication of WO2010095151A4",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2010095151A4/en"
+    },
+    {
+      "date": "2011-08-20",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "2011-09-19",
+      "title": "Priority to MA34188A",
+      "type": "priority",
+      "document_id": "patent/MA34850B1/en"
+    },
+    {
+      "date": "2011-09-19",
+      "title": "Priority to ZA2011/06829A",
+      "type": "priority",
+      "document_id": "patent/ZA201106829B/en"
+    },
+    {
+      "date": "2017-12-05",
+      "title": "Priority to PH12017502223A",
+      "type": "priority",
+      "document_id": "patent/PH12017502223A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2010095151A2&KC=A2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTIN2010000097/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2010095151"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2010095151A2"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01N25/14",
+      "description": "Powders or granules wettable",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01N43/54",
+      "description": "1,3-Diazines; Hydrogenated 1,3-diazines",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01N43/653",
+      "description": "1,2,4-Triazoles; Hydrogenated 1,2,4-triazoles",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01N47/02",
+      "description": "Biocides, pest repellants or attractants, or plant growth regulators containing organic compounds containing a carbon atom not being member of a ring and having no bond to a carbon or hydrogen atom, e.g. derivatives of carbonic acid the carbon atom having no bond to a nitrogen atom",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01N51/00",
+      "description": "Biocides, pest repellants or attractants, or plant growth regulators containing organic compounds having the sequences of atoms O\u2014N\u2014S, X\u2014O\u2014S, N\u2014N\u2014S, O\u2014N\u2014N or O-halogen, regardless of the number of bonds each atom has and with no atom of these sequences forming part of a heterocyclic ring",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01N53/00",
+      "description": "Biocides, pest repellants or attractants, or plant growth regulators containing cyclopropane carboxylic acids or derivatives thereof",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01N57/16",
+      "description": "Biocides, pest repellants or attractants, or plant growth regulators containing organic phosphorus compounds having phosphorus-to-oxygen bonds or phosphorus-to-sulfur bonds containing heterocyclic radicals",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A water dispersible granular composition comprising: at least one solid agrochemically active substance; at least one sorptive filler; at least one first agrochemically acceptable excipient; at least one liquid or low melting agrochemically active substance; and, at least one second agrochemically acceptable excipient,. The invention further relates to a process of preparing the water dispersible granular composition.",
+  "description_link": "https://serpapi.com/searches/697a3670634a63fb1136b925/google_patents_details/description.html",
+  "claims": [
+    "1. A water dispersible granular composition comprising: at least one solid agrochemically active substance; at least one sorptive filler; at least one first agrochemically acceptable excipient; at least one liquid or low melting agrochemically active substance; and, at least one second agrochemically acceptable excipient,.",
+    "2. The composition of claim 1, wherein the liquid or low melting agrochemically active substance and the second agrochemically acceptable excipient are absorbed into granules, wherein the granules comprise the solid agrochemically active substance, the sorptive filler and the first agrochemically acceptable excipient.",
+    "3. The composition of claim 1, wherein the solid agrochemically active substance is in a range of about 0.1% to about 45% w/w.",
+    "4. The composition of claim 1, wherein the solid agrochemically active substance is selected from the group comprising at least one of biocides, herbicides, insecticides, fungicides, acaricides, nematicides, pheromones, plant growth regulators and/or repellents.",
+    "5. The composition of claim 1, wherein the solid agrochemically active substance is selected from the group comprising insecticides selected from Acephate, Acetamiprid, Abamectin, Bacillus thuringiensis, Bendiocarb, Benfuracarb, Beta Cyfluthrin, Bifenazate, Buprofezin, Captan, Carbaryl, Carbofuran, Carbosulfan, Cartap Hydrochloride, Chlorfenapyr, Deltamethrin, Diazinon, Emamectin benzoate, Fenpyroximate, Fipronil, Flubendiamide, Flufenzine, Hexythiazox, Imidacloprid, Lindane, Metaldehyde, Prallethrin, Thiacloprid, Thiamethoxam, Thiodicarb,; herbicides selected from 2,4-Dichlorophenoxy Acetic Acid, Alphanaphthyl Acetic Acid, Atrazine, Bensulfuron, Bispyribac sodium, Chlorimuron ethyl, Cyhalofop-butyl, Difenthiuron, Diflubenzuron, Diuron, Ethoxysulfuron, Flufenoxuron, Forchlorfenuron, Glufosinate, Ammonium, Glyphosate, Hexazinone, Imazethapyr,  Isoproturon, Linuron, Lufenuron, Metamitron, Methabenzthiazuron, Methyl Chlorophenoxy Acetic Acid (MCPA), Metribuzin, Metsulfuron Methyl, Novaluron, Nicosulfuron, Orthasulfuron, Paraquat dichloride, Pyrithiobac sodium, Rimsulfuron, Sulfosulfuron, Thifensulfuron and Tribenuron methyl; and fungicides selected from Azoxystrobin, Benomyl, Bitertanol, Captan, Carbendazim, Carboxin, Ca\u03c6ropamid, Chlorothalonil, Copper Hydroxide, Copper Oxychloride, Copper Sulphate, Cuprous Oxide, Cymoxanil, Cyproconazole, Dazomet, Difenocenazole, Dimethomorph, Dithianon, Dodine, Epoxiconazole, Fenarimol, Fosetyl-Al, Hexaconazole, Iprodione, Kasugamycin, Kresoxim- methyl, Mancozeb, Metiram, Oxycarboxin, Paclobutrazole, Pencycuron, Picoxystrobulin, Propineb. Sulphur, Thiophanate-Methyl, Tebuconazole, Thifluzamide, Thiram, Tricyclazole, Trifloxystrobulin, Zineb and Ziram.",
+    "6. The composition of claim 1, wherein the solid agrochemically active substance is selected from the group comprising imidacloprid, fipronil, thiamethoxam, deltamethrin, tebuconazole and azoxystrobin.",
+    "7. The composition of claim 1, wherein the liquid or low melting agrochemically active substance is in a range of about 0.1% to about 25% w/w.",
+    "8. The composition of claim 1, wherein the liquid or low melting agrochemically active substance is selected from the group comprising at least one of biocides, herbicides, insecticides, fungicides, acaricides, nematicides, pheromones, plant growth regulators and/or repellents.",
+    "9. The composition of clam 1, the liquid or low melting agrochemically active substance is selected from the group comprising insecticides selected from Acequinocyl, Acrinathrin, Allethrin, Alphacypermethrin, Azinphos-ethyl, Azinphos-methyl, Benzoximate, Bifenthrin, Bioresmethrin, Bromophos-ethyl, Bromopropylate, Carbophenothion, Chlorfenvinphos, Chlorimephos, Chlorofenvinphos, Chlorpyrifos, Chlorpyriphos Methyl, Cypermethrin, Cyphenothrin, Demeton-S-methy, Diazinon, Dichlorovos, Dicofol, Dimethoate, Dinocap, Disulfoton, D-trans Allethrin, Edifenphos, EPN, Ethephon Ethion, Ethofenprox (Etofenprox), Fenamiphos, Fenazaquin, Fenitrothion, Fenobucarb (BPMC), Fenpropathrin,  Fenthion. Fenvalerate, Fluvalinate, Fonofos, Imiprothrin, Indoxacarb, Isofenphos, Lambda cyhalothrin, Malathion, Mecarbam, Mephosfolan, Methomyl, Methoxychlor, Methyl Parathion, Methyldymron, Monocrotophos, Parathion, Permethrin, Phenthoate, Phorate, Phosalone, Phosphamidon, Pirimiphos-methyl, Profenofos, Propargite, Propetamphos, Propoxur, Prothiofos, Pyridalyl, Pyriproxyfen, Quinalphos, Resmethrin, S-bioallethrin, Tefluthrin, Temephos, Thiometon, Transfluthrin, Triazamate, Triazophos and Trichlorofon; herbicides selected from Acetochlor, Alachlor, Anilophos, Beflubutamid, Benfuresate, Bensulide, Butachlor, Butamifos, Butralin, Butroxydim, Butylate, Carfentazone Ethyl, Chlo\u03c6ropham, Clodinafop-propargyl, Clomazone, Cloquintocet-mexyl, Cycloxydim, Cyfluthrin, Cyhalofop-butyl, Diclofop-Methyl, Dimethametryn, Dithiopyr, Fenoxaprop-p- Ethyl, Fentrazamide, Fluazifop-P-butyl, Fluchloralin, Flufenacet, Flurochloridone, Metazachlor, Metolachlor, Molinate, Oxadiazon, Oxyfluorfen, Pebulate, Pendimethalin, Pretilachlor, Propachlor, Propanil, Propaquizafop, Prosulfocarb, Quizalofop ethyl, Quizalofop-P-tefuryl, Tebutam, Tepraloxydim, Thiobencarb, Triallate and Trifluralin and fungicides selected from 2-Phenylphenol, Bromuconazole, Cyprodinil, Difenoconazole, Dinocap, Dodemo\u03c6h, Edifenphos, Etridiazole, Fenpropimorph, Flusilazole, Imazalil, Iprobenfos (Kitazin), Isoprothiolane, Metalaxyl, Myclobutanil, Nitrothal-isopropyl, Penconazole, Picoxystrobin, Propiconazole, Pyrachlostrobin, Pyrifenox, Tetraconazole, Triadimefon, Tridemo\u03c6h and Trifloxystrobin.",
+    "10. The composition of claim 1, wherein the liquid or low melting agrochemically active substance is selected from the group comprising lambda cyhalothrin, cypermethrin, chlo\u03c6yrifos and propiconazole.",
+    "1 1. The composition of claim 1 , wherein the solid agrochemically active substance is imidacloprid and the liquid or low melting agrochemically active substance is lambda cyhalothrin.",
+    "12. The composition of claim 1, wherein the solid agrochemically active substance is fipronil and the liquid or low melting agrochemically active substance is lambda cyhalothrin.",
+    "13. The composition of claim 1, wherein the solid agrochemically active substance is thiamethoxam and the liquid or low melting agrochemically active substance is cypermethrin.",
+    "14. The composition of claim 1, wherein the solid agrochemically active substance is imidacloprid and the liquid or low melting agrochemically active substance is chlorpyrifos.",
+    "15. The composition of claim 1, wherein the solid agrochemically active substance is fipronil and the liquid or low melting agrochemically active substance is chlorpyrifos.",
+    "16. The composition of claim 1, wherein the solid agrochemically active substance is deltamethrin and the liquid or low melting agrochemically active substance is chlorpyrifos.",
+    "17. The composition of claim 1, wherein the solid agrochemically active substance is tebuconazole and the liquid or low melting agrochemically active substance is lambda cyhalothrin.",
+    "18. The composition of claim 1, wherein the solid agrochemically active substance is azoxystrobin and the liquid or low melting agrochemically active substance is lambda cyhalothrin.",
+    "19. The composition of claim 1, wherein the solid agrochemically active substance is azoxystrobin and the liquid or low melting agrochemically active substance is propiconazole.",
+    "20. The composition of claim 1, wherein the sorptive filler is selected from the group comprising diatomaceous earth, kaolin, bentonite, precipitated silica, attapulgite, and perlite.",
+    "21. The composition of claim 1, wherein the first agrochemically acceptable excipient and the second agrochemically acceptable excipient are selected from the group comprising dispersing agents, wetting agents, emulsifiers, binders, solvents and diluents.",
+    "22. The composition of claim 1, wherein the first agrochemically acceptable excipient and the second agrochemically acceptable excipient are present in a range of about 5% to about 50% of the total weight of the composition.",
+    "23. The composition of claim 1, further comprising at least one of antifoaming agents, stabilizers, buffering agents, chelating agents and colouring agents.",
+    "24. A process of preparing a water dispersible granular composition, the process comprising steps of: a), preparing a fine suspension or dispersion of at least one solid agrochemically active substance and at least one first agrochemically acceptable excipient in water; b). preparing a filler base of at least one sorptive filler and at least one agrochemically acceptable excipient; c). blending the suspension or dispersion of step a) with the filler base of step b) to get a wet mass; d). extruding and drying the wet mass of step c) to get water dispersible granules of the at least one solid agrochemically active substance; e). preparing an emulsifiable solution comprising at least one liquid or low melting agrochemically active substance and at least one second agrochemically acceptable excipient; and, f)- absorbing the emulsifiable solution of step e) in the water dispersible granules of step d) to obtain the water dispersible granular composition.",
+    "25. The process of claim 24, wherein the solid agrochemically active substance is selected from the group comprising at least one of biocides, herbicides, insecticides, fungicides, acaricides, nematicides, pheromones, plant growth regulators and/or repellents.",
+    "26. The process of claim 24, wherein the liquid or low melting agrochemically active substance is selected from the group comprising at least one of biocides, herbicides, insecticides, fungicides, acaricides, nematicides, pheromones, plant growth regulators and/or repellents.",
+    "27. The process of claim 24, wherein the sorptive filler is selected from a group comprising diatomaceous earth, kaolin, bentonite, precipitated silica, attapulgite and perlite.",
+    "28. A water dispersible granule composition comprising at least one solid agrochemically active substance; at least one sorptive filler; at least one first agrochemically acceptable excipient; at least one liquid or low melting agrochemically active substance; and, at least one second agrochemically acceptable excipient; wherein the the composition is prepared by a process as claimed in any one claims 24 - 27.",
+    "29. A method of application of an effective amount of a water dispersible granular composition wherein the composition comprises at least one solid agrochemically active substance; at least one sorptive filler; at least one first agrochemically acceptable excipient; at least one liquid or low melting agrochemically active substance; and, at least one second agrochemically acceptable excipient, in agricultural or horticultural crops, forestry, veterinary medicine or livestock husbandry, or pests in cases for public health.",
+    "30. A kit comprising: a), a novel water dispersible granular composition comprising: at least one solid agrochemically active substance; at least one sorptive filler; at least one first agrochemically acceptable excipient; at least one liquid or low melting agrochemically active substance; and, at least one second agrochemically acceptable excipient,; and, b). a plurality of instructions for a method of application of the novel water dispersible composition."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201080008873.7A",
+      "representative_publication": "CN102325445B",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2010-02-18",
+      "title": "A novel water-dispersible granule composition"
+    },
+    {
+      "application_number": "BRPI1007854-1A",
+      "representative_publication": "BRPI1007854B1",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2010-02-18",
+      "title": "GRANULAR COMPOSITION AVAILABLE IN WATER AND ITS PREPARATION PROCESS"
+    },
+    {
+      "application_number": "AU2010215126A",
+      "representative_publication": "AU2010215126B2",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2010-02-18",
+      "title": "A novel water dispersible granular composition"
+    },
+    {
+      "application_number": "MX2011008809A",
+      "representative_publication": "MX341694B",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2010-02-18",
+      "title": "A novel water dispersible granular composition."
+    },
+    {
+      "application_number": "US13/202,125",
+      "representative_publication": "US10791732B2",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2010-02-18",
+      "title": "Water dispersible granular composition"
+    },
+    {
+      "application_number": "NZ595277A",
+      "representative_publication": "NZ595277A",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2010-02-18",
+      "title": "A novel water dispersible granular composition"
+    },
+    {
+      "application_number": "EA201101220A",
+      "representative_publication": "EA019550B1",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2010-02-18",
+      "title": "Water dispersible granular composition"
+    },
+    {
+      "application_number": "ZA2011/06829A",
+      "representative_publication": "ZA201106829B",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2011-09-19",
+      "title": "A novel water dispersible granular composition"
+    },
+    {
+      "application_number": "MA34188A",
+      "representative_publication": "MA34850B1",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2011-09-19",
+      "title": "HYDRO-DISPERSIBLE GRANULAR COMPOSITION"
+    },
+    {
+      "application_number": "PH12017502223A",
+      "representative_publication": "PH12017502223A1",
+      "primary_language": "en",
+      "priority_date": "2009-02-20",
+      "filing_date": "2017-12-05",
+      "title": "A novel water dispersible granular composition"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "IN385/MUM/2009",
+      "filing_date": "2009-02-20"
+    },
+    {
+      "application_number": "IN385MU2009",
+      "filing_date": "2009-02-20"
+    }
+  ],
+  "family_id": "42357650",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US4936901A",
+        "primary_language": "en",
+        "priority_date": "1986-07-09",
+        "publication_date": "1990-06-26",
+        "assignee_original": "Monsanto Company",
+        "title": "Formulations of water-dispersible granules and process for preparation thereof",
+        "patent_id": "patent/US4936901A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4936901A%2Fen"
+      },
+      {
+        "publication_number": "WO1995022902A1",
+        "primary_language": "en",
+        "priority_date": "1994-02-27",
+        "publication_date": "1995-08-31",
+        "assignee_original": "Rhone-Poulenc Agrochimie",
+        "title": "Synergistic termiticidal composition of pyrethroid and n-phenyl-pyrazole",
+        "patent_id": "patent/WO1995022902A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1995022902A1%2Fen"
+      },
+      {
+        "publication_number": "WO1996016543A2",
+        "primary_language": "en",
+        "priority_date": "1994-11-30",
+        "publication_date": "1996-06-06",
+        "assignee_original": "Rhone-Poulenc Agrochimie",
+        "title": "Emulsifiable composition for the control of insects",
+        "patent_id": "patent/WO1996016543A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1996016543A2%2Fen"
+      },
+      {
+        "publication_number": "WO1997034477A1",
+        "primary_language": "en",
+        "priority_date": "1996-03-22",
+        "publication_date": "1997-09-25",
+        "assignee_original": "Thermo Fibergen, Inc.",
+        "title": "Improved agricultural carrier",
+        "patent_id": "patent/WO1997034477A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997034477A1%2Fen"
+      },
+      {
+        "publication_number": "WO1997049285A1",
+        "primary_language": "en",
+        "priority_date": "1996-06-21",
+        "publication_date": "1997-12-31",
+        "assignee_original": "Zeneca Limited",
+        "title": "Pesticidal tablet formulations",
+        "patent_id": "patent/WO1997049285A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1997049285A1%2Fen"
+      },
+      {
+        "publication_number": "US5739081A",
+        "primary_language": "en",
+        "priority_date": "1992-01-24",
+        "publication_date": "1998-04-14",
+        "assignee_original": "Ici Australia Operations Proprietary Ltd.",
+        "title": "Water dispersible granules of liquid pesticides",
+        "patent_id": "patent/US5739081A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5739081A%2Fen"
+      },
+      {
+        "publication_number": "CN1186602A",
+        "primary_language": "en",
+        "priority_date": "1998-01-19",
+        "publication_date": "1998-07-08",
+        "assignee_original": "\u6210\u90fd\u534e\u897f\u519c\u836f\u5382",
+        "title": "Recompounded incecticide of chlorpyrifos and pyrethrin",
+        "patent_id": "patent/CN1186602A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1186602A%2Fen"
+      },
+      {
+        "publication_number": "US5945114A",
+        "primary_language": "en",
+        "priority_date": "1989-08-02",
+        "publication_date": "1999-08-31",
+        "assignee_original": "Sumitomo Chemical Company, Limited",
+        "title": "Water dispersible granules",
+        "patent_id": "patent/US5945114A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5945114A%2Fen"
+      },
+      {
+        "publication_number": "CN1274530A",
+        "primary_language": "en",
+        "priority_date": "2000-04-21",
+        "publication_date": "2000-11-29",
+        "assignee_original": "\u5e38\u5dde\u519c\u836f\u5382",
+        "title": "Insecticides effective in controlling rice gall midges",
+        "patent_id": "patent/CN1274530A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1274530A%2Fen"
+      },
+      {
+        "publication_number": "US6355675B1",
+        "primary_language": "en",
+        "priority_date": "2001-05-15",
+        "publication_date": "2002-03-12",
+        "assignee_original": "Isp Investments Inc.",
+        "title": "Emulsifiable concentrate of a water-insoluble fungicide",
+        "patent_id": "patent/US6355675B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6355675B1%2Fen"
+      },
+      {
+        "publication_number": "WO2002028186A2",
+        "primary_language": "en",
+        "priority_date": "2000-10-06",
+        "publication_date": "2002-04-11",
+        "assignee_original": "Monsanto Technology, Llc",
+        "title": "Seed treatment with combinations of insecticides",
+        "patent_id": "patent/WO2002028186A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002028186A2%2Fen"
+      },
+      {
+        "publication_number": "WO2002045507A2",
+        "primary_language": "en",
+        "priority_date": "2000-12-04",
+        "publication_date": "2002-06-13",
+        "assignee_original": "Syngenta Participations Ag",
+        "title": "Microemulsifiable agrochemical concentrate",
+        "patent_id": "patent/WO2002045507A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2002045507A2%2Fen"
+      },
+      {
+        "publication_number": "US6410481B1",
+        "primary_language": "en",
+        "priority_date": "1991-11-08",
+        "publication_date": "2002-06-25",
+        "assignee_original": "Hoechst Aktiengesellschaft",
+        "title": "Water-dispersible granules of suspoemulsions",
+        "patent_id": "patent/US6410481B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6410481B1%2Fen"
+      },
+      {
+        "publication_number": "US6559175B1",
+        "primary_language": "en",
+        "priority_date": "1998-09-18",
+        "publication_date": "2003-05-06",
+        "assignee_original": "Bayer Cropscience Inc.",
+        "title": "Method of insect control",
+        "patent_id": "patent/US6559175B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6559175B1%2Fen"
+      },
+      {
+        "publication_number": "DE10343872A1",
+        "primary_language": "en",
+        "priority_date": "2003-09-23",
+        "publication_date": "2005-04-21",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Agrochemical suspension concentrates containing azole and/or strobilurin, e.g. the fungicide tebuconazole, containing alkanol ethoxylate penetration promoter and specific polymeric dispersant to increase activity",
+        "patent_id": "patent/DE10343872A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10343872A1%2Fen"
+      },
+      {
+        "publication_number": "WO2005096820A1",
+        "primary_language": "en",
+        "priority_date": "2004-03-25",
+        "publication_date": "2005-10-20",
+        "assignee_original": "Fmc Corporation",
+        "title": "Liquid termiticide compositions of pyrethroids and a neonicitinoids",
+        "patent_id": "patent/WO2005096820A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005096820A1%2Fen"
+      },
+      {
+        "publication_number": "WO2006061164A1",
+        "primary_language": "en",
+        "priority_date": "2004-12-06",
+        "publication_date": "2006-06-15",
+        "assignee_original": "Syngenta Participations Ag",
+        "title": "A mat for seeds and the method for producing the same",
+        "patent_id": "patent/WO2006061164A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006061164A1%2Fen"
+      },
+      {
+        "publication_number": "CN1836513A",
+        "primary_language": "en",
+        "priority_date": "2005-03-21",
+        "publication_date": "2006-09-27",
+        "assignee_original": "\u5b89\u5fbd\u534e\u661f\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Compound insecticidal composition containing fipronil",
+        "patent_id": "patent/CN1836513A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1836513A%2Fen"
+      },
+      {
+        "publication_number": "WO2006107905A1",
+        "primary_language": "en",
+        "priority_date": "2005-04-04",
+        "publication_date": "2006-10-12",
+        "assignee_original": "Valent Biosciences Corporation",
+        "title": "Stable pesticide concentrates and end-use emulsions",
+        "patent_id": "patent/WO2006107905A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006107905A1%2Fen"
+      },
+      {
+        "publication_number": "US20070021385A1",
+        "primary_language": "en",
+        "priority_date": "2005-07-21",
+        "publication_date": "2007-01-25",
+        "assignee_original": "Jun Zhang",
+        "title": "Compositions and methods for wood preservation",
+        "patent_id": "patent/US20070021385A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070021385A1%2Fen"
+      },
+      {
+        "publication_number": "WO2007112339A2",
+        "primary_language": "en",
+        "priority_date": "2006-03-27",
+        "publication_date": "2007-10-04",
+        "assignee_original": "Syngenta Participations Ag",
+        "title": "Granular formulation",
+        "patent_id": "patent/WO2007112339A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007112339A2%2Fen"
+      },
+      {
+        "publication_number": "WO2008030753A2",
+        "primary_language": "en",
+        "priority_date": "2006-09-06",
+        "publication_date": "2008-03-13",
+        "assignee_original": "Syngenta Participations Ag",
+        "title": "Pickering emulsion formulations",
+        "patent_id": "patent/WO2008030753A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008030753A2%2Fen"
+      },
+      {
+        "publication_number": "WO2008080542A2",
+        "primary_language": "en",
+        "priority_date": "2006-12-27",
+        "publication_date": "2008-07-10",
+        "assignee_original": "Bayer Animal Health Gmbh",
+        "title": "Combination product for controlling parasites on animals",
+        "patent_id": "patent/WO2008080542A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2008080542A2%2Fen"
+      },
+      {
+        "publication_number": "US20080261816A1",
+        "primary_language": "en",
+        "priority_date": "2007-04-23",
+        "publication_date": "2008-10-23",
+        "assignee_original": "The Andersons, Inc.",
+        "title": "Active agent cellulosic carrier granule",
+        "patent_id": "patent/US20080261816A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080261816A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009007999A2",
+        "primary_language": "en",
+        "priority_date": "2007-04-26",
+        "publication_date": "2009-01-15",
+        "assignee_original": "United Phosphorus Limted",
+        "title": "A non dusty, free flowing, storage stable solid composition and a process for its preparation",
+        "patent_id": "patent/WO2009007999A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009007999A2%2Fen"
+      },
+      {
+        "publication_number": "US20090120339A1",
+        "primary_language": "en",
+        "priority_date": "2007-11-13",
+        "publication_date": "2009-05-14",
+        "assignee_original": "Michigan State University",
+        "title": "Spreader based fungicides",
+        "patent_id": "patent/US20090120339A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090120339A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009095656A2",
+        "primary_language": "en",
+        "priority_date": "2008-01-29",
+        "publication_date": "2009-08-06",
+        "assignee_original": "Syngenta Participations Ag",
+        "title": "Molluscicide",
+        "patent_id": "patent/WO2009095656A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009095656A2%2Fen"
+      },
+      {
+        "publication_number": "US20090208423A1",
+        "primary_language": "en",
+        "priority_date": "2004-07-13",
+        "publication_date": "2009-08-20",
+        "assignee_original": "United Phosphorus, Ltd.",
+        "title": "Synergistic Insecticidal Composition Containing Chloronicotynyle and Pyrethroids Compounds",
+        "patent_id": "patent/US20090208423A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090208423A1%2Fen"
+      },
+      {
+        "publication_number": "WO2009112836A2",
+        "primary_language": "en",
+        "priority_date": "2008-03-12",
+        "publication_date": "2009-09-17",
+        "assignee_original": "Syngenta Limited.",
+        "title": "Pickering emulsion formulations",
+        "patent_id": "patent/WO2009112836A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2009112836A2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US5223524A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-04-19",
+        "publication_date": "1993-06-29",
+        "assignee_original": "Janssen Pharmaceutica N.V.",
+        "title": "Synergistic compositions containing propiconazole and tebuconazole",
+        "patent_id": "patent/US5223524A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5223524A%2Fen"
+      },
+      {
+        "publication_number": "CN1066015C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-10-06",
+        "publication_date": "2001-05-23",
+        "assignee_original": "\u5316\u5b66\u5de5\u4e1a\u90e8\u6c88\u9633\u5316\u5de5\u7814\u7a76\u9662",
+        "title": "Compounded prepn of Bichonglin",
+        "patent_id": "patent/CN1066015C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1066015C%2Fen"
+      },
+      {
+        "publication_number": "GB9920281D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-26",
+        "publication_date": "1999-10-27",
+        "assignee_original": "Collag Ltd",
+        "title": "Novel compositions of biologically active agents and their use",
+        "patent_id": "patent/GB9920281D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB9920281D0%2Fen"
+      },
+      {
+        "publication_number": "CN1299596A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-05",
+        "publication_date": "2001-06-20",
+        "assignee_original": "\u6df1\u5733\u5e02\u8bfa\u666e\u4fe1\u519c\u5316\u6709\u9650\u516c\u53f8",
+        "title": "Imidacloprid-chlorpyrifos pesticide composition",
+        "patent_id": "patent/CN1299596A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1299596A%2Fen"
+      },
+      {
+        "publication_number": "IN187288B",
+        "primary_language": "en",
+        "priority_date": "2003-10-22",
+        "publication_date": "2002-03-16",
+        "assignee_original": "United Phosphorous Ltd",
+        "patent_id": "patent/IN187288B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIN187288B%2Fen"
+      },
+      {
+        "publication_number": "DE102005048539A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-11",
+        "publication_date": "2007-04-12",
+        "assignee_original": "Bayer Cropscience Ag",
+        "title": "Suspension concentrates based on oil",
+        "patent_id": "patent/DE102005048539A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102005048539A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN102017991A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-31",
+        "publication_date": "2011-04-20",
+        "assignee_original": "\u9655\u897f\u7f8e\u90a6\u519c\u836f\u6709\u9650\u516c\u53f8",
+        "title": "Bactericidal composition containing phosethyl-Al and triazole compound",
+        "patent_id": "patent/CN102017991A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102017991A%2Fen"
+      },
+      {
+        "publication_number": "CN102037990A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-12-30",
+        "publication_date": "2011-05-04",
+        "assignee_original": "\u6c5f\u82cf\u817e\u9f99\u751f\u7269\u836f\u4e1a\u6709\u9650\u516c\u53f8",
+        "title": "Pesticide composition containing phenthoate and buprofezin",
+        "patent_id": "patent/CN102037990A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102037990A%2Fen"
+      },
+      {
+        "publication_number": "CN102396477A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-14",
+        "publication_date": "2012-04-04",
+        "assignee_original": "\u6e56\u5357\u5316\u5de5\u7814\u7a76\u9662",
+        "title": "Insecticidal composition of fenobucarb and flubendiamide",
+        "patent_id": "patent/CN102396477A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102396477A%2Fen"
+      },
+      {
+        "publication_number": "CN102428941A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-09",
+        "publication_date": "2012-05-02",
+        "assignee_original": "\u5c71\u4e1c\u80dc\u90a6\u7eff\u91ce\u5316\u5b66\u6709\u9650\u516c\u53f8",
+        "title": "A kind of compound herbicide and preparation method thereof",
+        "patent_id": "patent/CN102428941A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102428941A%2Fen"
+      },
+      {
+        "publication_number": "CN102428923A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-16",
+        "publication_date": "2012-05-02",
+        "assignee_original": "\u6cb3\u5317\u535a\u5609\u519c\u4e1a\u6709\u9650\u516c\u53f8",
+        "title": "Pendimethalin and pyrithiobac-sodium compounded herbicide",
+        "patent_id": "patent/CN102428923A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102428923A%2Fen"
+      },
+      {
+        "publication_number": "FR2979187A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-08-25",
+        "publication_date": "2013-03-01",
+        "assignee_original": "Sbm Dev",
+        "title": "Composition in the form of e.g. granules, useful to protect crops e.g. seeds against insects during their culture, comprises pyrethrum compound, and active compound consisting of e.g. neonicotinoids, avermectin, sinusoide and limonoid",
+        "patent_id": "patent/FR2979187A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2979187A1%2Fen"
+      },
+      {
+        "publication_number": "WO2013055773A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-11",
+        "publication_date": "2013-04-18",
+        "assignee_original": "Winfield Solutions, Llc",
+        "title": "Liquid insecticide including diatomaceous earth",
+        "patent_id": "patent/WO2013055773A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013055773A1%2Fen"
+      },
+      {
+        "publication_number": "US20130302446A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-28",
+        "publication_date": "2013-11-14",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticidal composition comprising sulphur, an insecticide and an agrochemical excipient",
+        "patent_id": "patent/US20130302446A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130302446A1%2Fen"
+      },
+      {
+        "publication_number": "CN103651516A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-12",
+        "publication_date": "2014-03-26",
+        "assignee_original": "\u6d4e\u5357\u51ef\u56e0\u751f\u7269\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "EM (Emulation in Water) for preventing and curing of notodontid moths on poplars",
+        "patent_id": "patent/CN103651516A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103651516A%2Fen"
+      },
+      {
+        "publication_number": "AU2013201752B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-21",
+        "publication_date": "2014-03-27",
+        "assignee_original": "Shah Deepak Pranjivandas",
+        "title": "A pesticidal composition containing lambda cyhalothrin and diafenthiuron",
+        "patent_id": "patent/AU2013201752B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2013201752B2%2Fen"
+      },
+      {
+        "publication_number": "CN103734153A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-01-20",
+        "publication_date": "2014-04-23",
+        "assignee_original": "\u738b\u5fb7\u660c",
+        "title": "Water-soluble biological insecticide containing active abamectin and preparation method of biological insecticide",
+        "patent_id": "patent/CN103734153A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103734153A%2Fen"
+      },
+      {
+        "publication_number": "CN104585166A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-09",
+        "publication_date": "2015-05-06",
+        "assignee_original": "\u56db\u5ddd\u56fd\u5149\u519c\u5316\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Triazolone water dispersible granules capable of increasing heat storage suspension rate and stability and production method",
+        "patent_id": "patent/CN104585166A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104585166A%2Fen"
+      },
+      {
+        "publication_number": "CN105028429A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-08-05",
+        "publication_date": "2015-11-11",
+        "assignee_original": "\u9646\u6708\u971e",
+        "title": "Manufacture process of high-efficiency 40% dimethomorph WG",
+        "patent_id": "patent/CN105028429A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105028429A%2Fen"
+      },
+      {
+        "publication_number": "WO2016092467A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-08",
+        "publication_date": "2016-06-16",
+        "assignee_original": "Willowood Chemicals Private Limited",
+        "title": "A novel synergistic encapsulated granular composition",
+        "patent_id": "patent/WO2016092467A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016092467A1%2Fen"
+      },
+      {
+        "publication_number": "WO2019186356A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-26",
+        "publication_date": "2019-10-03",
+        "assignee_original": "Upl Ltd",
+        "title": "Fungicidal combinations",
+        "patent_id": "patent/WO2019186356A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019186356A1%2Fen"
+      },
+      {
+        "publication_number": "WO2020100093A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-15",
+        "publication_date": "2020-07-16",
+        "assignee_original": "Sawant Arun Vitthal",
+        "title": "Novel oil dispersion composition",
+        "patent_id": "patent/WO2020100093A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020100093A3%2Fen"
+      },
+      {
+        "publication_number": "US10743535B2",
+        "primary_language": "en",
+        "priority_date": "2017-08-18",
+        "publication_date": "2020-08-18",
+        "assignee_original": "H&K Solutions Llc",
+        "title": "Insecticide for flight-capable pests",
+        "patent_id": "patent/US10743535B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10743535B2%2Fen"
+      },
+      {
+        "publication_number": "WO2020174498A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-02-28",
+        "publication_date": "2020-09-03",
+        "assignee_original": "Willowood Chemicals Private Limited",
+        "title": "Synergistic insecticidal composition comprising avermectin compound",
+        "patent_id": "patent/WO2020174498A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2020174498A1%2Fen"
+      },
+      {
+        "publication_number": "WO2023095100A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-29",
+        "publication_date": "2023-06-01",
+        "assignee_original": "Rallis India Limited",
+        "title": "Insecticide composition, formulations and process for preparation thereof",
+        "patent_id": "patent/WO2023095100A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023095100A1%2Fen"
+      },
+      {
+        "publication_number": "US12369585B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-07",
+        "publication_date": "2025-07-29",
+        "assignee_original": "Upl Ltd",
+        "title": "Fungicidal combinations",
+        "patent_id": "patent/US12369585B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12369585B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN102550565B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-17",
+        "publication_date": "2014-04-02",
+        "assignee_original": "\u5c71\u4e1c\u6f4d\u574a\u6da6\u4e30\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Imazethapyr water dispersible granules and preparation method thereof",
+        "patent_id": "patent/CN102550565B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102550565B%2Fen"
+      },
+      {
+        "publication_number": "CN103300033B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-07",
+        "publication_date": "2015-07-08",
+        "assignee_original": "\u9655\u897f\u97e6\u5c14\u5947\u4f5c\u7269\u4fdd\u62a4\u6709\u9650\u516c\u53f8",
+        "title": "Pesticide composition containing flutenzine",
+        "patent_id": "patent/CN103300033B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103300033B%2Fen"
+      },
+      {
+        "publication_number": "CN103300011B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-10",
+        "publication_date": "2016-02-17",
+        "assignee_original": "\u9655\u897f\u97e6\u5c14\u5947\u4f5c\u7269\u4fdd\u62a4\u6709\u9650\u516c\u53f8",
+        "title": "A kind of Pesticidal combination containing fluorine mite piperazine",
+        "patent_id": "patent/CN103300011B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103300011B%2Fen"
+      },
+      {
+        "publication_number": "CN102669146A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-24",
+        "publication_date": "2012-09-19",
+        "assignee_original": "\u5c71\u4e1c\u534e\u9633\u519c\u836f\u5316\u5de5\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+        "title": "Special weeding and insect killing composition for peanut field and preparation method thereof",
+        "patent_id": "patent/CN102669146A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102669146A%2Fen"
+      },
+      {
+        "publication_number": "WO2013186652A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-11",
+        "publication_date": "2013-12-19",
+        "assignee_original": "United Phosphorus Limited",
+        "title": "A herbicidal composition and process thereof",
+        "patent_id": "patent/WO2013186652A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013186652A1%2Fen"
+      },
+      {
+        "publication_number": "IN2015DN01518A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-04",
+        "publication_date": "2015-07-03",
+        "assignee_original": "Dow Agrosciences Llc",
+        "patent_id": "patent/IN2015DN01518A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIN2015DN01518A%2Fen"
+      },
+      {
+        "publication_number": "CN103027062B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-28",
+        "publication_date": "2014-06-11",
+        "assignee_original": "\u5317\u4eac\u660e\u5fb7\u7acb\u8fbe\u519c\u4e1a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Insecticide composition, insecticide and application of insecticide",
+        "patent_id": "patent/CN103027062B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103027062B%2Fen"
+      },
+      {
+        "publication_number": "CN103053581B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-29",
+        "publication_date": "2015-01-28",
+        "assignee_original": "\u5e7f\u4e1c\u4e2d\u8fc5\u519c\u79d1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Insecticidal composition of indoxacarb and cartap",
+        "patent_id": "patent/CN103053581B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103053581B%2Fen"
+      },
+      {
+        "publication_number": "CN103027036B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-16",
+        "publication_date": "2014-12-10",
+        "assignee_original": "\u5c71\u4e1c\u6f4d\u574a\u6da6\u4e30\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Phytocidal composite containing methoxone salt and propanil and applications thereof",
+        "patent_id": "patent/CN103027036B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103027036B%2Fen"
+      },
+      {
+        "publication_number": "CN103271082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-19",
+        "publication_date": "2013-09-04",
+        "assignee_original": "\u5317\u4eac\u71d5\u5316\u6c38\u4e50\u519c\u836f\u6709\u9650\u516c\u53f8",
+        "title": "Insect killing composition",
+        "patent_id": "patent/CN103271082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103271082A%2Fen"
+      },
+      {
+        "publication_number": "CN103651518B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-12",
+        "publication_date": "2015-08-19",
+        "assignee_original": "\u5c71\u4e1c\u4e2d\u65b0\u79d1\u519c\u751f\u7269\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of aqueous emulsion and application containing cartap",
+        "patent_id": "patent/CN103651518B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103651518B%2Fen"
+      },
+      {
+        "publication_number": "CN103651394B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-17",
+        "publication_date": "2014-11-05",
+        "assignee_original": "\u5317\u4eac\u71d5\u5316\u6c38\u4e50\u751f\u7269\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Sterilization composition containing Jiean-peptide",
+        "patent_id": "patent/CN103651394B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103651394B%2Fen"
+      },
+      {
+        "publication_number": "BR112016018071B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-04",
+        "publication_date": "2021-03-30",
+        "assignee_original": "Granular Products Assets Pty Ltd",
+        "title": "GRANULAR INSECTICIDE COMPOSITION AND PROCESS FOR THE PREPARATION OF THAT COMPOSITION",
+        "patent_id": "patent/BR112016018071B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBR112016018071B1%2Fen"
+      },
+      {
+        "publication_number": "CN103858923B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-21",
+        "publication_date": "2015-12-02",
+        "assignee_original": "\u5c71\u4e1c\u6f4d\u574a\u6da6\u4e30\u5316\u5de5\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of Pesticidal combination and application thereof containing Imidacloprid and gamma cyhalothrin",
+        "patent_id": "patent/CN103858923B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103858923B%2Fen"
+      },
+      {
+        "publication_number": "CN103918692B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-27",
+        "publication_date": "2016-10-05",
+        "assignee_original": "\u5e7f\u4e1c\u4e2d\u8fc5\u519c\u79d1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "A kind of containing indoxacarb with the composition pesticide of Bifenazate",
+        "patent_id": "patent/CN103918692B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103918692B%2Fen"
+      },
+      {
+        "publication_number": "CN104126595B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-21",
+        "publication_date": "2016-04-13",
+        "assignee_original": "\u9655\u897f\u4e0a\u683c\u4e4b\u8def\u751f\u7269\u79d1\u5b66\u6709\u9650\u516c\u53f8",
+        "title": "A kind of microbicide compositions containing pyraclostrobin",
+        "patent_id": "patent/CN104126595B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104126595B%2Fen"
+      },
+      {
+        "publication_number": "CN104488954A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-05",
+        "publication_date": "2015-04-08",
+        "assignee_original": "\u5317\u4eac\u71d5\u5316\u6c38\u4e50\u751f\u7269\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Pesticide composition",
+        "patent_id": "patent/CN104488954A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104488954A%2Fen"
+      },
+      {
+        "publication_number": "CN104430441B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-20",
+        "publication_date": "2016-06-01",
+        "assignee_original": "\u5510\u777f",
+        "title": "A kind of water-dispersible grain agent prescription and preparation method containing zinc 1,2-propylene bisdithiocarbamate and frost urea cyanogen",
+        "patent_id": "patent/CN104430441B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104430441B%2Fen"
+      },
+      {
+        "publication_number": "CN105010416A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-09",
+        "publication_date": "2015-11-04",
+        "assignee_original": "\u6f4d\u574a\u53cb\u5bb9\u5b9e\u4e1a\u6709\u9650\u516c\u53f8",
+        "title": "Weed killer containing Agastache rugosus extract and application thereof in saline-alkali soil soybean planting",
+        "patent_id": "patent/CN105010416A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105010416A%2Fen"
+      },
+      {
+        "publication_number": "CN105145555A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-28",
+        "publication_date": "2015-12-16",
+        "assignee_original": "\u6c5f\u82cf\u7701\u519c\u7528\u6fc0\u7d20\u5de5\u7a0b\u6280\u672f\u7814\u7a76\u4e2d\u5fc3\u6709\u9650\u516c\u53f8",
+        "title": "Butroxydim water dispersible granule and preparation method thereof",
+        "patent_id": "patent/CN105145555A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105145555A%2Fen"
+      },
+      {
+        "publication_number": "CN105265472A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-18",
+        "publication_date": "2016-01-27",
+        "assignee_original": "\u5e7f\u4e1c\u4e2d\u8fc5\u519c\u79d1\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Pesticide composition containing tefluthrin and iprodione",
+        "patent_id": "patent/CN105265472A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105265472A%2Fen"
+      },
+      {
+        "publication_number": "CN105475310A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-18",
+        "publication_date": "2016-04-13",
+        "assignee_original": "\u534e\u5357\u7406\u5de5\u5927\u5b66",
+        "title": "80% fipronil water dispersible granules and preparing method thereof",
+        "patent_id": "patent/CN105475310A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105475310A%2Fen"
+      },
+      {
+        "publication_number": "CN106771150A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-31",
+        "publication_date": "2017-05-31",
+        "assignee_original": "\u6c88\u9633\u91d1\u8bda\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of ELISA detection kit and detection method for detecting dimethomorph residual",
+        "patent_id": "patent/CN106771150A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106771150A%2Fen"
+      },
+      {
+        "publication_number": "CA3049799C",
+        "primary_language": "en",
+        "priority_date": "2017-01-24",
+        "publication_date": "2021-09-14",
+        "assignee_original": "Germains Seed Technology, Inc.",
+        "title": "Anti-fungal seed coating formulations and methods",
+        "patent_id": "patent/CA3049799C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3049799C%2Fen"
+      },
+      {
+        "publication_number": "CN108849952B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-10",
+        "publication_date": "2020-11-17",
+        "assignee_original": "\u6c5f\u82cf\u9f99\u706f\u5316\u5b66\u6709\u9650\u516c\u53f8",
+        "title": "Pyraclostrobin water-dispersible solid composition and preparation method thereof",
+        "patent_id": "patent/CN108849952B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108849952B%2Fen"
+      },
+      {
+        "publication_number": "JP6949996B2",
+        "primary_language": "en",
+        "priority_date": "2017-05-10",
+        "publication_date": "2021-10-13",
+        "assignee_original": "\u30f4\u30a1\u30c0\u30b1\u30af\u30c3\u30c8\u30a5\u3001\u30bf\u30f3\u30ab\u30d1\u30f3",
+        "title": "Agricultural composition",
+        "patent_id": "patent/JP6949996B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6949996B2%2Fen"
+      },
+      {
+        "publication_number": "UA126500C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-25",
+        "publication_date": "2022-10-19",
+        "assignee_original": "\u042e\u043f\u043b \u041b\u0442\u0434",
+        "title": "A stable agrochemical composition and process thereof",
+        "patent_id": "patent/UA126500C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUA126500C2%2Fen"
+      },
+      {
+        "publication_number": "CN107549194A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-02",
+        "publication_date": "2018-01-09",
+        "assignee_original": "\u4f5b\u5c71\u5e02\u9ad8\u660e\u533a\u4e91\u5927\u673a\u68b0\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of bollworm insecticide",
+        "patent_id": "patent/CN107549194A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107549194A%2Fen"
+      },
+      {
+        "publication_number": "US20190183127A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-20",
+        "publication_date": "2019-06-20",
+        "assignee_original": "Fmc Corporation",
+        "title": "Co-formulations of bifenthrin with crop protection agents absorbed on a carrier for use with liquid fertilizers",
+        "patent_id": "patent/US20190183127A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190183127A1%2Fen"
+      },
+      {
+        "publication_number": "CN112568226B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-10",
+        "publication_date": "2021-10-08",
+        "assignee_original": "\u6c5d\u9633\u81ea\u5f3a\u751f\u7269\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Granules containing azoxystrobin and propiconazole and preparation method and application thereof",
+        "patent_id": "patent/CN112568226B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112568226B%2Fen"
+      },
+      {
+        "publication_number": "CN113197201B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-30",
+        "publication_date": "2023-02-28",
+        "assignee_original": "\u6f4d\u574a\u6d77\u90a6\u5316\u5de5\u6709\u9650\u516c\u53f8",
+        "title": "Thiedicarb water dispersible granule and production process thereof",
+        "patent_id": "patent/CN113197201B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113197201B%2Fen"
+      },
+      {
+        "publication_number": "WO2023150846A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-02-11",
+        "publication_date": "2023-08-17",
+        "assignee_original": "Dva Agro Gmbh",
+        "title": "Water-dispersible granular composition and process for preparing same",
+        "patent_id": "patent/WO2023150846A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023150846A1%2Fen"
+      },
+      {
+        "publication_number": "CN116806821A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-06-27",
+        "publication_date": "2023-09-29",
+        "assignee_original": "\u5c71\u4e1c\u4eac\u535a\u519c\u5316\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Processing method of water dispersible granule containing high-melting point raw material and low-melting point raw material",
+        "patent_id": "patent/CN116806821A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116806821A%2Fen"
+      },
+      {
+        "publication_number": "CN120092795A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2025-05-09",
+        "publication_date": "2025-06-06",
+        "assignee_original": "\u5c71\u4e1c\u79d1\u5927\u521b\u4e1a\u751f\u7269\u6709\u9650\u516c\u53f8",
+        "title": "A yellow-blue color-changing hemocyanin mancozeb compound fungicide and preparation method thereof",
+        "patent_id": "patent/CN120092795A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN120092795A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10791732B2",
+      "primary_language": "en",
+      "publication_date": "2020-10-06",
+      "title": "Water dispersible granular composition",
+      "patent_id": "patent/US10791732B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10791732B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2850465C",
+      "primary_language": "en",
+      "publication_date": "2016-08-16",
+      "title": "Variable release water dispersible granule composition",
+      "patent_id": "patent/CA2850465C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2850465C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2723175B1",
+      "primary_language": "en",
+      "publication_date": "2017-05-17",
+      "title": "Herbicide granules with built-in adjuvant",
+      "patent_id": "patent/EP2723175B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2723175B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5739081A",
+      "primary_language": "en",
+      "publication_date": "1998-04-14",
+      "title": "Water dispersible granules of liquid pesticides",
+      "patent_id": "patent/US5739081A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5739081A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2858494B1",
+      "primary_language": "en",
+      "publication_date": "2018-11-14",
+      "title": "A herbicidal composition and process thereof",
+      "patent_id": "patent/EP2858494B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2858494B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110250182A",
+      "primary_language": "en",
+      "publication_date": "2019-09-20",
+      "title": "Herbicide emulsifiable concentrate with inherent adjuvant",
+      "patent_id": "patent/CN110250182A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110250182A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2009212525B2",
+      "primary_language": "en",
+      "publication_date": "2012-06-21",
+      "title": "Solid formulation of low melting active compound",
+      "patent_id": "patent/AU2009212525B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2009212525B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5188974B2",
+      "primary_language": "en",
+      "publication_date": "2013-04-24",
+      "title": "Use of lactate esters to improve the effectiveness of pesticides",
+      "patent_id": "patent/JP5188974B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5188974B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2013237746B2",
+      "primary_language": "en",
+      "publication_date": "2015-05-14",
+      "title": "A novel water dispersible granular composition",
+      "patent_id": "patent/AU2013237746B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2013237746B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113873882A",
+      "primary_language": "en",
+      "publication_date": "2021-12-31",
+      "title": "Stable insecticide composition",
+      "patent_id": "patent/CN113873882A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113873882A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210045381A1",
+      "primary_language": "en",
+      "publication_date": "2021-02-18",
+      "title": "Formulations",
+      "patent_id": "patent/US20210045381A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210045381A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20070049497A1",
+      "primary_language": "en",
+      "publication_date": "2007-03-01",
+      "title": "Tablets for dispersing agricultural compounds",
+      "patent_id": "patent/US20070049497A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070049497A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119031837A",
+      "primary_language": "en",
+      "publication_date": "2024-11-26",
+      "title": "New agrochemical formulations",
+      "patent_id": "patent/CN119031837A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119031837A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1193542A",
+      "primary_language": "en",
+      "publication_date": "2014-09-26",
+      "title": "Herbicide granules with built-in adjuvant",
+      "patent_id": "patent/HK1193542A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1193542A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1193542B",
+      "primary_language": "en",
+      "publication_date": "2018-05-11",
+      "title": "Herbicide granules with built-in adjuvant",
+      "patent_id": "patent/HK1193542B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1193542B%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2010-02-18",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "201080008873.7"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "CN"
+        }
+      ]
+    },
+    {
+      "date": "2010-10-13",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "10719639"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        }
+      ]
+    },
+    {
+      "date": "2011-03-03",
+      "code": "DPE1",
+      "title": "Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101)"
+    },
+    {
+      "date": "2011-08-18",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2010215126"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "AU"
+        },
+        {
+          "label": "Ref document number",
+          "value": "13202125"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "US"
+        }
+      ]
+    },
+    {
+      "date": "2011-08-19",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "12011501670"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "PH"
+        },
+        {
+          "label": "Ref document number",
+          "value": "MX/A/2011/008809"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "MX"
+        }
+      ]
+    },
+    {
+      "date": "2011-08-22",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-08",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2010215126"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "AU"
+        },
+        {
+          "label": "Date of ref document",
+          "value": "20100218"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-19",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "595277"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "NZ"
+        },
+        {
+          "label": "Ref document number",
+          "value": "201101220"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EA"
+        }
+      ]
+    },
+    {
+      "date": "2011-09-20",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "11122224"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "CO"
+        },
+        {
+          "label": "Ref document number",
+          "value": "CR2011-000495"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "CR"
+        }
+      ]
+    },
+    {
+      "date": "2012-04-04",
+      "code": "122",
+      "title": "Ep: pct application non-entry in european phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "10719639"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        }
+      ]
+    },
+    {
+      "date": "2012-11-20",
+      "code": "REG",
+      "title": "Reference to national code",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "BR"
+        },
+        {
+          "label": "Ref legal event code",
+          "value": "B01A"
+        },
+        {
+          "label": "Ref document number",
+          "value": "PI1007854"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "BR"
+        }
+      ]
+    },
+    {
+      "date": "2015-09-01",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "PI1007854"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "BR"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A2"
+        },
+        {
+          "label": "Effective date",
+          "value": "20110819"
+        }
+      ]
+    },
+    {
+      "date": "2017-12-05",
+      "code": "WWE",
+      "title": "Wipo information: entry into national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "12017502223"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "PH"
+        }
+      ]
+    },
+    {
+      "date": "2025-08-19",
+      "code": "WWW",
+      "title": "Wipo information: withdrawn in national office",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "595277"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "NZ"
+        }
+      ]
+    }
+  ]
+}

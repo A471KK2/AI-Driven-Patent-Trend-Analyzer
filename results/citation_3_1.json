@@ -1,0 +1,3398 @@
+{
+  "search_metadata": {
+    "id": "697a3a53eeabd32bd701d910",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ab71d9933a372fe4/697a3a53eeabd32bd701d910.json",
+    "created_at": "2026-01-28 16:33:23 UTC",
+    "processed_at": "2026-01-28 16:33:23 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20160289453A1/en",
+    "raw_html_file": "https://serpapi.com/searches/ab71d9933a372fe4/697a3a53eeabd32bd701d910.html",
+    "total_time_taken": 0.68
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20160289453A1/en"
+  },
+  "title": "Method of producing ultra-low density fiber composite materials",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/2d/76/43/7508e7dff5f088/US20160289453A1.pdf",
+  "publication_number": "US20160289453A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "fiber",
+    "foam",
+    "uldc",
+    "foaming",
+    "pulp"
+  ],
+  "prior_art_date": "2013-11-05",
+  "application_number": "US15/146,942",
+  "inventors": [
+    {
+      "name": "Xiaolin CAI",
+      "link": "https://patents.google.com/?inventor=Xiaolin+CAI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Xiaolin+CAI"
+    },
+    {
+      "name": "Xixian (James) Deng",
+      "link": "https://patents.google.com/?inventor=Xixian+%28James%29+Deng",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Xixian+%28James%29+Deng"
+    },
+    {
+      "name": "Nicolas DERY",
+      "link": "https://patents.google.com/?inventor=Nicolas+DERY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Nicolas+DERY"
+    },
+    {
+      "name": "Sebastien LEBEL",
+      "link": "https://patents.google.com/?inventor=Sebastien+LEBEL",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Sebastien+LEBEL"
+    },
+    {
+      "name": "Gilles Brunette",
+      "link": "https://patents.google.com/?inventor=Gilles+Brunette",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gilles+Brunette"
+    },
+    {
+      "name": "Gilles Marcel Dorris",
+      "link": "https://patents.google.com/?inventor=Gilles+Marcel+Dorris",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gilles+Marcel+Dorris"
+    },
+    {
+      "name": "Yuxia Ben",
+      "link": "https://patents.google.com/?inventor=Yuxia+Ben",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yuxia+Ben"
+    },
+    {
+      "name": "Michelle RICARD",
+      "link": "https://patents.google.com/?inventor=Michelle+RICARD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Michelle+RICARD"
+    },
+    {
+      "name": "Yaolin ZHANG ZHANG",
+      "link": "https://patents.google.com/?inventor=Yaolin+ZHANG+ZHANG",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Yaolin+ZHANG+ZHANG"
+    },
+    {
+      "name": "Dian-Qing Yang",
+      "link": "https://patents.google.com/?inventor=Dian-Qing+Yang",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Dian-Qing+Yang"
+    },
+    {
+      "name": "George Sacciadis",
+      "link": "https://patents.google.com/?inventor=George+Sacciadis",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=George+Sacciadis"
+    }
+  ],
+  "assignees": [
+    "FPInnovations"
+  ],
+  "priority_date": "2013-11-05",
+  "filing_date": "2014-11-05",
+  "publication_date": "2016-10-06",
+  "worldwide_applications": {
+    "2014": [
+      {
+        "filing_date": "2014-11-05",
+        "country_code": "EP",
+        "application_number": "EP14859808.9A",
+        "document_id": "patent/EP3066150A4/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2014-11-05",
+        "country_code": "US",
+        "application_number": "US15/146,942",
+        "document_id": "patent/US9994712B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related",
+        "this_app": true
+      },
+      {
+        "filing_date": "2014-11-05",
+        "country_code": "CA",
+        "application_number": "CA2927474A",
+        "document_id": "patent/CA2927474C/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2014-11-05",
+        "country_code": "MX",
+        "application_number": "MX2016005886A",
+        "document_id": "patent/MX2016005886A/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2014-11-05",
+        "country_code": "JP",
+        "application_number": "JP2016526881A",
+        "document_id": "patent/JP6397012B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2014-11-05",
+        "country_code": "WO",
+        "application_number": "PCT/CA2014/051058",
+        "document_id": "patent/WO2015066806A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2014-11-05",
+        "country_code": "CN",
+        "application_number": "CN201480056090.4A",
+        "document_id": "patent/CN105637023A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2014-11-05",
+      "title": "Application filed by FPInnovations",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "FPInnovations"
+    },
+    {
+      "date": "2014-11-05",
+      "title": "Priority to US15/146,942",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US9994712B2/en"
+    },
+    {
+      "date": "2016-05-05",
+      "title": "Assigned to FPINNOVATIONS",
+      "type": "reassignment",
+      "assignee_search": "FPINNOVATIONS",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DENG, XIXIAN (JAMES), DORRIS, GILLES MARCEL, DERY, Nicolas, RICARD, Michelle, YANG, DIAN-QING, BEN, YUXIA, BRUNETTE, GILLES, CAI, XIAOLIN, LEBEL, SEBASTIEN, SACCIADIS, GEORGE, ZHANG, YAOLIN"
+      ]
+    },
+    {
+      "date": "2016-10-06",
+      "title": "Publication of US20160289453A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20160289453A1/en"
+    },
+    {
+      "date": "2018-06-12",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2018-06-12",
+      "title": "Publication of US9994712B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US9994712B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Fee Related",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2035-02-02",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20160289453.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/15146942"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20160289453"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2016289453A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/15146942/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20160289453"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/88/c8/5a/bb7fd5191f4678/US20160289453A1-20161006-D00000.png",
+    "https://patentimages.storage.googleapis.com/09/6a/67/a393fc3441d614/US20160289453A1-20161006-D00001.png",
+    "https://patentimages.storage.googleapis.com/18/5c/a5/e69b9695c7b8db/US20160289453A1-20161006-D00002.png",
+    "https://patentimages.storage.googleapis.com/70/7e/2a/ae0738d272d007/US20160289453A1-20161006-D00003.png",
+    "https://patentimages.storage.googleapis.com/9d/0a/a7/408f71ff9eb27c/US20160289453A1-20161006-D00004.png",
+    "https://patentimages.storage.googleapis.com/b3/46/16/5cccd4a62efcc1/US20160289453A1-20161006-D00005.png",
+    "https://patentimages.storage.googleapis.com/5f/03/cf/6132a431850de8/US20160289453A1-20161006-D00006.png",
+    "https://patentimages.storage.googleapis.com/70/d0/c7/e68c6883e2b9e9/US20160289453A1-20161006-D00007.png",
+    "https://patentimages.storage.googleapis.com/3f/6b/fa/a32a49e804ff68/US20160289453A1-20161006-D00008.png",
+    "https://patentimages.storage.googleapis.com/d0/ca/2d/3c2fdee6dd45b4/US20160289453A1-20161006-D00009.png",
+    "https://patentimages.storage.googleapis.com/e2/66/89/9552dc6422fff9/US20160289453A1-20161006-D00010.png",
+    "https://patentimages.storage.googleapis.com/41/41/ef/d51db4daf3203d/US20160289453A1-20161006-D00011.png",
+    "https://patentimages.storage.googleapis.com/04/fd/1c/cd02f9c681ec91/US20160289453A1-20161006-D00012.png",
+    "https://patentimages.storage.googleapis.com/ce/7c/bf/cebec365a28286/US20160289453A1-20161006-D00013.png",
+    "https://patentimages.storage.googleapis.com/0f/8a/25/ffd350d2e675c4/US20160289453A1-20161006-D00014.png",
+    "https://patentimages.storage.googleapis.com/f8/24/74/c909cfd8fdba25/US20160289453A1-20161006-D00015.png",
+    "https://patentimages.storage.googleapis.com/a2/a8/9d/ea67eb69484fcd/US20160289453A1-20161006-D00016.png",
+    "https://patentimages.storage.googleapis.com/0d/d1/bf/535a4282519655/US20160289453A1-20161006-D00017.png"
+  ],
+  "classifications": [
+    {
+      "code": "C08L97/02",
+      "description": "Lignocellulosic material, e.g. wood, straw or bagasse",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/0061",
+      "description": "Working-up of macromolecular substances to porous or cellular articles or materials; After-treatment thereof characterized by the use of several polymeric components",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/0085",
+      "description": "Use of fibrous compounding ingredients",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J9/06",
+      "description": "Working-up of macromolecular substances to porous or cellular articles or materials; After-treatment thereof using blowing gases generated by a previously added blowing agent by a chemical blowing agent",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L1/02",
+      "description": "Cellulose; Modified cellulose",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L33/26",
+      "description": "Homopolymers or copolymers of acrylamide or methacrylamide",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D21F11/002",
+      "description": "Processes for making continuous lengths of paper, or of cardboard, or of wet web for fibre board production, on paper-making machines by using a foamed suspension",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D21H21/56",
+      "description": "Foam",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2333/26",
+      "description": "Homopolymers or copolymers of acrylamide or methacrylamide",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2397/02",
+      "description": "Lignocellulosic material, e.g. wood, straw or bagasse",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2431/04",
+      "description": "Homopolymers or copolymers of vinyl acetate",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2433/26",
+      "description": "Homopolymers or copolymers of acrylamide or methacrylamide",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L2203/14",
+      "description": "Applications used for foams",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A method of producing ultra-low density fiber composite (ULDC) foam materials using natural fibers with gas injection through liquid foaming is disclosed, wherein in a particular embodiment includes also cellulose filaments. The method includes a continuous overflow foaming process and a novel apparatus to produce the ULDC materials. The disclosed ULDC composite foam produced includes moisture, mold, decay and fire resistant properties which can be used for building thermal and acoustic insulations, protection packaging, air filter products, hygiene products. The apparatus comprise a vessel, counter rotating dual impellor, a plurality of baffles and gas injection that produce.",
+  "description_link": "https://serpapi.com/searches/697a3a53eeabd32bd701d910/google_patents_details/description.html",
+  "claims": [
+    "1-71. (canceled)",
+    "72. A method for producing a natural fiber ultra-low density composite (ULDC) foam, the method comprising the steps of:\nfeeding a fiber mixture and at least one additive into a foaming apparatus; sparging gas into the foaming apparatus; mixing the fiber mixture and the at least one additive to produce the foam; and discharging the foam through an outlet in the foaming apparatus.",
+    "73. The method of claim 72, wherein the fiber mixture has 0.1-30% by weight fiber consistency.",
+    "74. The method of claim 72, wherein the foam has a density of less than or equal to 150 kg/m3, or between 10 kg/m3 to 150 kg/m3.",
+    "75. The method of claim 72, further comprising drying of the discharged foam from the foaming apparatus to produce a ULDC foam mat.",
+    "76. The method of claim 75, wherein the ULDC mat is dried to reduce moisture content in the mat to less than 15% by weight moisture as a percentage of the total mat.",
+    "77. The method of claim 72, wherein cellulose filament (CF) is fed to the foaming apparatus.",
+    "78. The method of claim 72, comprising an inorganic component into the foaming apparatus.",
+    "79. The method of claim 72, wherein the at least one additive is an adhesive, an adhesive hardener, a sizing agent, a mold resistant compound, a fiber decay resistant compound, a fire resistant compound, a smoke resistant compound, a foaming agent, or a combinations thereof.",
+    "80. The method of claim 79, wherein the adhesive is polyvinyl alcohol (PVA), poly(vinyl acetate) (PVAc), or a combination thereof; the sizing agent is alkyketene dimer (AKD) or any other chemicals can do the sizing function; the inorganic component is zinc borate, cupric carbonate (CuCO3), disodium octaborate, cupric sulfate (CuSO4), boric acid, perlite, silicon dioxide (SiO2), potassium sulfate (K2SO4), or a combination thereof; and/or the foaming agent is sodium dodecyl sulphate (SDS) or/and other surfactants.",
+    "81. The method of claim 72, wherein said fiber mixture is refined before being fed into the foaming apparatus",
+    "82. The method of claim 72, wherein said fiber mixture comprises wood pulp.",
+    "83. The method of claim 72, wherein the fiber mixture is further chemically treated to attack the secondary fiber walls and improve the bonding characteristics before being feed into the foaming apparatus.",
+    "84. The method of claim 72, wherein the gas is compress air, nitrogen, argon, and carbon dioxide.",
+    "85. A natural fiber ultra-low density composite (ULDC) foam comprising:\na natural fiber, and a foaming agent, wherein the foam has a density from 10 kg/m3 to 150 kg/m3 with open cell foam structure.",
+    "86. The foam of claim 85, further comprising cellulose filament (CF), and/or nanofilament.",
+    "87. The foam of claim 86, wherein the CF is from wood pulp or plant pulp.",
+    "88. The foam of claim 86, wherein the CA comprises lengths of 300-350 \u03bcm and/or diameters of 100-500 nm.",
+    "89. The nanofilament of claim 85, wherein the nanofilament is from wood pulp or plant pulp.",
+    "90. The foam of claim 85, further comprising at least one additive.",
+    "91. The foam of claims 90, wherein the at least one additive is an adhesive, an adhesive hardener, a sizing agent, a mold resistant compound, a fiber decay resistant compound, a fire resistant compound, a smoke resistant compound, a foaming agent, or a combinations thereof."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US15/146,942",
+      "representative_publication": "US9994712B2",
+      "primary_language": "en",
+      "priority_date": "2013-11-05",
+      "filing_date": "2014-11-05",
+      "title": "Method of producing ultra-low density fiber composite materials"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US201361900035P",
+      "priority_date": "2013-11-05",
+      "filing_date": "2013-11-05"
+    },
+    {
+      "application_number": "US201462067059P",
+      "priority_date": "2014-10-22",
+      "filing_date": "2014-10-22"
+    },
+    {
+      "application_number": "US15/146,942",
+      "representative_publication": "US9994712B2",
+      "primary_language": "en",
+      "priority_date": "2013-11-05",
+      "filing_date": "2014-11-05",
+      "title": "Method of producing ultra-low density fiber composite materials"
+    },
+    {
+      "application_number": "PCT/CA2014/051058",
+      "representative_publication": "WO2015066806A1",
+      "primary_language": "en",
+      "priority_date": "2013-11-05",
+      "filing_date": "2014-11-05",
+      "title": "Method of producing ultra-low density fiber composite materials"
+    }
+  ],
+  "family_id": "53040738",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "US4271291A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-07-28",
+        "publication_date": "1981-06-02",
+        "assignee_original": "Eastman Kodak Company",
+        "title": "Process for recovering cellulose ester fines",
+        "patent_id": "patent/US4271291A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4271291A%2Fen"
+      },
+      {
+        "publication_number": "US6261679B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-05-22",
+        "publication_date": "2001-07-17",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Fibrous absorbent material and methods of making the same",
+        "patent_id": "patent/US6261679B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6261679B1%2Fen"
+      },
+      {
+        "publication_number": "EP1358387A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-11-14",
+        "publication_date": "2003-11-05",
+        "assignee_original": "Weyerhaeuser Company",
+        "title": "Crosslinked cellulosic product formed by extrusion process",
+        "patent_id": "patent/EP1358387A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1358387A2%2Fen"
+      },
+      {
+        "publication_number": "JP3436749B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-29",
+        "publication_date": "2003-08-18",
+        "assignee_original": "\u5bae\u57ce\u770c",
+        "title": "Apparatus for producing foam molded article, method for producing laminated foam molded article, and foam molded article obtained thereby",
+        "patent_id": "patent/JP3436749B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3436749B2%2Fen"
+      },
+      {
+        "publication_number": "CN100346032C",
+        "primary_language": "en",
+        "priority_date": "2006-07-07",
+        "publication_date": "2007-10-31",
+        "assignee_original": "\u798f\u5efa\u519c\u6797\u5927\u5b66",
+        "title": "Method for preparing vegetable fibre liquid foam package material",
+        "patent_id": "patent/CN100346032C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100346032C%2Fen"
+      },
+      {
+        "publication_number": "US20090163610A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-20",
+        "publication_date": "2009-06-25",
+        "assignee_original": "Lanning Vincent L",
+        "title": "Continuous process for making polyetherimide foam materials and articles made therefrom",
+        "patent_id": "patent/US20090163610A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090163610A1%2Fen"
+      },
+      {
+        "publication_number": "JP2010159389A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-21",
+        "publication_date": "2010-07-22",
+        "assignee_original": "Showa Highpolymer Co Ltd",
+        "title": "Expandable resin composition and foam",
+        "patent_id": "patent/JP2010159389A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010159389A%2Fen"
+      },
+      {
+        "publication_number": "MX337769B",
+        "primary_language": "en",
+        "priority_date": "2010-05-11",
+        "publication_date": "2016-03-16",
+        "assignee_original": "Fpinnovations",
+        "title": "Cellulose nanofilaments and method to produce same.",
+        "patent_id": "patent/MX337769B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX337769B%2Fen"
+      },
+      {
+        "publication_number": "WO2012006714A1",
+        "primary_language": "en",
+        "priority_date": "2010-07-13",
+        "publication_date": "2012-01-19",
+        "assignee_original": "Fpinnovations",
+        "title": "Method for manufacturing an ultra low density composite using natural fibers",
+        "patent_id": "patent/WO2012006714A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012006714A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012097446A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-21",
+        "publication_date": "2012-07-26",
+        "assignee_original": "Fpinnovations",
+        "title": "High aspect ratio cellulose nanofilaments and method for their production",
+        "patent_id": "patent/WO2012097446A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012097446A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20160194828A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-01-06",
+        "publication_date": "2016-07-07",
+        "assignee_original": "Li Jaw Industrial Corporation Limited",
+        "title": "Method for manufacturing environmental friendly cushioning material",
+        "patent_id": "patent/US20160194828A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160194828A1%2Fen"
+      },
+      {
+        "publication_number": "US20160221233A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-13",
+        "publication_date": "2016-08-04",
+        "assignee_original": "Teknologian Tutkimuskeskus Vtt Oy",
+        "title": "Method of forming a fibrous product",
+        "patent_id": "patent/US20160221233A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160221233A1%2Fen"
+      },
+      {
+        "publication_number": "US10463205B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-01",
+        "publication_date": "2019-11-05",
+        "assignee_original": "Mercer International Inc.",
+        "title": "Process for making tissue or towel products comprising nanofilaments",
+        "patent_id": "patent/US10463205B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10463205B2%2Fen"
+      },
+      {
+        "publication_number": "US10570261B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-01",
+        "publication_date": "2020-02-25",
+        "assignee_original": "Mercer International Inc.",
+        "title": "Process for making tissue or towel products comprising nanofilaments",
+        "patent_id": "patent/US10570261B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10570261B2%2Fen"
+      },
+      {
+        "publication_number": "US10640927B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-19",
+        "publication_date": "2020-05-05",
+        "assignee_original": "Mercer International, Inc.",
+        "title": "Absorbent paper products having unique physical strength properties",
+        "patent_id": "patent/US10640927B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10640927B2%2Fen"
+      },
+      {
+        "publication_number": "US10724173B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-01",
+        "publication_date": "2020-07-28",
+        "assignee_original": "Mercer International, Inc.",
+        "title": "Multi-density tissue towel products comprising high-aspect-ratio cellulose filaments",
+        "patent_id": "patent/US10724173B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10724173B2%2Fen"
+      },
+      {
+        "publication_number": "US20200308359A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2020-10-01",
+        "assignee_original": "The United States Of America, As Represented By The Secretary Of Agriculture",
+        "title": "Compositions and processes for renewable rigid foam",
+        "patent_id": "patent/US20200308359A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200308359A1%2Fen"
+      },
+      {
+        "publication_number": "EP3812419A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-23",
+        "publication_date": "2021-04-28",
+        "assignee_original": "Weidmann Holding AG",
+        "title": "Microfibrillated cellulose-loaded foam, method of producing such foam and use of such a foam",
+        "patent_id": "patent/EP3812419A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3812419A1%2Fen"
+      },
+      {
+        "publication_number": "US11352747B2",
+        "primary_language": "en",
+        "priority_date": "2018-04-12",
+        "publication_date": "2022-06-07",
+        "assignee_original": "Mercer International Inc.",
+        "title": "Processes for improving high aspect ratio cellulose filament blends",
+        "patent_id": "patent/US11352747B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11352747B2%2Fen"
+      },
+      {
+        "publication_number": "CN116726610A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-03-01",
+        "publication_date": "2023-09-12",
+        "assignee_original": "\u829c\u6e56\u7f8e\u7684\u667a\u80fd\u53a8\u7535\u5236\u9020\u6709\u9650\u516c\u53f8",
+        "title": "Fume filter device and preparation method and application thereof",
+        "patent_id": "patent/CN116726610A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116726610A%2Fen"
+      },
+      {
+        "publication_number": "JP2023548963A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-10",
+        "publication_date": "2023-11-21",
+        "assignee_original": "\u30d5\u30a1\u30a4\u30d0\u30fc\u30a6\u30c3\u30c9 \u30aa\u30b5\u30b1\u30e6\u30ad\u30c1\u30e5\u30a2",
+        "title": "Insulating materials, insulating products, layered structures, buildings, and methods of manufacturing insulating materials",
+        "patent_id": "patent/JP2023548963A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023548963A%2Fen"
+      },
+      {
+        "publication_number": "FR3136188A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-01",
+        "publication_date": "2023-12-08",
+        "assignee_original": "Hempack",
+        "title": "METHOD FOR MANUFACTURING A BIO-SOURCED HEMP FIBER PACKAGING DEVICE",
+        "patent_id": "patent/FR3136188A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3136188A1%2Fen"
+      },
+      {
+        "publication_number": "SE2230309A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Packaging material comprising a cellulose foam",
+        "patent_id": "patent/SE2230309A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2230309A1%2Fen"
+      },
+      {
+        "publication_number": "SE2230310A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2024-03-24",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "A coated solid cellulose foam material",
+        "patent_id": "patent/SE2230310A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE2230310A1%2Fen"
+      },
+      {
+        "publication_number": "US12077650B2",
+        "primary_language": "en",
+        "priority_date": "2018-11-26",
+        "publication_date": "2024-09-03",
+        "assignee_original": "Teknologian Tutkimuskeskus Vtt Oy",
+        "title": "Foam assisted drying process of nano- and microfibrillated cellulose",
+        "patent_id": "patent/US12077650B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12077650B2%2Fen"
+      },
+      {
+        "publication_number": "WO2024226876A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-04-26",
+        "publication_date": "2024-10-31",
+        "assignee_original": "Solenis Technologies Cayman, L.P.",
+        "title": "Foam formulations for application of dry strength agents",
+        "patent_id": "patent/WO2024226876A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024226876A1%2Fen"
+      },
+      {
+        "publication_number": "US12467206B2",
+        "primary_language": "en",
+        "priority_date": "2016-09-19",
+        "publication_date": "2025-11-11",
+        "assignee_original": "Mercer International Inc.",
+        "title": "Absorbent paper products having unique physical strength properties",
+        "patent_id": "patent/US12467206B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12467206B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US9657200B2",
+        "primary_language": "en",
+        "priority_date": "2012-09-27",
+        "publication_date": "2017-05-23",
+        "assignee_original": "Henkel IP & Holding GmbH",
+        "title": "Waterborne adhesives for reduced basis weight multilayer substrates and use thereof",
+        "patent_id": "patent/US9657200B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9657200B2%2Fen"
+      },
+      {
+        "publication_number": "FI20155419A7",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-02",
+        "publication_date": "2016-12-03",
+        "assignee_original": "Teknologian Tutkimuskeskus Vtt Oy",
+        "title": "A method for increasing foam stability",
+        "patent_id": "patent/FI20155419A7/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI20155419A7%2Fen"
+      },
+      {
+        "publication_number": "SE538530C2",
+        "primary_language": "en",
+        "priority_date": "2015-07-07",
+        "publication_date": "2016-09-06",
+        "assignee_original": "Stora Enso Oyj",
+        "title": "Shaped tray or plate of fibrous material and a method of manufacturing the same",
+        "patent_id": "patent/SE538530C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSE538530C2%2Fen"
+      },
+      {
+        "publication_number": "CA2984690C",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-16",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Fpinnovations",
+        "title": "Filter media comprising cellulose filaments",
+        "patent_id": "patent/CA2984690C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2984690C%2Fen"
+      },
+      {
+        "publication_number": "US11591755B2",
+        "primary_language": "en",
+        "priority_date": "2015-11-03",
+        "publication_date": "2023-02-28",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Paper tissue with high bulk and low lint",
+        "patent_id": "patent/US11591755B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11591755B2%2Fen"
+      },
+      {
+        "publication_number": "WO2017182846A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-22",
+        "publication_date": "2017-10-26",
+        "assignee_original": "Davide Contu",
+        "title": "Process for producing a flaked thermal-insulating and/or acoustic-insulating material",
+        "patent_id": "patent/WO2017182846A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017182846A1%2Fen"
+      },
+      {
+        "publication_number": "KR20190136051A",
+        "primary_language": "en",
+        "priority_date": "2017-04-28",
+        "publication_date": "2019-12-09",
+        "assignee_original": "\ud0b4\ubc8c\ub9ac-\ud074\ub77c\ud06c \uc6d4\ub4dc\uc640\uc774\ub4dc, \uc778\ud06c.",
+        "title": "Foam-Formed Fiber Sheets with Crimped Staple Fibers",
+        "patent_id": "patent/KR20190136051A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20190136051A%2Fen"
+      },
+      {
+        "publication_number": "CA3064871C",
+        "primary_language": "en",
+        "priority_date": "2017-07-18",
+        "publication_date": "2024-02-27",
+        "assignee_original": "Henkel IP & Holding GmbH",
+        "title": "Dielectric heating of foamable compositions",
+        "patent_id": "patent/CA3064871C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA3064871C%2Fen"
+      },
+      {
+        "publication_number": "US12157619B2",
+        "primary_language": "en",
+        "priority_date": "2017-08-25",
+        "publication_date": "2024-12-03",
+        "assignee_original": "Henkel Ag & Co. Kgaa",
+        "title": "Process for forming improved protective eco-friendly pouch and packaging and products made therefrom",
+        "patent_id": "patent/US12157619B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12157619B2%2Fen"
+      },
+      {
+        "publication_number": "MX2020001943A",
+        "primary_language": "en",
+        "priority_date": "2017-08-25",
+        "publication_date": "2020-09-28",
+        "assignee_original": "Henkel IP & Holding GmbH",
+        "title": "PROCESS FOR FORMING ECOLOGICALLY FRIENDLY BAG AND PACKAGING ECOLOGICAL PROTECTORS AND PRODUCTS MADE THEREOF.",
+        "patent_id": "patent/MX2020001943A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMX2020001943A%2Fen"
+      },
+      {
+        "publication_number": "AU2017441040B2",
+        "primary_language": "en",
+        "priority_date": "2017-11-29",
+        "publication_date": "2023-12-21",
+        "assignee_original": "Kimberly-Clark Worldwide, Inc.",
+        "title": "Fibrous sheet with improved properties",
+        "patent_id": "patent/AU2017441040B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2017441040B2%2Fen"
+      },
+      {
+        "publication_number": "EP3527361A1",
+        "primary_language": "en",
+        "priority_date": "2018-02-16",
+        "publication_date": "2019-08-21",
+        "assignee_original": "Henkel AG & Co. KGaA",
+        "title": "Method for producing a multi-layer substrate",
+        "patent_id": "patent/EP3527361A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3527361A1%2Fen"
+      },
+      {
+        "publication_number": "GB2590316B",
+        "primary_language": "en",
+        "priority_date": "2018-07-25",
+        "publication_date": "2022-06-01",
+        "assignee_original": "Kimberly Clark Co",
+        "title": "Process for making three-dimensional foam-laid nonwovens",
+        "patent_id": "patent/GB2590316B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2590316B%2Fen"
+      },
+      {
+        "publication_number": "CN109777138B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-04",
+        "publication_date": "2021-06-15",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u9752\u5c9b\u751f\u7269\u80fd\u6e90\u4e0e\u8fc7\u7a0b\u7814\u7a76\u6240",
+        "title": "Method for preparing fire-resistant, flame-retardant, ultra-light and high-strength pulp foam by using lignocellulosic raw materials",
+        "patent_id": "patent/CN109777138B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109777138B%2Fen"
+      },
+      {
+        "publication_number": "CN109867815B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-04",
+        "publication_date": "2021-06-15",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u9752\u5c9b\u751f\u7269\u80fd\u6e90\u4e0e\u8fc7\u7a0b\u7814\u7a76\u6240",
+        "title": "Method for preparing ultra-light, high-elastic, fire-resistant and water-resistant pulp foam by using wood fiber raw materials",
+        "patent_id": "patent/CN109867815B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109867815B%2Fen"
+      },
+      {
+        "publication_number": "FI130599B",
+        "primary_language": "en",
+        "priority_date": "2021-02-17",
+        "publication_date": "2023-12-05",
+        "assignee_original": "Aisti Corp Oy",
+        "title": "ULTRALIGHT FIRE RESISTANT FIBER COMPOSITE FOAM, PRODUCT AND MANUFACTURING METHOD",
+        "patent_id": "patent/FI130599B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI130599B%2Fen"
+      },
+      {
+        "publication_number": "WO2025119469A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-06",
+        "publication_date": "2025-06-12",
+        "assignee_original": "Essity Hygiene And Health Aktiebolag",
+        "title": "Method for manufacturing an absorbent web-based product, absorbent web-based product and apparatus for manufacturing an absorbent web-based product",
+        "patent_id": "patent/WO2025119469A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025119469A1%2Fen"
+      },
+      {
+        "publication_number": "WO2025119468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-06",
+        "publication_date": "2025-06-12",
+        "assignee_original": "Essity Hygiene And Health Aktiebolag",
+        "title": "Apparatus, method for manufacturing an absorbent web-based product, and absorbent web-based product",
+        "patent_id": "patent/WO2025119468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025119468A1%2Fen"
+      },
+      {
+        "publication_number": "WO2025119470A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-12-06",
+        "publication_date": "2025-06-12",
+        "assignee_original": "Essity Hygiene And Health Aktiebolag",
+        "title": "Method for manufacturing an absorbent web-based product, absorbent web-based product and apparatus for manufacturing an absorbent web-based product",
+        "patent_id": "patent/WO2025119470A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2025119470A1%2Fen"
+      },
+      {
+        "publication_number": "FI20245254A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-03-01",
+        "publication_date": "2025-09-02",
+        "assignee_original": "Metsae Spring Oy",
+        "title": "A method and a moulded multi-layered fibrous product",
+        "patent_id": "patent/FI20245254A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI20245254A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US9994712B2",
+      "primary_language": "en",
+      "publication_date": "2018-06-12",
+      "title": "Method of producing ultra-low density fiber composite materials",
+      "patent_id": "patent/US9994712B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9994712B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1368285B1",
+      "primary_language": "en",
+      "publication_date": "2007-04-11",
+      "title": "Fiber reinforced cement composite materials using chemically treated fibers with improved dispersibility",
+      "patent_id": "patent/EP1368285B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1368285B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109790681B",
+      "primary_language": "en",
+      "publication_date": "2022-01-28",
+      "title": "Method for converting high consistency pulp fibers into pre-dispersed semi-dry and dry fiber materials",
+      "patent_id": "patent/CN109790681B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109790681B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2424699C",
+      "primary_language": "en",
+      "publication_date": "2010-04-27",
+      "title": "Method and apparatus for reducing impurities in cellulose fibers for manufacture of fiber reinforced cement composite materials",
+      "patent_id": "patent/CA2424699C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2424699C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250019964A1",
+      "primary_language": "en",
+      "publication_date": "2025-01-16",
+      "title": "Cellulose-based insulation and methods of making the same",
+      "patent_id": "patent/US20250019964A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250019964A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "17548917737290636126",
+      "scholar_authors": "Li et al.",
+      "publication_date": "2019",
+      "title": "Structure and performance control of plant fiber based foam material by fibrillation via refining treatment",
+      "patent_id": "scholar/17548917737290636126",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F17548917737290636126"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2002240552A1",
+      "primary_language": "en",
+      "publication_date": "2003-03-20",
+      "title": "Fiber reinforced cement composite materials using chemically treated fibers with improved dispersibility",
+      "patent_id": "patent/AU2002240552A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2002240552A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "234455992959125695",
+      "scholar_authors": "P\u00f6hler et al.",
+      "publication_date": "2017",
+      "title": "Use of papermaking pulps in foam-formed thermal insulation materials",
+      "patent_id": "scholar/234455992959125695",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F234455992959125695"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2482084C2",
+      "primary_language": "en",
+      "publication_date": "2013-05-20",
+      "title": "Wet spinning substrate with high sound absorption",
+      "patent_id": "patent/RU2482084C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2482084C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2001296904A1",
+      "primary_language": "en",
+      "publication_date": "2002-07-04",
+      "title": "Method and apparatus for reducing impurities in cellulose fibers for manufacture of fiber reinforced cement composite materials",
+      "patent_id": "patent/AU2001296904A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2001296904A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN111742096A",
+      "primary_language": "en",
+      "publication_date": "2020-10-02",
+      "title": "Fiber composite and method for producing the same",
+      "patent_id": "patent/CN111742096A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111742096A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4294865A1",
+      "primary_language": "en",
+      "publication_date": "2023-12-27",
+      "title": "Ultralow density fire-retardant fiber composite foam formed material, product and manufacturing method thereof",
+      "patent_id": "patent/EP4294865A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4294865A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1829845A2",
+      "primary_language": "en",
+      "publication_date": "2007-09-05",
+      "title": "Fiber reinforced cement composite materials using chemically treated fibers with improved dispersibility",
+      "patent_id": "patent/EP1829845A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1829845A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU606132B2",
+      "primary_language": "en",
+      "publication_date": "1991-01-31",
+      "title": "Low density frothed mineral wool panel and method",
+      "patent_id": "patent/AU606132B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU606132B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7499593B2",
+      "primary_language": "en",
+      "publication_date": "2024-06-14",
+      "title": "Cellulose fiber molded body and its manufacturing method",
+      "patent_id": "patent/JP7499593B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7499593B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4493372A2",
+      "primary_language": "en",
+      "publication_date": "2025-01-22",
+      "title": "Material arid method",
+      "patent_id": "patent/EP4493372A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4493372A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2023548963A",
+      "primary_language": "en",
+      "publication_date": "2023-11-21",
+      "title": "Insulating materials, insulating products, layered structures, buildings, and methods of manufacturing insulating materials",
+      "patent_id": "patent/JP2023548963A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023548963A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "PL213728B1",
+      "primary_language": "en",
+      "publication_date": "2013-04-30",
+      "title": "Production method of insulating panel and a device for production of this panel",
+      "patent_id": "patent/PL213728B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL213728B1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2016-05-05",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "FPINNOVATIONS, CANADA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:CAI, XIAOLIN;DENG, XIXIAN (JAMES);DERY, NICOLAS;AND OTHERS;SIGNING DATES FROM 20150105 TO 20150113;REEL/FRAME:038469/0907"
+        }
+      ]
+    },
+    {
+      "date": "2018-05-23",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2022-01-31",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-18",
+      "code": "LAPS",
+      "title": "Lapse for failure to pay maintenance fees",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-07-18",
+      "code": "STCH",
+      "title": "Information on status: patent discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-09",
+      "code": "FP",
+      "title": "Lapsed due to failure to pay maintenance fee",
+      "attributes": [
+        {
+          "label": "Effective date",
+          "value": "20220612"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 244
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 89
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "238000005187",
+        "name": "foaming",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 128
+      },
+      {
+        "id": "239000006260",
+        "name": "foam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 124
+      },
+      {
+        "id": "229920002678",
+        "name": "cellulose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "239000001913",
+        "name": "cellulose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "230000009970",
+        "name": "fire resistant effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "name": "Silicium dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=[Si]=O",
+        "inchi_key": "VYPSYNLAJGMNEJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 84
+      },
+      {
+        "id": "229920002689",
+        "name": "polyvinyl acetate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 70
+      },
+      {
+        "id": "239000011118",
+        "name": "polyvinyl acetate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 70
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 59
+      },
+      {
+        "id": "239000010451",
+        "name": "perlite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "OTYBMLCTZGSZBG-UHFFFAOYSA-L",
+        "name": "potassium sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[K+].[K+].[O-]S([O-])(=O)=O",
+        "inchi_key": "OTYBMLCTZGSZBG-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "229910052939",
+        "name": "potassium sulfate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "239000000377",
+        "name": "silicon dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 42
+      },
+      {
+        "id": "239000007789",
+        "name": "gas",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "235000019362",
+        "name": "perlite",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "-1",
+        "name": "poly(vinyl acetate)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 36
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "239000004848",
+        "name": "polyfunctional curative",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 31
+      },
+      {
+        "id": "235000011151",
+        "name": "potassium sulphates",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 30
+      },
+      {
+        "id": "235000012239",
+        "name": "silicon dioxide",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 29
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "229920001131",
+        "name": "Pulp (paper)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "DBMJMQXJHONAFJ-UHFFFAOYSA-M",
+        "name": "Sodium laurylsulphate",
+        "domain": "Chemical group",
+        "smiles": "[Na+].CCCCCCCCCCCCOS([O-])(=O)=O",
+        "inchi_key": "DBMJMQXJHONAFJ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "239000004088",
+        "name": "foaming agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "230000000996",
+        "name": "additive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000000779",
+        "name": "smoke",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000001035",
+        "name": "drying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000004513",
+        "name": "sizing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000004372",
+        "name": "Polyvinyl alcohol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229920002451",
+        "name": "polyvinyl alcohol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229910000009",
+        "name": "copper(II) carbonate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "ARUVKPQLZAKDPS-UHFFFAOYSA-L",
+        "name": "copper(II) sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[Cu+2].[O-][S+2]([O-])([O-])[O-]",
+        "inchi_key": "ARUVKPQLZAKDPS-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229910000366",
+        "name": "copper(II) sulfate",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "GEZOTWYUIKXWOA-UHFFFAOYSA-L",
+        "name": "copper;carbonate",
+        "domain": "Chemical compound",
+        "smiles": "[Cu+2].[O-]C([O-])=O",
+        "inchi_key": "GEZOTWYUIKXWOA-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000011646",
+        "name": "cupric carbonate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+        "name": "Argon",
+        "domain": "Chemical compound",
+        "smiles": "[Ar]",
+        "inchi_key": "XKRFYHLGVUSROY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "name": "Atomic nitrogen",
+        "domain": "Chemical compound",
+        "smiles": "N#N",
+        "inchi_key": "IJGRMHOSHXDMSA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+        "name": "Carbon dioxide",
+        "domain": "Chemical compound",
+        "smiles": "O=C=O",
+        "inchi_key": "CURLTUGMZLYLDI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "name": "boric acid",
+        "domain": "Chemical compound",
+        "smiles": "OB(O)O",
+        "inchi_key": "KGBXLFKZBHKPEV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004327",
+        "name": "boric acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004094",
+        "name": "surface-active agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229940116318",
+        "name": "copper carbonate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000019854",
+        "name": "cupric carbonate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "CLZJMLYRPZBOPU-UHFFFAOYSA-N",
+        "name": "disodium;boric acid;hydrogen borate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].[Na+].OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB(O)O.OB([O-])[O-]",
+        "inchi_key": "CLZJMLYRPZBOPU-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003570",
+        "name": "air",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052786",
+        "name": "argon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000001569",
+        "name": "carbon dioxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910002092",
+        "name": "carbon dioxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000539",
+        "name": "dimer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007599",
+        "name": "discharging",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052757",
+        "name": "nitrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "BIKXLKXABVUSMH-UHFFFAOYSA-N",
+        "name": "trizinc;diborate",
+        "domain": "Chemical group",
+        "smiles": "[Zn+2].[Zn+2].[Zn+2].[O-]B([O-])[O-].[O-]B([O-])[O-]",
+        "inchi_key": "BIKXLKXABVUSMH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000010338",
+        "name": "boric acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "SHFGJEQAOUMGJM-UHFFFAOYSA-N",
+        "name": "dialuminum dipotassium disodium dioxosilane iron(3+) oxocalcium oxomagnesium oxygen(2-)",
+        "domain": "Chemical compound",
+        "smiles": "[O--].[O--].[O--].[O--].[O--].[O--].[O--].[O--].[Na+].[Na+].[Al+3].[Al+3].[K+].[K+].[Fe+3].[Fe+3].O=[Mg].O=[Ca].O=[Si]=O",
+        "inchi_key": "SHFGJEQAOUMGJM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 42
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 35
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "238000009413",
+        "name": "insulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000006261",
+        "name": "foam material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000009977",
+        "name": "dual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 92
+      },
+      {
+        "id": "239000000725",
+        "name": "suspension",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 54
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 44
+      },
+      {
+        "id": "239000002655",
+        "name": "kraft paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "229920002401",
+        "name": "polyacrylamide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 39
+      },
+      {
+        "id": "102100031260",
+        "name": "Acyl-coenzyme A thioesterase THEM4",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "101000638510",
+        "name": "Homo sapiens Acyl-coenzyme A thioesterase THEM4",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "RCEAADKTGXTDOA-UHFFFAOYSA-N",
+        "name": "OS(O)(=O)=O.CCCCCCCCCCCC[Na]",
+        "domain": "Chemical compound",
+        "smiles": "OS(O)(=O)=O.CCCCCCCCCCCC[Na]",
+        "inchi_key": "RCEAADKTGXTDOA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 19
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000011068",
+        "name": "loading method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "239000000523",
+        "name": "sample",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "235000019333",
+        "name": "sodium laurylsulphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "239000008399",
+        "name": "tap water",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "235000020679",
+        "name": "tap water",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000009472",
+        "name": "formulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000012360",
+        "name": "testing method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000012467",
+        "name": "final product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000002023",
+        "name": "wood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000010790",
+        "name": "dilution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000012895",
+        "name": "dilution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "241000196324",
+        "name": "Embryophyta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000000750",
+        "name": "progressive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000002994",
+        "name": "raw material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000007670",
+        "name": "refining",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000012298",
+        "name": "atmosphere",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000006872",
+        "name": "improvement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000000123",
+        "name": "paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000004537",
+        "name": "pulping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000247",
+        "name": "superabsorbent polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920002522",
+        "name": "Wood fibre",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010521",
+        "name": "absorption reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000013019",
+        "name": "agitation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000010009",
+        "name": "beating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002657",
+        "name": "fibrous material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003063",
+        "name": "flame retardant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000499",
+        "name": "gel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000012774",
+        "name": "insulation material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004620",
+        "name": "low density foam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000011122",
+        "name": "softwood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004580",
+        "name": "weight loss",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002025",
+        "name": "wood fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000008331",
+        "name": "Pinus X rigitaeda",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000011613",
+        "name": "Pinus brutia",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000018646",
+        "name": "Pinus brutia",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002745",
+        "name": "absorbent",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002250",
+        "name": "absorbent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000007864",
+        "name": "aqueous solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010923",
+        "name": "batch production",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011152",
+        "name": "fibreglass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011490",
+        "name": "mineral wool",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000010893",
+        "name": "paper waste",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000582",
+        "name": "polyisocyanurate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011495",
+        "name": "polyisocyanurate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001681",
+        "name": "protective effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002002",
+        "name": "slurry",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011282",
+        "name": "treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000009966",
+        "name": "trimming",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "101100434663",
+        "name": "Bacillus subtilis (strain 168) fbaA gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "BTBUEUYNUDRHOZ-UHFFFAOYSA-N",
+        "name": "Borate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]B([O-])[O-]",
+        "inchi_key": "BTBUEUYNUDRHOZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003043",
+        "name": "Cellulose fiber",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101150095274",
+        "name": "FBA1 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101150055254",
+        "name": "FBA2 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "101150115574",
+        "name": "FBA3 gene",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241001492300",
+        "name": "Gloeophyllum trabeum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000222344",
+        "name": "Irpex lacteus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000448940",
+        "name": "Placuna placenta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920005830",
+        "name": "Polyurethane Foam",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910007266",
+        "name": "Si2O",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010793",
+        "name": "Steam injection (oil industry)",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000222355",
+        "name": "Trametes versicolor",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011230",
+        "name": "binding agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003115",
+        "name": "biocidal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003139",
+        "name": "biocide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002988",
+        "name": "biodegradable polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009435",
+        "name": "building construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "206010061592",
+        "name": "cardiac fibrillation",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007795",
+        "name": "chemical reaction product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011248",
+        "name": "coating agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000576",
+        "name": "coating method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004035",
+        "name": "construction material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011437",
+        "name": "continuous method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010924",
+        "name": "continuous production",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000013068",
+        "name": "control sample",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000006185",
+        "name": "dispersion",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012153",
+        "name": "distilled water",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008030",
+        "name": "elimination",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003379",
+        "name": "elimination reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005265",
+        "name": "energy consumption",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002600",
+        "name": "fibrillogenic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002803",
+        "name": "fossil fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002538",
+        "name": "fungal effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000578",
+        "name": "graft copolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005470",
+        "name": "impregnation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011810",
+        "name": "insulating material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000016507",
+        "name": "interphase",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003475",
+        "name": "lamination",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000014759",
+        "name": "maintenance of location",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003921",
+        "name": "oil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005022",
+        "name": "packaging material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003208",
+        "name": "petroleum",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000058",
+        "name": "polyacrylate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011496",
+        "name": "polyurethane foam",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004064",
+        "name": "recycling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009877",
+        "name": "rendering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011160",
+        "name": "research",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000926",
+        "name": "separation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002791",
+        "name": "soaking",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005507",
+        "name": "spraying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006641",
+        "name": "stabilisation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011105",
+        "name": "stabilization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004583",
+        "name": "superabsorbent polymers (SAPs)",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001059",
+        "name": "synthetic polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100000331",
+        "name": "toxic",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002588",
+        "name": "toxic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011144",
+        "name": "upstream manufacturing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013311",
+        "name": "vegetables",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005406",
+        "name": "washing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000011701",
+        "name": "zinc",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052725",
+        "name": "zinc",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

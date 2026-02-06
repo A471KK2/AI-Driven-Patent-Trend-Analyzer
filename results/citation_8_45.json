@@ -1,0 +1,1040 @@
+{
+  "search_metadata": {
+    "id": "697a34d1f3a0a7b7260534cf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/68e7f2d21d7472ac/697a34d1f3a0a7b7260534cf.json",
+    "created_at": "2026-01-28 16:09:53 UTC",
+    "processed_at": "2026-01-28 16:09:53 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20220250762A1/en",
+    "raw_html_file": "https://serpapi.com/searches/68e7f2d21d7472ac/697a34d1f3a0a7b7260534cf.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20220250762A1/en"
+  },
+  "title": "Vehicle",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/61/a2/35/d875a6c3e5189e/US20220250762A1.pdf",
+  "publication_number": "US20220250762A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "hydrogen storage",
+    "vehicle",
+    "hydrogen",
+    "storage device",
+    "thermally conducting"
+  ],
+  "prior_art_date": "2019-05-30",
+  "application_number": "US17/595,729",
+  "inventors": [
+    {
+      "name": "Luke Sperrin",
+      "link": "https://patents.google.com/?inventor=Luke+Sperrin",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Luke+Sperrin"
+    },
+    {
+      "name": "Enass ABO-HAMED",
+      "link": "https://patents.google.com/?inventor=Enass+ABO-HAMED",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Enass+ABO-HAMED"
+    },
+    {
+      "name": "Peter Italiano",
+      "link": "https://patents.google.com/?inventor=Peter+Italiano",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Peter+Italiano"
+    },
+    {
+      "name": "Kieran O'Donnell",
+      "link": "https://patents.google.com/?inventor=Kieran+O%27Donnell",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kieran+O%27Donnell"
+    }
+  ],
+  "assignees": [
+    "H2GO Power Ltd"
+  ],
+  "priority_date": "2019-05-30",
+  "filing_date": "2020-05-29",
+  "publication_date": "2022-08-11",
+  "worldwide_applications": {
+    "2020": [
+      {
+        "filing_date": "2020-05-29",
+        "country_code": "EP",
+        "application_number": "EP20730696.0A",
+        "document_id": "patent/EP3973223A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2020-05-29",
+        "country_code": "US",
+        "application_number": "US17/595,729",
+        "document_id": "patent/US20220250762A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      },
+      {
+        "filing_date": "2020-05-29",
+        "country_code": "WO",
+        "application_number": "PCT/GB2020/051305",
+        "document_id": "patent/WO2020240198A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2019-05-30",
+      "title": "Priority claimed from GB1907701.5A",
+      "type": "external-priority",
+      "document_id": "patent/GB2584324B/en"
+    },
+    {
+      "date": "2020-03-26",
+      "title": "Priority claimed from GB2004425.1A",
+      "type": "external-priority",
+      "document_id": "patent/GB2585428B8/en"
+    },
+    {
+      "date": "2020-05-29",
+      "title": "Application filed by H2GO Power Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "H2GO Power Ltd"
+    },
+    {
+      "date": "2021-11-30",
+      "title": "Assigned to H2GO POWER LTD",
+      "type": "reassignment",
+      "assignee_search": "H2GO POWER LTD",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: ABO-HAMED, Enass, SPERRIN, Luke, O'DONNELL, Kieran, ITALIANO, Peter"
+      ]
+    },
+    {
+      "date": "2022-08-11",
+      "title": "Publication of US20220250762A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20220250762A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20220250762.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/17595729"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20220250762"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2022250762A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/17595729/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20220250762"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/5b/2f/2f/55dc3405ff7385/US20220250762A1-20220811-D00000.png",
+    "https://patentimages.storage.googleapis.com/a5/5c/11/9766c4c625b377/US20220250762A1-20220811-D00001.png",
+    "https://patentimages.storage.googleapis.com/f9/da/49/37320e9d09c10d/US20220250762A1-20220811-D00002.png",
+    "https://patentimages.storage.googleapis.com/02/21/f9/075e16eb3a3ed4/US20220250762A1-20220811-D00003.png",
+    "https://patentimages.storage.googleapis.com/13/c9/75/bb9409103c6813/US20220250762A1-20220811-D00004.png",
+    "https://patentimages.storage.googleapis.com/fe/ed/fe/9663a3ae08bfcc/US20220250762A1-20220811-D00005.png",
+    "https://patentimages.storage.googleapis.com/f9/73/3f/c85f6afdd789d3/US20220250762A1-20220811-D00006.png",
+    "https://patentimages.storage.googleapis.com/c2/3c/f8/cdf4e9c27f2804/US20220250762A1-20220811-D00007.png",
+    "https://patentimages.storage.googleapis.com/85/15/cc/9d0ba9799c5c0e/US20220250762A1-20220811-D00008.png",
+    "https://patentimages.storage.googleapis.com/3c/ec/a9/bf8e947ac1619c/US20220250762A1-20220811-D00009.png",
+    "https://patentimages.storage.googleapis.com/4c/8f/f5/f7c8bdfdd00e42/US20220250762A1-20220811-D00010.png",
+    "https://patentimages.storage.googleapis.com/de/37/a6/a549616ea5bac2/US20220250762A1-20220811-D00011.png",
+    "https://patentimages.storage.googleapis.com/b5/be/15/9323d52fbc2084/US20220250762A1-20220811-D00012.png",
+    "https://patentimages.storage.googleapis.com/70/70/9e/d43132aa48f9a6/US20220250762A1-20220811-D00013.png",
+    "https://patentimages.storage.googleapis.com/27/69/82/078b5524cc7c9b/US20220250762A1-20220811-D00014.png",
+    "https://patentimages.storage.googleapis.com/73/67/4e/4f996cb09363fb/US20220250762A1-20220811-D00015.png",
+    "https://patentimages.storage.googleapis.com/ab/64/42/d2c5fa86334436/US20220250762A1-20220811-D00016.png",
+    "https://patentimages.storage.googleapis.com/db/b8/a3/68ed4dc4236bfb/US20220250762A1-20220811-D00017.png",
+    "https://patentimages.storage.googleapis.com/23/a3/15/64817b3d2fee7e/US20220250762A1-20220811-D00018.png",
+    "https://patentimages.storage.googleapis.com/fc/16/4a/be8a609aff0a04/US20220250762A1-20220811-D00019.png",
+    "https://patentimages.storage.googleapis.com/45/4c/cd/c0a49660e2fdbf/US20220250762A1-20220811-D00020.png",
+    "https://patentimages.storage.googleapis.com/2e/0f/65/bdbca94b1137ef/US20220250762A1-20220811-D00021.png",
+    "https://patentimages.storage.googleapis.com/52/29/58/19fe16c138f451/US20220250762A1-20220811-D00022.png",
+    "https://patentimages.storage.googleapis.com/24/b0/8e/091c5090e7dffe/US20220250762A1-20220811-D00023.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64D37/06",
+      "description": "Constructional adaptations thereof",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L50/71",
+      "description": "Arrangement of fuel cells within vehicles specially adapted for electric vehicles",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L50/72",
+      "description": "Constructional details of fuel cells specially adapted for electric vehicles",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L53/54",
+      "description": "Fuel cells",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/24",
+      "description": "Aircraft characterised by the type or position of power plants using steam or spring force",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D37/30",
+      "description": "Fuel systems for specific fuels",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/30",
+      "description": "Supply or distribution of electrical power",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F17C11/005",
+      "description": "Use of gas-solvents or gas-sorbents in vessels for hydrogen",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2200/10",
+      "description": "Air crafts",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B60L2200/32",
+      "description": "Waterborne vessels",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C2201/042",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D37/34",
+      "description": "Conditioning fuel, e.g. heating",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64F1/28",
+      "description": "Liquid-handling installations specially adapted for fuelling stationary aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/14",
+      "description": "Flying platforms with four distinct rotor axes, e.g. quadcopters",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/19",
+      "description": "Propulsion using electrically powered motors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F17C2203/013",
+      "description": "Reinforcing means in the vessel, e.g. columns",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F17C2227/0304",
+      "description": "Heat exchange with the fluid by heating using an electric heater",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F17C2227/0309",
+      "description": "Heat exchange with the fluid by heating using another fluid",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "F17C2260/011",
+      "description": "Improving strength",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/32",
+      "description": "Hydrogen storage",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/60",
+      "description": "Efficient propulsion technologies, e.g. for aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/80",
+      "description": "Energy efficient operational measures, e.g. ground operations or mission management",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T90/40",
+      "description": "Application of hydrogen technology to transportation, e.g. using fuel cells",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A vehicle (10), preferably an unmanned and/or autonomous vehicle for example an unmanned aerial vehicle, UAV, is described. The vehicle (10) comprises: a set of structural components (100), arranged to provide, at least in part, a structure of the vehicle (10) and to resist, at least in part, internal and external forces in one, two or three dimensions; a propulsion system (600), arranged to propel the vehicle (10), and/or an auxiliary power supply (700), arranged to provide electrical power to the vehicle (10); a set of hydrogen storage devices (200), including a first hydrogen storage device (200A), and optionally a set of heaters (300) including a first heater (300A), wherein the set of hydrogen storage devices (200) is arranged to provide hydrogen gas to the propulsion system (600) and/or to the auxiliary power supply (700); wherein the first hydrogen storage device (200A) comprises: a pressure vessel (230A), having a first fluid inlet (210A) and a first fluid outlet (220A), comprising therein a thermally conducting network (240A) optionally thermally coupled to the first heater (300A), wherein the pressure vessel (230A) is arranged to receive therein a hydrogen storage material in thermal contact, at least in part, with the thermally conducting network (240A); and preferably, wherein the thermally conducting network (240A) has a lattice geometry, a gyroidal geometry and/or a fractal geometry in two and/or three dimensions; and wherein the first hydrogen storage device (200A_, preferably the pressure vessel and/or the thermally conducting network (230A) thereof, provides a first structural component (100A) of the set of structural components (100).",
+  "description_link": "https://serpapi.com/searches/697a34d1f3a0a7b7260534cf/google_patents_details/description.html",
+  "claims": [
+    "1. A vehicle comprising:\na set of structural components, arranged to provide, at least in part, a structure of the vehicle and to resist, at least in part, internal and/or external forces in one, two or three dimensions; a propulsion system, arranged to propel the vehicle, and/or an auxiliary power supply, arranged to provide electrical power to the vehicle; a set of hydrogen storage devices, including a first hydrogen storage device, and a set of heaters including a first heater, wherein the set of hydrogen storage devices is arranged to provide hydrogen gas to the propulsion system and/or to the auxiliary power supply; wherein the first hydrogen storage device comprises: a pressure vessel, having a first fluid inlet and a first fluid outlet, comprising therein a thermally conducting network thermally coupled to the first heater, wherein the pressure vessel is arranged to receive therein a hydrogen storage material in thermal contact, at least in part, with the thermally conducting network; and wherein the thermally conducting network has a lattice geometry, a gyroidal geometry and/or a fractal geometry in two and/or three dimensions; and wherein the first hydrogen storage device, preferably the pressure vessel and/or the thermally conducting network thereof, provides a first structural component of the set of structural components.",
+    "2. The vehicle according to claim 1, wherein the propulsion system and/or the auxiliary power supply comprises:\na set of electrical generators, including a first electrical generator, configured to generate electricity using the hydrogen gas, selected from a group comprising a fuel cell and an electrical generator comprising a heat engine.",
+    "3. The vehicle according to claim 2, wherein the first electrical generator is the fuel cell, selected from a group comprising a proton exchange membrane fuel cell, PEMFC, an alkaline fuel cell, AFC, and a phosphoric acid fuel cell, PAFC.",
+    "4. The vehicle according to claim 1, wherein the vehicle is an aircraft, and wherein the first structural component defines an airframe, a fuselage, a fixed wing and/or a part thereof.",
+    "5. The vehicle according to claim 1, wherein the vehicle is a watercraft, such as a surface watercraft or a submersible watercraft, and wherein the first structural component defines a hull or part thereof.",
+    "6. The vehicle according to claim 1, wherein the vehicle is a land craft and wherein the first structural component defines a chassis or part thereof.",
+    "7. The vehicle according to claim 1, wherein the thermally conducting network is thermally coupleable to an external surface of the vehicle.",
+    "8. The vehicle according to claim 1, wherein the thermally conducting network is thermally coupleable to the propulsion system and/or to the auxiliary power supply.",
+    "9. The vehicle according to claim 1, comprising:\na controller configured to control the first heater based, at least in part, on a power output of the propulsion system and/or of the auxiliary power supply.",
+    "10. The vehicle according to claim 9, wherein:\nthe controller is configured to control the first heater based, at least in part, on a predicted rate of power output of the propulsion system and/or of the auxiliary power supply.",
+    "11. The vehicle according to claim 1, wherein the first hydrogen storage device has a hydrogen storage density of at least 0.01 wt. % of the first hydrogen storage vessel.",
+    "12. The vehicle according to claim 1, wherein the propulsion system and/or the auxiliary power supply and the set of hydrogen storage devices and mutually releasably coupled.",
+    "13. The vehicle according to claim 1, wherein the first hydrogen storage device has at most two planes of symmetry and a shape arranged to reduce drag, in use.",
+    "14. The vehicle according to claim 1, wherein the first heater comprises a Joule heater and/or a recirculating heater and the first hydrogen storage device is arranged to interchangeably receive the Joule heater and the recirculating heater therein and/or thereon.",
+    "15. The vehicle according to claim 1, wherein the first hydrogen storage device comprises the hydrogen storage material and wherein the hydrogen storage material comprises and/or is a solid hydride and/or a liquid organic hydrogen carrier, LOHC.",
+    "16. A charging station for charging a hydrogen storage device for a vehicle according to claim 1.",
+    "17. A charging station assembly comprising a hydrogen storage device for a vehicle according to claim 1 and a charging station for charging the hydrogen storage device.",
+    "18. A hydrogen storage device for a vehicle,\nwherein the vehicle comprises a set of structural components, arranged to provide, at least in part, a structure of the vehicle and to resist, at least in part, internal and/or external forces in one, two or three dimensions; and a propulsion system, arranged to propel the vehicle, and/or an auxiliary power supply, arranged to provide electrical power to the vehicle; wherein the hydrogen storage device is arranged to provide hydrogen gas to the propulsion system and/or to the auxiliary power supply and wherein the hydrogen storage device comprises: a pressure vessel, having a first fluid inlet and a first fluid outlet, comprising therein a thermally conducting network thermally coupled to the first heater, wherein the pressure vessel is arranged to receive therein a hydrogen storage material in thermal contact, at least in part, with the thermally conducting network; and wherein the thermally conducting network has a lattice geometry, a gyroidal geometry and/or a fractal geometry in two and/or three dimensions; and wherein the hydrogen storage device provides a first structural component of the set of structural components."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "GB1907701.5A",
+      "representative_publication": "GB2584324B",
+      "primary_language": "en",
+      "priority_date": "2019-05-30",
+      "filing_date": "2019-05-30",
+      "title": "Vehicle"
+    },
+    {
+      "application_number": "GB1907701.5",
+      "filing_date": "2019-05-30"
+    },
+    {
+      "application_number": "GB2004425.1",
+      "filing_date": "2020-03-26"
+    },
+    {
+      "application_number": "GB2004425.1A",
+      "representative_publication": "GB2585428B8",
+      "primary_language": "en",
+      "priority_date": "2019-03-27",
+      "filing_date": "2020-03-26",
+      "title": "Hydrogen storage device"
+    },
+    {
+      "application_number": "PCT/GB2020/051305",
+      "representative_publication": "WO2020240198A1",
+      "primary_language": "en",
+      "priority_date": "2019-05-30",
+      "filing_date": "2020-05-29",
+      "title": "Vehicle"
+    }
+  ],
+  "family_id": "70978284",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US20040178062A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-02-28",
+        "publication_date": "2004-09-16",
+        "assignee_original": "Howard Gary W.",
+        "title": "Hydrogen storage system and power system incorporating same",
+        "patent_id": "patent/US20040178062A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040178062A1%2Fen"
+      },
+      {
+        "publication_number": "US20090297896A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-09-27",
+        "publication_date": "2009-12-03",
+        "assignee_original": "Masahiko Kimbara",
+        "title": "Method of using hydrogen storage tank and hydrogen storage tank",
+        "patent_id": "patent/US20090297896A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090297896A1%2Fen"
+      },
+      {
+        "publication_number": "US7808121B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-02",
+        "publication_date": "2010-10-05",
+        "assignee_original": "Kenergy Development Corp.",
+        "title": "Vehicle with electricity generating, braking wind turbine",
+        "patent_id": "patent/US7808121B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7808121B1%2Fen"
+      },
+      {
+        "publication_number": "US20150336680A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-23",
+        "publication_date": "2015-11-26",
+        "assignee_original": "Airbus Operations Gmbh",
+        "title": "Tank System For The Cryogenic Storage Of Hydrogen, And Aircraft With A Tank System For The Cryogenic Storage Of Hydrogen",
+        "patent_id": "patent/US20150336680A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150336680A1%2Fen"
+      },
+      {
+        "publication_number": "US20180266633A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-15",
+        "publication_date": "2018-09-20",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Vehicle and method for filling fuel gas",
+        "patent_id": "patent/US20180266633A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180266633A1%2Fen"
+      },
+      {
+        "publication_number": "US20180346107A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-05-31",
+        "publication_date": "2018-12-06",
+        "assignee_original": "Dirk Brunner",
+        "title": "Drive system for a vehicle",
+        "patent_id": "patent/US20180346107A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180346107A1%2Fen"
+      },
+      {
+        "publication_number": "US20180356040A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-04",
+        "publication_date": "2018-12-13",
+        "assignee_original": "Commissariat A L'energie Atomique Et Aux Energies Alternatives",
+        "title": "Hydrogen storage tank produced from a thermally insulating material forming cylindrical casings containing hydrides",
+        "patent_id": "patent/US20180356040A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180356040A1%2Fen"
+      },
+      {
+        "publication_number": "US20190255952A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-19",
+        "publication_date": "2019-08-22",
+        "assignee_original": "Honda Motor Co., Ltd.",
+        "title": "System and method for determining hydrogen production to provide energy to at least one vehicle",
+        "patent_id": "patent/US20190255952A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190255952A1%2Fen"
+      },
+      {
+        "publication_number": "US20200180774A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-10",
+        "publication_date": "2020-06-11",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Fuel cell powered aircraft with a cathode convertible between oxygen and air and method for use thereof",
+        "patent_id": "patent/US20200180774A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200180774A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US6015041A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-04-01",
+        "publication_date": "2000-01-18",
+        "assignee_original": "Westinghouse Savannah River Company",
+        "title": "Apparatus and methods for storing and releasing hydrogen",
+        "patent_id": "patent/US6015041A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6015041A%2Fen"
+      },
+      {
+        "publication_number": "US20030209149A1",
+        "primary_language": "en",
+        "priority_date": "2002-05-09",
+        "publication_date": "2003-11-13",
+        "assignee_original": "Vitaliy Myasnikov",
+        "title": "Honeycomb hydrogen storage structure",
+        "patent_id": "patent/US20030209149A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20030209149A1%2Fen"
+      },
+      {
+        "publication_number": "WO2010091178A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-02-04",
+        "publication_date": "2010-08-12",
+        "assignee_original": "Purdue Research Foundation",
+        "title": "Coiled and microchannel heat exchangers for metal hydride storage systems",
+        "patent_id": "patent/WO2010091178A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2010091178A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20210180837A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-15",
+        "publication_date": "2021-06-17",
+        "assignee_original": "H2Go Power Ltd",
+        "title": "Hydrogen storage device and method of producting a hydrogen storage device",
+        "patent_id": "patent/US20210180837A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210180837A1%2Fen"
+      },
+      {
+        "publication_number": "US20210291267A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-18",
+        "publication_date": "2021-09-23",
+        "assignee_original": "Savannah River Nuclear Solutions, Llc",
+        "title": "Structural Vehicle Components for Hydrogen Storage",
+        "patent_id": "patent/US20210291267A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210291267A1%2Fen"
+      },
+      {
+        "publication_number": "US20220097842A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-28",
+        "publication_date": "2022-03-31",
+        "assignee_original": "Travis Kunkel",
+        "title": "Rugged unmanned airborne vehicle",
+        "patent_id": "patent/US20220097842A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220097842A1%2Fen"
+      },
+      {
+        "publication_number": "US11634232B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-30",
+        "publication_date": "2023-04-25",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Hybrid propulsion systems for an electric aircraft",
+        "patent_id": "patent/US11634232B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11634232B1%2Fen"
+      },
+      {
+        "publication_number": "US11639230B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-30",
+        "publication_date": "2023-05-02",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System for an integral hybrid electric aircraft",
+        "patent_id": "patent/US11639230B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11639230B1%2Fen"
+      },
+      {
+        "publication_number": "US20230348082A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-30",
+        "publication_date": "2023-11-02",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Hybrid propulsion systems for an electric aircraft",
+        "patent_id": "patent/US20230348082A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230348082A1%2Fen"
+      },
+      {
+        "publication_number": "US11869363B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-17",
+        "publication_date": "2024-01-09",
+        "assignee_original": "Travis Kunkel",
+        "title": "System and method for autonomous vehicle and method for swapping autonomous vehicle during operation",
+        "patent_id": "patent/US11869363B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11869363B1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "US20240367789A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-09",
+        "publication_date": "2024-11-07",
+        "assignee_original": "Arizona Board Of Regents On Behalf Of Arizona State University",
+        "title": "Unmanned aerial vehicle for low-pressure hydrogen transport",
+        "patent_id": "patent/US20240367789A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240367789A1%2Fen"
+      },
+      {
+        "publication_number": "US12350996B2",
+        "primary_language": "en",
+        "priority_date": "2023-07-26",
+        "publication_date": "2025-07-08",
+        "assignee_original": "Ford Global Technologies, Llc",
+        "title": "Vehicle heat exchange",
+        "patent_id": "patent/US12350996B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12350996B2%2Fen"
+      },
+      {
+        "publication_number": "US12372314B2",
+        "primary_language": "en",
+        "priority_date": "2023-09-22",
+        "publication_date": "2025-07-29",
+        "assignee_original": "Ford Global Technologies, Llc",
+        "title": "Vehicle heat exchanger",
+        "patent_id": "patent/US12372314B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12372314B2%2Fen"
+      },
+      {
+        "publication_number": "RU237193U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2025-07-15",
+        "publication_date": "2025-09-12",
+        "assignee_original": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u0421 \u041e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0439 \u041e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e \"\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f \u0411\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u044b\u0445 \u0421\u0438\u0441\u0442\u0435\u043c\"",
+        "title": "A UAV WITH A NORMAL AERODYNAMIC SCHEME WITH A SOLID-MOUNTED WING AND TAIL ASSEMBLY",
+        "patent_id": "patent/RU237193U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU237193U1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102018112472A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-17",
+        "publication_date": "2019-04-18",
+        "assignee_original": "easE-Link GmbH",
+        "title": "Ground contact unit for a vehicle battery charging system and method for switching a contact area of a ground contact unit",
+        "patent_id": "patent/DE102018112472A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102018112472A1%2Fen"
+      },
+      {
+        "publication_number": "CN112879794A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-16",
+        "publication_date": "2021-06-01",
+        "assignee_original": "\u6c38\u5b89\u884c\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Low-pressure safety hydrogen storage device and hydrogen fuel electric bicycle",
+        "patent_id": "patent/CN112879794A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112879794A%2Fen"
+      },
+      {
+        "publication_number": "US12017789B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-05",
+        "publication_date": "2024-06-25",
+        "assignee_original": "General Electric Company",
+        "title": "Onboard liquid hydrogen storage for a hydrogen aircraft",
+        "patent_id": "patent/US12017789B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12017789B2%2Fen"
+      },
+      {
+        "publication_number": "JP2024105975A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-01-26",
+        "publication_date": "2024-08-07",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u65e5\u7acb\u88fd\u4f5c\u6240",
+        "title": "Power conversion system and flying vehicle",
+        "patent_id": "patent/JP2024105975A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024105975A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20220250762A1",
+      "primary_language": "en",
+      "publication_date": "2022-08-11",
+      "title": "Vehicle",
+      "patent_id": "patent/US20220250762A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220250762A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2021221860B2",
+      "primary_language": "en",
+      "publication_date": "2023-09-28",
+      "title": "Air independent propulsion system for submarines based on phosphoric acid fuel cell with onboard hydrogen generator",
+      "patent_id": "patent/AU2021221860B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2021221860B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "2127838846694330890",
+      "scholar_authors": "Kim et al.",
+      "publication_date": "2011",
+      "title": "Fuel cell system with sodium borohydride as hydrogen source for unmanned aerial vehicles",
+      "patent_id": "scholar/2127838846694330890",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F2127838846694330890"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "GB2584324A",
+      "primary_language": "en",
+      "publication_date": "2020-12-02",
+      "title": "Vehicle",
+      "patent_id": "patent/GB2584324A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2584324A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12061020B2",
+      "primary_language": "en",
+      "publication_date": "2024-08-13",
+      "title": "Hydrogen storage device and method of producing a hydrogen storage device",
+      "patent_id": "patent/US12061020B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12061020B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109931494B",
+      "primary_language": "en",
+      "publication_date": "2022-04-29",
+      "title": "Hydrogen storage device for storing hydrogen",
+      "patent_id": "patent/CN109931494B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109931494B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107925101A",
+      "primary_language": "en",
+      "publication_date": "2018-04-17",
+      "title": "Systems and methods for unmanned aerial vehicle fuel cells",
+      "patent_id": "patent/CN107925101A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107925101A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2008512611A",
+      "primary_language": "en",
+      "publication_date": "2008-04-24",
+      "title": "Hydrogen storage and integrated fuel cell assembly",
+      "patent_id": "patent/JP2008512611A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008512611A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2720533A1",
+      "primary_language": "en",
+      "publication_date": "2009-12-17",
+      "title": "Aluminum-alkali hydroxide recyclable hydrogen generator",
+      "patent_id": "patent/CA2720533A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2720533A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220349527A1",
+      "primary_language": "en",
+      "publication_date": "2022-11-03",
+      "title": "Hydrogen storage device",
+      "patent_id": "patent/US20220349527A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220349527A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2013538934A",
+      "primary_language": "en",
+      "publication_date": "2013-10-17",
+      "title": "Production and supply system for hydrogen and sodium chlorate, including sodium chloride electrolyzer for producing sodium chlorate",
+      "patent_id": "patent/JP2013538934A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013538934A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2025069227A",
+      "primary_language": "en",
+      "publication_date": "2025-04-30",
+      "title": "power supply",
+      "patent_id": "patent/JP2025069227A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2025069227A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "7225120741706269877",
+      "scholar_authors": "Cifrain et al.",
+      "publication_date": "2003",
+      "title": "Hydrogen/oxygen (air) fuel cells with alkaline electrolytes",
+      "patent_id": "scholar/7225120741706269877",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F7225120741706269877"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2021014134A2",
+      "primary_language": "en",
+      "publication_date": "2021-01-28",
+      "title": "Hydrogen storage device",
+      "patent_id": "patent/WO2021014134A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021014134A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3208877A2",
+      "primary_language": "en",
+      "publication_date": "2017-08-23",
+      "title": "Solid state hydrogen storage device",
+      "patent_id": "patent/EP3208877A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3208877A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2834871A1",
+      "primary_language": "en",
+      "publication_date": "2015-02-11",
+      "title": "Electrolyte system and method of preparation thereof",
+      "patent_id": "patent/EP2834871A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2834871A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2021014135A2",
+      "primary_language": "en",
+      "publication_date": "2021-01-28",
+      "title": "Hydrogen storage device",
+      "patent_id": "patent/WO2021014135A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021014135A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2020249799A1",
+      "primary_language": "en",
+      "publication_date": "2021-11-11",
+      "title": "Power supply",
+      "patent_id": "patent/AU2020249799A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2020249799A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US7141216B2",
+      "primary_language": "en",
+      "publication_date": "2006-11-28",
+      "title": "System for sono-catalytic production of hydrogen",
+      "patent_id": "patent/US7141216B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7141216B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2021191635A1",
+      "primary_language": "en",
+      "publication_date": "2021-09-30",
+      "title": "Hydrogen storage device",
+      "patent_id": "patent/WO2021191635A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021191635A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230402629A1",
+      "primary_language": "en",
+      "publication_date": "2023-12-14",
+      "title": "Metal Hydride Fuel Sources For Vehicle Operation and Pressure-Based Control Systems and Methods",
+      "patent_id": "patent/US20230402629A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230402629A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230212005A1",
+      "primary_language": "en",
+      "publication_date": "2023-07-06",
+      "title": "Hydrogen storage device",
+      "patent_id": "patent/US20230212005A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230212005A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20250026949A",
+      "primary_language": "en",
+      "publication_date": "2025-02-25",
+      "title": "Hydrogen fuel cell drone equipped with hydrogen storage alloy cartridge",
+      "patent_id": "patent/KR20250026949A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20250026949A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "828625859148351790",
+      "scholar_authors": "Kordesch et al.",
+      "publication_date": "2008",
+      "title": "The safe and economic revival of alkaline hydrogen/air fuel cells with circulating electrolytes, recommended for vehicles using battery hybrid systems and H2 from ammonia crackers",
+      "patent_id": "scholar/828625859148351790",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F828625859148351790"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12325073B2",
+      "primary_language": "en",
+      "publication_date": "2025-06-10",
+      "title": "Structural vehicle components for hydrogen storage",
+      "patent_id": "patent/US12325073B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12325073B2%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2021-11-30",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "H2GO POWER LTD, UNITED KINGDOM"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:SPERRIN, LUKE;ABO-HAMED, ENASS;ITALIANO, PETER;AND OTHERS;SIGNING DATES FROM 20210930 TO 20211011;REEL/FRAME:058241/0297"
+        }
+      ]
+    },
+    {
+      "date": "2022-06-03",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2023-12-18",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-05",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2024-05-01",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-11",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "AWAITING TC RESP., ISSUE FEE NOT PAID"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-25",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-16",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO PAY ISSUE FEE"
+        }
+      ]
+    }
+  ]
+}

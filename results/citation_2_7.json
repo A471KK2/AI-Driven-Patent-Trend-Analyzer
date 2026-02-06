@@ -1,0 +1,960 @@
+{
+  "search_metadata": {
+    "id": "697a33572efef82e10277172",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a6147e5d1c4fcba8/697a33572efef82e10277172.json",
+    "created_at": "2026-01-28 16:03:35 UTC",
+    "processed_at": "2026-01-28 16:03:35 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20160167681A1/en",
+    "raw_html_file": "https://serpapi.com/searches/a6147e5d1c4fcba8/697a33572efef82e10277172.html",
+    "total_time_taken": 1.66
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20160167681A1/en"
+  },
+  "title": "Motorized bogie for a low floor railway vehicle",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/12/64/3b/32bf4e96024132/US20160167681A1.pdf",
+  "publication_number": "US20160167681A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "beams",
+    "crosspieces",
+    "axle",
+    "chassis",
+    "wheels"
+  ],
+  "prior_art_date": "2014-12-15",
+  "application_number": "US14/969,412",
+  "inventors": [
+    {
+      "name": "Alain Rodet",
+      "link": "https://patents.google.com/?inventor=Alain+Rodet",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Alain+Rodet"
+    }
+  ],
+  "assignees": [
+    "Alstom Holdings SA"
+  ],
+  "priority_date": "2014-12-15",
+  "filing_date": "2015-12-15",
+  "publication_date": "2016-06-16",
+  "worldwide_applications": {
+    "2014": [
+      {
+        "filing_date": "2014-12-15",
+        "country_code": "FR",
+        "application_number": "FR1462449A",
+        "document_id": "patent/FR3029879B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2015": [
+      {
+        "filing_date": "2015-12-02",
+        "country_code": "EP",
+        "application_number": "EP15197584.4A",
+        "document_id": "patent/EP3034375B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2015-12-02",
+        "country_code": "ES",
+        "application_number": "ES15197584.4T",
+        "document_id": "patent/ES2643053T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2015-12-07",
+        "country_code": "TN",
+        "application_number": "TN2015000532A",
+        "document_id": "patent/TN2015000532A1/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2015-12-14",
+        "country_code": "RU",
+        "application_number": "RU2015153629A",
+        "document_id": "patent/RU2694991C2/en",
+        "legal_status_cat": "active"
+      },
+      {
+        "filing_date": "2015-12-14",
+        "country_code": "KR",
+        "application_number": "KR1020150178343A",
+        "document_id": "patent/KR102466808B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2015-12-14",
+        "country_code": "BR",
+        "application_number": "BR102015031306-3A",
+        "document_id": "patent/BR102015031306B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "IP Right Grant"
+      },
+      {
+        "filing_date": "2015-12-15",
+        "country_code": "US",
+        "application_number": "US14/969,412",
+        "document_id": "patent/US10065662B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2015-12-15",
+      "title": "Application filed by Alstom Transport Technologies SAS",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Alstom Transport Technologies SAS"
+    },
+    {
+      "date": "2016-06-16",
+      "title": "Publication of US20160167681A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20160167681A1/en"
+    },
+    {
+      "date": "2018-06-07",
+      "title": "Assigned to ALSTOM TRANSPORT TECHNOLOGIES",
+      "type": "reassignment",
+      "assignee_search": "ALSTOM TRANSPORT TECHNOLOGIES",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: RODET, ALAIN"
+      ]
+    },
+    {
+      "date": "2018-09-04",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2018-09-04",
+      "title": "Publication of US10065662B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US10065662B2/en"
+    },
+    {
+      "date": "2024-09-03",
+      "title": "Assigned to ALSTOM HOLDINGS",
+      "type": "reassignment",
+      "assignee_search": "ALSTOM HOLDINGS",
+      "description": [
+        "DISSOLUTION AND TRANSFER OF ASSETS",
+        "Assignors: ALSTOM TRANSPORT TECHNOLOGIES"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2036-08-22",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20160167681.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/14969412"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20160167681"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2016167681A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/14969412/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20160167681"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/27/06/40/3321a6ae2b2c0c/US20160167681A1-20160616-D00000.png",
+    "https://patentimages.storage.googleapis.com/aa/e7/52/cb3f8617d5e394/US20160167681A1-20160616-D00001.png",
+    "https://patentimages.storage.googleapis.com/c7/ea/42/deb84bb38ef21c/US20160167681A1-20160616-D00002.png",
+    "https://patentimages.storage.googleapis.com/f5/8a/aa/c585d2affac9b3/US20160167681A1-20160616-D00003.png",
+    "https://patentimages.storage.googleapis.com/ad/e3/93/e1a1ed1d61f384/US20160167681A1-20160616-D00004.png",
+    "https://patentimages.storage.googleapis.com/ff/1b/e2/5e14290fa4adb0/US20160167681A1-20160616-D00005.png"
+  ],
+  "classifications": [
+    {
+      "code": "B61F5/08",
+      "description": "Bolster supports or mountings incorporating rubber springs",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61C9/50",
+      "description": "Transmission systems in or for locomotives or motor railcars with electric motor propulsion with motors supported on vehicle frames and driving axles, e.g. axle or nose suspension in bogies",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61F3/00",
+      "description": "Types of bogies",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61F3/04",
+      "description": "Types of bogies with more than one axle with driven axles or wheels",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61F5/52",
+      "description": "Bogie frames",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A bogie includes a chassis, including two beams, two crosspieces, two axle structures, each including two journal boxes, and a transverse axle shaft, extending in the transverse direction between two ends each supporting a respective wheel, the wheels defining an inner space between them, defined in the transverse direction between the wheels of a same axle shaft, and defined in the longitudinal direction between the two axle shafts, at least one motor supported by one of the crosspieces of the chassis, arranged in the inner space defined by the wheels, and including a coupling shaft, and at least one reducer. The bogie includes a primary suspension, including flexible mountings arranged between the crosspieces and the beams of the chassis, the reducer is arranged outside the inner space, the coupling shaft of the motor extending from the motor beyond one of the corresponding beams to the reducer.",
+  "description_link": "https://serpapi.com/searches/697a33572efef82e10277172/google_patents_details/description.html",
+  "claims": [
+    "1. A motorized bogie for a railway vehicle, comprising:\na chassis, including:\ntwo beams extending parallel to one another, and parallel to the longitudinal direction,\ntwo crosspieces, supported by the beams, extending parallel to one another, and parallel to a transverse direction perpendicular to the longitudinal direction,\ntwo supports, each support being supported by the two crosspieces,\n two axle structures, each comprising two journal boxes each connected to a respective one of the beams, and a transverse axle shaft, extending in the transverse direction between two ends each supporting a respective wheel, the wheels defining an inner space between them, delimited in the transverse direction between the wheels of a same axle shaft, and delimited in the longitudinal direction between the two axle shafts, at least one motor supported by one of the crosspieces of the chassis, arranged in the inner space delimited by the wheels, and including a coupling shaft, at least one reducer ensuring the mechanical connection between the coupling shaft of the motor and one of the transverse axle shafts, \n      wherein,\nthe motorized bogie includes a primary suspension, including flexible mountings arranged between the crosspieces and the beams of the chassis,\nthe reducer is arranged outside said inner space, the coupling shaft of the motor extending from the motor beyond one of the corresponding beams to the reducer.",
+    "2. The motorized bogie according to claim 1, wherein:\neach axle structure is connected with a respective one of the beams by an articulation with an axis parallel to the transverse direction, and the primary suspension includes, for each axle structure, at least one damper arranged between the axle structure and the beam.",
+    "3. The motorized bogie according to claim 1, including secondary suspensions, supported by each support of the chassis, and including bearings at the railway vehicle body, the secondary suspensions being arranged transversely at least partially outside the inner space.",
+    "4. The motorized bogie according to claim 1, wherein each flexible mounting is ring-shaped and is made from an elastic material, this flexible mounting being inserted radially between one of the crosspieces of the chassis and the edges of an orifice arranged in one of the beams.",
+    "5. The motorized bogie according to claim 4, wherein each flexible mounting is made from rubber.",
+    "6. The motorized bogie according to claim 4, wherein each flexible mounting has an annular shape defined between an inner diameter and an outer diameter, the difference between this inner diameter and this outer diameter being substantially equal to 100 mm.",
+    "7. The motorized bogie according to claim 1, wherein each damper is formed by a connecting rod.",
+    "8. A railway vehicle, including a body, wherein it includes a motorized bogie for a railway vehicle, comprising:\na chassis, including:\ntwo beams extending parallel to one another, and parallel to the longitudinal direction,\ntwo crosspieces, supported by the beams, extending parallel to one another, and parallel to a transverse direction perpendicular to the longitudinal direction,\ntwo supports, each support being supported by the two crosspieces,\n two axle structures, each comprising two journal boxes each connected to a respective one of the beams, and a transverse axle shaft, extending in the transverse direction between two ends each supporting a respective wheel, the wheels defining an inner space between them, delimited in the transverse direction between the wheels of a same axle shaft, and delimited in the longitudinal direction between the two axle shafts, at least one motor supported by one of the crosspieces of the chassis, arranged in the inner space delimited by the wheels, and including a coupling shaft, at least one reducer ensuring the mechanical connection between the coupling shaft of the motor and one of the transverse axle shafts, \n      wherein,\nthe motorized bogie includes primary suspensions, including flexible mountings arranged between the crosspieces and the beams of the chassis,\nthe reducer is arranged outside said inner space, the coupling shaft of the motor extending from the motor beyond one of the corresponding beams to the reducer.",
+    "9. The motorized bogie according to claim 8, wherein the body includes at least one access door arranged in register with the motorized bogie.",
+    "10. The motorized bogie according to claim 8, wherein the distance, in a vertical direction perpendicular to the longitudinal and transverse directions, between the access door and the bearing plane of the wheels, is less than or equal to 850 mm."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "FR1462449A",
+      "representative_publication": "FR3029879B1",
+      "primary_language": "en",
+      "priority_date": "2014-12-15",
+      "filing_date": "2014-12-15",
+      "title": "MOTORIZED BOGIE FOR A SURBAISSE FLOOR VEHICLE"
+    },
+    {
+      "application_number": "FR1462449",
+      "filing_date": "2014-12-15"
+    }
+  ],
+  "family_id": "52692820",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "JPS56135367A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1980-03-27",
+        "publication_date": "1981-10-22",
+        "assignee_original": "Kawasaki Heavy Ind Ltd",
+        "title": "Truck frame for car",
+        "patent_id": "patent/JPS56135367A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS56135367A%2Fen"
+      },
+      {
+        "publication_number": "DE3808593A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1988-03-15",
+        "publication_date": "1989-09-28",
+        "assignee_original": "Gutehoffnungshuette Man",
+        "title": "WHEELSET GUIDE FOR BOGGES OF RAILWAY VEHICLES, ESPECIALLY VEHICLES OF LOCAL TRANSPORT",
+        "patent_id": "patent/DE3808593A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE3808593A1%2Fen"
+      },
+      {
+        "publication_number": "DE4139228C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-11-25",
+        "publication_date": "1992-12-17",
+        "assignee_original": "Aeg Schienenfahrzeuge Gmbh, O-1422 Hennigsdorf, De",
+        "title": "Drive bogie for tramway cars - has flexible bogie frame supported inside wheel set discs by longitudinal girder ends via springs",
+        "patent_id": "patent/DE4139228C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE4139228C1%2Fen"
+      },
+      {
+        "publication_number": "FR2826328B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-06-26",
+        "publication_date": "2003-08-29",
+        "assignee_original": "Alstom",
+        "title": "MOTOR BOGIE FOR RAILWAY VEHICLE WITH INTEGRAL LOW FLOOR",
+        "patent_id": "patent/FR2826328B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR2826328B1%2Fen"
+      },
+      {
+        "publication_number": "RU2294292C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-30",
+        "publication_date": "2007-02-27",
+        "assignee_original": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e\u0435 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \"\u0420\u0443\u0431\u0438\u043d\"",
+        "title": "Drive wheel bogie for rail vehicle, tram for example with low-level floor",
+        "patent_id": "patent/RU2294292C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2294292C1%2Fen"
+      },
+      {
+        "publication_number": "RU2423259C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-14",
+        "publication_date": "2011-07-10",
+        "assignee_original": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \"\u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u043d\u0430\u0443\u0447\u043d\u043e-\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e-\u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u0441\u043a\u0438\u0439 \u0438\u043d\u0441\u0442\u0438\u0442\u0443\u0442 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0432\u043e\u0437\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f\" (\u041e\u0410\u041e \"\u0412\u042d\u043b\u041d\u0418\u0418\")",
+        "title": "Railway vehicle bogie",
+        "patent_id": "patent/RU2423259C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2423259C1%2Fen"
+      },
+      {
+        "publication_number": "RU111824U1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-18",
+        "publication_date": "2011-12-27",
+        "assignee_original": "\u041e\u0442\u043a\u0440\u044b\u0442\u043e\u0435 \u0430\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \"\u0411\u0435\u043b\u043a\u043e\u043c\u043c\u0443\u043d\u043c\u0430\u0448\"",
+        "title": "MOTOR SWIVEL CART WITH TWO-STAGE SUSPENSION FOR TRAMPS WITH A LOW FLOOR LEVEL",
+        "patent_id": "patent/RU111824U1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU111824U1%2Fen"
+      },
+      {
+        "publication_number": "WO2013008468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-14",
+        "publication_date": "2013-01-17",
+        "assignee_original": "\u5ddd\u5d0e\u91cd\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Railway vehicle truck",
+        "patent_id": "patent/WO2013008468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013008468A1%2Fen"
+      },
+      {
+        "publication_number": "US8534200B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-20",
+        "publication_date": "2013-09-17",
+        "assignee_original": "General Electric Company",
+        "title": "Suspension apparatus and method",
+        "patent_id": "patent/US8534200B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8534200B2%2Fen"
+      },
+      {
+        "publication_number": "CN103832440B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-20",
+        "publication_date": "2016-06-29",
+        "assignee_original": "\u5e7f\u5dde\u7535\u529b\u673a\u8f66\u6709\u9650\u516c\u53f8",
+        "title": "A kind of low-floor train bogie drive system",
+        "patent_id": "patent/CN103832440B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103832440B%2Fen"
+      },
+      {
+        "publication_number": "RU2566594C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-12",
+        "publication_date": "2015-10-27",
+        "assignee_original": "\u0410\u043a\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u043e\u0435 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \"\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u043e\u0433\u043e \u043c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f\" (\u0410\u041e \"\u0423\u0440\u0430\u043b\u0442\u0440\u0430\u043d\u0441\u043c\u0430\u0448\")",
+        "title": "Railway vehicle drive bogie, mainly, of low-floor tram",
+        "patent_id": "patent/RU2566594C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2566594C2%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20180273058A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-22",
+        "publication_date": "2018-09-27",
+        "assignee_original": "Alstom Transport Technologies",
+        "title": "Railway vehicle bogie comprising axles rigidly fixed to the body of the bogie",
+        "patent_id": "patent/US20180273058A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180273058A1%2Fen"
+      },
+      {
+        "publication_number": "US10093326B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-13",
+        "publication_date": "2018-10-09",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Assembly having an undercarriage unit",
+        "patent_id": "patent/US10093326B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10093326B2%2Fen"
+      },
+      {
+        "publication_number": "DE102017111190A1",
+        "primary_language": "en",
+        "priority_date": "2017-05-23",
+        "publication_date": "2018-11-29",
+        "assignee_original": "Voith Patent Gmbh",
+        "title": "Bogie for rail vehicle",
+        "patent_id": "patent/DE102017111190A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102017111190A1%2Fen"
+      },
+      {
+        "publication_number": "CN111469879A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-29",
+        "publication_date": "2020-07-31",
+        "assignee_original": "\u897f\u5357\u4ea4\u901a\u5927\u5b66",
+        "title": "Permanent magnet motor driven hinge pin type bogie for suspension type monorail vehicle",
+        "patent_id": "patent/CN111469879A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111469879A%2Fen"
+      },
+      {
+        "publication_number": "WO2021068333A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-10",
+        "publication_date": "2021-04-15",
+        "assignee_original": "\u4e2d\u8f66\u5510\u5c71\u673a\u8f66\u8f66\u8f86\u6709\u9650\u516c\u53f8",
+        "title": "Bogie",
+        "patent_id": "patent/WO2021068333A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021068333A1%2Fen"
+      },
+      {
+        "publication_number": "US11325624B2",
+        "primary_language": "en",
+        "priority_date": "2020-05-29",
+        "publication_date": "2022-05-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11325624B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11325624B2%2Fen"
+      },
+      {
+        "publication_number": "CN115339476A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-26",
+        "publication_date": "2022-11-15",
+        "assignee_original": "\u4e2d\u8f66\u8d44\u9633\u673a\u8f66\u6709\u9650\u516c\u53f8",
+        "title": "Straddle type single-track engineering vehicle independent driving device",
+        "patent_id": "patent/CN115339476A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115339476A%2Fen"
+      },
+      {
+        "publication_number": "US11524709B2",
+        "primary_language": "en",
+        "priority_date": "2021-03-12",
+        "publication_date": "2022-12-13",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11524709B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11524709B2%2Fen"
+      },
+      {
+        "publication_number": "US11548542B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-28",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "System and/or method for platooning",
+        "patent_id": "patent/US11548542B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11548542B2%2Fen"
+      },
+      {
+        "publication_number": "WO2023108062A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-12-08",
+        "publication_date": "2023-06-15",
+        "assignee_original": "Intramotev Inc.",
+        "title": "Self-propelled railcar",
+        "patent_id": "patent/WO2023108062A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2023108062A1%2Fen"
+      },
+      {
+        "publication_number": "USD1027724S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-22",
+        "publication_date": "2024-05-21",
+        "assignee_original": "Fordyno Pty Ltd",
+        "title": "Railway bogie",
+        "patent_id": "patent/USD1027724S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD1027724S1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "DE102015211064A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-16",
+        "publication_date": "2016-12-22",
+        "assignee_original": "Bombardier Transportation Gmbh",
+        "title": "Drive arrangement for rail vehicle, rail vehicle with drive arrangement and method for producing the drive arrangement and the rail vehicle",
+        "patent_id": "patent/DE102015211064A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102015211064A1%2Fen"
+      },
+      {
+        "publication_number": "EP3895951B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-14",
+        "publication_date": "2023-06-07",
+        "assignee_original": "Bombardier Transportation GmbH",
+        "title": "Passenger car provided with a vestibule located above a bogie and with an external access step at a side doorway",
+        "patent_id": "patent/EP3895951B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3895951B1%2Fen"
+      },
+      {
+        "publication_number": "FR3121651B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-12",
+        "publication_date": "2025-02-28",
+        "assignee_original": "Alstom Transp Tech",
+        "title": "Railway vehicle motor bogie",
+        "patent_id": "patent/FR3121651B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3121651B1%2Fen"
+      },
+      {
+        "publication_number": "DE102022208686A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-22",
+        "publication_date": "2024-02-22",
+        "assignee_original": "Siemens Mobility GmbH",
+        "title": "Rail vehicle",
+        "patent_id": "patent/DE102022208686A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102022208686A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US10065662B2",
+      "primary_language": "en",
+      "publication_date": "2018-09-04",
+      "title": "Motorized bogie for a low floor railway vehicle",
+      "patent_id": "patent/US10065662B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10065662B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9096240B2",
+      "primary_language": "en",
+      "publication_date": "2015-08-04",
+      "title": "Bogie for railway vehicle with a suspension system",
+      "patent_id": "patent/US9096240B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9096240B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2521893C2",
+      "primary_language": "en",
+      "publication_date": "2014-07-10",
+      "title": "Railway vehicle articulated bogie",
+      "patent_id": "patent/RU2521893C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2521893C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2944534B1",
+      "primary_language": "en",
+      "publication_date": "2021-07-28",
+      "title": "Railcar bogie",
+      "patent_id": "patent/EP2944534B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2944534B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101489875B1",
+      "primary_language": "en",
+      "publication_date": "2015-02-04",
+      "title": "Primary suspension device for a railway vehicle bogie",
+      "patent_id": "patent/KR101489875B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101489875B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101678842A",
+      "primary_language": "en",
+      "publication_date": "2010-03-24",
+      "title": "Railway vehicle comprising pivoting end bogies",
+      "patent_id": "patent/CN101678842A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101678842A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11198452B2",
+      "primary_language": "en",
+      "publication_date": "2021-12-14",
+      "title": "Chassis for a rail vehicle",
+      "patent_id": "patent/US11198452B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11198452B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10889308B2",
+      "primary_language": "en",
+      "publication_date": "2021-01-12",
+      "title": "Railway vehicle bogie comprising axles rigidly fixed to the body of the bogie",
+      "patent_id": "patent/US10889308B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10889308B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102066180A",
+      "primary_language": "en",
+      "publication_date": "2011-05-18",
+      "title": "A monorail bogie with improved roll behavior",
+      "patent_id": "patent/CN102066180A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102066180A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2724567C2",
+      "primary_language": "en",
+      "publication_date": "2020-06-23",
+      "title": "Wheeled truck of railway car, comprising displaced primary suspension device",
+      "patent_id": "patent/RU2724567C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2724567C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2017171288A",
+      "primary_language": "en",
+      "publication_date": "2017-09-28",
+      "title": "Bogie truck with external motor and railway vehicle cooperating with the same",
+      "patent_id": "patent/JP2017171288A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017171288A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US2841096A",
+      "primary_language": "en",
+      "publication_date": "1958-07-01",
+      "title": "Suspension system for the bogies of railway and like vehicles",
+      "patent_id": "patent/US2841096A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2841096A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8596202B2",
+      "primary_language": "en",
+      "publication_date": "2013-12-03",
+      "title": "Motored bogie",
+      "patent_id": "patent/US8596202B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8596202B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108367763A",
+      "primary_language": "en",
+      "publication_date": "2018-08-03",
+      "title": "Rail truck steering bogie",
+      "patent_id": "patent/CN108367763A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108367763A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101530206B1",
+      "primary_language": "en",
+      "publication_date": "2015-06-22",
+      "title": "3-axles articulated bogie for railway vehicle",
+      "patent_id": "patent/KR101530206B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101530206B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2724473C2",
+      "primary_language": "en",
+      "publication_date": "2020-06-23",
+      "title": "Wheeled truck of railway car containing lowered frame",
+      "patent_id": "patent/RU2724473C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2724473C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10875552B2",
+      "primary_language": "en",
+      "publication_date": "2020-12-29",
+      "title": "Railcar bogie",
+      "patent_id": "patent/US10875552B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10875552B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2688453C2",
+      "primary_language": "en",
+      "publication_date": "2019-05-21",
+      "title": "Trolley of the railway two-storage passenger vehicle",
+      "patent_id": "patent/RU2688453C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2688453C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2726509C1",
+      "primary_language": "en",
+      "publication_date": "2020-07-14",
+      "title": "Three-axle bogie for high-speed railway freight car (versions)",
+      "patent_id": "patent/RU2726509C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2726509C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11091178B2",
+      "primary_language": "en",
+      "publication_date": "2021-08-17",
+      "title": "Vehicle suspension system",
+      "patent_id": "patent/US11091178B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11091178B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CZ278144B6",
+      "primary_language": "en",
+      "publication_date": "1993-09-15",
+      "title": "Rail-vehicle bogie.",
+      "patent_id": "patent/CZ278144B6/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCZ278144B6%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113412214A",
+      "primary_language": "en",
+      "publication_date": "2021-09-17",
+      "title": "Chassis arrangement for a rail vehicle",
+      "patent_id": "patent/CN113412214A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113412214A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105774835B",
+      "primary_language": "en",
+      "publication_date": "2019-09-20",
+      "title": "Bogie including centralized primary suspension device",
+      "patent_id": "patent/CN105774835B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105774835B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN207747896U",
+      "primary_language": "en",
+      "publication_date": "2018-08-21",
+      "title": "chassis for rail vehicle",
+      "patent_id": "patent/CN207747896U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN207747896U%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2015201055B2",
+      "primary_language": "en",
+      "publication_date": "2018-07-26",
+      "title": "Railroad vehicle, in particular of the tram type, with reduced gauge",
+      "patent_id": "patent/AU2015201055B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2015201055B2%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2018-06-07",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ALSTOM TRANSPORT TECHNOLOGIES, FRANCE"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:RODET, ALAIN;REEL/FRAME:046013/0024"
+        },
+        {
+          "label": "Effective date",
+          "value": "20160321"
+        }
+      ]
+    },
+    {
+      "date": "2018-08-21",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2022-02-24",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2024-09-03",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "ALSTOM HOLDINGS, FRANCE"
+        },
+        {
+          "label": "Free format text",
+          "value": "DISSOLUTION AND TRANSFER OF ASSETS;ASSIGNOR:ALSTOM TRANSPORT TECHNOLOGIES;REEL/FRAME:068823/0899"
+        },
+        {
+          "label": "Effective date",
+          "value": "20211021"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000725",
+        "name": "suspension",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 50
+      },
+      {
+        "id": "239000003638",
+        "name": "chemical reducing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "230000008878",
+        "name": "coupling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000010168",
+        "name": "coupling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000005859",
+        "name": "coupling reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000013013",
+        "name": "elastic material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000295",
+        "name": "complement effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007547",
+        "name": "defect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000087",
+        "name": "stabilizing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

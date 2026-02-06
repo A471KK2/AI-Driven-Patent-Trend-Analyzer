@@ -1,0 +1,1061 @@
+{
+  "search_metadata": {
+    "id": "697a34f24de49a5b63c5ee8e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f407126e90452825/697a34f24de49a5b63c5ee8e.json",
+    "created_at": "2026-01-28 16:10:26 UTC",
+    "processed_at": "2026-01-28 16:10:26 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20230112766A1/en",
+    "raw_html_file": "https://serpapi.com/searches/f407126e90452825/697a34f24de49a5b63c5ee8e.html",
+    "total_time_taken": 3.89
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20230112766A1/en"
+  },
+  "title": "Unmanned aerial vehicle aerial spraying control",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/aa/08/57/92416494f6271b/US20230112766A1.pdf",
+  "publication_number": "US20230112766A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "uav",
+    "chemical",
+    "flight path",
+    "disperse",
+    "geo"
+  ],
+  "prior_art_date": "2020-04-21",
+  "application_number": "US17/913,402",
+  "inventors": [
+    {
+      "name": "Michael Norcia",
+      "link": "https://patents.google.com/?inventor=Michael+Norcia",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Michael+Norcia"
+    },
+    {
+      "name": "Nathan White",
+      "link": "https://patents.google.com/?inventor=Nathan+White",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Nathan+White"
+    },
+    {
+      "name": "Tobias Wurft",
+      "link": "https://patents.google.com/?inventor=Tobias+Wurft",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Tobias+Wurft"
+    },
+    {
+      "name": "Kyle Moore",
+      "link": "https://patents.google.com/?inventor=Kyle+Moore",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Kyle+Moore"
+    },
+    {
+      "name": "Garrett RINI",
+      "link": "https://patents.google.com/?inventor=Garrett+RINI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Garrett+RINI"
+    },
+    {
+      "name": "Jason PETERSEN",
+      "link": "https://patents.google.com/?inventor=Jason+PETERSEN",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jason+PETERSEN"
+    },
+    {
+      "name": "Chukwuma OGUNWOLE",
+      "link": "https://patents.google.com/?inventor=Chukwuma+OGUNWOLE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Chukwuma+OGUNWOLE"
+    }
+  ],
+  "assignees": [
+    "Pyka Inc",
+    "Pyka Inc"
+  ],
+  "priority_date": "2020-04-21",
+  "filing_date": "2021-04-16",
+  "publication_date": "2023-04-13",
+  "worldwide_applications": {
+    "2021": [
+      {
+        "filing_date": "2021-04-16",
+        "country_code": "US",
+        "application_number": "US17/913,402",
+        "document_id": "patent/US12078992B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2021-04-16",
+        "country_code": "WO",
+        "application_number": "PCT/US2021/027802",
+        "document_id": "patent/WO2021216379A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ],
+    "2022": [
+      {
+        "filing_date": "2022-10-28",
+        "country_code": "US",
+        "application_number": "US17/976,442",
+        "document_id": "patent/US11726479B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2021-04-16",
+      "title": "Application filed by Pyka Inc, Pyka Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Pyka Inc"
+    },
+    {
+      "date": "2021-04-16",
+      "title": "Priority to US17/913,402",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US12078992B2/en"
+    },
+    {
+      "date": "2023-04-13",
+      "title": "Publication of US20230112766A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20230112766A1/en"
+    },
+    {
+      "date": "2023-04-24",
+      "title": "Assigned to PYKA, INC.",
+      "type": "reassignment",
+      "assignee_search": "PYKA, INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: Wurft, Tobias, PETERSEN, Jason, MOORE, KYLE, NORCIA, MICHAEL, OGUNWOLE, Chukwuma, RINI, Garrett, WHITE, NATHAN"
+      ]
+    },
+    {
+      "date": "2024-09-03",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2024-09-03",
+      "title": "Publication of US12078992B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US12078992B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2041-07-23",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20230112766.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/17913402"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20230112766"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2023112766A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/17913402/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20230112766"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/08/d8/a4/ddc17b967f6fe2/US20230112766A1-20230413-D00000.png",
+    "https://patentimages.storage.googleapis.com/55/9e/e9/5f88b2cce9d03e/US20230112766A1-20230413-D00001.png",
+    "https://patentimages.storage.googleapis.com/33/fc/11/f65a03cb57440b/US20230112766A1-20230413-D00002.png",
+    "https://patentimages.storage.googleapis.com/fe/33/0e/e4cd89466b1884/US20230112766A1-20230413-D00003.png",
+    "https://patentimages.storage.googleapis.com/ec/17/cb/3ade64935dbe0b/US20230112766A1-20230413-D00004.png",
+    "https://patentimages.storage.googleapis.com/66/04/bc/5c4a5c468d5e54/US20230112766A1-20230413-D00005.png",
+    "https://patentimages.storage.googleapis.com/db/a8/d8/e023001436c9d1/US20230112766A1-20230413-D00006.png",
+    "https://patentimages.storage.googleapis.com/0f/2f/58/ae713af3caf835/US20230112766A1-20230413-D00007.png",
+    "https://patentimages.storage.googleapis.com/1b/94/37/45165901652cf2/US20230112766A1-20230413-D00008.png",
+    "https://patentimages.storage.googleapis.com/76/06/01/89fc38f3140806/US20230112766A1-20230413-D00009.png",
+    "https://patentimages.storage.googleapis.com/ae/0f/ff/8d6843456e868e/US20230112766A1-20230413-D00010.png"
+  ],
+  "classifications": [
+    {
+      "code": "G05D1/0094",
+      "description": "Control of position, course, altitude or attitude of land, water, air or space vehicles, e.g. using automatic pilots involving pointing a payload, e.g. camera, weapon, sensor, towards a fixed or moving target",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01M7/0032",
+      "description": "Pressure sprayers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01M7/0089",
+      "description": "Regulating or controlling systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C19/00",
+      "description": "Aircraft control not otherwise provided for",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/024",
+      "description": "Aircraft not otherwise provided for characterised by special use of the remote controlled vehicle type, i.e. RPV",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D1/18",
+      "description": "Dropping or releasing powdered, liquid, or gaseous matter, e.g. for fire-fighting by spraying, e.g. insecticides",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/13",
+      "description": "Propulsion using external fans or propellers",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/101",
+      "description": "Simultaneous control of position or course in three dimensions specially adapted for aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/46",
+      "description": "Control of position or course in three dimensions",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/689",
+      "description": "Pointing payloads towards fixed or moving targets",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U10/25",
+      "description": "Fixed-wing aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/45",
+      "description": "UAVs specially adapted for particular uses or applications for releasing liquids or powders in-flight, e.g. crop-dusting",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/10",
+      "description": "UAVs characterised by their flight controls autonomous, i.e. by navigating independently from ground or air stations, e.g. by using inertial navigation systems [INS]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/104",
+      "description": "UAVs characterised by their flight controls autonomous, i.e. by navigating independently from ground or air stations, e.g. by using inertial navigation systems [INS] using satellite radio beacon positioning systems, e.g. GPS",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Methods, systems, and apparatus, including computer programs encoded on computer storage media, for controlling spraying of chemicals by an unmanned aerial vehicle (UAV). An unmanned aerial vehicle system includes one or more processors configured to perform operations of autonomously performing a flight path by the UAV and dispersing a chemical by the UAV along portions of the flight path. The UAV may include a chemical spray system having one or more spray booms with multiple nozzles for dispersing a chemical. The chemical spray system may include one or more tanks attached to the body of the UAV and a pump fluidly connected to the tanks to disperse chemical via the spray booms.",
+  "description_link": "https://serpapi.com/searches/697a34f24de49a5b63c5ee8e/google_patents_details/description.html",
+  "claims": [
+    "1. An unmanned aerial vehicle (UAV) system comprising one or more processors comprising hardware, the one or more processors configured to perform operations comprising:\nautonomously performing a flight path by the UAV; dispersing a chemical along portions of the flight path; and wherein the UAV includes a chemical spray system which comprises:\none or more spray booms attached to a body of the UAV, the spray booms having multiple nozzles including a rotary atomizer for dispersing the chemical at different droplet sizes:\none or more tanks attached to the body of the UAV; and\na pump fluidly connected to the tanks and the spray booms.",
+    "2. (canceled)",
+    "3. The UAV system of claim 1, further comprising the operations of:\ngenerate a flight plan for autonomously flying a flight path, the flight plan having geo-spatial based commands for controlling spraying operations; autonomously perform by the UAV at least a portion of the flight path according the flight plan; periodically determine a geo-spatial location of the UAV; determine that the UAV is near a first location of one of the geo-spatial based commands; perform by the UAV, a first geo-spatial command, wherein the first geo-spatial command instructs the UAV to begin spraying; determine that the UAV is near a second location of one of the geo-spatial based commands; and perform by the UAV, the second geo-spatial command, wherein the second geo-spatial command instructions the UAV to stop spraying.",
+    "4. The UAV system of claim 1, further comprising the operations of:\nset the spray boom to disperse a chemical at a first droplet size; disperse chemical at the first droplet size along a flight path of the UAV; determine the occurrence of a physical obstacle along the flight path of the UAV; in response to the determining the occurrence of a physical object along the flight path of the UAV, cause the UAV to ascend in altitude; adjust the spray boom to disperse chemical at a second droplet size larger than the first droplet size; cause the UAV to disperse the chemical at the second droplet size while the UAV ascends in altitude; and cause the UAV to cease dispersing the chemical.",
+    "5. The UAV system of claim 1, further comprising the operations of:\nset a spray boom to disperse a chemical at a first droplet size; disperse chemical at the first droplet size along a flight path of the UAV; determine a geo-spatial position of the UAV; in response to the determining the geo-spatial position of the UAV along the flight path, set the spray boom to disperse chemical at a second droplet size different than the first droplet size; cause the UAV to disperse the chemical at the second droplet size along the flight path; and cause the UAV to cease dispersing the chemical.",
+    "6. The UAV system of claim 1, further comprising the operations of:\nobtain a first air temperature at a first altitude; cause the UAV to disperse chemical along a flight path of the UAV; obtain a second air temperature at second altitude; determine the likelihood of a temperature inversion by comparing the first and second temperatures; and if a temperature inversion is determined likely to exist, then cause the UAV to cease dispersing the chemical.",
+    "7. The UAV system of claim 1, further comprising the operations of:\nautonomously perform a flight path; disperse chemical along the flight path; periodically determine the occurrence of a spraying cessation event, wherein the spraying cessation event is a determined temperature inversion; cease dispersing the chemical if the occurrence of a spraying cessation event has been determined; determine whether to resume spraying of the chemical; and resume spraying of the chemical along the flight path.",
+    "8. The UAV system of claim 1, further comprising the operations of:\nautonomously perform a flight path, wherein the UAV has one or more motors connected to operating spinning propellers; cease rotation of one or more motors of the UAV, the motors connected to propellers; disperse chemical along the flight path; cease dispersing the chemical along the flight path; and start rotation of the one or more ceased more of the UAV thereby providing forward thrust to the UAV.",
+    "9. A method performed by an unmanned aerial vehicle (UAV) system comprising one or more processors comprising hardware, the one or more processors configured to perform operations comprising:\nautonomously performing a flight path by the UAV; disperse a chemical along portions of the flight path; and wherein the UAV includes a chemical spray system which comprises one or more spray booms having multiple nozzles for dispersing the chemical, one or more tanks attached to the body of the UAV, a pump fluidly connected to the tanks and the spray booms; and wherein the multiple nozzles include a rotary atomizer, and wherein the one or more spray booms are attached to a body of the UAV.",
+    "10. (canceled)",
+    "11. The method of claim 9, further comprising the operations of:\ngenerate a flight plan for autonomously flying a flight path, the flight plan having geo-spatial based commands for controlling spraying operations; autonomously perform by the UAV at least a portion of the flight path according the flight plan; periodically determine a geo-spatial location of the UAV; determine that the UAV is near a first location of one of the geo-spatial based commands; perform by the UAV, a first geo-spatial command, wherein the first geo-spatial command instructs the UAV to begin spraying; determine that the UAV is near a second location of one of the geo-spatial based commands; and perform by the UAV, the second geo-spatial command, wherein the second geo-spatial command instructions the UAV to stop spraying.",
+    "12. The method of claim 9, further comprising the operations of:\nset the spray boom to disperse a chemical at a first droplet size; disperse chemical at the first droplet size along a flight path of the UAV; determine the occurrence of a physical obstacle along the flight path of the UAV; in response to the determining the occurrence of a physical object along the flight path of the UAV, cause the UAV to ascend in altitude; adjust the spray boom to disperse chemical at a second droplet size larger than the first droplet size; cause the UAV to disperse the chemical at the second droplet size while the UAV ascends in altitude; and cause the UAV to cease dispersing the chemical.",
+    "13. The method of claim 9, further comprising the operations of:\nset a spray boom to disperse a chemical at a first droplet size; disperse chemical at the first droplet size along a flight path of the UAV; determining a geo-spatial position of the UAV; in response to the determining the geo-spatial position of the UAV along the flight path, set the spray boom to disperse chemical at a second droplet size different than the first droplet size; cause the UAV to disperse the chemical at the second droplet size along the flight path; and cause the UAV to cease dispersing the chemical.",
+    "14. The method of claim 9, further comprising the operations of:\nobtain a first air temperature at a first altitude; cause the UAV to disperse chemical along a flight path of the UAV; obtain a second air temperature at second altitude; determine the likelihood of a temperature inversion by comparing the first and second temperatures; and if a temperature inversion is determined likely to exist, then cause the UAV to cease dispersing the chemical.",
+    "15. The method of claim 9, further comprising the operations of:\nautonomously perform a flight path; disperse chemical along the flight path; periodically determine the occurrence of a spraying cessation event, wherein the spraying cessation event is a determined temperature inversion; cease dispersing the chemical if the occurrence of a spraying cessation event has been determined; determine whether to resume spraying of the chemical; and resume spraying of the chemical along the flight path.",
+    "16. The method of claim 9, further comprising the operations of:\nautonomously perform a flight path, wherein the UAV has one or more motors connected to operating spinning propellers; cease rotation of one or more motors of the UAV, the motors connected to propellers; disperse chemical along the flight path; cease dispersing the chemical along the flight path; and start rotation of the one or more ceased more of the UAV thereby providing forward thrust to the UAV.",
+    "17. A computer storage medium comprising instructions that when executed by one or more process included of an unmanned aerial vehicle (UAV) system, cause the system to perform the operations comprising:\nautonomously performing a flight path by the UAV; dispersing a chemical along portions of the flight path; and wherein the UAV includes a chemical spray system which comprises one or more spray booms having multiple nozzles for dispersing the chemical; and wherein the UAV further comprises: one or more tanks attached to the body of the UAV; a pump fluidly connected to the tanks and the spray booms; and wherein the multiple nozzles include a rotary atomizer, and wherein the one or more spray booms are attached to a body of the UAV.",
+    "18. (canceled)",
+    "19. The computer storage medium of any of claims 17-18, wherein the operations further comprise:\ngenerate a flight plan for autonomously flying a flight path, the flight plan having geo-spatial based commands for controlling spraying operations; autonomously perform by the UAV at least a portion of the flight path according the flight plan; periodically determine a geo-spatial location of the UAV; determine that the UAV is near a first location of one of the geo-spatial based commands; perform by the UAV, a first geo-spatial command, wherein the first geo-spatial command instructs the UAV to begin spraying; determine that the UAV is near a second location of one of the geo-spatial based commands; and perform by the UAV, the second geo-spatial command, wherein the second geo-spatial command instructions the UAV to stop spraying.",
+    "20. The computer storage medium of claim 19, wherein the operations further comprise:\nset the spray boom to disperse a chemical at a first droplet size; disperse chemical at the first droplet size along a flight path of the UAV; determine the occurrence of a physical obstacle along the flight path of the UAV; in response to the determining the occurrence of a physical object along the flight path of the UAV, cause the UAV to ascend in altitude; adjust the spray boom to disperse chemical at a second droplet size larger than the first droplet size; cause the UAV to disperse the chemical at the second droplet size while the UAV ascends in altitude; and cause the UAV to cease dispersing the chemical.",
+    "21. The computer storage medium of claim 19, wherein the operations further comprise:\nset a spray boom to disperse a chemical at a first droplet size; disperse chemical at the first droplet size along a flight path of the UAV; determining a geo-spatial position of the UAV; in response to the determining the geo-spatial position of the UAV along the flight path, set the spray boom to disperse chemical at a second droplet size different than the first droplet size; cause the UAV to disperse the chemical at the second droplet size along the flight path; and cause the UAV to cease dispersing the chemical.",
+    "22. The computer storage medium of claim 19, wherein the operations further comprise:\nobtain a first air temperature at a first altitude; cause the UAV to disperse chemical along a flight path of the UAV; obtain a second air temperature at second altitude; determine the likelihood of a temperature inversion by comparing the first and second temperatures; and if a temperature inversion is determined likely to exist, then cause the UAV to cease dispersing the chemical.",
+    "23. The computer storage medium of claim 19, wherein the operations further comprise:\nautonomously perform a flight path; disperse chemical along the flight path; periodically determine the occurrence of a spraying cessation event, wherein the spraying cessation event is a determined temperature inversion; cease dispersing the chemical if the occurrence of a spraying cessation event has been determined; determine whether to resume spraying of the chemical; and resume spraying of the chemical along the flight path.",
+    "24. The computer storage medium of claim 19, wherein the operations further comprise:\nautonomously perform a flight path, wherein the UAV has one or more motors connected to operating spinning propellers; cease rotation of one or more motors of the UAV, the motors connected to propellers; disperse chemical along the flight path; cease dispersing the chemical along the flight path; and start rotation of the one or more ceased more of the UAV thereby providing forward thrust to the UAV."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US17/976,442",
+      "relation_type": "Continuation",
+      "representative_publication": "US11726479B2",
+      "primary_language": "en",
+      "priority_date": "2020-04-21",
+      "filing_date": "2022-10-28",
+      "title": "Unmanned aerial vehicle aerial spraying control"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "PCT/US2021/027802",
+      "relation_type": "A-371-Of-International",
+      "representative_publication": "WO2021216379A2",
+      "primary_language": "en",
+      "priority_date": "2020-04-21",
+      "filing_date": "2021-04-16",
+      "title": "Unmanned aerial vehicle aerial spraying control"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US17/913,402",
+      "representative_publication": "US12078992B2",
+      "primary_language": "en",
+      "priority_date": "2020-04-21",
+      "filing_date": "2021-04-16",
+      "title": "Unmanned aerial vehicle aerial spraying control"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US202063013472P",
+      "priority_date": "2020-04-21",
+      "filing_date": "2020-04-21"
+    },
+    {
+      "application_number": "US17/913,402",
+      "representative_publication": "US12078992B2",
+      "primary_language": "en",
+      "priority_date": "2020-04-21",
+      "filing_date": "2021-04-16",
+      "title": "Unmanned aerial vehicle aerial spraying control"
+    },
+    {
+      "application_number": "PCT/US2021/027802",
+      "representative_publication": "WO2021216379A2",
+      "primary_language": "en",
+      "priority_date": "2020-04-21",
+      "filing_date": "2021-04-16",
+      "title": "Unmanned aerial vehicle aerial spraying control"
+    }
+  ],
+  "family_id": "78271071",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "GB2082519B",
+        "primary_language": "en",
+        "priority_date": "1980-08-26",
+        "publication_date": "1984-02-22",
+        "assignee_original": "Ndn Aircraft Ltd",
+        "title": "Agricultural aircraft",
+        "patent_id": "patent/GB2082519B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2082519B%2Fen"
+      },
+      {
+        "publication_number": "US9382003B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-24",
+        "publication_date": "2016-07-05",
+        "assignee_original": "Bee Robotics Corporation",
+        "title": "Aerial farm robot system for crop dusting, planting, fertilizing and other field jobs",
+        "patent_id": "patent/US9382003B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9382003B2%2Fen"
+      },
+      {
+        "publication_number": "WO2016191825A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-05",
+        "publication_date": "2016-12-08",
+        "assignee_original": "The University Of Sydney",
+        "title": "Automatic target recognition and management system",
+        "patent_id": "patent/WO2016191825A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2016191825A1%2Fen"
+      },
+      {
+        "publication_number": "EP3705400B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-11-02",
+        "publication_date": "2022-09-28",
+        "assignee_original": "AeroVironment, Inc.",
+        "title": "Disbursement system for an unmanned aerial vehicle",
+        "patent_id": "patent/EP3705400B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3705400B1%2Fen"
+      },
+      {
+        "publication_number": "US20190031346A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-29",
+        "publication_date": "2019-01-31",
+        "assignee_original": "Garuda Robotics Pte. Ltd.",
+        "title": "System and method for controlling an unmanned vehicle and releasing a payload from the same",
+        "patent_id": "patent/US20190031346A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190031346A1%2Fen"
+      },
+      {
+        "publication_number": "IL243942B",
+        "primary_language": "en",
+        "priority_date": "2016-02-03",
+        "publication_date": "2018-10-31",
+        "assignee_original": "Israel Aerospace Ind Ltd",
+        "title": "Aerial platforms for aerial spraying and methods for controlling the same",
+        "patent_id": "patent/IL243942B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL243942B%2Fen"
+      },
+      {
+        "publication_number": "CN106167098B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-07",
+        "publication_date": "2018-09-25",
+        "assignee_original": "\u5357\u4eac\u6797\u4e1a\u5927\u5b66",
+        "title": "A kind of automatic dispenser System and method for of rotor wing unmanned aerial vehicle based on measurement in space",
+        "patent_id": "patent/CN106167098B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106167098B%2Fen"
+      },
+      {
+        "publication_number": "CN106339004B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-08",
+        "publication_date": "2017-12-12",
+        "assignee_original": "\u5e7f\u5dde\u6781\u98de\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A kind of operational method and device of plant protection unmanned plane",
+        "patent_id": "patent/CN106339004B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106339004B%2Fen"
+      },
+      {
+        "publication_number": "US10721859B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-08",
+        "publication_date": "2020-07-28",
+        "assignee_original": "Dolly Y. Wu PLLC",
+        "title": "Monitoring and control implement for crop improvement",
+        "patent_id": "patent/US10721859B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10721859B2%2Fen"
+      },
+      {
+        "publication_number": "CN110267877B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-30",
+        "publication_date": "2022-12-30",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u5c3c\u7f57\u6c83\u514b",
+        "title": "Unmanned aerial vehicle for spraying medicament",
+        "patent_id": "patent/CN110267877B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110267877B%2Fen"
+      },
+      {
+        "publication_number": "JP6867924B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-05",
+        "publication_date": "2021-05-12",
+        "assignee_original": "\u672c\u7530\u6280\u7814\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Aerial sprayer, unmanned aerial vehicle system and unmanned aerial vehicle",
+        "patent_id": "patent/JP6867924B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6867924B2%2Fen"
+      },
+      {
+        "publication_number": "CN109358643B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-10-31",
+        "publication_date": "2022-09-02",
+        "assignee_original": "\u962e\u9547\u8363",
+        "title": "Multi-mode unmanned aerial vehicle pesticide spraying system and method based on image processing",
+        "patent_id": "patent/CN109358643B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109358643B%2Fen"
+      },
+      {
+        "publication_number": "AU2019414453A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-28",
+        "publication_date": "2021-08-12",
+        "assignee_original": "Harrison Francis HERTZBERG",
+        "title": "Unmanned aerial vehicle (UAV) pest abatement device",
+        "patent_id": "patent/AU2019414453A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2019414453A1%2Fen"
+      },
+      {
+        "publication_number": "US10822085B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-06",
+        "publication_date": "2020-11-03",
+        "assignee_original": "Rantizo, Inc.",
+        "title": "Automated cartridge replacement system for unmanned aerial vehicle",
+        "patent_id": "patent/US10822085B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10822085B2%2Fen"
+      },
+      {
+        "publication_number": "KR102192635B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-29",
+        "publication_date": "2020-12-18",
+        "assignee_original": "\ubc15\uc0c1\uc6d0",
+        "title": "Drone for pest control and pest control system using the same",
+        "patent_id": "patent/KR102192635B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102192635B1%2Fen"
+      },
+      {
+        "publication_number": "JP2021094969A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-16",
+        "publication_date": "2021-06-24",
+        "assignee_original": "\u6771\u6d0b\u88fd\u7f50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Attitude changing device, unmanned aircraft, and attitude changing method",
+        "patent_id": "patent/JP2021094969A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2021094969A%2Fen"
+      },
+      {
+        "publication_number": "JP6911909B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-23",
+        "publication_date": "2021-07-28",
+        "assignee_original": "\u6771\u6d0b\u88fd\u7f50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Unmanned aerial vehicle",
+        "patent_id": "patent/JP6911909B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6911909B2%2Fen"
+      },
+      {
+        "publication_number": "KR102379398B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-10",
+        "publication_date": "2022-03-28",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc6e8\uc774\ube0c\uc4f0\ub9ac\ub514",
+        "title": "Drone for control, system and method for positioning autonomous injection using the same",
+        "patent_id": "patent/KR102379398B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102379398B1%2Fen"
+      },
+      {
+        "publication_number": "JP7419878B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-02-28",
+        "publication_date": "2024-01-23",
+        "assignee_original": "\u6771\u6d0b\u88fd\u7f50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Holding member, unmanned aerial vehicle and dispersion method",
+        "patent_id": "patent/JP7419878B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7419878B2%2Fen"
+      },
+      {
+        "publication_number": "US12078992B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-21",
+        "publication_date": "2024-09-03",
+        "assignee_original": "Pyka, Inc.",
+        "title": "Unmanned aerial vehicle aerial spraying control",
+        "patent_id": "patent/US12078992B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12078992B2%2Fen"
+      },
+      {
+        "publication_number": "KR102187654B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-09",
+        "publication_date": "2020-12-07",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc774\ub178\ub4dc",
+        "title": "Low altitude drone and Crop Cultivating Information Acquisition System including the same",
+        "patent_id": "patent/KR102187654B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102187654B1%2Fen"
+      },
+      {
+        "publication_number": "KR102267022B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-10-30",
+        "publication_date": "2021-06-18",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc2a4\ud398\uc774\uc2a4\uc18c\ud504\ud2b8\uc778\ub354\uc2a4\ud2b8\ub9ac",
+        "title": "A drone for variable rate spraying of liquid or granules",
+        "patent_id": "patent/KR102267022B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102267022B1%2Fen"
+      },
+      {
+        "publication_number": "US12214895B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-13",
+        "publication_date": "2025-02-04",
+        "assignee_original": "Kevin Godin",
+        "title": "Systems and methods for energy transport using an unmanned aerial vehicle",
+        "patent_id": "patent/US12214895B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12214895B2%2Fen"
+      },
+      {
+        "publication_number": "US12106560B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-29",
+        "publication_date": "2024-10-01",
+        "assignee_original": "Iunu, Inc.",
+        "title": "Pest infestation detection for horticultural grow operations",
+        "patent_id": "patent/US12106560B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12106560B2%2Fen"
+      },
+      {
+        "publication_number": "CN113415422B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-30",
+        "publication_date": "2024-01-05",
+        "assignee_original": "\u5854\u91cc\u6728\u5927\u5b66",
+        "title": "Unmanned aerial vehicle for monitoring, controlling and controlling diseases and insect pests of orchard",
+        "patent_id": "patent/CN113415422B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113415422B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20230150665A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-18",
+        "publication_date": "2023-05-18",
+        "assignee_original": "SQ Technology (Shanghai) Corporation",
+        "title": "Automatic Spraying Unmanned Aerial Vehicle System Based on Dynamic Adjustment of Early Warning Range, and Method Thereof",
+        "patent_id": "patent/US20230150665A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230150665A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "US20240253828A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-13",
+        "publication_date": "2024-08-01",
+        "assignee_original": "Precision Ai Inc.",
+        "title": "Hybrid aerial vehicle with adjustable vertical lift for field treatment",
+        "patent_id": "patent/US20240253828A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240253828A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "EP3804514A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-10",
+        "publication_date": "2021-04-14",
+        "assignee_original": "Bayer AG",
+        "title": "An aerial vehicle",
+        "patent_id": "patent/EP3804514A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3804514A1%2Fen"
+      },
+      {
+        "publication_number": "US12078992B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-21",
+        "publication_date": "2024-09-03",
+        "assignee_original": "Pyka, Inc.",
+        "title": "Unmanned aerial vehicle aerial spraying control",
+        "patent_id": "patent/US12078992B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12078992B2%2Fen"
+      },
+      {
+        "publication_number": "CN119654069A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-08-03",
+        "publication_date": "2025-03-18",
+        "assignee_original": "\u5148\u6b63\u8fbe\u519c\u4f5c\u7269\u4fdd\u62a4\u80a1\u4efd\u516c\u53f8",
+        "title": "Unmanned aerial vehicle and method",
+        "patent_id": "patent/CN119654069A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119654069A%2Fen"
+      },
+      {
+        "publication_number": "EP4662123A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-10",
+        "publication_date": "2025-12-17",
+        "assignee_original": "Precision AI Inc.",
+        "title": "Field treatment using powered parafoil aircraft",
+        "patent_id": "patent/EP4662123A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4662123A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11726479B2",
+      "primary_language": "en",
+      "publication_date": "2023-08-15",
+      "title": "Unmanned aerial vehicle aerial spraying control",
+      "patent_id": "patent/US11726479B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11726479B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12210346B2",
+      "primary_language": "en",
+      "publication_date": "2025-01-28",
+      "title": "Methods and systems for determining flight plans for vertical take-off and landing (VTOL) aerial vehicles",
+      "patent_id": "patent/US12210346B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12210346B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220197309A1",
+      "primary_language": "en",
+      "publication_date": "2022-06-23",
+      "title": "Systems and methods for operating unmanned aerial vehicles",
+      "patent_id": "patent/US20220197309A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220197309A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8521343B2",
+      "primary_language": "en",
+      "publication_date": "2013-08-27",
+      "title": "Method and system to autonomously direct aircraft to emergency-contingency landing sites using on-board sensors",
+      "patent_id": "patent/US8521343B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8521343B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102297055B1",
+      "primary_language": "en",
+      "publication_date": "2021-09-01",
+      "title": "Disbursement system for an unmanned aerial vehicle",
+      "patent_id": "patent/KR102297055B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102297055B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP4450924B1",
+      "primary_language": "en",
+      "publication_date": "2025-10-08",
+      "title": "Vehicle altitude restrictions and control",
+      "patent_id": "patent/EP4450924B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4450924B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240010336A1",
+      "primary_language": "en",
+      "publication_date": "2024-01-11",
+      "title": "Steerable dependent vehicle for unmanned aerial vehicles",
+      "patent_id": "patent/US20240010336A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240010336A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9971354B2",
+      "primary_language": "en",
+      "publication_date": "2018-05-15",
+      "title": "Tail-sitter flight management system",
+      "patent_id": "patent/US9971354B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9971354B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20190047694A1",
+      "primary_language": "en",
+      "publication_date": "2019-02-14",
+      "title": "Aerial platforms for aerial spraying and methods for controlling the same",
+      "patent_id": "patent/US20190047694A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190047694A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "14644991110512018118",
+      "scholar_authors": "Laiacker et al.",
+      "publication_date": "2013",
+      "title": "Vision aided automatic landing system for fixed wing UAV",
+      "patent_id": "scholar/14644991110512018118",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F14644991110512018118"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2022044533A1",
+      "primary_language": "en",
+      "publication_date": "2022-03-03",
+      "title": "Information processing device and information processing method, computer program, and moving body device",
+      "patent_id": "patent/WO2022044533A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022044533A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20210094688A1",
+      "primary_language": "en",
+      "publication_date": "2021-04-01",
+      "title": "Managing a fleet of spraying aerial vehicles",
+      "patent_id": "patent/US20210094688A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210094688A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017021955A1",
+      "primary_language": "en",
+      "publication_date": "2017-02-09",
+      "title": "Constraints driven autonomous aircraft navigation",
+      "patent_id": "patent/WO2017021955A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017021955A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12221211B2",
+      "primary_language": "en",
+      "publication_date": "2025-02-11",
+      "title": "Semantic adjustment of unmanned aerial vehicle delivery points",
+      "patent_id": "patent/US12221211B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12221211B2%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "189797237471936293",
+      "scholar_authors": "Jantawong et al.",
+      "publication_date": "2018",
+      "title": "Automatic landing control based on GPS for fixed-wing aircraft",
+      "patent_id": "scholar/189797237471936293",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F189797237471936293"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20250157342A1",
+      "primary_language": "en",
+      "publication_date": "2025-05-15",
+      "title": "UAV Route Planning for Mitigating Traffic Encounters",
+      "patent_id": "patent/US20250157342A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250157342A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017134658A1",
+      "primary_language": "en",
+      "publication_date": "2017-08-10",
+      "title": "Aerial spraying assembly, and systems and methods for aerial spraying",
+      "patent_id": "patent/WO2017134658A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017134658A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3391762756074255822",
+      "scholar_authors": "Takahashi et al.",
+      "publication_date": "2014",
+      "title": "Development and flight testing of a flight control law for autonomous operations research on the RASCAL JUH-60A",
+      "patent_id": "scholar/3391762756074255822",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3391762756074255822"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12283099B2",
+      "primary_language": "en",
+      "publication_date": "2025-04-22",
+      "title": "Semantic abort of unmanned aerial vehicle deliveries",
+      "patent_id": "patent/US12283099B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12283099B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR102339375B1",
+      "primary_language": "en",
+      "publication_date": "2021-12-17",
+      "title": "Unmanned aerial vehicle for spraying medicine and its control method",
+      "patent_id": "patent/KR102339375B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102339375B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "AU2024218000A1",
+      "primary_language": "en",
+      "publication_date": "2025-09-18",
+      "title": "Field treatment using powered parafoil aircraft",
+      "patent_id": "patent/AU2024218000A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2024218000A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "BR112022021354B1",
+      "primary_language": "en",
+      "publication_date": "2025-11-25",
+      "title": "Control of aerial spraying by unmanned aerial vehicles.",
+      "patent_id": "patent/BR112022021354B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBR112022021354B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "4880553847934844591",
+      "scholar_authors": "Kope\u010dn\u00fd et al.",
+      "publication_date": "2022",
+      "title": "Preliminary design of a fixed-winged UAV autopilot for take-off phase and its assessment",
+      "patent_id": "scholar/4880553847934844591",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F4880553847934844591"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116724346A",
+      "primary_language": "en",
+      "publication_date": "2023-09-08",
+      "title": "Managing a fleet of autonomous vehicles based on collected information",
+      "patent_id": "patent/CN116724346A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116724346A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2022-09-21",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-10-05",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-02-06",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "DOCKETED NEW CASE - READY FOR EXAMINATION"
+        }
+      ]
+    },
+    {
+      "date": "2023-04-24",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "PYKA, INC., CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NORCIA, MICHAEL;WHITE, NATHAN;WURFT, TOBIAS;AND OTHERS;SIGNING DATES FROM 20200904 TO 20200908;REEL/FRAME:063417/0088"
+        }
+      ]
+    },
+    {
+      "date": "2024-03-26",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NON FINAL ACTION MAILED"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-09",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER"
+        }
+      ]
+    },
+    {
+      "date": "2024-04-19",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-24",
+      "code": "STPP",
+      "title": "Information on status: patent application and granting procedure in general",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED"
+        }
+      ]
+    },
+    {
+      "date": "2024-08-14",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,999 @@
+{
+  "search_metadata": {
+    "id": "697a3354ff3b7a616056097b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/96484c43c98c4e76/697a3354ff3b7a616056097b.json",
+    "created_at": "2026-01-28 16:03:32 UTC",
+    "processed_at": "2026-01-28 16:03:32 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20150225003A1/en",
+    "raw_html_file": "https://serpapi.com/searches/96484c43c98c4e76/697a3354ff3b7a616056097b.html",
+    "total_time_taken": 0.6
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20150225003A1/en"
+  },
+  "title": "Control of a rail vehicle",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/0e/c1/1e/feb4bd517d6f7f/US20150225003A1.pdf",
+  "publication_number": "US20150225003A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "balise",
+    "rail vehicle",
+    "mode",
+    "etcs",
+    "lineside"
+  ],
+  "prior_art_date": "2012-09-28",
+  "application_number": "US14/432,244",
+  "inventors": [
+    {
+      "name": "David Morton",
+      "link": "https://patents.google.com/?inventor=David+Morton",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=David+Morton"
+    }
+  ],
+  "assignees": [
+    "Siemens AG"
+  ],
+  "priority_date": "2012-09-28",
+  "filing_date": "2013-09-10",
+  "publication_date": "2015-08-13",
+  "worldwide_applications": {
+    "2012": [
+      {
+        "filing_date": "2012-09-28",
+        "country_code": "DE",
+        "application_number": "DE102012217777.9A",
+        "document_id": "patent/DE102012217777A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      }
+    ],
+    "2013": [
+      {
+        "filing_date": "2013-09-10",
+        "country_code": "CN",
+        "application_number": "CN201380050694.3A",
+        "document_id": "patent/CN104703858A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2013-09-10",
+        "country_code": "US",
+        "application_number": "US14/432,244",
+        "document_id": "patent/US20150225003A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      },
+      {
+        "filing_date": "2013-09-10",
+        "country_code": "EP",
+        "application_number": "EP13763208.9A",
+        "document_id": "patent/EP2879934B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Not-in-force"
+      },
+      {
+        "filing_date": "2013-09-10",
+        "country_code": "WO",
+        "application_number": "PCT/EP2013/068693",
+        "document_id": "patent/WO2014048719A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2013-09-10",
+      "title": "Application filed by Siemens AG",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Siemens AG"
+    },
+    {
+      "date": "2015-06-17",
+      "title": "Assigned to SIEMENS AKTIENGESELLSCHAFT",
+      "type": "reassignment",
+      "assignee_search": "SIEMENS AKTIENGESELLSCHAFT",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MORTON, DAVID"
+      ]
+    },
+    {
+      "date": "2015-08-13",
+      "title": "Publication of US20150225003A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20150225003A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20150225003.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/14432244"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20150225003"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2015225003A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/14432244/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20150225003"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/d3/81/a6/8a3ccce0269693/US20150225003A1-20150813-D00000.png",
+    "https://patentimages.storage.googleapis.com/9c/41/43/90875c7cce5433/US20150225003A1-20150813-D00001.png"
+  ],
+  "classifications": [
+    {
+      "code": "B61L27/20",
+      "description": "Trackside control of safe travel of vehicle or train, e.g. braking curve calculation",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L3/121",
+      "description": "Devices along the route for controlling devices on the vehicle or train, e.g. to release brake or to operate a warning signal at selected places along the route, e.g. intermittent control simultaneous mechanical and electrical control controlling electrically using magnetic or electrostatic induction; using radio waves using magnetic induction",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L27/0038",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L27/0061",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L27/30",
+      "description": "Trackside multiple control systems, e.g. switch-over between different systems",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L2003/123",
+      "description": "French standard for inductive train protection, called \"Contr\u00f4le de vitesse par balises\" [KVB]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L2027/0044",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B61L2027/202",
+      "description": "Trackside control of safe travel of vehicle or train, e.g. braking curve calculation using European Train Control System [ETCS]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An infill balise is provided for making available a state of a route component (for example of a signal) which lies ahead in the direction of travel of a rail line. Depending on a state of the route component, the infill balise brings about a change of the European train control system (ETCS) mode of a rail vehicle if the rail vehicle is in a manual travel mode or is not in a monitored travel mode. The presented solution has the advantage that the infill balise can ensure safety even in a manual ETCS mode (for example a staff responsible mode or an on-site mode). The solution can preferably be used in conjunction with ETCS level 1 applications.",
+  "description_link": "https://serpapi.com/searches/697a3354ff3b7a616056097b/google_patents_details/description.html",
+  "claims": [
+    "1-16. (canceled)",
+    "17. A method for controlling a rail vehicle, which comprises the steps of:\nmaking available, via an infill balise, a state of a lineside component lying ahead in a direction of travel; and depending on the state of the lineside component lying ahead, the infill balise initiates a European train control system (ETCS) mode change of the rail vehicle if the rail vehicle is in a manual driving mode or not in a supervised driving mode.",
+    "18. The method according to claim 17, wherein:\nthe lineside component lying ahead outputs a signal having a STOP state or THROUGH MOVE state; and in an event that a signal state is the STOP state, the infill balise initiates the ETCS mode change of the rail vehicle if the rail vehicle is in the manual driving mode or not in the supervised driving mode.",
+    "19. The method according to claim 18, wherein, in an event that the signal state is the THROUGH MOVE state, the infill balise does not initiate the ETCS mode change.",
+    "20. The method according to claim 17, wherein the ETCS mode change involves a change to the supervised driving mode which initiates a braking operation so that the rail vehicle comes to a stand before an end of movement authority.",
+    "21. The method according to claim 17, wherein the infill balise does not initiate the ETCS mode change of the rail vehicle if the rail vehicle is in the supervised driving mode or in a shunting mode.",
+    "22. The method according to claim 21, wherein the supervised driving mode is an ETCS full supervision mode.",
+    "23. The method according to claim 21, wherein the shunting mode is an ETCS shunting mode.",
+    "24. The method according to claim 17, wherein the manual driving mode is an ETCS staff responsible mode or ETCS on-sight mode.",
+    "25. The method according to claim 17, which further comprises making available the state of the lineside component lying ahead not only to the infill balise but also to a further balise in a vicinity of the lineside component lying ahead.",
+    "26. The method according to claim 25, which further comprises calculating a distance between the infill balise and the further balise such that the rail vehicle can be braked to a stand before reaching the further balise or clear of a danger point.",
+    "27. The method according to claim 25, wherein the infill balise initiates the ETCS mode change of the rail vehicle by using, for the infill balise, an ID of the further balise instead of an ID of the infill balise.",
+    "28. The method according to claim 17, wherein the lineside component contains at least one of the following components:\na signaling unit for a speed restriction; a signaling unit for a temporary speed restriction, a switch, a grade crossing, and a rail operation component which can have at least one state, wherein the state can be made available to the rail vehicle by means of a balise.",
+    "29. A system for controlling a rail vehicle, comprising:\na lineside component lying ahead in a direction of travel; a balise in a vicinity or a distance in rear of said lineside component lying ahead, and to said balise a state of said lineside component being made available; and an infill balise to which the state of said lineside component lying ahead being made available, wherein, depending on the state of said lineside component ahead, said infill balise initiating an European train control system mode change of the rail vehicle if the rail vehicle is in a manual driving mode or not in a supervised driving mode.",
+    "30. A European train control system (ETCS) lineside equipment, comprising:\nan infill balise; and another balise in a vicinity of a lineside component, wherein the another balise is disposed beyond said infill balise in a direction of travel, wherein, depending on a state of the lineside component, said infill balise can initiate an ETCS mode change of a rail vehicle if the rail vehicle is in a manual driving mode or not in a supervised driving mode.",
+    "31. The ETCS lineside equipment according to claim 30, wherein said infill balise is disposed far enough from said another balise to ensure that the rail vehicle, on passing over said infill balise, can initiate a braking operation so that the rail vehicle can be braked to a stand before reaching said another balise or in rear of a danger point.",
+    "32. The ETCS lineside equipment according to claim 30, wherein a distance between said infill balise and the another balise is at least 100 m.",
+    "33. The ETCS lineside equipment according to claim 30, wherein a distance between said infill balise and the another balise is at least 150 m.",
+    "34. The ETCS lineside equipment according to claim 30, wherein a distance between said infill balise and the another balise is at least 200 m.",
+    "35. The ETCS lineside equipment according to claim 30, wherein a distance between said infill balise and the another balise is at least 240 m."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "DE102012217777.9",
+      "filing_date": "2012-09-28"
+    },
+    {
+      "application_number": "DE102012217777.9A",
+      "representative_publication": "DE102012217777A1",
+      "primary_language": "en",
+      "priority_date": "2012-09-28",
+      "filing_date": "2012-09-28",
+      "title": "Control of a rail vehicle"
+    },
+    {
+      "application_number": "PCT/EP2013/068693",
+      "representative_publication": "WO2014048719A2",
+      "primary_language": "en",
+      "priority_date": "2012-09-28",
+      "filing_date": "2013-09-10",
+      "title": "Control of a rail vehicle"
+    }
+  ],
+  "family_id": "49212749",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US5437422A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1992-02-11",
+        "publication_date": "1995-08-01",
+        "assignee_original": "Westinghouse Brake And Signal Holdings Limited",
+        "title": "Railway signalling system",
+        "patent_id": "patent/US5437422A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5437422A%2Fen"
+      },
+      {
+        "publication_number": "US5947423A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-04-28",
+        "publication_date": "1999-09-07",
+        "assignee_original": "Westinghouse Brake And Signal Holdings Limited",
+        "title": "Vehicle control system",
+        "patent_id": "patent/US5947423A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5947423A%2Fen"
+      },
+      {
+        "publication_number": "US20040267415A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-06-27",
+        "publication_date": "2004-12-30",
+        "assignee_original": "Alstom",
+        "title": "Method and apparatus for controlling trains, in particular a method and apparatus of the ERTMS type",
+        "patent_id": "patent/US20040267415A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040267415A1%2Fen"
+      },
+      {
+        "publication_number": "US20050133673A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-22",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Signaling safety system",
+        "patent_id": "patent/US20050133673A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050133673A1%2Fen"
+      },
+      {
+        "publication_number": "US20050137760A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-19",
+        "publication_date": "2005-06-23",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Method for train positioning",
+        "patent_id": "patent/US20050137760A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050137760A1%2Fen"
+      },
+      {
+        "publication_number": "US20070100517A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-07-02",
+        "publication_date": "2007-05-03",
+        "assignee_original": "Bong-Taek Kim",
+        "title": "Atps for controlling train using data communication",
+        "patent_id": "patent/US20070100517A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070100517A1%2Fen"
+      },
+      {
+        "publication_number": "US20120181391A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-29",
+        "publication_date": "2012-07-19",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Rail vehicle",
+        "patent_id": "patent/US20120181391A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120181391A1%2Fen"
+      },
+      {
+        "publication_number": "US20130024054A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-22",
+        "publication_date": "2013-01-24",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Railway signalling system and on-board signalling system",
+        "patent_id": "patent/US20130024054A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130024054A1%2Fen"
+      },
+      {
+        "publication_number": "US20130336367A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-18",
+        "publication_date": "2013-12-19",
+        "assignee_original": "General Electric Company",
+        "title": "Spread spectrum signals in vehicle network systems",
+        "patent_id": "patent/US20130336367A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130336367A1%2Fen"
+      },
+      {
+        "publication_number": "US20150142225A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-11",
+        "publication_date": "2015-05-21",
+        "assignee_original": "Carnegie Mellon University",
+        "title": "Railroad Interlocking System with Distributed Control",
+        "patent_id": "patent/US20150142225A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150142225A1%2Fen"
+      },
+      {
+        "publication_number": "US20150274183A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-01",
+        "publication_date": "2015-10-01",
+        "assignee_original": "General Electric Company",
+        "title": "Systems and methods for cold movement detection",
+        "patent_id": "patent/US20150274183A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150274183A1%2Fen"
+      },
+      {
+        "publication_number": "US20160010574A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-03-27",
+        "publication_date": "2016-01-14",
+        "assignee_original": "General Electric Company",
+        "title": "Control system and method",
+        "patent_id": "patent/US20160010574A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160010574A1%2Fen"
+      },
+      {
+        "publication_number": "US20160200327A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-08-26",
+        "publication_date": "2016-07-14",
+        "assignee_original": "Xi'an Shiyun Transporation Equipment Co., Ltd.",
+        "title": "Railroad train with length more than platform and its marshalling system",
+        "patent_id": "patent/US20160200327A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160200327A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "ES2249334T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-02-14",
+        "publication_date": "2006-04-01",
+        "assignee_original": "Siemens Schweiz Ag",
+        "title": "TRAIN SAFETY PROCEDURE.",
+        "patent_id": "patent/ES2249334T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2249334T3%2Fen"
+      },
+      {
+        "publication_number": "CN1794689A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-06",
+        "publication_date": "2006-06-28",
+        "assignee_original": "\u5317\u4eac\u4ea4\u901a\u5927\u5b66",
+        "title": "Radio safety transmission method for signal data of locomotive",
+        "patent_id": "patent/CN1794689A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1794689A%2Fen"
+      },
+      {
+        "publication_number": "DE102007037603B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-08-07",
+        "publication_date": "2009-09-03",
+        "assignee_original": "Siemens Ag",
+        "title": "Method of operating ETCS route equipment",
+        "patent_id": "patent/DE102007037603B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102007037603B4%2Fen"
+      },
+      {
+        "publication_number": "EP2230148A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-03-20",
+        "publication_date": "2010-09-22",
+        "assignee_original": "Siemens Schweiz AG",
+        "title": "Method and system for identifying rail securing devices",
+        "patent_id": "patent/EP2230148A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2230148A1%2Fen"
+      },
+      {
+        "publication_number": "CN102225695B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-19",
+        "publication_date": "2013-04-17",
+        "assignee_original": "\u4e0a\u6d77\u534e\u4e3a\u6280\u672f\u6709\u9650\u516c\u53f8",
+        "title": "Train class conversion method and related device",
+        "patent_id": "patent/CN102225695B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102225695B%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20150142225A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-11",
+        "publication_date": "2015-05-21",
+        "assignee_original": "Carnegie Mellon University",
+        "title": "Railroad Interlocking System with Distributed Control",
+        "patent_id": "patent/US20150142225A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150142225A1%2Fen"
+      },
+      {
+        "publication_number": "US20160217690A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-27",
+        "publication_date": "2016-07-28",
+        "assignee_original": "Hitachi Construction Machinery Co., Ltd.",
+        "title": "Vehicle travel control system and fleet management server",
+        "patent_id": "patent/US20160217690A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160217690A1%2Fen"
+      },
+      {
+        "publication_number": "US9925994B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-27",
+        "publication_date": "2018-03-27",
+        "assignee_original": "Siemens Industry, Inc.",
+        "title": "Cutout systems and methods",
+        "patent_id": "patent/US9925994B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9925994B2%2Fen"
+      },
+      {
+        "publication_number": "CN110588730A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-23",
+        "publication_date": "2019-12-20",
+        "assignee_original": "\u4e2d\u94c1\u7b2c\u56db\u52d8\u5bdf\u8bbe\u8ba1\u9662\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+        "title": "Train control method and model for converting C3 to C2 of railway connecting line with speed per hour greater than 80km",
+        "patent_id": "patent/CN110588730A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110588730A%2Fen"
+      },
+      {
+        "publication_number": "US11325624B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-05-29",
+        "publication_date": "2022-05-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11325624B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11325624B2%2Fen"
+      },
+      {
+        "publication_number": "US11479283B2",
+        "primary_language": "en",
+        "priority_date": "2017-06-13",
+        "publication_date": "2022-10-25",
+        "assignee_original": "Siemens Mobility GmbH",
+        "title": "Method for operating a track-bound traffic system",
+        "patent_id": "patent/US11479283B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11479283B2%2Fen"
+      },
+      {
+        "publication_number": "US11524709B2",
+        "primary_language": "en",
+        "priority_date": "2021-03-12",
+        "publication_date": "2022-12-13",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "Electric rail vehicle",
+        "patent_id": "patent/US11524709B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11524709B2%2Fen"
+      },
+      {
+        "publication_number": "US11548542B2",
+        "primary_language": "en",
+        "priority_date": "2021-04-28",
+        "publication_date": "2023-01-10",
+        "assignee_original": "Parallel Systems, Inc.",
+        "title": "System and/or method for platooning",
+        "patent_id": "patent/US11548542B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11548542B2%2Fen"
+      },
+      {
+        "publication_number": "GB2635352A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-11-08",
+        "publication_date": "2025-05-14",
+        "assignee_original": "Universal Signalling Ltd",
+        "title": "Railway interlocking",
+        "patent_id": "patent/GB2635352A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2635352A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "CN105667544B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-01-05",
+        "publication_date": "2017-12-19",
+        "assignee_original": "\u5361\u65af\u67ef\u4fe1\u53f7\u6709\u9650\u516c\u53f8",
+        "title": "A kind of tramcar automatic protective system",
+        "patent_id": "patent/CN105667544B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105667544B%2Fen"
+      },
+      {
+        "publication_number": "EP3235706B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-20",
+        "publication_date": "2018-08-01",
+        "assignee_original": "ALSTOM Transport Technologies",
+        "title": "Method for initializing the fs mode for the movement of a train on a railway equipped with an ertms/etcs signaling system",
+        "patent_id": "patent/EP3235706B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3235706B1%2Fen"
+      },
+      {
+        "publication_number": "CN112977554B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-11",
+        "publication_date": "2022-07-15",
+        "assignee_original": "\u5361\u65af\u67ef\u4fe1\u53f7\u6709\u9650\u516c\u53f8",
+        "title": "Rail transit resource processing method and system based on portable safety terminal",
+        "patent_id": "patent/CN112977554B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112977554B%2Fen"
+      },
+      {
+        "publication_number": "CN113022661A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-04-07",
+        "publication_date": "2021-06-25",
+        "assignee_original": "\u5361\u65af\u67ef\u4fe1\u53f7\u6709\u9650\u516c\u53f8",
+        "title": "Temporary speed limit safety management method for multi-mode train control system",
+        "patent_id": "patent/CN113022661A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113022661A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US20150225003A1",
+      "primary_language": "en",
+      "publication_date": "2015-08-13",
+      "title": "Control of a rail vehicle",
+      "patent_id": "patent/US20150225003A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150225003A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN113548095B",
+      "primary_language": "en",
+      "publication_date": "2022-09-02",
+      "title": "Virtual marshalling train interval operation method and system",
+      "patent_id": "patent/CN113548095B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113548095B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220185350A1",
+      "primary_language": "en",
+      "publication_date": "2022-06-16",
+      "title": "Quasi-moving block system of train control",
+      "patent_id": "patent/US20220185350A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220185350A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101834854B1",
+      "primary_language": "en",
+      "publication_date": "2018-03-07",
+      "title": "train-centric electronic interlocking system for connected train based autonomous train control system and the method thereof",
+      "patent_id": "patent/KR101834854B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101834854B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103010267B",
+      "primary_language": "en",
+      "publication_date": "2016-02-03",
+      "title": "The Train Detection and Identification equipment of self adaptation obturation, system and method",
+      "patent_id": "patent/CN103010267B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103010267B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3061666B1",
+      "primary_language": "en",
+      "publication_date": "2020-07-22",
+      "title": "Signalling system for a railway network and method for the full supervision of a train realised by such a signalling system",
+      "patent_id": "patent/EP3061666B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3061666B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102225695B",
+      "primary_language": "en",
+      "publication_date": "2013-04-17",
+      "title": "Train class conversion method and related device",
+      "patent_id": "patent/CN102225695B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102225695B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109532955B",
+      "primary_language": "en",
+      "publication_date": "2021-05-04",
+      "title": "Micro-rail scheduling control method and system",
+      "patent_id": "patent/CN109532955B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109532955B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10046780B2",
+      "primary_language": "en",
+      "publication_date": "2018-08-14",
+      "title": "Operation of a rail vehicle by means of an ETCS device",
+      "patent_id": "patent/US10046780B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10046780B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2836412B1",
+      "primary_language": "en",
+      "publication_date": "2018-09-26",
+      "title": "Method for interlocking logic and interlocking",
+      "patent_id": "patent/EP2836412B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2836412B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110803196A",
+      "primary_language": "en",
+      "publication_date": "2020-02-18",
+      "title": "Virtual coupling system and method for train",
+      "patent_id": "patent/CN110803196A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110803196A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "PL219427B1",
+      "primary_language": "en",
+      "publication_date": "2015-04-30",
+      "title": "Device for receiving, processing and generating signals for the self-interaction for rail vehicle",
+      "patent_id": "patent/PL219427B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL219427B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20150291188A1",
+      "primary_language": "en",
+      "publication_date": "2015-10-15",
+      "title": "Controller of a rail vehicle",
+      "patent_id": "patent/US20150291188A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150291188A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2007161253A",
+      "primary_language": "en",
+      "publication_date": "2007-06-28",
+      "title": "Train operation management method and train operation management system",
+      "patent_id": "patent/JP2007161253A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007161253A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105848985B",
+      "primary_language": "en",
+      "publication_date": "2018-05-01",
+      "title": "The control of rail vehicle",
+      "patent_id": "patent/CN105848985B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105848985B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2015019431A1",
+      "primary_language": "en",
+      "publication_date": "2015-02-12",
+      "title": "Train control system and train provided with same",
+      "patent_id": "patent/WO2015019431A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015019431A1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3223263965478663833",
+      "scholar_authors": "Booth",
+      "publication_date": "2012",
+      "title": "Intermittent and continuous automatic train protection",
+      "patent_id": "scholar/3223263965478663833",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3223263965478663833"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "FI4116170T3",
+      "primary_language": "en",
+      "publication_date": "2025-04-29",
+      "title": "Method for operating a train control system",
+      "patent_id": "patent/FI4116170T3/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFI4116170T3%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104334436B",
+      "primary_language": "en",
+      "publication_date": "2017-07-07",
+      "title": "For the method and operation control system of the auxiliary operation of track element",
+      "patent_id": "patent/CN104334436B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104334436B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2548645C1",
+      "primary_language": "en",
+      "publication_date": "2015-04-20",
+      "title": "System for train motion control at spans",
+      "patent_id": "patent/RU2548645C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2548645C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN114604298B",
+      "primary_language": "en",
+      "publication_date": "2022-09-09",
+      "title": "Train safety protection method and device in RM mode, vehicle-mounted equipment and medium",
+      "patent_id": "patent/CN114604298B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114604298B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP2684760A2",
+      "primary_language": "en",
+      "publication_date": "2014-01-15",
+      "title": "Train control system on the basis of ETCS &#34;Full Supervision&#34; mode",
+      "patent_id": "patent/EP2684760A2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2684760A2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2011010515A",
+      "primary_language": "en",
+      "publication_date": "2011-01-13",
+      "title": "Radio safety controller for electric vehicle",
+      "patent_id": "patent/JP2011010515A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2011010515A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119717771B",
+      "primary_language": "en",
+      "publication_date": "2025-10-31",
+      "title": "Test method for maintaining human control priority when the CTCS-2 onboard train control system enters the station on the siding",
+      "patent_id": "patent/CN119717771B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119717771B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109291959A",
+      "primary_language": "en",
+      "publication_date": "2019-02-01",
+      "title": "A kind of train is driven by kilometer post to calibration method",
+      "patent_id": "patent/CN109291959A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109291959A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2015-06-17",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "SIEMENS AKTIENGESELLSCHAFT, GERMANY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:MORTON, DAVID;REEL/FRAME:035849/0154"
+        },
+        {
+          "label": "Effective date",
+          "value": "20150528"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-11",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO PAY ISSUE FEE"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000011664",
+        "name": "signaling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001133",
+        "name": "acceleration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001934",
+        "name": "delay",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "231100001261",
+        "name": "hazardous",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011144",
+        "name": "upstream manufacturing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

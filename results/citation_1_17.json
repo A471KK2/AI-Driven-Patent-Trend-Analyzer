@@ -1,0 +1,2988 @@
+{
+  "search_metadata": {
+    "id": "697a39fa827031d014ad9995",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bdc93f2ca1107ac8/697a39fa827031d014ad9995.json",
+    "created_at": "2026-01-28 16:31:54 UTC",
+    "processed_at": "2026-01-28 16:31:54 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20100003434A1/en",
+    "raw_html_file": "https://serpapi.com/searches/bdc93f2ca1107ac8/697a39fa827031d014ad9995.html",
+    "total_time_taken": 1.54
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20100003434A1/en"
+  },
+  "title": "Biodegradable multiphase compositions based on starch",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/56/d4/9e/3526914b46e36a/US20100003434A1.pdf",
+  "publication_number": "US20100003434A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "starch",
+    "compositions according",
+    "biodegradable",
+    "biodegradable compositions",
+    "phase"
+  ],
+  "prior_art_date": "2006-09-27",
+  "application_number": "US12/439,297",
+  "inventors": [
+    {
+      "name": "Catia Bastioli",
+      "link": "https://patents.google.com/?inventor=Catia+Bastioli",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Catia+Bastioli"
+    },
+    {
+      "name": "Giovanni Floridi",
+      "link": "https://patents.google.com/?inventor=Giovanni+Floridi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Giovanni+Floridi"
+    },
+    {
+      "name": "Gianfranco Del Tredici",
+      "link": "https://patents.google.com/?inventor=Gianfranco+Del+Tredici",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Gianfranco+Del+Tredici"
+    }
+  ],
+  "assignees": [
+    "Novamont SpA"
+  ],
+  "priority_date": "2006-09-27",
+  "filing_date": "2007-09-26",
+  "publication_date": "2010-01-07",
+  "worldwide_applications": {
+    "2006": [
+      {
+        "filing_date": "2006-09-27",
+        "country_code": "IT",
+        "application_number": "IT001845A",
+        "document_id": "patent/ITMI20061845A1/en",
+        "legal_status_cat": "unknown"
+      }
+    ],
+    "2007": [
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "US",
+        "application_number": "US12/439,297",
+        "document_id": "patent/US8101253B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "PL",
+        "application_number": "PL07820618T",
+        "document_id": "patent/PL2074175T3/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "EP",
+        "application_number": "EP07820618.2A",
+        "document_id": "patent/EP2074175B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "BR",
+        "application_number": "BRPI0715273A",
+        "document_id": "patent/BRPI0715273B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "IP Right Grant"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "CN",
+        "application_number": "CN2007800362655A",
+        "document_id": "patent/CN101522797B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "ES",
+        "application_number": "ES07820618T",
+        "document_id": "patent/ES2793243T3/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "PT",
+        "application_number": "PT78206182T",
+        "document_id": "patent/PT2074175T/en",
+        "legal_status_cat": "unknown"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "WO",
+        "application_number": "PCT/EP2007/060223",
+        "document_id": "patent/WO2008037744A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "AU",
+        "application_number": "AU2007302005A",
+        "document_id": "patent/AU2007302005B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "CA",
+        "application_number": "CA 2662105",
+        "document_id": "patent/CA2662105C/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "JP",
+        "application_number": "JP2009529698A",
+        "document_id": "patent/JP2010505017A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2007-09-26",
+        "country_code": "RU",
+        "application_number": "RU2009114686/05A",
+        "document_id": "patent/RU2476465C2/en",
+        "legal_status_cat": "active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "title": "First worldwide family litigation filed",
+      "type": "litigation",
+      "critical": true,
+      "external_link": "https://patents.darts-ip.com/?family=37775319&utm_source=google_patent&utm_medium=platform_link&utm_campaign=public_patent_search&patent=US20100003434(A1)",
+      "description": [
+        "\"Global patent litigation dataset\u201d by Darts-ip is licensed under a Creative Commons Attribution 4.0 International License."
+      ]
+    },
+    {
+      "date": "2007-09-26",
+      "title": "Application filed by Novamont SpA",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Novamont SpA"
+    },
+    {
+      "date": "2009-05-08",
+      "title": "Assigned to NOVAMONT S.P.A.",
+      "type": "reassignment",
+      "assignee_search": "NOVAMONT S.P.A.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DEL TREDICI, GIANFRANCO, FLORIDI, GIOVANNI, BASTIOLI, CATIA"
+      ]
+    },
+    {
+      "date": "2010-01-07",
+      "title": "Publication of US20100003434A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20100003434A1/en"
+    },
+    {
+      "date": "2012-01-24",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2012-01-24",
+      "title": "Publication of US8101253B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US8101253B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2028-12-29",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20100003434.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/12439297"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20100003434"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2010003434A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/12439297/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20100003434"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/9d/ad/1d/e3f4142a856f49/US20100003434A1-20100107-D00001.png",
+    "https://patentimages.storage.googleapis.com/ce/b8/0e/58b5c0f8b9b0e7/US20100003434A1-20100107-D00002.png"
+  ],
+  "classifications": [
+    {
+      "code": "C08J5/18",
+      "description": "Manufacture of films or sheets",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L101/16",
+      "description": "Compositions of unspecified macromolecular compounds the macromolecular compounds being biodegradable",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/02",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2300/16",
+      "description": "Biodegradable polymers",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2303/06",
+      "description": "Esters",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2367/02",
+      "description": "Polyesters derived from dicarboxylic acids and dihydroxy compounds",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08J2367/04",
+      "description": "Polyesters derived from hydroxy carboxylic acids, e.g. lactones",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L3/00",
+      "description": "Compositions of starch, amylose or amylopectin or of their derivatives or degradation products",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L67/04",
+      "description": "Polyesters derived from hydroxycarboxylic acids, e.g. lactones",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10S220/30",
+      "description": "Biodegradable",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/1334",
+      "description": "Nonself-supporting tubular film or bag [e.g., pouch, envelope, packet, etc.]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/1352",
+      "description": "Polymer or resin containing [i.e., natural or synthetic]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/1372",
+      "description": "Randomly noninterengaged or randomly contacting fibers, filaments, particles, or flakes",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/25",
+      "description": "Web or sheet containing structurally defined element or component and including a second component containing structurally defined particles",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/254",
+      "description": "Polymeric or resinous material",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/268",
+      "description": "Monolayer with structurally defined element",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/269",
+      "description": "Web or sheet containing structurally defined element or component, the element or component having a specified physical dimension including synthetic resin or polymer layer or component",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/31786",
+      "description": "Of polyester [e.g., alkyd, etc.]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T428/31971",
+      "description": "Of carbohydrate",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y10T442/681",
+      "description": "Spun-bonded nonwoven fabric",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention relates to biodegradable multiphase compositions characterized in that they comprise three phases: (a) a continuous phase composed of a matrix of at least one tough hydrophobic polymer incompatible with the starch; (b) a nanoparticulate dispersed starch phase with mean dimensions of less than 0.3 \u03bcm, (c) a further dispersed phase of at least one rigid and fragile polymer with modulus greater than 1000 MPa. Such compositions having a Modulus greater than 300 MPa and a substantial isotropy in the two longitudinal and transverse directions in relation to tear propagation.",
+  "description_link": "https://serpapi.com/searches/697a39fa827031d014ad9995/google_patents_details/description.html",
+  "claims": [
+    "1. Biodegradable composition characterized by comprising three phases:\nA. a continuous phase consisting of a matrix of at least one tough hydrophobic polymer incompatible with starch, said tough thermoplastic polymer having a Modulus of less than 200 MPa; B. a homogeneously dispersed nanoparticulate starch phase; C. a further dispersed phase of at least one polymer with modulus greater than 1000 MPa, said polymer being a polyhydroxyalkanoate; and having:\na Modulus greater than 300 MPa;\na substantial isotropy in the two longitudinal and transverse directions in relation to tear propagation;\nparticles of the dispersed starch phase (B) with mean dimensions of less than 0.3 \u03bcm.",
+    "2. Biodegradable composition according to claim 1, characterized by a Modulus greater than 350 MPa, in which said polymer of said further dispersed phase (C) has a modulus greater than 1500 MPa, and said particles of said dispersed starch phase (B) have mean dimensions of less than 0.25 \u03bcm.",
+    "3. Biodegradable composition according to claim 1, characterized by a Modulus greater than 400 MPa, in which said polymer of said further dispersed phase (C) has a modulus greater than 2000 MPa, and said particles of said dispersed starch phase (B) have mean dimensions of less than 0.2 \u03bcm.",
+    "4. Biodegradable composition according to claim 1, characterized by a Modulus greater than 450 MPa, in which said polymer of said further dispersed phase (C) has a modulus greater than 2000 MPa, and said particles of said dispersed starch phase (B) have mean dimensions of less than 015 \u03bcm.",
+    "5. Biodegradable composition according to claim 1, characterized in that:\n(A) said continuous phase comprises said at least one tough thermoplastic polymer incompatible with the starch in an amount of from 52 to 70% by weight; (B) said dispersed nanoparticulate starch phase comprises at least one destructurized nanoparticulate starch in an amount of from 5 to 45% by weight; (C) said further dispersed phase comprises said polyhydroxyalkanoate in an amount from 3 to 25% by weight.",
+    "6. Biodegradable composition according to claim 1, characterized in that:\n(A) said continuous phase comprises said at least one tough thermoplastic polymer incompatible with the starch in an amount of from 55 to 70% by weight; (B) said dispersed nanoparticulate starch phase comprises at least one destructurized nanoparticulate starch in an amount of from 10 to 42% by weight; (C) said further dispersed phase comprises said polyhydroxyalkanoate in an amount from 4 to 22% by weight.",
+    "7. Biodegradable composition according to claim 1, characterized in that:\n(B) said dispersed nanoparticulate starch phase comprises at least one destructurized nanoparticulate starch in an amount of from 15 to 38% by weight; (C) said further dispersed phase comprises said polyhydroxyalkanoate in an amount from 5 to 20% by weight.",
+    "8. Biodegradable composition according to claim 7, characterized in that:\n(B) said dispersed nanoparticulate starch phase comprises at least one destructurized nanoparticulate starch in an amount of from 20 to 35% by weight.",
+    "9. Biodegradable compositions according to claim 1, characterized in that the ultimate elongation is greater than 500%.",
+    "10. Biodegradable compositions according to claim 1, characterized in that said tough thermoplastic polymer is selected from the group consisting of aliphatic-aromatic polyesters, polyhydroxyalkanoates, polyesters and polyamides.",
+    "11. Biodegradable compositions according to claim 1, characterized in that said tough thermoplastic polymer is an aliphatic-aromatic polyester.",
+    "12. Biodegradable compositions according to claim 1, characterized in that said tough thermoplastic polymer is an aliphatic aromatic polyester is of the diacid/diol type.",
+    "13. Biodegradable compositions according to claim 12, characterized in that said aliphatic aromatic polyester of the diacid/diol type contains as aliphatic acid an acid selected from the group consisting of succinic, adipic acid, azelaic acid, sebacic acid, undecandioic, dodecandioic, brassylic acid, or mixtures thereof",
+    "14. Biodegradable compositions according to claim 1, characterized in that said matrix of at least one tough hydrophobic polymer contains additives selected from the group consisting of polycarbodiimides, polyepoxy resins, peroxides and oxazolines.",
+    "15. Biodegradable compositions according to claim 14, characterized in that said additives are polyepoxy resins of bisphenol A diglycidyl ether.",
+    "16. Biodegradable compositions according to claim 1, characterized in that said homogeneously dispersed starch phase (B) consists of native starch.",
+    "17. Biodegradable compositions according to claim 16, characterized in that said native starch is selected from the group consisting of potato, corn, tapioca, pea, rice, wheat high-amylose starch.",
+    "18. Biodegradable compositions according to claim 16, characterized in that said native starch contains more than 30% by weight of amylose and waxy starch.",
+    "19. Biodegradable compositions according to claim 16, characterized in that said native starch is destructurized native starch.",
+    "20. Biodegradable compositions according to claim 19, characterized in that said destructurized native starch is potato and corn starch.",
+    "21. Biodegradable compositions according to claim 20, characterized in that said destructurized native starch is potato starch.",
+    "22. Biodegradable compositions according to claim 1, characterized in that the dispersed starch phase (B) consists of physically and chemically modified starches.",
+    "23. Biodegradable compositions according to claim 22, characterized in that said physically and chemically modified starches are selected from the group consisting of ethoxylated starches, oxypropylated starches, starch acetates, starch butyrate, starch propionates, with a substitution degree comprised within the range of from 0. 1 to 2, cationic starches, oxidized starches, cross-linked starches, gelled starches.",
+    "24. Biodegradable compositions according to claim 1, characterized in that said polyhydroxyalkanoate is a polymer or copolymer of polylactic acid containing at least 75% of L-lactic or D-lactic acid or combinations thereof, with molecular weight Mw greater than 70,000 and with a modulus greater than 1,500 MPa.",
+    "25. Biodegradable compositions according to claim 1, characterized in that in the formation phase of the multiphase structure, at least one plasticizer for the starch is present.",
+    "26. Biodegradable compositions according to claim 25, characterized in that said plasticizer is present in a quantity of less than 10% with respect to the sum of (A+B+C).",
+    "27. Biodegradable compositions according to claim 25, characterized in that said plasticizer is water or glycerol or mixtures of both.",
+    "28. Biodegradable compositions according to claim 25, characterized in that said plasticizer is the water contained in the native starch.",
+    "29. Biodegradable compositions according to claim 1, characterized in that in the formation phase of the multiphase structure, additives other than plasticizers are added.",
+    "30. Biodegradable compositions according to claim 29, characterized in that said additives are antioxidants, UV stabilizers, heat and hydrolysis stabilizers, chain extenders, flame retardants, slow release agents, inorganic and organic fillers, such as natural fillers, antistatic agents, wetting agents, colorants, lubricants or compatibilizing agents between the various phases.",
+    "31. Biodegradable compositions according to claim 30, characterized in that said hydrolysis stabilizers are carbodiimides or epoxy resins.",
+    "32. Biodegradable compositions according to claim 31, characterized in that said carbodiimides are aliphatic carbodiimides.",
+    "33. Biodegradable compositions according to claim 31, characterized in that said epoxy resins are epoxidized polymethacrylates.",
+    "34. Biodegradable compositions according to claim 33, characterized in that said epoxidized polymethacrylates are of the glycidyl type.",
+    "35. Biodegradable compositions according to claim 34, characterized in that said epoxidized polymethacrylate of the glycidyl type is a poly epoxy propyl methacrylate.",
+    "36. Biodegradable compositions according to claim 1, characterized in that said dimensions of the particles of the dispersed starch phase (B) and said reduction in the dimensions and in the number of the typical lamellar structures of the dispersed phase (C) ate obtained by processing the components of said compositions in an extruder, or other machine capable of providing conditions of temperature and shear that determine such reduction in the dimensions of the particles and of the number of the typical lamellar structures.",
+    "37. Film produced with multiphase biodegradable compositions as claimed in claim 1.",
+    "38. Bags or sacks extruded or thermoformed, laminated with paper, aluminium, plastic and bioplastics, multiperforated produced with film according to claim 37.",
+    "39. Use of bags according to claim 38 for carrying goods, for food packaging, breathable bags for fruit and vegetables, bags for bread and other food products.",
+    "40. Substantially water insoluble biodegradable multiphase compositions according to claim 1.",
+    "41. Textiles articles or non-woven fabric for clothing, co-extruded fibers or spun-bonded, hygiene and industrial products, including fishing nets or nets for fruit and vegetables produced with the substantially water insoluble biodegradable multiphase compositions of claim 40."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "ITMI2006A001845",
+      "filing_date": "2006-09-27"
+    },
+    {
+      "application_number": "IT001845A",
+      "representative_publication": "ITMI20061845A1",
+      "primary_language": "en",
+      "priority_date": "2006-09-27",
+      "filing_date": "2006-09-27",
+      "title": "STYLE BIODEGRADABLE POLYPHASIC COMPOSITIONS BASED ON STARCH"
+    },
+    {
+      "application_number": "ITMI2006A1845",
+      "filing_date": "2006-09-27"
+    },
+    {
+      "application_number": "PCT/EP2007/060223",
+      "representative_publication": "WO2008037744A2",
+      "primary_language": "en",
+      "priority_date": "2006-09-27",
+      "filing_date": "2007-09-26",
+      "title": "Biodegradable multiphase compositions based on starch"
+    }
+  ],
+  "family_id": "37775319",
+  "patent_citations": {
+    "family_to_family": [
+      {
+        "publication_number": "IL93620A0",
+        "primary_language": "en",
+        "priority_date": "1989-03-09",
+        "publication_date": "1990-12-23",
+        "assignee_original": "Butterfly Srl",
+        "title": "Biodegradable articles based on starch and process for producing them",
+        "patent_id": "patent/IL93620A0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIL93620A0%2Fen"
+      },
+      {
+        "publication_number": "IT1233599B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-05-30",
+        "publication_date": "1992-04-06",
+        "assignee_original": "Butterfly Srl",
+        "title": "POLYMERIC COMPOSITIONS FOR THE PRODUCTION OF BIODEGRADABLE PLASTIC ITEMS AND PROCEDURES FOR THEIR PREPARATION",
+        "patent_id": "patent/IT1233599B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1233599B%2Fen"
+      },
+      {
+        "publication_number": "DE69220754T2",
+        "primary_language": "en",
+        "priority_date": "1991-05-03",
+        "publication_date": "1997-12-04",
+        "assignee_original": "Novamont S.P.A., Novara",
+        "title": "Biodegradable polymer masses based on starch and thermoplastic polymers",
+        "patent_id": "patent/DE69220754T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69220754T2%2Fen"
+      },
+      {
+        "publication_number": "US5256711A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1991-10-04",
+        "publication_date": "1993-10-26",
+        "assignee_original": "Director-General Of Agency Of Industrial Science",
+        "title": "Starch-containing biodegradable plastic and method of producing same",
+        "patent_id": "patent/US5256711A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5256711A%2Fen"
+      },
+      {
+        "publication_number": "DE69730852T2",
+        "primary_language": "en",
+        "priority_date": "1996-11-05",
+        "publication_date": "2005-09-22",
+        "assignee_original": "Novamont S.P.A.",
+        "title": "BIODEGRADABLE POLYMER COMPOSITIONS CONTAINING STARCH AND A THERMOPLASTIC POLYMER",
+        "patent_id": "patent/DE69730852T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69730852T2%2Fen"
+      },
+      {
+        "publication_number": "US5883199A",
+        "primary_language": "en",
+        "priority_date": "1997-04-03",
+        "publication_date": "1999-03-16",
+        "assignee_original": "University Of Massachusetts",
+        "title": "Polyactic acid-based blends",
+        "patent_id": "patent/US5883199A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5883199A%2Fen"
+      },
+      {
+        "publication_number": "ITTO980524A1",
+        "primary_language": "en",
+        "priority_date": "1998-06-17",
+        "publication_date": "1999-12-17",
+        "assignee_original": "Novamont Spa",
+        "title": "COMPOSITIONS CONTAINING STARCH WITH HIGH RESISTANCE TO AGING.",
+        "patent_id": "patent/ITTO980524A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITTO980524A1%2Fen"
+      },
+      {
+        "publication_number": "US6228920B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-07-10",
+        "publication_date": "2001-05-08",
+        "assignee_original": "Kimberly-Clark Woldwide, Inc.",
+        "title": "Compositions and process for making water soluble polyethylene oxide films with enhanced toughness and improved melt rheology and tear resistance",
+        "patent_id": "patent/US6228920B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6228920B1%2Fen"
+      },
+      {
+        "publication_number": "IT1305576B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1998-09-22",
+        "publication_date": "2001-05-09",
+        "assignee_original": "Novamont Spa",
+        "title": "HYDROPHOBIC CHARACTER POLYMERS LOADED WITH STARCH COMPLEXES.",
+        "patent_id": "patent/IT1305576B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FIT1305576B1%2Fen"
+      },
+      {
+        "publication_number": "US6573340B1",
+        "primary_language": "en",
+        "priority_date": "2000-08-23",
+        "publication_date": "2003-06-03",
+        "assignee_original": "Biotec Biologische Naturverpackungen Gmbh & Co. Kg",
+        "title": "Biodegradable polymer films and sheets suitable for use as laminate coatings as well as wraps and other packaging materials",
+        "patent_id": "patent/US6573340B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6573340B1%2Fen"
+      },
+      {
+        "publication_number": "ITTO20010063A1",
+        "primary_language": "en",
+        "priority_date": "2001-01-25",
+        "publication_date": "2002-07-25",
+        "assignee_original": "Novamont Spa",
+        "title": "BINARY MIXTURES OF BIODEGRADABLE AROMATIC-ALIPHATIC POLYESTERS AND PRODUCTS OBTAINED FROM THESE.",
+        "patent_id": "patent/ITTO20010063A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITTO20010063A1%2Fen"
+      },
+      {
+        "publication_number": "ITTO20010061A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-25",
+        "publication_date": "2002-07-25",
+        "assignee_original": "Novamont Spa",
+        "title": "BINARY MIXTURES OF BIODEGRADABLE ALIPHATIC POLYESTERS AND PRODUCTS OBTAINED FROM THESE.",
+        "patent_id": "patent/ITTO20010061A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITTO20010061A1%2Fen"
+      },
+      {
+        "publication_number": "ITTO20010057A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-01-25",
+        "publication_date": "2002-07-25",
+        "assignee_original": "Novamont Spa",
+        "title": "BIODEGRADABLE POLYESTER TERNARY MIXTURES AND PRODUCTS OBTAINED FROM THESE.",
+        "patent_id": "patent/ITTO20010057A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITTO20010057A1%2Fen"
+      },
+      {
+        "publication_number": "US7172814B2",
+        "primary_language": "en",
+        "priority_date": "2003-06-03",
+        "publication_date": "2007-02-06",
+        "assignee_original": "Bio-Tec Biologische Naturverpackungen Gmbh & Co",
+        "title": "Fibrous sheets coated or impregnated with biodegradable polymers or polymers blends",
+        "patent_id": "patent/US7172814B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7172814B2%2Fen"
+      },
+      {
+        "publication_number": "ITMI20050452A1",
+        "primary_language": "en",
+        "priority_date": "2005-03-18",
+        "publication_date": "2006-09-19",
+        "assignee_original": "Novamont Spa",
+        "title": "ALYPATIC-AROMATIC BIODEGRADABLE POLYESTER",
+        "patent_id": "patent/ITMI20050452A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITMI20050452A1%2Fen"
+      },
+      {
+        "publication_number": "CN1752137A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-05-19",
+        "publication_date": "2006-03-29",
+        "assignee_original": "\u6b66\u6c49\u534e\u4e3d\u73af\u4fdd\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable starch plastic, its preparation method and use",
+        "patent_id": "patent/CN1752137A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN1752137A%2Fen"
+      },
+      {
+        "publication_number": "ITMI20061844A1",
+        "primary_language": "en",
+        "priority_date": "2006-09-27",
+        "publication_date": "2008-03-28",
+        "assignee_original": "Novamont Spa",
+        "title": "BIODEGRADABLE COMPOSITIONS BASED ON NANOPARTICELLAR STARCH",
+        "patent_id": "patent/ITMI20061844A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITMI20061844A1%2Fen"
+      },
+      {
+        "publication_number": "ITMI20061845A1",
+        "primary_language": "en",
+        "priority_date": "2006-09-27",
+        "publication_date": "2008-03-28",
+        "assignee_original": "Novamont Spa",
+        "title": "STYLE BIODEGRADABLE POLYPHASIC COMPOSITIONS BASED ON STARCH",
+        "patent_id": "patent/ITMI20061845A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITMI20061845A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20070123612A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-05",
+        "publication_date": "2007-05-31",
+        "assignee_original": "Catia Bastioli",
+        "title": "Biodegradable polymeric compositions comprising starch and a thermoplastic polymer",
+        "patent_id": "patent/US20070123612A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070123612A1%2Fen"
+      },
+      {
+        "publication_number": "US20080287592A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-04-29",
+        "publication_date": "2008-11-20",
+        "assignee_original": "Polyvalor, Limited Partnership",
+        "title": "Thermoplastic Starch and Synthetic Polymer Blends and Method of Making",
+        "patent_id": "patent/US20080287592A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080287592A1%2Fen"
+      },
+      {
+        "publication_number": "US20130096236A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-25",
+        "publication_date": "2013-04-18",
+        "assignee_original": "Roquette Freres",
+        "title": "Plant material compositions and method for preparing same",
+        "patent_id": "patent/US20130096236A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130096236A1%2Fen"
+      },
+      {
+        "publication_number": "JP2013537578A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-06",
+        "publication_date": "2013-10-03",
+        "assignee_original": "\u30ce\u30d0\u30e2\u30f3\u30c8\u30fb\u30bd\u30b7\u30a8\u30bf\u30fb\u30da\u30eb\u30fb\u30a2\u30c1\u30aa\u30cb",
+        "title": "Multiphase biodegradable composition comprising at least one plant-derived polymer",
+        "patent_id": "patent/JP2013537578A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013537578A%2Fen"
+      },
+      {
+        "publication_number": "US20140005299A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-27",
+        "publication_date": "2014-01-02",
+        "assignee_original": "Industrial Technology Research Institute",
+        "title": "Flame-retardant thermoplastic starch material, flame-retardant thermoplastic starch-based bio-composite, and method for manufacturing the same",
+        "patent_id": "patent/US20140005299A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140005299A1%2Fen"
+      },
+      {
+        "publication_number": "US20140303291A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-11-15",
+        "publication_date": "2014-10-09",
+        "assignee_original": "Showa Denko K.K.",
+        "title": "Biodegradable resin composition, and biodegradable film",
+        "patent_id": "patent/US20140303291A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140303291A1%2Fen"
+      },
+      {
+        "publication_number": "US20150233061A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-17",
+        "publication_date": "2015-08-20",
+        "assignee_original": "Cj Cheiljedang Corporation",
+        "title": "Composition for Sheet Using Biomass, Eco-Friendly Composite Sheet, and Fabrication Method for Thereof",
+        "patent_id": "patent/US20150233061A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150233061A1%2Fen"
+      },
+      {
+        "publication_number": "US20160060451A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-04-10",
+        "publication_date": "2016-03-03",
+        "assignee_original": "Bio-Tec Biologische Naturverpackungen Gmbh & Co. Kg",
+        "title": "Polymer composition",
+        "patent_id": "patent/US20160060451A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160060451A1%2Fen"
+      },
+      {
+        "publication_number": "US10975213B2",
+        "primary_language": "en",
+        "priority_date": "2018-08-13",
+        "publication_date": "2021-04-13",
+        "assignee_original": "Erthos Inc.",
+        "title": "Composition and method of making biodegradable pellets",
+        "patent_id": "patent/US10975213B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10975213B2%2Fen"
+      },
+      {
+        "publication_number": "US11807741B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-30",
+        "publication_date": "2023-11-07",
+        "assignee_original": "BiologiQ, Inc.",
+        "title": "Articles formed with renewable green plastic materials and starch-based polymeric materials lending increased biodegradability",
+        "patent_id": "patent/US11807741B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11807741B2%2Fen"
+      },
+      {
+        "publication_number": "US11879058B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-30",
+        "publication_date": "2024-01-23",
+        "assignee_original": "Biologiq, Inc",
+        "title": "Yarn materials and fibers including starch-based polymeric materials",
+        "patent_id": "patent/US11879058B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11879058B2%2Fen"
+      },
+      {
+        "publication_number": "US11926940B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-30",
+        "publication_date": "2024-03-12",
+        "assignee_original": "BiologiQ, Inc.",
+        "title": "Spunbond nonwoven materials and fibers including starch-based polymeric materials",
+        "patent_id": "patent/US11926940B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11926940B2%2Fen"
+      },
+      {
+        "publication_number": "US11926929B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-30",
+        "publication_date": "2024-03-12",
+        "assignee_original": "Biologiq, Inc",
+        "title": "Melt blown nonwoven materials and fibers including starch-based polymeric materials",
+        "patent_id": "patent/US11926929B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11926929B2%2Fen"
+      },
+      {
+        "publication_number": "US12291636B2",
+        "primary_language": "en",
+        "priority_date": "2021-01-29",
+        "publication_date": "2025-05-06",
+        "assignee_original": "Erthos, Inc.",
+        "title": "Biodegradable polymeric material, biodegradable products and methods of manufacture and use therefor",
+        "patent_id": "patent/US12291636B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12291636B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "ITMI20061845A1",
+        "primary_language": "en",
+        "priority_date": "2006-09-27",
+        "publication_date": "2008-03-28",
+        "assignee_original": "Novamont Spa",
+        "title": "STYLE BIODEGRADABLE POLYPHASIC COMPOSITIONS BASED ON STARCH",
+        "patent_id": "patent/ITMI20061845A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FITMI20061845A1%2Fen"
+      },
+      {
+        "publication_number": "MY156373A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-06",
+        "publication_date": "2016-02-15",
+        "assignee_original": "Tristano Pty Ltd",
+        "title": "Biodegradable polymer composition",
+        "patent_id": "patent/MY156373A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FMY156373A%2Fen"
+      },
+      {
+        "publication_number": "US8974881B2",
+        "primary_language": "en",
+        "priority_date": "2008-12-26",
+        "publication_date": "2015-03-10",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Resin composition, film, bag product and production process of resin composition",
+        "patent_id": "patent/US8974881B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8974881B2%2Fen"
+      },
+      {
+        "publication_number": "US20120016328A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-19",
+        "publication_date": "2012-01-19",
+        "assignee_original": "Bo Shi",
+        "title": "Biodegradable films",
+        "patent_id": "patent/US20120016328A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120016328A1%2Fen"
+      },
+      {
+        "publication_number": "GB2489934B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-08",
+        "publication_date": "2015-11-25",
+        "assignee_original": "Innovia Films Ltd",
+        "title": "Film",
+        "patent_id": "patent/GB2489934B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2489934B%2Fen"
+      },
+      {
+        "publication_number": "CN104470986B",
+        "primary_language": "en",
+        "priority_date": "2012-05-31",
+        "publication_date": "2017-09-15",
+        "assignee_original": "\u6c99\u7279\u57fa\u7840\u5de5\u4e1a\u516c\u53f8",
+        "title": "biaxially stretched product",
+        "patent_id": "patent/CN104470986B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104470986B%2Fen"
+      },
+      {
+        "publication_number": "WO2015071396A1",
+        "primary_language": "en",
+        "priority_date": "2013-11-14",
+        "publication_date": "2015-05-21",
+        "assignee_original": "Saudi Basic Industries Corporation",
+        "title": "Bi-axially stretched article and silage film",
+        "patent_id": "patent/WO2015071396A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015071396A1%2Fen"
+      },
+      {
+        "publication_number": "JP2017513974A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-09",
+        "publication_date": "2017-06-01",
+        "assignee_original": "\u30b5\u30a6\u30c7\u30a3 \u30d9\u30fc\u30b7\u30c3\u30af \u30a4\u30f3\u30c0\u30b9\u30c8\u30ea\u30fc\u30ba \u30b3\u30fc\u30dd\u30ec\u30a4\u30b7\u30e7\u30f3",
+        "title": "Silage film",
+        "patent_id": "patent/JP2017513974A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017513974A%2Fen"
+      },
+      {
+        "publication_number": "CN104777025A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-24",
+        "publication_date": "2015-07-15",
+        "assignee_original": "\u7518\u8083\u519c\u4e1a\u5927\u5b66",
+        "title": "Method for preparing scanning electron microscope sample of silage corn leaf",
+        "patent_id": "patent/CN104777025A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104777025A%2Fen"
+      },
+      {
+        "publication_number": "US11674018B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-30",
+        "publication_date": "2023-06-13",
+        "assignee_original": "BiologiQ, Inc.",
+        "title": "Polymer and carbohydrate-based polymeric material blends with particular particle size characteristics",
+        "patent_id": "patent/US11674018B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11674018B2%2Fen"
+      },
+      {
+        "publication_number": "US11046840B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-30",
+        "publication_date": "2021-06-29",
+        "assignee_original": "BiologiQ, Inc.",
+        "title": "Methods for lending biodegradability to non-biodegradable plastic materials",
+        "patent_id": "patent/US11046840B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11046840B2%2Fen"
+      },
+      {
+        "publication_number": "US11674014B2",
+        "primary_language": "en",
+        "priority_date": "2015-06-30",
+        "publication_date": "2023-06-13",
+        "assignee_original": "BiologiQ, Inc.",
+        "title": "Blending of small particle starch powder with synthetic polymers for increased strength and other properties",
+        "patent_id": "patent/US11674014B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11674014B2%2Fen"
+      },
+      {
+        "publication_number": "DE102016106852B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-13",
+        "publication_date": "2019-01-17",
+        "assignee_original": "Delfortgroup Ag",
+        "title": "Packaging paper for food and related manufacturing process",
+        "patent_id": "patent/DE102016106852B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102016106852B4%2Fen"
+      },
+      {
+        "publication_number": "WO2018025209A1",
+        "primary_language": "en",
+        "priority_date": "2016-08-02",
+        "publication_date": "2018-02-08",
+        "assignee_original": "Fitesa Germany Gmbh",
+        "title": "System and process for preparing polylactic acid nonwoven fabrics",
+        "patent_id": "patent/WO2018025209A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018025209A1%2Fen"
+      },
+      {
+        "publication_number": "US11441251B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-16",
+        "publication_date": "2022-09-13",
+        "assignee_original": "Fitesa Germany Gmbh",
+        "title": "Nonwoven fabrics comprising polylactic acid having improved strength and toughness",
+        "patent_id": "patent/US11441251B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11441251B2%2Fen"
+      },
+      {
+        "publication_number": "CN107556536B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-12",
+        "publication_date": "2021-02-12",
+        "assignee_original": "\u6c5f\u82cf\u91d1\u805a\u5408\u91d1\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Low-cost bio-based fully-degradable film and preparation method thereof",
+        "patent_id": "patent/CN107556536B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107556536B%2Fen"
+      },
+      {
+        "publication_number": "SK289234B6",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-13",
+        "publication_date": "2024-08-14",
+        "assignee_original": "Panara, A.S.",
+        "title": "Biodegradable polymer composition and process for its preparation",
+        "patent_id": "patent/SK289234B6/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FSK289234B6%2Fen"
+      },
+      {
+        "publication_number": "CN108795001B",
+        "primary_language": "en",
+        "priority_date": "2018-05-28",
+        "publication_date": "2020-04-07",
+        "assignee_original": "\u91d1\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable polymer composition and application thereof",
+        "patent_id": "patent/CN108795001B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108795001B%2Fen"
+      },
+      {
+        "publication_number": "RU2724250C1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-29",
+        "publication_date": "2020-06-22",
+        "assignee_original": "\u041e\u043e\u043e \"\u041a\u0440\u0430\u043c\u0431\u0438\u043e\u043f\u043b\u0430\u0441\u0442\"",
+        "title": "Method of producing biodegradable compositions",
+        "patent_id": "patent/RU2724250C1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2724250C1%2Fen"
+      },
+      {
+        "publication_number": "CN111234484B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-17",
+        "publication_date": "2021-11-16",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u5b81\u6ce2\u6750\u6599\u6280\u672f\u4e0e\u5de5\u7a0b\u7814\u7a76\u6240",
+        "title": "Full-bio-based degradable polylactic acid/starch composite material and preparation method thereof",
+        "patent_id": "patent/CN111234484B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111234484B%2Fen"
+      },
+      {
+        "publication_number": "CN115403902B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-27",
+        "publication_date": "2024-02-13",
+        "assignee_original": "\u91d1\u53d1\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Biodegradable material and preparation method thereof",
+        "patent_id": "patent/CN115403902B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115403902B%2Fen"
+      },
+      {
+        "publication_number": "EP4293079B1",
+        "primary_language": "en",
+        "priority_date": "2022-10-27",
+        "publication_date": "2025-04-16",
+        "assignee_original": "Basf Se",
+        "title": "Biodegradable polymer composition",
+        "patent_id": "patent/EP4293079B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4293079B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8101253B2",
+      "primary_language": "en",
+      "publication_date": "2012-01-24",
+      "title": "Biodegradable multiphase compositions based on starch",
+      "patent_id": "patent/US8101253B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8101253B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8043679B2",
+      "primary_language": "en",
+      "publication_date": "2011-10-25",
+      "title": "Biodegradable compositions based on nanoparticulate starch",
+      "patent_id": "patent/US8043679B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8043679B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5821286A",
+      "primary_language": "en",
+      "publication_date": "1998-10-13",
+      "title": "Biodegradable polyester and natural polymer compositions and films therefrom",
+      "patent_id": "patent/US5821286A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5821286A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8906488B2",
+      "primary_language": "en",
+      "publication_date": "2014-12-09",
+      "title": "Biodegradable blends and films having nano-structural features",
+      "patent_id": "patent/US8906488B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8906488B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2005120808A1",
+      "primary_language": "en",
+      "publication_date": "2005-12-22",
+      "title": "Process for the production of biodegradable films having improved mechanical properties",
+      "patent_id": "patent/WO2005120808A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2005120808A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7218650B2",
+      "primary_language": "en",
+      "publication_date": "2023-02-07",
+      "title": "Polyester resin composition and molded article",
+      "patent_id": "patent/JP7218650B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7218650B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1135129A",
+      "primary_language": "en",
+      "publication_date": "2010-05-28",
+      "title": "Biodegradable multiphase compositions based on starch",
+      "patent_id": "patent/HK1135129A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1135129A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2013049759A",
+      "primary_language": "en",
+      "publication_date": "2013-03-14",
+      "title": "Resin composition, molded product, film, and bag",
+      "patent_id": "patent/JP2013049759A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013049759A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "HK1134103A",
+      "primary_language": "en",
+      "publication_date": "2010-04-16",
+      "title": "Biodegradable compositions based on nanoparticulate starch",
+      "patent_id": "patent/HK1134103A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHK1134103A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2009-05-08",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "NOVAMONT S.P.A., ITALY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BASTIOLI, CATIA;FLORIDI, GIOVANNI;DEL TREDICI, GIANFRANCO;REEL/FRAME:022656/0538;SIGNING DATES FROM 20080420 TO 20090420"
+        },
+        {
+          "label": "Owner name",
+          "value": "NOVAMONT S.P.A., ITALY"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BASTIOLI, CATIA;FLORIDI, GIOVANNI;DEL TREDICI, GIANFRANCO;SIGNING DATES FROM 20080420 TO 20090420;REEL/FRAME:022656/0538"
+        }
+      ]
+    },
+    {
+      "date": "2012-01-04",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2015-07-24",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-24",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2021-12-15",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO SMALL (ORIGINAL EVENT CODE: SMAL); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-09-16",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2023-07-24",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 73
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 73
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 65
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 60
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "239000011159",
+        "name": "matrix material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229920001600",
+        "name": "hydrophobic polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000004014",
+        "name": "plasticizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "229920000728",
+        "name": "polyester",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000005014",
+        "name": "poly(hydroxyalkanoate)",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "229920000903",
+        "name": "polyhydroxyalkanoate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000000654",
+        "name": "additive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229920001169",
+        "name": "thermoplastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "name": "Glycerine",
+        "domain": "Chemical compound",
+        "smiles": "OCC(O)CO",
+        "inchi_key": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000007062",
+        "name": "hydrolysis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000006460",
+        "name": "hydrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229920000747",
+        "name": "poly(lactic acid)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004626",
+        "name": "polylactic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229920005989",
+        "name": "resin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000011347",
+        "name": "resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "JVTAAEKCZFNVCJ-REOHCLBHSA-N",
+        "name": "L-lactic acid",
+        "domain": "Chemical compound",
+        "smiles": "C[C@H](O)C(O)=O",
+        "inchi_key": "JVTAAEKCZFNVCJ-REOHCLBHSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "244000061456",
+        "name": "Solanum tuberosum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000002595",
+        "name": "Solanum tuberosum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "240000008042",
+        "name": "Zea mays",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000005824",
+        "name": "Zea mays ssp. parviglumis",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000002017",
+        "name": "Zea mays subsp mays",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000015572",
+        "name": "biosynthetic process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000005822",
+        "name": "corn",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000002009",
+        "name": "diols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003822",
+        "name": "epoxy resin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "235000012055",
+        "name": "fruits and vegetables",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "125000003055",
+        "name": "glycidyl group",
+        "domain": "Chemical group",
+        "smiles": "C(C1CO1)*",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "LNEPOXFFQSENCJ-UHFFFAOYSA-N",
+        "name": "haloperidol",
+        "domain": "Chemical compound",
+        "smiles": "C1CC(O)(C=2C=CC(Cl)=CC=2)CCN1CCCC(=O)C1=CC=C(F)C=C1",
+        "inchi_key": "LNEPOXFFQSENCJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000002978",
+        "name": "peroxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000647",
+        "name": "polyepoxide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920000193",
+        "name": "polymethacrylate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920001592",
+        "name": "potato starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000003381",
+        "name": "stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "LCFVJGUPQDGYKZ-UHFFFAOYSA-N",
+        "name": "Bisphenol A diglycidyl ether",
+        "domain": "Chemical compound",
+        "smiles": "C=1C=C(OCC2OC2)C=CC=1C(C)(C)C(C=C1)=CC=C1OCC1CO1",
+        "inchi_key": "LCFVJGUPQDGYKZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004970",
+        "name": "Chain extender",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920002261",
+        "name": "Corn starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000881",
+        "name": "Modified starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "-1",
+        "name": "aliphatic carbodiimides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "125000001931",
+        "name": "aliphatic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000314",
+        "name": "lubricant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019426",
+        "name": "modified starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "BDJRBEYXGGNYIS-UHFFFAOYSA-N",
+        "name": "nonanedioic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CCCCCCCC(O)=O",
+        "inchi_key": "BDJRBEYXGGNYIS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000856",
+        "name": "Amylose",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "DPUOLQHDNGRHBS-UHFFFAOYSA-N",
+        "name": "Brassidinsaeure",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCC=CCCCCCCCCCCCC(O)=O",
+        "inchi_key": "DPUOLQHDNGRHBS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "FERIUCNNQQJTOY-UHFFFAOYSA-M",
+        "name": "Butyrate",
+        "domain": "Chemical compound",
+        "smiles": "CCCC([O-])=O",
+        "inchi_key": "FERIUCNNQQJTOY-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "FERIUCNNQQJTOY-UHFFFAOYSA-N",
+        "name": "Butyric acid",
+        "domain": "Natural products",
+        "smiles": "CCCC(O)=O",
+        "inchi_key": "FERIUCNNQQJTOY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229930182843",
+        "name": "D-Lactic acid",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "JVTAAEKCZFNVCJ-UWTATZPHSA-N",
+        "name": "D-lactic acid",
+        "domain": "Chemical compound",
+        "smiles": "C[C@@H](O)C(O)=O",
+        "inchi_key": "JVTAAEKCZFNVCJ-UWTATZPHSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004593",
+        "name": "Epoxy",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000003183",
+        "name": "Manihot esculenta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000016735",
+        "name": "Manihot esculenta subsp esculenta",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000007594",
+        "name": "Oryza sativa",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000007164",
+        "name": "Oryza sativa",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "240000004713",
+        "name": "Pisum sativum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000010582",
+        "name": "Pisum sativum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004952",
+        "name": "Polyamide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XBDQKXXYIPTUBI-UHFFFAOYSA-N",
+        "name": "Propionic acid",
+        "domain": "Chemical class",
+        "smiles": "CCC(O)=O",
+        "inchi_key": "XBDQKXXYIPTUBI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000021307",
+        "name": "Triticum",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012963",
+        "name": "UV stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000001242",
+        "name": "acetic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004411",
+        "name": "aluminium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003963",
+        "name": "antioxidant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002216",
+        "name": "antistatic agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000008429",
+        "name": "bread",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "125000002091",
+        "name": "cationic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003086",
+        "name": "colorant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920001577",
+        "name": "copolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940022769",
+        "name": "d- lactic acid",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000835",
+        "name": "fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003063",
+        "name": "flame retardant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011256",
+        "name": "inorganic filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004745",
+        "name": "nonwoven fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012766",
+        "name": "organic filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000002918",
+        "name": "oxazolines",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000013808",
+        "name": "oxidized starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000004806",
+        "name": "packaging method and process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000123",
+        "name": "paper",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002647",
+        "name": "polyamide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "NHARPDSAXCBDDR-UHFFFAOYSA-N",
+        "name": "propyl 2-methylprop-2-enoate",
+        "domain": "Chemical compound",
+        "smiles": "CCCOC(=O)C(C)=C",
+        "inchi_key": "NHARPDSAXCBDDR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000009566",
+        "name": "rice",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006467",
+        "name": "substitution reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004753",
+        "name": "textile",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "DXNCZXXFRKPEPY-UHFFFAOYSA-N",
+        "name": "tridecanedioic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CCCCCCCCCCCC(O)=O",
+        "inchi_key": "DXNCZXXFRKPEPY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000080",
+        "name": "wetting agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "WNLRTRBMVRJNCN-UHFFFAOYSA-N",
+        "name": "adipic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CCCCC(O)=O",
+        "inchi_key": "WNLRTRBMVRJNCN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000001718",
+        "name": "carbodiimides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "CXMXRPHRNRROMY-UHFFFAOYSA-N",
+        "name": "sebacic acid",
+        "domain": "Chemical compound",
+        "smiles": "OC(=O)CCCCCCCCC(O)=O",
+        "inchi_key": "CXMXRPHRNRROMY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920001685",
+        "name": "Amylomaize",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000209140",
+        "name": "Triticum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001361",
+        "name": "adipic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011037",
+        "name": "adipic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000704",
+        "name": "biodegradable plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008120",
+        "name": "corn starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000945",
+        "name": "filler",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004033",
+        "name": "plastic",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003023",
+        "name": "plastic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010408",
+        "name": "film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 18
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000001125",
+        "name": "extrusion",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000002209",
+        "name": "hydrophobic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+        "name": "Acetone",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)=O",
+        "inchi_key": "CSCPPACGZOOCGX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012512",
+        "name": "characterization method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920005839",
+        "name": "ecoflex\u00ae",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002985",
+        "name": "plastic film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000000047",
+        "name": "product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012798",
+        "name": "spherical particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+        "name": "Ethene",
+        "domain": "Chemical compound",
+        "smiles": "C=C",
+        "inchi_key": "VGGSQFUCUMXWEO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920006257",
+        "name": "Heat-shrinkable film",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000027321",
+        "name": "Lychnis chalcedonica",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004368",
+        "name": "Modified starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004698",
+        "name": "Polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000954",
+        "name": "Polyglycolide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000098338",
+        "name": "Triticum aestivum",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007792",
+        "name": "addition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002390",
+        "name": "adhesive tape",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003232",
+        "name": "aliphatic polyester",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002988",
+        "name": "biodegradable polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004621",
+        "name": "biodegradable polymer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009835",
+        "name": "boiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013351",
+        "name": "cheese",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007795",
+        "name": "chemical reaction product",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007872",
+        "name": "degassing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006073",
+        "name": "displacement reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005530",
+        "name": "etching",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012438",
+        "name": "extruded product",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008187",
+        "name": "granular material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001903",
+        "name": "high density polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004700",
+        "name": "high-density polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002347",
+        "name": "injection",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007924",
+        "name": "injection",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010030",
+        "name": "laminating",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001684",
+        "name": "low density polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004702",
+        "name": "low-density polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013372",
+        "name": "meat",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001179",
+        "name": "medium density polyethylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004701",
+        "name": "medium-density polyethylene",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001000",
+        "name": "micrograph",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001451",
+        "name": "organic peroxides",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920006255",
+        "name": "plastic film",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001748",
+        "name": "polybutylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004633",
+        "name": "polyglycolic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004460",
+        "name": "silage",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003786",
+        "name": "synthesis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010409",
+        "name": "thin film",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013618",
+        "name": "yogurt",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

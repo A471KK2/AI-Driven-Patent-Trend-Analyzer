@@ -1,0 +1,3585 @@
+{
+  "search_metadata": {
+    "id": "697a364f77e3d97a3c6ea2fc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1eae725345f53474/697a364f77e3d97a3c6ea2fc.json",
+    "created_at": "2026-01-28 16:16:15 UTC",
+    "processed_at": "2026-01-28 16:16:15 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20030124163A1/en",
+    "raw_html_file": "https://serpapi.com/searches/1eae725345f53474/697a364f77e3d97a3c6ea2fc.html",
+    "total_time_taken": 0.62
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20030124163A1/en"
+  },
+  "title": "Sprayable composition for insect control",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/d7/6e/7d/cb37c6561d1cd4/US20030124163A1.pdf",
+  "publication_number": "US20030124163A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "composition according",
+    "substance",
+    "phytotoxic",
+    "composition",
+    "active substance"
+  ],
+  "prior_art_date": "2000-01-14",
+  "application_number": "US10/181,074",
+  "inventors": [
+    {
+      "name": "Jan de Vlieger",
+      "link": "https://patents.google.com/?inventor=Jan+de+Vlieger",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Jan+de+Vlieger"
+    }
+  ],
+  "assignees": [
+    "Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek TNO"
+  ],
+  "priority_date": "2000-01-14",
+  "filing_date": "2001-01-15",
+  "publication_date": "2003-07-03",
+  "worldwide_applications": {
+    "2001": [
+      {
+        "filing_date": "2001-01-15",
+        "country_code": "WO",
+        "application_number": "PCT/NL2001/000023",
+        "document_id": "patent/WO2001050857A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2001-01-15",
+        "country_code": "AT",
+        "application_number": "AT01906392T",
+        "document_id": "patent/ATE256969T1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "IP Right Cessation"
+      },
+      {
+        "filing_date": "2001-01-15",
+        "country_code": "DE",
+        "application_number": "DE60101666T",
+        "document_id": "patent/DE60101666D1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2001-01-15",
+        "country_code": "AU",
+        "application_number": "AU2001234221A",
+        "document_id": "patent/AU2001234221A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      },
+      {
+        "filing_date": "2001-01-15",
+        "country_code": "EP",
+        "application_number": "EP01906392A",
+        "document_id": "patent/EP1246528B1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime"
+      },
+      {
+        "filing_date": "2001-01-15",
+        "country_code": "US",
+        "application_number": "US10/181,074",
+        "document_id": "patent/US20030124163A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-01-15",
+      "title": "Application filed by Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek TNO",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Nederlandse Organisatie voor Toegepast Natuurwetenschappelijk Onderzoek TNO"
+    },
+    {
+      "date": "2002-12-04",
+      "title": "Assigned to NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-",
+      "type": "reassignment",
+      "assignee_search": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: DE VLIEGER, JAN JACOBUS"
+      ]
+    },
+    {
+      "date": "2003-07-03",
+      "title": "Publication of US20030124163A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20030124163A1/en"
+    },
+    {
+      "date": "Status",
+      "title": "Abandoned",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20030124163.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10181074"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20030124163"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2003124163A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10181074/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20030124163"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/4d/d7/18/10cd8cb70d50ad/US20030124163A1-20030703-D00001.png"
+  ],
+  "classifications": [
+    {
+      "code": "A01N25/18",
+      "description": "Vapour or smoke emitting compositions with delayed or sustained release",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A sprayable composition suitable for releasing an active substance by vaporisation, comprises a dispersion of the active substance and a non-phytotoxic waxy substance such as a long-chain fatty acid in an aqueous solvent containing a primary stabiliser such as polyvinyl alcohol and optionally a binder such as sodium alginate. The composition is produced by (a) dissolving an active ingredient in the waxy substance, (b) dispersing the solution in an aqueous solvent containing the primary stabiliser, and (c) adding the binder, and optionally diluting the dispersion obtained in (b).",
+  "description_link": "https://serpapi.com/searches/697a364f77e3d97a3c6ea2fc/google_patents_details/description.html",
+  "claims": [
+    "1. A water-dilutable sprayable composition, suitable for releasing an active substance by vaporisation after spraying of the composition in a target environment, comprising a suspension of particles of between 10 and 500 \u03bcm of the active substance and a non-phytotoxic waxy substance in an aqueous solvent containing a primary stabiliser selected from hydroxylic and/or ethoxylated polymers.",
+    "2. A composition according to claim 1, in which said active substance is selected from semiochemicals, repellents, pesticides, fragrances, perfumes, and other volatile compounds.",
+    "3. A composition according to claim 1 or 2, in which said non-phytotoxic waxy substance has a melting point below 150\u00b0 C. and a boiling point above the boiling point of said active substance.",
+    "4. A composition according to any one of claims 1-3, in which said non-phytotoxic waxy substance is selected from biodegradable waxes, fatty acids, fatty acid amides, hydroxylic fatty acid esters, fatty alcohols, and low molecular weight polyesters.",
+    "5. A composition according to any one of claims 1-4, in which said primary stabiliser comprises polyvinyl alcohol.",
+    "6. A composition according to any one of claims 1-5, in which said dispersion further comprises a binder, preferably a polysaccharide or a polymeric acid.",
+    "7. A composition according to any one claims 1-6, in which said dispersion further comprises an antioxidant and/or a UV absorber.",
+    "8. A composition according to any one of claims 1-7, in which said active substance is dissolved in said non-phytotoxic waxy substance in a concentration of between 5 and 20% by weight.",
+    "9. A composition according to any one of claims 1-8, which is water-miscible at a temperature of 25\u00b0 C.",
+    "10. A composition according to any one of claims 1-9, in which said non-phytotoxic waxy substance is a wax not containing polar groups, and the composition further comprises a polar emulsifier, in particular a metal salt of a water-insoluble fatty acid.",
+    "11. A process for producing a sprayable composition suitable for releasing an active substance, comprising the steps of: \n(a) dissolving an active ingredient in a non-phytotoxic waxy substance to obtain a solution;  (b) dispersing the solution obtained in (a) in an aqueous solvent containing a primary stabiliser selected from hydroxylic and/or ethoxylated polymers to obtain a dispersion of particles with an average particle size of at least 10 \u03bcm;  (c) adding a binder, and optionally diluting the dispesion obtained in (b).",
+    "12. A process according to claim 11, in which dispersion step (b) is carried out at a temperature above the melting temperature of said non-phytotoxic waxy substance, and said addition step (c) is carried at a temperature below 30\u00b0 C.",
+    "13. A method of controlling plague organisms, comprising spraying a composition according to any one of claims 1-9 into the environment of said plague organism."
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "EP00200140.2",
+      "filing_date": "2000-01-14"
+    },
+    {
+      "application_number": "EP00200140",
+      "filing_date": "2000-01-14"
+    }
+  ],
+  "family_id": "8170913",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6001346A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-02-25",
+        "publication_date": "1999-12-14",
+        "assignee_original": "The Regents Of The University Of California",
+        "title": "Aqueous emulsion comprising biodegradable carrier for insect pheromones and methods for controlled release thereof",
+        "patent_id": "patent/US6001346A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6001346A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "PL255501A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1984-11-14",
+        "publication_date": "1987-06-01",
+        "assignee_original": "Henkel Kgaa",
+        "title": "Water evaporation retarding additive and method of obtaining the same",
+        "patent_id": "patent/PL255501A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FPL255501A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20070071786A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-09-27",
+        "publication_date": "2007-03-29",
+        "assignee_original": "Suterra Llc",
+        "title": "Wax emulsion compositions for attracting insects and methods of using the same",
+        "patent_id": "patent/US20070071786A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070071786A1%2Fen"
+      },
+      {
+        "publication_number": "US20130302446A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-28",
+        "publication_date": "2013-11-14",
+        "assignee_original": "Deepak Pranjivandas Shah",
+        "title": "Pesticidal composition comprising sulphur, an insecticide and an agrochemical excipient",
+        "patent_id": "patent/US20130302446A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130302446A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "GB2436288B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-24",
+        "publication_date": "2010-11-03",
+        "assignee_original": "Exosect Ltd",
+        "title": "Solid wax matrix lure",
+        "patent_id": "patent/GB2436288B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2436288B%2Fen"
+      },
+      {
+        "publication_number": "US7887828B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-11-07",
+        "publication_date": "2011-02-15",
+        "assignee_original": "Isca Technologies, Inc.",
+        "title": "Dual action organic formulation to control two stages of insect pests",
+        "patent_id": "patent/US7887828B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7887828B2%2Fen"
+      },
+      {
+        "publication_number": "DE102012221966B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-30",
+        "publication_date": "2017-01-19",
+        "assignee_original": "Susanne Matthies",
+        "title": "Composition for the defense of larvae in living beings, especially in horses",
+        "patent_id": "patent/DE102012221966B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102012221966B4%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US4353962A",
+      "primary_language": "en",
+      "publication_date": "1982-10-12",
+      "title": "In-flight encapsulation of particles",
+      "patent_id": "patent/US4353962A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4353962A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5547918A",
+      "primary_language": "en",
+      "publication_date": "1996-08-20",
+      "title": "Biocidal and agrochemical suspensions comprising a structured surfactant with an oil component",
+      "patent_id": "patent/US5547918A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5547918A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5674514A",
+      "primary_language": "en",
+      "publication_date": "1997-10-07",
+      "title": "Storage stable pesticidal aqueous emulsions",
+      "patent_id": "patent/US5674514A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5674514A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0381691B1",
+      "primary_language": "en",
+      "publication_date": "1992-10-07",
+      "title": "Latex-based agricultural compositions",
+      "patent_id": "patent/EP0381691B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0381691B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20000022165A",
+      "primary_language": "en",
+      "publication_date": "2000-04-25",
+      "title": "Insecticide composition",
+      "patent_id": "patent/KR20000022165A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20000022165A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CZ286754B6",
+      "primary_language": "en",
+      "publication_date": "2000-06-14",
+      "title": "Suspension for biocidal and agrochemical purposes",
+      "patent_id": "patent/CZ286754B6/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCZ286754B6%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RS50001B",
+      "primary_language": "en",
+      "publication_date": "2008-09-29",
+      "title": "TENSID / DISSOLUTION SYSTEMS",
+      "patent_id": "patent/RS50001B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRS50001B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2090068C1",
+      "primary_language": "en",
+      "publication_date": "1997-09-20",
+      "title": "Pesticide composition and water-diluted composition ready for using",
+      "patent_id": "patent/RU2090068C1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2090068C1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0131762B1",
+      "primary_language": "en",
+      "publication_date": "1991-01-23",
+      "title": "Agricultural chemical preparation in the form of aqueous suspension",
+      "patent_id": "patent/EP0131762B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0131762B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1246528B1",
+      "primary_language": "en",
+      "publication_date": "2004-01-02",
+      "title": "Sprayable composition for insect control",
+      "patent_id": "patent/EP1246528B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1246528B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US4424642A",
+      "primary_language": "en",
+      "publication_date": "1984-01-10",
+      "title": "Water strippable adhesive",
+      "patent_id": "patent/US4424642A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4424642A%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "1161926943957965506",
+      "scholar_authors": "Knowles",
+      "publication_date": "1998",
+      "title": "Formulation of agrochemicals",
+      "patent_id": "scholar/1161926943957965506",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F1161926943957965506"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002363005A",
+      "primary_language": "en",
+      "publication_date": "2002-12-18",
+      "title": "Stabilized agricultural aqueous suspension",
+      "patent_id": "patent/JP2002363005A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002363005A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPS6312441B2",
+      "primary_language": "en",
+      "publication_date": "1988-03-18",
+      "patent_id": "patent/JPS6312441B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS6312441B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6215355B2",
+      "primary_language": "en",
+      "publication_date": "2017-10-18",
+      "title": "Method for preparing an aqueous suspension formulation",
+      "patent_id": "patent/JP6215355B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6215355B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2761902B2",
+      "primary_language": "en",
+      "publication_date": "1998-06-04",
+      "title": "Oil-in-water suspension pesticide composition with good storage stability",
+      "patent_id": "patent/JP2761902B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2761902B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP1100328B1",
+      "primary_language": "en",
+      "publication_date": "2004-04-21",
+      "title": "Liquid formulation",
+      "patent_id": "patent/EP1100328B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP1100328B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JPS62242601A",
+      "primary_language": "en",
+      "publication_date": "1987-10-23",
+      "title": "Oil-in-water suspension pesticide composition with good storage stability",
+      "patent_id": "patent/JPS62242601A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS62242601A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2002-12-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST-, NETHERLAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:DE VLIEGER, JAN JACOBUS;REEL/FRAME:013543/0965"
+        },
+        {
+          "label": "Effective date",
+          "value": "20021106"
+        }
+      ]
+    },
+    {
+      "date": "2005-01-13",
+      "code": "STCB",
+      "title": "Information on status: application discontinuation",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ABANDONED  --  FAILURE TO RESPOND TO AN OFFICE ACTION"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 50
+      },
+      {
+        "id": "241000238631",
+        "name": "Hexapoda",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000126",
+        "name": "substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 33
+      },
+      {
+        "id": "239000013543",
+        "name": "active substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 24
+      },
+      {
+        "id": "239000006185",
+        "name": "dispersion",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 23
+      },
+      {
+        "id": "239000003381",
+        "name": "stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 20
+      },
+      {
+        "id": "229920002451",
+        "name": "polyvinyl alcohol",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "239000011230",
+        "name": "binding agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000004372",
+        "name": "Polyvinyl alcohol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "231100001184",
+        "name": "nonphytotoxic",
+        "domain": "Toxicity",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000003125",
+        "name": "aqueous solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000004480",
+        "name": "active ingredient",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000009834",
+        "name": "vaporization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000007865",
+        "name": "diluting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005507",
+        "name": "spraying",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "239000002245",
+        "name": "particle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "235000014113",
+        "name": "dietary fatty acids",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000000194",
+        "name": "fatty acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "229930195729",
+        "name": "fatty acid",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000003995",
+        "name": "emulsifying agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000001993",
+        "name": "wax",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000006096",
+        "name": "absorbing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "239000003963",
+        "name": "antioxidant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000009835",
+        "name": "boiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "150000004665",
+        "name": "fatty acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "-1",
+        "name": "fatty acid esters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000002844",
+        "name": "melting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000008018",
+        "name": "melting",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "239000000725",
+        "name": "suspension",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000003078",
+        "name": "antioxidant effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "150000003839",
+        "name": "salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000005871",
+        "name": "repellent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000002940",
+        "name": "repellent",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "150000002191",
+        "name": "fatty alcohols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000575",
+        "name": "pesticide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000003205",
+        "name": "fragrance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000004676",
+        "name": "glycans",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002304",
+        "name": "perfume",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920000728",
+        "name": "polyester",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920001282",
+        "name": "polysaccharide",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000005017",
+        "name": "polysaccharide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003620",
+        "name": "semiochemical",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "206010035148",
+        "name": "Plague",
+        "domain": "Diseases",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241000607479",
+        "name": "Yersinia pestis",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "claims"
+        ],
+        "count": 2
+      },
+      {
+        "id": "IXPNQXFRVYWDDI-UHFFFAOYSA-N",
+        "name": "1-methyl-2,4-dioxo-1,3-diazinane-5-carboximidamide",
+        "domain": "Chemical compound",
+        "smiles": "CN1CC(C(N)=N)C(=O)NC1=O",
+        "inchi_key": "IXPNQXFRVYWDDI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000010413",
+        "name": "sodium alginate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000661",
+        "name": "sodium alginate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229940005550",
+        "name": "sodium alginate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000004668",
+        "name": "long chain fatty acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "abstract"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 21
+      },
+      {
+        "id": "239000000243",
+        "name": "solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000003756",
+        "name": "stirring",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "235000019422",
+        "name": "polyvinyl alcohol",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000003016",
+        "name": "pheromone",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "239000003921",
+        "name": "oil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "235000006708",
+        "name": "antioxidants",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "CDOSHBSSFJOMGT-UHFFFAOYSA-N",
+        "name": "linalool",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)=CCCC(C)(O)C=C",
+        "inchi_key": "CDOSHBSSFJOMGT-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "BGYHLZZASRKEJE-UHFFFAOYSA-N",
+        "name": "[3-[3-(3,5-ditert-butyl-4-hydroxyphenyl)propanoyloxy]-2,2-bis[3-(3,5-ditert-butyl-4-hydroxyphenyl)propanoyloxymethyl]propyl] 3-(3,5-ditert-butyl-4-hydroxyphenyl)propanoate",
+        "domain": "Chemical compound",
+        "smiles": "CC(C)(C)C1=C(O)C(C(C)(C)C)=CC(CCC(=O)OCC(COC(=O)CCC=2C=C(C(O)=C(C=2)C(C)(C)C)C(C)(C)C)(COC(=O)CCC=2C=C(C(O)=C(C=2)C(C)(C)C)C(C)(C)C)COC(=O)CCC=2C=C(C(O)=C(C=2)C(C)(C)C)C(C)(C)C)=C1",
+        "inchi_key": "BGYHLZZASRKEJE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "150000007513",
+        "name": "acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "229920001577",
+        "name": "copolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000010790",
+        "name": "dilution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000012895",
+        "name": "dilution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000007921",
+        "name": "spray",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000004546",
+        "name": "suspension concentrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "235000021355",
+        "name": "Stearic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "125000004432",
+        "name": "carbon atom",
+        "domain": "Chemical group",
+        "smiles": "C*",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000001704",
+        "name": "evaporation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008020",
+        "name": "evaporation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+        "name": "octadecanoic acid",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCCCCCCCCCCC(O)=O",
+        "inchi_key": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "OQCDKBAXFALNLD-UHFFFAOYSA-N",
+        "name": "octadecanoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCC(C)CCCCCCCCC(O)=O",
+        "inchi_key": "OQCDKBAXFALNLD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "DXGLGDHPHMLXJC-UHFFFAOYSA-N",
+        "name": "oxybenzone",
+        "domain": "Chemical compound",
+        "smiles": "OC1=CC(OC)=CC=C1C(=O)C1=CC=CC=C1",
+        "inchi_key": "DXGLGDHPHMLXJC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229920002689",
+        "name": "polyvinyl acetate",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000011118",
+        "name": "polyvinyl acetate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000008117",
+        "name": "stearic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "239000001490",
+        "name": "(3R)-3,7-dimethylocta-1,6-dien-3-ol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "CDOSHBSSFJOMGT-JTQLQIEISA-N",
+        "name": "(R)-linalool",
+        "domain": "Natural products",
+        "smiles": "CC(C)=CCC[C@@](C)(O)C=C",
+        "inchi_key": "CDOSHBSSFJOMGT-JTQLQIEISA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920002472",
+        "name": "Starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000000839",
+        "name": "emulsion",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "150000002148",
+        "name": "esters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009472",
+        "name": "formulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229930007744",
+        "name": "linalool",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002609",
+        "name": "medium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "235000019698",
+        "name": "starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000008107",
+        "name": "starch",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000004094",
+        "name": "surface-active agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "QTBSBXVTEAMEQO-UHFFFAOYSA-M",
+        "name": "Acetate",
+        "domain": "Chemical compound",
+        "smiles": "CC([O-])=O",
+        "inchi_key": "QTBSBXVTEAMEQO-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "NLZUEZXRPGMBCV-UHFFFAOYSA-N",
+        "name": "Butylhydroxytoluene",
+        "domain": "Chemical compound",
+        "smiles": "CC1=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C1",
+        "inchi_key": "NLZUEZXRPGMBCV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "UBJVUCKUDDKUJF-UHFFFAOYSA-N",
+        "name": "Diallyl sulfide",
+        "domain": "Chemical compound",
+        "smiles": "C=CCSCC=C",
+        "inchi_key": "UBJVUCKUDDKUJF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LYCAIKOWRPUZTN-UHFFFAOYSA-N",
+        "name": "Ethylene glycol",
+        "domain": "Chemical compound",
+        "smiles": "OCCO",
+        "inchi_key": "LYCAIKOWRPUZTN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LHXDLQBQYFFVNW-UHFFFAOYSA-N",
+        "name": "Fenchone",
+        "domain": "Chemical compound",
+        "smiles": "C1CC2(C)C(=O)C(C)(C)C1C2",
+        "inchi_key": "LHXDLQBQYFFVNW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "DBMJMQXJHONAFJ-UHFFFAOYSA-M",
+        "name": "Sodium laurylsulphate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].CCCCCCCCCCCCOS([O-])(=O)=O",
+        "inchi_key": "DBMJMQXJHONAFJ-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920002125",
+        "name": "Sokalan\u00ae",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BTKXLQSCEOHKTF-SREVYHEPSA-N",
+        "name": "[(z)-hexadec-11-enyl] acetate",
+        "domain": "Chemical compound",
+        "smiles": "CCCC\\C=C/CCCCCCCCCCOC(C)=O",
+        "inchi_key": "BTKXLQSCEOHKTF-SREVYHEPSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "125000000217",
+        "name": "alkyl group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "125000000129",
+        "name": "anionic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004204",
+        "name": "candelilla wax",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000013868",
+        "name": "candelilla wax",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229940073532",
+        "name": "candelilla wax",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "150000001720",
+        "name": "carbohydrates",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000014633",
+        "name": "carbohydrates",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012876",
+        "name": "carrier material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "ULDHMXUKGWMISQ-UHFFFAOYSA-N",
+        "name": "carvone",
+        "domain": "Chemical compound",
+        "smiles": "CC(=C)C1CC=C(C)C(=O)C1",
+        "inchi_key": "ULDHMXUKGWMISQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012141",
+        "name": "concentrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013270",
+        "name": "controlled release",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002270",
+        "name": "dispersing agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "IUJAMGNYPWYUPM-UHFFFAOYSA-N",
+        "name": "hentriacontane",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+        "inchi_key": "IUJAMGNYPWYUPM-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007062",
+        "name": "hydrolysis",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000006460",
+        "name": "hydrolysis reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002209",
+        "name": "hydrophobic effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000012669",
+        "name": "liquid formulation",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000007774",
+        "name": "longterm",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "POULHZVOKOAJMA-UHFFFAOYSA-N",
+        "name": "methyl undecanoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCCCCC(O)=O",
+        "inchi_key": "POULHZVOKOAJMA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000003094",
+        "name": "microcapsule",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002156",
+        "name": "mixing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "IPCSVZSSVZVIGE-UHFFFAOYSA-N",
+        "name": "n-hexadecanoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCCCCCCCCC(O)=O",
+        "inchi_key": "IPCSVZSSVZVIGE-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004584",
+        "name": "polyacrylic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "235000019333",
+        "name": "sodium laurylsulphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "RYYKJJJTJZKILX-UHFFFAOYSA-M",
+        "name": "sodium octadecanoate",
+        "domain": "Chemical compound",
+        "smiles": "[Na+].CCCCCCCCCCCCCCCCCC([O-])=O",
+        "inchi_key": "RYYKJJJTJZKILX-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229920003169",
+        "name": "water-soluble polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "LHXDLQBQYFFVNW-XCBNKYQSSA-N",
+        "name": "(+)-Fenchone",
+        "domain": "Natural products",
+        "smiles": "C1C[C@]2(C)C(=O)C(C)(C)[C@H]1C2",
+        "inchi_key": "LHXDLQBQYFFVNW-XCBNKYQSSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WRIDQFICGBMAFQ-UHFFFAOYSA-N",
+        "name": "(E)-8-Octadecenoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCCC=CCCCCCCC(O)=O",
+        "inchi_key": "WRIDQFICGBMAFQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005681",
+        "name": "(Z)-11-Hexadecen-1-ol",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IIZPXYDJLKNOIY-JXPKJXOSSA-N",
+        "name": "1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine",
+        "domain": "Chemical compound",
+        "smiles": "CCCCCCCCCCCCCCCC(=O)OC[C@H](COP([O-])(=O)OCC[N+](C)(C)C)OC(=O)CCC\\C=C/C\\C=C/C\\C=C/C\\C=C/CCCCC",
+        "inchi_key": "IIZPXYDJLKNOIY-JXPKJXOSSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "YJINQJFQLQIYHX-PLNGDYQASA-N",
+        "name": "11Z-Tetradecenyl acetate",
+        "domain": "Chemical compound",
+        "smiles": "CC\\C=C/CCCCCCCCCCOC(C)=O",
+        "inchi_key": "YJINQJFQLQIYHX-PLNGDYQASA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RHVMNRHQWXIJIS-WAYWQWQTSA-N",
+        "name": "11Z-hexadecen-1-ol",
+        "domain": "Chemical compound",
+        "smiles": "CCCC\\C=C/CCCCCCCCCCO",
+        "inchi_key": "RHVMNRHQWXIJIS-WAYWQWQTSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LQJBNNIYVWPHFW-UHFFFAOYSA-N",
+        "name": "20:1omega9c fatty acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCCCC=CCCCCCCCC(O)=O",
+        "inchi_key": "LQJBNNIYVWPHFW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "FHVDTGUDJYJELY-UHFFFAOYSA-N",
+        "name": "6-{[2-carboxy-4,5-dihydroxy-6-(phosphanyloxy)oxan-3-yl]oxy}-4,5-dihydroxy-3-phosphanyloxane-2-carboxylic acid",
+        "domain": "Chemical class",
+        "smiles": "O1C(C(O)=O)C(P)C(O)C(O)C1OC1C(C(O)=O)OC(OP)C(O)C1O",
+        "inchi_key": "FHVDTGUDJYJELY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QSBYPNXLFMSGKH-UHFFFAOYSA-N",
+        "name": "9-Heptadecensaeure",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCC=CCCCCCCCC(O)=O",
+        "inchi_key": "QSBYPNXLFMSGKH-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000416162",
+        "name": "Astragalus gummifer",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "GAWIXWVDTYZWAW-UHFFFAOYSA-N",
+        "name": "C[CH]O",
+        "domain": "Chemical group",
+        "smiles": "C[CH]O",
+        "inchi_key": "GAWIXWVDTYZWAW-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004215",
+        "name": "Carbon black (E152)",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005973",
+        "name": "Carvone",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013912",
+        "name": "Ceratonia siliqua",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "240000008886",
+        "name": "Ceratonia siliqua",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000303965",
+        "name": "Cyamopsis psoralioides",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001353",
+        "name": "Dextrin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004375",
+        "name": "Dextrin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "241000196324",
+        "name": "Embryophyta",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "name": "Ethanol",
+        "domain": "Chemical compound",
+        "smiles": "CCO",
+        "inchi_key": "LFQSCWFLJHTTHZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "IAYPIBMASNFSPL-UHFFFAOYSA-N",
+        "name": "Ethylene oxide",
+        "domain": "Chemical compound",
+        "smiles": "C1CO1",
+        "inchi_key": "IAYPIBMASNFSPL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010010803",
+        "name": "Gelatin",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000084",
+        "name": "Gum arabic",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005913",
+        "name": "Maltodextrin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002774",
+        "name": "Maltodextrin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CERQOIWHTDAKMF-UHFFFAOYSA-N",
+        "name": "Methacrylic acid",
+        "domain": "Chemical compound",
+        "smiles": "CC(=C)C(O)=O",
+        "inchi_key": "CERQOIWHTDAKMF-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000881",
+        "name": "Modified starch",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005642",
+        "name": "Oleic acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZQPPMHVWECSIRJ-UHFFFAOYSA-N",
+        "name": "Oleic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCC=CCCCCCCCC(O)=O",
+        "inchi_key": "ZQPPMHVWECSIRJ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910019142",
+        "name": "PO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002845",
+        "name": "Poly(methacrylic acid)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004721",
+        "name": "Polyphenylene oxide",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001800",
+        "name": "Shellac",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010073771",
+        "name": "Soybean Proteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "CZMRCDWAGMRECN-UGDNZRGBSA-N",
+        "name": "Sucrose",
+        "domain": "Chemical compound",
+        "smiles": "O[C@H]1[C@H](O)[C@@H](CO)O[C@@]1(CO)O[C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O1",
+        "inchi_key": "CZMRCDWAGMRECN-UGDNZRGBSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229930006000",
+        "name": "Sucrose",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QAOWNCQODCNURD-UHFFFAOYSA-L",
+        "name": "Sulfate",
+        "domain": "Chemical compound",
+        "smiles": "[O-]S([O-])(=O)=O",
+        "inchi_key": "QAOWNCQODCNURD-UHFFFAOYSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001615",
+        "name": "Tragacanth",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "108010046377",
+        "name": "Whey Proteins",
+        "domain": "Proteins",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "102000007544",
+        "name": "Whey Proteins",
+        "domain": "Human genes",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RHVMNRHQWXIJIS-UHFFFAOYSA-N",
+        "name": "Z11-16:OH",
+        "domain": "Natural products",
+        "smiles": "CCCCC=CCCCCCCCCCCO",
+        "inchi_key": "RHVMNRHQWXIJIS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940072056",
+        "name": "alginate",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010443",
+        "name": "alginic acid",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000615",
+        "name": "alginic acid",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000001931",
+        "name": "aliphatic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052783",
+        "name": "alkali metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002877",
+        "name": "alkyl aryl group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WUOACPNHFRMFPN-UHFFFAOYSA-N",
+        "name": "alpha-terpineol",
+        "domain": "Chemical compound",
+        "smiles": "CC1=CCC(C(C)(C)O)CC1",
+        "inchi_key": "WUOACPNHFRMFPN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002280",
+        "name": "amphoteric surfactant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003945",
+        "name": "anionic surfactant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008365",
+        "name": "aqueous carrier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012736",
+        "name": "aqueous medium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007864",
+        "name": "aqueous solution",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003849",
+        "name": "aromatic solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000003118",
+        "name": "aryl group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005667",
+        "name": "attractant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "JXLHNMVSKXFWAO-UHFFFAOYSA-N",
+        "name": "azane;7-fluoro-2,1,3-benzoxadiazole-4-sulfonic acid",
+        "domain": "Chemical compound",
+        "smiles": "N.OS(=O)(=O)C1=CC=C(F)C2=NON=C12",
+        "inchi_key": "JXLHNMVSKXFWAO-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013871",
+        "name": "bee wax",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012166",
+        "name": "beeswax",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940092738",
+        "name": "beeswax",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001556",
+        "name": "benzimidazoles",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012965",
+        "name": "benzophenone",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000008366",
+        "name": "benzophenones",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001565",
+        "name": "benzotriazoles",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001222",
+        "name": "biopolymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002057",
+        "name": "carboxymethyl group",
+        "domain": "Chemical group",
+        "smiles": "[H]OC(=O)C([H])([H])[*]",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004203",
+        "name": "carnauba wax",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013869",
+        "name": "carnauba wax",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010418",
+        "name": "carrageenan",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000679",
+        "name": "carrageenan",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001525",
+        "name": "carrageenan",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940113118",
+        "name": "carrageenan",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000969",
+        "name": "carrier",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005266",
+        "name": "casting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002091",
+        "name": "cationic group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003093",
+        "name": "cationic surfactant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001913",
+        "name": "cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002678",
+        "name": "cellulose",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920003086",
+        "name": "cellulose ether",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003795",
+        "name": "chemical substances by application",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SQIFACVGCPWBQZ-UHFFFAOYSA-N",
+        "name": "delta-terpineol",
+        "domain": "Natural products",
+        "smiles": "CC(C)(O)C1CCC(=C)CC1",
+        "inchi_key": "SQIFACVGCPWBQZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019425",
+        "name": "dextrin",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003085",
+        "name": "diluting agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000428",
+        "name": "dust",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004495",
+        "name": "emulsifiable concentrate",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002170",
+        "name": "ethers",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002194",
+        "name": "fatty esters",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229930006735",
+        "name": "fenchone",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005187",
+        "name": "foaming",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013305",
+        "name": "food",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000159",
+        "name": "gelatin",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000008273",
+        "name": "gelatin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019322",
+        "name": "gelatine",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000011852",
+        "name": "gelatine desserts",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003906",
+        "name": "humectant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229930195733",
+        "name": "hydrocarbon",
+        "domain": "Natural products",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002430",
+        "name": "hydrocarbons",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000001183",
+        "name": "hydrocarbyl group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WGCNASOHLSPBMP-UHFFFAOYSA-N",
+        "name": "hydroxyacetaldehyde",
+        "domain": "Natural products",
+        "smiles": "OCC=O",
+        "inchi_key": "WGCNASOHLSPBMP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "125000002768",
+        "name": "hydroxyalkyl group",
+        "domain": "Chemical group",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011065",
+        "name": "in-situ storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000077",
+        "name": "insect repellent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "QXJSBBXBKPUZAA-UHFFFAOYSA-N",
+        "name": "isooleic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCC=CCCCCCCCCC(O)=O",
+        "inchi_key": "QXJSBBXBKPUZAA-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002576",
+        "name": "ketones",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000787",
+        "name": "lecithin",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010445",
+        "name": "lecithin",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940067606",
+        "name": "lecithin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000014759",
+        "name": "maintenance of location",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940035034",
+        "name": "maltodextrin",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000693",
+        "name": "micelle",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000019426",
+        "name": "modified starch",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012170",
+        "name": "montan wax",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WQEPLUUGTLDZJY-UHFFFAOYSA-N",
+        "name": "n-Pentadecanoic acid",
+        "domain": "Natural products",
+        "smiles": "CCCCCCCCCCCCCCC(O)=O",
+        "inchi_key": "WQEPLUUGTLDZJY-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002736",
+        "name": "nonionic surfactant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002888",
+        "name": "oleic acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003973",
+        "name": "paint",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012188",
+        "name": "paraffin wax",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000002989",
+        "name": "phenols",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021317",
+        "name": "phosphate",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004014",
+        "name": "plasticizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000162",
+        "name": "poly(ureaurethane)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001281",
+        "name": "polyalkylene",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000570",
+        "name": "polyether",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001296",
+        "name": "polysiloxane",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920002635",
+        "name": "polyurethane",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004814",
+        "name": "polyurethane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000036",
+        "name": "polyvinylpyrrolidone",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013855",
+        "name": "polyvinylpyrrolidone",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001267",
+        "name": "polyvinylpyrrolidone",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "MQOCIYICOGDBSG-UHFFFAOYSA-M",
+        "name": "potassium;hexadecanoate",
+        "domain": "Chemical compound",
+        "smiles": "[K+].CCCCCCCCCCCCCCCC([O-])=O",
+        "inchi_key": "MQOCIYICOGDBSG-UHFFFAOYSA-M",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000843",
+        "name": "powder",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001846",
+        "name": "repelling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "SMQUZDBALVYZAC-UHFFFAOYSA-N",
+        "name": "salicylaldehyde",
+        "domain": "Chemical compound",
+        "smiles": "OC1=CC=CC=C1C=O",
+        "inchi_key": "SMQUZDBALVYZAC-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920006395",
+        "name": "saturated elastomer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000003441",
+        "name": "saturated fatty acids",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004671",
+        "name": "saturated fatty acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004208",
+        "name": "shellac",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000013874",
+        "name": "shellac",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "ZLGIYFNHBLSMPS-ATJNOEHPSA-N",
+        "name": "shellac",
+        "domain": "Chemical compound",
+        "smiles": "OCCCCCC(O)C(O)CCCCCCCC(O)=O.C1C23[C@H](C(O)=O)CCC2[C@](C)(CO)[C@@H]1C(C(O)=O)=C[C@@H]3O",
+        "inchi_key": "ZLGIYFNHBLSMPS-ATJNOEHPSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940113147",
+        "name": "shellac",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002904",
+        "name": "solvent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940001941",
+        "name": "soy protein",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003019",
+        "name": "stabilising effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003890",
+        "name": "succinate salts",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005720",
+        "name": "sucrose",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000005846",
+        "name": "sugar alcohols",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003467",
+        "name": "sulfuric acid derivatives",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910021653",
+        "name": "sulphate ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000375",
+        "name": "suspending agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013268",
+        "name": "sustained release",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012730",
+        "name": "sustained-release form",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920001059",
+        "name": "synthetic polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000003505",
+        "name": "terpenes",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940116411",
+        "name": "terpineol",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000010487",
+        "name": "tragacanth",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000196",
+        "name": "tragacanth",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229940116362",
+        "name": "tragacanth",
+        "domain": "Drugs",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "YJINQJFQLQIYHX-UHFFFAOYSA-N",
+        "name": "trans-11-tetradecenyl acetate",
+        "domain": "Natural products",
+        "smiles": "CCC=CCCCCCCCCCCOC(C)=O",
+        "inchi_key": "YJINQJFQLQIYHX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000004670",
+        "name": "unsaturated fatty acids",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021122",
+        "name": "unsaturated fatty acids",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000009736",
+        "name": "wetting",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000021119",
+        "name": "whey protein",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UHVMMEOXYDMDKI-JKYCWFKZSA-L",
+        "name": "zinc;1-(5-cyanopyridin-2-yl)-3-[(1s,2s)-2-(6-fluoro-2-hydroxy-3-propanoylphenyl)cyclopropyl]urea;diacetate",
+        "domain": "Chemical compound",
+        "smiles": "[Zn+2].CC([O-])=O.CC([O-])=O.CCC(=O)C1=CC=C(F)C([C@H]2[C@H](C2)NC(=O)NC=2N=CC(=CC=2)C#N)=C1O",
+        "inchi_key": "UHVMMEOXYDMDKI-JKYCWFKZSA-L",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

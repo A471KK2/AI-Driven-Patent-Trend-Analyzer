@@ -1,0 +1,426 @@
+{
+  "search_metadata": {
+    "id": "697a3a403ee4c2efe1cc965e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/16f8db685ffd2e1f/697a3a403ee4c2efe1cc965e.json",
+    "created_at": "2026-01-28 16:33:04 UTC",
+    "processed_at": "2026-01-28 16:33:04 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/JP2002138399A/en",
+    "raw_html_file": "https://serpapi.com/searches/16f8db685ffd2e1f/697a3a403ee4c2efe1cc965e.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/JP2002138399A/en"
+  },
+  "title": "Manufacturing method of heat insulating pulp mold",
+  "type": "patent",
+  "publication_number": "JP2002138399A",
+  "country": "Japan",
+  "prior_art_keywords": [
+    "heat",
+    "pulp",
+    "pulp mold",
+    "mold",
+    "insulating"
+  ],
+  "prior_art_date": "2000-10-30",
+  "application_number": "JP2000330123A",
+  "inventors": [
+    {
+      "name": "Toshiya Naito",
+      "link": "https://patents.google.com/?inventor=Toshiya+Naito",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Toshiya+Naito"
+    },
+    {
+      "name": "\u4fca\u4e5f \u5185\u85e4",
+      "link": "https://patents.google.com/?inventor=%E4%BF%8A%E4%B9%9F+%E5%86%85%E8%97%A4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E4%BF%8A%E4%B9%9F+%E5%86%85%E8%97%A4"
+    }
+  ],
+  "assignees": [
+    "Toppan Inc"
+  ],
+  "priority_date": "2000-10-30",
+  "filing_date": "2000-10-30",
+  "publication_date": "2002-05-14",
+  "worldwide_applications": {
+    "2000": [
+      {
+        "filing_date": "2000-10-30",
+        "country_code": "JP",
+        "application_number": "JP2000330123A",
+        "document_id": "patent/JP2002138399A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2000-10-30",
+      "title": "Application filed by Toppan Printing Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Toppan Printing Co Ltd"
+    },
+    {
+      "date": "2000-10-30",
+      "title": "Priority to JP2000330123A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/JP2002138399A/en"
+    },
+    {
+      "date": "2002-05-14",
+      "title": "Publication of JP2002138399A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/JP2002138399A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Pending",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=JP&NR=2002138399A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/JP/2000330123/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/JP2002138399A"
+    }
+  ],
+  "abstract": "(57) [Summary] A heat-insulating pulp that is environmentally friendly and has a high degree of freedom in the shape of a pulp formed by papermaking and molding a pulp, which does not increase the production cost and is rich in cosmetics. An object of the present invention is to provide a method for manufacturing a mold. A pulp mold (1) formed into a desired shape.  0 is coated on one or both sides with a heat-expandable foam material 20 and then heated and dried to foam only one or both surface layers. The heat-expandable foam material 20 contains a heat-expandable gas and a core material. This is a method for producing the heat-insulating pulp mold 1 which is an emulsion or a dispersion using the water of the microcapsules 22 as a dispersion medium.",
+  "abstract_original": "(57)\u3010\u8981\u7d04\u3011\n\u3010\u8ab2\u984c\u3011\u74b0\u5883\u306b\u914d\u616e\u3055\u308c\u3001\u5f62\u72b6\u306b\u81ea\u7531\u5ea6\u3092\u6301\u3063\u305f\u3001\u30d1\u30eb\u30d7\u3092\u6284\u9020\u30fb\u6210\u5f62\u3057\u3066\u306a\u308b\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u306e\u88fd\u9020\u65b9\u6cd5\u306b\u304a\u3044\u3066\u3001\u88fd\u9020\u30b3\u30b9\u30c8\u304c\u5d69\u307e\u305a\u3001\u7f8e\u7ca7\u6027\u306b\u5bcc\u3080\u65ad\u71b1\u6027\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u306e\u88fd\u9020\u65b9\u6cd5\u306e\u63d0\u4f9b\u306b\u3042\u308b\u3002\n\u3010\u89e3\u6c7a\u624b\u6bb5\u3011\u6240\u671b\u306e\u5f62\u72b6\u306b\u6210\u5f62\u3055\u308c\u305f\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\uff11\uff10\u306e\u7247\u9762\u3082\u3057\u304f\u306f\u4e21\u9762\u306b\u3001\u71b1\u81a8\u5f35\u6027\u767a\u6ce1\u6750\uff12\uff10\u3092\u5857\u5e03\u3057\u3001\u305d\u306e\u5f8c\u52a0\u71b1\u4e7e\u71e5\u3067\u7247\u9762\u3082\u3057\u304f\u306f\u4e21\u9762\u306e\u8868\u5c64\u306e\u307f\u3092\u767a\u6ce1\u305b\u3057\u3081\u308b\u3082\u306e\u3067\u3001\u524d\u8a18\u71b1\u81a8\u5f35\u6027\u767a\u6ce1\u6750\uff12\uff10\u306f\u3001\u71b1\u81a8\u5f35\u6027\u30ac\u30b9\u3092\u82af\u7269\u8cea\u3068\u3057\u305f\u30de\u30a4\u30af\u30ed\u30ab\u30d7\u30bb\u30eb\uff12\uff12\u306e\u6c34\u3092\u5206\u6563\u5a92\u3068\u3059\u308b\u30a8\u30de\u30eb\u30b8\u30e7\u30f3\u3082\u3057\u304f\u306f\u30c7\u30a3\u30b9\u30d1\u30fc\u30b8\u30e7\u30f3\u3067\u3042\u308b\u65ad\u71b1\u6027\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\uff11\u306e\u88fd\u9020\u65b9\u6cd5\u3068\u3057\u305f\u3082\u306e\u3067\u3042\u308b\u3002",
+  "description_link": "https://serpapi.com/searches/697a3a403ee4c2efe1cc965e/google_patents_details/description.html",
+  "claims": [
+    "\u3010\u8acb\u6c42\u9805\uff11\u3011\u6240\u671b\u306e\u5f62\u72b6\u306b\u6210\u5f62\u3055\u308c\u305f\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u306e\u7247\u9762\u3082\u3057\u304f\u306f\u4e21\u9762\u306b\u3001\u71b1\u81a8\u5f35\u6027\u767a\u6ce1\u6750\u3092\u5857\u5e03\u3057\u3001\u305d\u306e\u5f8c\u52a0\u71b1\u4e7e\u71e5\u3067\u7247\u9762\u3082\u3057\u304f\u306f\u4e21\u9762\u306e\u8868\u5c64\u306e\u307f\u3092\u767a\u6ce1\u305b\u3057\u3081\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u65ad\u71b1\u6027\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u306e\u88fd\u9020\u65b9\u6cd5\u30021. A heat-insulating pulp characterized in that a heat-expandable foaming material is applied to one or both surfaces of a pulp mold molded into a desired shape, and then only one or both surface layers are foamed by heating and drying. Mold manufacturing method.",
+    "\u3010\u8acb\u6c42\u9805\uff12\u3011\u524d\u8a18\u71b1\u81a8\u5f35\u6027\u767a\u6ce1\u6750\u306f\u3001\u71b1\u81a8\u5f35\u6027\u30ac\u30b9\u3092\u82af\u7269\u8cea\u3068\u3057\u305f\u30de\u30a4\u30af\u30ed\u30ab\u30d7\u30bb\u30eb\u306e\u6c34\u3092\u5206\u6563\u5a92\u3068\u3059\u308b\u30a8\u30de\u30eb\u30b8\u30e7\u30f3\u3082\u3057\u304f\u306f\u30c7\u30a3\u30b9\u30d1\u30fc\u30b8\u30e7\u30f3\u3067\u3042\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u8acb\u6c42\u9805\uff11\u8a18\u8f09\u306e\u65ad\u71b1\u6027\u30d1\u30eb\u30d7\u30e2\u30fc\u30eb\u30c9\u306e\u88fd\u9020\u65b9\u6cd5\u30022. The heat-insulating pulp according to claim 1, wherein the heat-expandable foaming material is an emulsion or a dispersion in which water of a microcapsule containing a heat-expandable gas as a core substance is used as a dispersion medium. Mold manufacturing method."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "JP2000330123A",
+      "representative_publication": "JP2002138399A",
+      "primary_language": "en",
+      "priority_date": "2000-10-30",
+      "filing_date": "2000-10-30",
+      "title": "Manufacturing method of heat insulating pulp mold"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2000330123A",
+      "representative_publication": "JP2002138399A",
+      "primary_language": "en",
+      "priority_date": "2000-10-30",
+      "filing_date": "2000-10-30",
+      "title": "Manufacturing method of heat insulating pulp mold"
+    }
+  ],
+  "family_id": "18806694",
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "JP2013208145A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-03-30",
+        "publication_date": "2013-10-10",
+        "assignee_original": "Toyo Aluminum Ekco Products Kk",
+        "title": "Method for manufacturing pulp mold structure and pulp mold structure",
+        "patent_id": "patent/JP2013208145A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013208145A%2Fen"
+      },
+      {
+        "publication_number": "JP2017053081A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-22",
+        "publication_date": "2017-03-16",
+        "assignee_original": "\u6771\u6d0b\u30a2\u30eb\u30df\u30a8\u30b3\u30fc\u30d7\u30ed\u30c0\u30af\u30c4\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for manufacturing pulp mold structure and pulp mold structure",
+        "patent_id": "patent/JP2017053081A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2017053081A%2Fen"
+      },
+      {
+        "publication_number": "JP2019527779A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-07-26",
+        "publication_date": "2019-10-03",
+        "assignee_original": "\u30d5\u30c3\u30c8\u30d7\u30ea\u30f3\u30c8 \u30a4\u30f3\u30bf\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\uff0c \u30a8\u30eb\u30a8\u30eb\u30b7\u30fc",
+        "title": "Method and apparatus for producing fiber food containers",
+        "patent_id": "patent/JP2019527779A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019527779A%2Fen"
+      },
+      {
+        "publication_number": "JP2021147068A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-17",
+        "publication_date": "2021-09-27",
+        "assignee_original": "\u65e5\u6e05\u98df\u54c1\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Vacuum and/or compressed air molded container, and method for manufacturing the same",
+        "patent_id": "patent/JP2021147068A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2021147068A%2Fen"
+      },
+      {
+        "publication_number": "US11686050B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-26",
+        "publication_date": "2023-06-27",
+        "assignee_original": "Footprint International, LLC",
+        "title": "Methods, apparatus, and chemical compositions for selectively coating fiber-based food containers",
+        "patent_id": "patent/US11686050B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11686050B2%2Fen"
+      },
+      {
+        "publication_number": "US12037749B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-26",
+        "publication_date": "2024-07-16",
+        "assignee_original": "Footprint International, LLC",
+        "title": "Acrylate and non-acrylate based chemical compositions for selectively coating fiber-based food containers",
+        "patent_id": "patent/US12037749B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12037749B2%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "JP3414978B2",
+      "primary_language": "en",
+      "publication_date": "2003-06-09",
+      "title": "Insulating raw material, insulated container and method of manufacturing the same",
+      "patent_id": "patent/JP3414978B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3414978B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11773297B2",
+      "primary_language": "en",
+      "publication_date": "2023-10-03",
+      "title": "Dielectric heating of foamable compositions",
+      "patent_id": "patent/US11773297B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11773297B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6216250B2",
+      "primary_language": "en",
+      "publication_date": "2017-10-18",
+      "title": "Method for accelerating activation of thermally expandable adhesives / coatings used in the manufacture of packaging substrates",
+      "patent_id": "patent/JP6216250B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6216250B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CA2143432C",
+      "primary_language": "en",
+      "publication_date": "2000-11-28",
+      "title": "Biodegradable laminated composite material based on cured starch foam and method for preparing it",
+      "patent_id": "patent/CA2143432C/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCA2143432C%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "RU2243308C2",
+      "primary_language": "en",
+      "publication_date": "2004-12-27",
+      "title": "Items made out of paperboard of low density",
+      "patent_id": "patent/RU2243308C2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FRU2243308C2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4039006B2",
+      "primary_language": "en",
+      "publication_date": "2008-01-30",
+      "title": "Drawing base paper and paper molding container using the same",
+      "patent_id": "patent/JP4039006B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4039006B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160221233A1",
+      "primary_language": "en",
+      "publication_date": "2016-08-04",
+      "title": "Method of forming a fibrous product",
+      "patent_id": "patent/US20160221233A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160221233A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2013541439A5",
+      "primary_language": "en",
+      "publication_date": "2016-11-17",
+      "patent_id": "patent/JP2013541439A5/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2013541439A5%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100858041B1",
+      "primary_language": "en",
+      "publication_date": "2008-09-10",
+      "title": "Molding base paper and molded paper vessel produced from it",
+      "patent_id": "patent/KR100858041B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100858041B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2010521591A",
+      "primary_language": "en",
+      "publication_date": "2010-06-24",
+      "title": "Board, manufacturing method thereof, and container made therefrom",
+      "patent_id": "patent/JP2010521591A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2010521591A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002138399A",
+      "primary_language": "en",
+      "publication_date": "2002-05-14",
+      "title": "Manufacturing method of heat insulating pulp mold",
+      "patent_id": "patent/JP2002138399A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002138399A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3799837A",
+      "primary_language": "en",
+      "publication_date": "1974-03-26",
+      "title": "Fluting and corrugated cardboard containing such fluting",
+      "patent_id": "patent/US3799837A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3799837A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US3758357A",
+      "primary_language": "en",
+      "publication_date": "1973-09-11",
+      "title": "Making molded fiber board",
+      "patent_id": "patent/US3758357A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3758357A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4248755B2",
+      "primary_language": "en",
+      "publication_date": "2009-04-02",
+      "title": "Insulated paper container and manufacturing method thereof",
+      "patent_id": "patent/JP4248755B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4248755B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4844054B2",
+      "primary_language": "en",
+      "publication_date": "2011-12-21",
+      "title": "Thermal insulation coated paper and thermal insulation paper container using the same",
+      "patent_id": "patent/JP4844054B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4844054B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2001329491A",
+      "primary_language": "en",
+      "publication_date": "2001-11-27",
+      "title": "Foamed paper and paper container manufactured using the foamed paper",
+      "patent_id": "patent/JP2001329491A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001329491A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2008087765A",
+      "primary_language": "en",
+      "publication_date": "2008-04-17",
+      "title": "Heat insulating paper-made container, and raw material sheet used for the same",
+      "patent_id": "patent/JP2008087765A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008087765A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2002138398A",
+      "primary_language": "en",
+      "publication_date": "2002-05-14",
+      "title": "Pulp mold molding method with excellent heat insulation",
+      "patent_id": "patent/JP2002138398A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002138398A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4547743B2",
+      "primary_language": "en",
+      "publication_date": "2010-09-22",
+      "title": "Manufacturing method of pulp mold double container",
+      "patent_id": "patent/JP4547743B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4547743B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP0418363A1",
+      "primary_language": "en",
+      "publication_date": "1991-03-27",
+      "title": "Procedure for the manufacturing of corrugated board",
+      "patent_id": "patent/EP0418363A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0418363A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2009126560A",
+      "primary_language": "en",
+      "publication_date": "2009-06-11",
+      "title": "Insulated foam paper cup",
+      "patent_id": "patent/JP2009126560A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2009126560A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2008050724A",
+      "primary_language": "en",
+      "publication_date": "2008-03-06",
+      "title": "Deep-drawn formable paper and manufacturing method thereof",
+      "patent_id": "patent/JP2008050724A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008050724A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP3351075B2",
+      "primary_language": "en",
+      "publication_date": "2002-11-25",
+      "title": "Food container manufacturing method",
+      "patent_id": "patent/JP3351075B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3351075B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2011069012A",
+      "primary_language": "en",
+      "publication_date": "2011-04-07",
+      "title": "Expandable sheet for molding, bulky molded product using the same and method for producing the same",
+      "patent_id": "patent/JP2011069012A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2011069012A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4929599B2",
+      "primary_language": "en",
+      "publication_date": "2012-05-09",
+      "title": "Paper cup and manufacturing method thereof",
+      "patent_id": "patent/JP4929599B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4929599B2%2Fen"
+    }
+  ]
+}

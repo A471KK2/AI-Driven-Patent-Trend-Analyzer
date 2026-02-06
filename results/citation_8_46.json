@@ -1,0 +1,3088 @@
+{
+  "search_metadata": {
+    "id": "697a34d9b8b4a56e99047212",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/061744d9d4a26878/697a34d9b8b4a56e99047212.json",
+    "created_at": "2026-01-28 16:10:01 UTC",
+    "processed_at": "2026-01-28 16:10:01 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US11435762B1/en",
+    "raw_html_file": "https://serpapi.com/searches/061744d9d4a26878/697a34d9b8b4a56e99047212.html",
+    "total_time_taken": 2.66
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US11435762B1/en"
+  },
+  "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/e2/70/26/a732c877b4a8af/US11435762.pdf",
+  "publication_number": "US11435762B1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "flight",
+    "aircraft",
+    "component",
+    "controller",
+    "flight controller"
+  ],
+  "prior_art_date": "2021-08-17",
+  "application_number": "US17/404,423",
+  "inventors": [
+    {
+      "name": "Joshua E. Auerbach",
+      "link": "https://patents.google.com/?inventor=Joshua+E.+Auerbach",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Joshua+E.+Auerbach"
+    },
+    {
+      "name": "Nicholas Moy",
+      "link": "https://patents.google.com/?inventor=Nicholas+Moy",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Nicholas+Moy"
+    }
+  ],
+  "assignees": [
+    "Beta Air LLC"
+  ],
+  "priority_date": "2021-08-17",
+  "filing_date": "2021-08-17",
+  "publication_date": "2022-09-06",
+  "worldwide_applications": {
+    "2021": [
+      {
+        "filing_date": "2021-08-17",
+        "country_code": "US",
+        "application_number": "US17/404,423",
+        "document_id": "patent/US11435762B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      }
+    ],
+    "2022": [
+      {
+        "filing_date": "2022-07-22",
+        "country_code": "US",
+        "application_number": "US17/871,017",
+        "document_id": "patent/US11835969B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2023": [
+      {
+        "filing_date": "2023-10-30",
+        "country_code": "US",
+        "application_number": "US18/385,184",
+        "document_id": "patent/US12276988B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2021-08-17",
+      "title": "Application filed by Beta Air LLC",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Beta Air LLC"
+    },
+    {
+      "date": "2021-08-17",
+      "title": "Priority to US17/404,423",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US11435762B1/en"
+    },
+    {
+      "date": "2021-12-20",
+      "title": "Assigned to BETA AIR, LLC",
+      "type": "reassignment",
+      "assignee_search": "BETA AIR, LLC",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: AUERBACH, JOSHUA E., MOY, NICHOLAS"
+      ]
+    },
+    {
+      "date": "2022-07-22",
+      "title": "Priority to US17/871,017",
+      "type": "priority",
+      "document_id": "patent/US11835969B2/en"
+    },
+    {
+      "date": "2022-09-06",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2022-09-06",
+      "title": "Publication of US11435762B1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US11435762B1/en"
+    },
+    {
+      "date": "2023-10-30",
+      "title": "Priority to US18/385,184",
+      "type": "priority",
+      "document_id": "patent/US12276988B2/en"
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2041-08-17",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=11435762.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/17404423"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=11435762"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=11435762B1&KC=B1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/17404423/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US11435762"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/44/ab/86/6c008275e7fd95/US11435762-20220906-D00000.png",
+    "https://patentimages.storage.googleapis.com/be/16/cb/b1e56e2c80250e/US11435762-20220906-D00001.png",
+    "https://patentimages.storage.googleapis.com/15/ab/f3/fa329941b57980/US11435762-20220906-D00002.png",
+    "https://patentimages.storage.googleapis.com/74/51/7b/d4550a114d1629/US11435762-20220906-D00003.png",
+    "https://patentimages.storage.googleapis.com/f1/c1/a7/c48d840eafc71e/US11435762-20220906-D00004.png",
+    "https://patentimages.storage.googleapis.com/93/52/45/2437ca2ad4ecb5/US11435762-20220906-D00005.png",
+    "https://patentimages.storage.googleapis.com/0b/27/5c/a1f5574e92f8a8/US11435762-20220906-D00006.png",
+    "https://patentimages.storage.googleapis.com/6e/75/71/343abe5ab3ea75/US11435762-20220906-D00007.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64C29/0025",
+      "description": "Aircraft capable of landing or taking-off vertically, e.g. vertical take-off and landing [VTOL] aircraft having its flight directional axis horizontal when grounded the lift during taking-off being created by free or ducted propellers or by blowers the propellers being fixed relative to the fuselage",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C13/506",
+      "description": "Transmitting means with power amplification using electrical energy overriding of personal controls; with automatic return to inoperative position",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/24",
+      "description": "Aircraft characterised by the type or position of power plants using steam or spring force",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/31",
+      "description": "Aircraft characterised by electric power plants within, or attached to, wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D27/34",
+      "description": "All-electric aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/102",
+      "description": "Simultaneous control of position or course in three dimensions specially adapted for aircraft specially adapted for vertical take-off of aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D1/48",
+      "description": "Control of altitude or depth",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "G05D2109/23",
+      "description": "Vertical take-off and landing [VTOL] aircraft; Short take-off and landing [STOL, STOVL] aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "A system for autonomous flight of an electric vertical takeoff and landing (eVTOL) aircraft. The system may include a pusher component, a lift component, a flight controller, and a pilot override switch. The pusher component is mechanically coupled to the eVTOL aircraft. The lift component is mechanically coupled to the eVTOL aircraft. The flight controller is communicatively connected to the pilot override switch. The flight controller is configured to identify a transition point, initiate operation of the pusher component, and terminate operation of the lift component. A method for flight control of an eVTOL aircraft is also provided.",
+  "description_link": "https://serpapi.com/searches/697a34d9b8b4a56e99047212/google_patents_details/description.html",
+  "claims": [
+    "1. A system for flight control of an electric vertical takeoff and landing (eVTOL) aircraft, the system comprising:\na pusher component attached to the eVTOL aircraft;\na lift component attached to the eVTOL aircraft;\na pilot override switch, wherein the pilot override switch is operable by a pilot of the eVTOL aircraft and is configured to alter control of the eVTOL aircraft; and\na flight controller communicatively connected to the pilot override switch, wherein the flight controller is configured to:\nidentify a flight transition point;\ninitiate operation of the pusher component as a function of the flight transition point;\ninitiate termination of operation of the lift component;\nreceive a pilot override signal from the pilot override switch;\ngenerate an autonomous function as a function of a machine-learning model, wherein generating the autonomous function further comprises:\ninputting at least a flight element to the machine-learning model, wherein the at least a flight element comprises at least one of a forward thrust datum and an upward thrust datum of the eVTOL aircraft;\ninputting the pilot override signal to the machine-learning model; and\noutputting the autonomous function as a function of the at least a flight element and the pilot override signal; and\n\nallow, as a function of the autonomous function, the pilot to regain at least partial control over operation of the pusher component and the lift component.",
+    "2. The system of claim 1, wherein the flight controller comprises information of a preplanned trajectory from substantially vertical flight of the eVTOL aircraft to substantially horizontal flight of the eVTOL aircraft.",
+    "3. The system of claim 1, wherein the pusher component comprises at least a propulsor.",
+    "4. The system of claim 1, wherein the pusher component is configured to generate a generally forward thrust for the eVTOL aircraft.",
+    "5. The system of claim 1, wherein the lift component comprises at least a propulsor.",
+    "6. The system of claim 1, wherein the lift component is configured to generate a generally upward thrust for the eVTOL aircraft.",
+    "7. The system of claim 1, wherein the flight controller comprises a computing device.",
+    "8. The system of claim 1, wherein the flight controller comprises a proportional-integral-derivative (PID) controller.",
+    "9. The system of claim 1, wherein the flight controller is further configured to:\nincrease a rotational speed of the pusher component; and\ndecrease a rotational speed of the lift component.",
+    "10. A method for flight control of an electric vertical takeoff and landing (eVTOL) aircraft, the method comprising:\nidentifying, by a flight controller incorporated in an eVTOL aircraft, a flight transition point;\ninitiating, by the flight controller, operation of a pusher component mechanically coupled to the eVTOL aircraft as a function of the flight transition point;\ninitiating, by the flight controller, termination of operation of a lift component mechanically coupled to the eVTOL aircraft;\nreceiving, by the flight controller, a pilot override signal from a pilot override switch communicatively connected to the flight controller, wherein the pilot override switch is operable by a pilot of the eVTOL aircraft and is configured to alter control of the eVTOL aircraft;\ngenerating, by the flight controller, an autonomous function as a function of a machine-learning model, wherein generating the autonomous function further comprises:\ninputting at least a flight element to the machine-learning model, wherein the at least a flight element comprises at least one of a forward thrust datum and an upward thrust datum of the eVTOL aircraft;\ninputting the pilot override signal to the machine-learning model; and\noutputting the autonomous function as a function of the at least a flight element and the pilot override signal; and\n\nallowing, by the flight controller, as a function of the autonomous function, the pilot to regain at least partial control over operation of the pusher component and the lift component.",
+    "11. The method of claim 10, wherein the flight controller comprises information of a preplanned trajectory from substantially vertical flight of the eVTOL aircraft to substantially horizontal flight of the eVTOL aircraft.",
+    "12. The method of claim 10, wherein the pusher component comprises at least a propulsor.",
+    "13. The method of claim 10, wherein the pusher component is configured to generate a generally forward thrust for the eVTOL aircraft.",
+    "14. The method of claim 10, wherein the lift component comprises at least a propulsor.",
+    "15. The method of claim 10, wherein the lift component is configured to generate a generally upward thrust for the eVTOL aircraft.",
+    "16. The method of claim 10, wherein the flight controller comprises a computing device.",
+    "17. The method of claim 10, wherein the flight controller comprises a proportional-integral-derivative (PID) controller.",
+    "18. The method of claim 10, wherein the method further comprises:\nincreasing, by the flight controller, a rotational speed of the pusher component; and\ndecreasing, by the flight controller, a rotational speed of the lift component.",
+    "19. The system of claim 1, wherein the flight controller is further configured to generate the machine learning model by training a machine-learning process with training data, and wherein the training data comprises at least a correlation of flight element data and/or pilot signal data to autonomous function data.",
+    "20. The method of claim 10, wherein the method further comprises generating the machine learning model by training a machine-learning process with training data, and wherein the training data comprises at least a correlation of flight element data and/or pilot signal data to autonomous function data."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US17/871,017",
+      "relation_type": "Continuation",
+      "representative_publication": "US11835969B2",
+      "primary_language": "en",
+      "priority_date": "2021-08-17",
+      "filing_date": "2022-07-22",
+      "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US17/404,423",
+      "representative_publication": "US11435762B1",
+      "primary_language": "en",
+      "priority_date": "2021-08-17",
+      "filing_date": "2021-08-17",
+      "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft"
+    },
+    {
+      "application_number": "US17/871,017",
+      "representative_publication": "US11835969B2",
+      "primary_language": "en",
+      "priority_date": "2021-08-17",
+      "filing_date": "2022-07-22",
+      "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft"
+    },
+    {
+      "application_number": "US18/385,184",
+      "representative_publication": "US12276988B2",
+      "primary_language": "en",
+      "priority_date": "2021-08-17",
+      "filing_date": "2023-10-30",
+      "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US17/404,423",
+      "representative_publication": "US11435762B1",
+      "primary_language": "en",
+      "priority_date": "2021-08-17",
+      "filing_date": "2021-08-17",
+      "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft"
+    }
+  ],
+  "family_id": "83149726",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6293491B1",
+        "primary_language": "en",
+        "priority_date": "1997-10-15",
+        "publication_date": "2001-09-25",
+        "assignee_original": "Aloys Wobben",
+        "title": "Vertical take-off and landing aircraft",
+        "patent_id": "patent/US6293491B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6293491B1%2Fen"
+      },
+      {
+        "publication_number": "US20060032971A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-10-24",
+        "publication_date": "2006-02-16",
+        "assignee_original": "Baldwin G D",
+        "title": "Tailboom-stabilized vtol aircraft",
+        "patent_id": "patent/US20060032971A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060032971A1%2Fen"
+      },
+      {
+        "publication_number": "US7267300B2",
+        "primary_language": "en",
+        "priority_date": "2005-02-25",
+        "publication_date": "2007-09-11",
+        "assignee_original": "The Boeing Company",
+        "title": "Aircraft capable of vertical and short take-off and landing",
+        "patent_id": "patent/US7267300B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7267300B2%2Fen"
+      },
+      {
+        "publication_number": "US20070282493A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-06-02",
+        "publication_date": "2007-12-06",
+        "assignee_original": "Sikorsky Aircraft Corporation",
+        "title": "Surface contact override landing scheme for a FBW rotary-wing aircraft",
+        "patent_id": "patent/US20070282493A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070282493A1%2Fen"
+      },
+      {
+        "publication_number": "US20130134264A1",
+        "primary_language": "en",
+        "priority_date": "2011-11-28",
+        "publication_date": "2013-05-30",
+        "assignee_original": "Carter Aviation Technologies, Llc",
+        "title": "Electric Motor Powered Rotor Drive for Slowed Rotor Winged Aircraft",
+        "patent_id": "patent/US20130134264A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130134264A1%2Fen"
+      },
+      {
+        "publication_number": "US8540183B2",
+        "primary_language": "en",
+        "priority_date": "2009-12-12",
+        "publication_date": "2013-09-24",
+        "assignee_original": "Heliplane, Llc",
+        "title": "Aerovehicle system including plurality of autogyro assemblies",
+        "patent_id": "patent/US8540183B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8540183B2%2Fen"
+      },
+      {
+        "publication_number": "US20130261853A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-11-08",
+        "publication_date": "2013-10-03",
+        "assignee_original": "Bell Helicopter Textron Inc.",
+        "title": "Vehicle management system using finite state machines",
+        "patent_id": "patent/US20130261853A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130261853A1%2Fen"
+      },
+      {
+        "publication_number": "US20140339372A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-01-12",
+        "publication_date": "2014-11-20",
+        "assignee_original": "Israel Aerospace Industries Ltd.",
+        "title": "System, a method and a computer program product for maneuvering of an air vehicle with tiltable propulsion unit",
+        "patent_id": "patent/US20140339372A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140339372A1%2Fen"
+      },
+      {
+        "publication_number": "US9096314B2",
+        "primary_language": "en",
+        "priority_date": "2009-03-20",
+        "publication_date": "2015-08-04",
+        "assignee_original": "Geola Technologies, Ltd.",
+        "title": "Electric VTOL aircraft",
+        "patent_id": "patent/US9096314B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9096314B2%2Fen"
+      },
+      {
+        "publication_number": "US9242728B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-07",
+        "publication_date": "2016-01-26",
+        "assignee_original": "Alakai Technologies Corporation",
+        "title": "All-electric multirotor full-scale aircraft for commuting, personal transportation, and security/surveillance",
+        "patent_id": "patent/US9242728B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9242728B2%2Fen"
+      },
+      {
+        "publication_number": "US9304516B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-14",
+        "publication_date": "2016-04-05",
+        "assignee_original": "Textron Innovations Inc.",
+        "title": "Flight control laws for vertical flight path",
+        "patent_id": "patent/US9304516B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9304516B2%2Fen"
+      },
+      {
+        "publication_number": "US9815191B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-20",
+        "publication_date": "2017-11-14",
+        "assignee_original": "Mbl Limited",
+        "title": "Methods and systems for food preparation in a robotic cooking kitchen",
+        "patent_id": "patent/US9815191B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9815191B2%2Fen"
+      },
+      {
+        "publication_number": "US9845150B2",
+        "primary_language": "en",
+        "priority_date": "2010-07-19",
+        "publication_date": "2017-12-19",
+        "assignee_original": "Kitty Hawk Corporation",
+        "title": "Personal aircraft",
+        "patent_id": "patent/US9845150B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9845150B2%2Fen"
+      },
+      {
+        "publication_number": "US9994313B2",
+        "primary_language": "en",
+        "priority_date": "2014-11-26",
+        "publication_date": "2018-06-12",
+        "assignee_original": "XCraft Enterprises, LLC",
+        "title": "High speed multi-rotor vertical takeoff and landing aircraft",
+        "patent_id": "patent/US9994313B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9994313B2%2Fen"
+      },
+      {
+        "publication_number": "US10144509B2",
+        "primary_language": "en",
+        "priority_date": "2014-06-03",
+        "publication_date": "2018-12-04",
+        "assignee_original": "Juan Gabriel Cruz Ayoroa",
+        "title": "High performance VTOL aircraft",
+        "patent_id": "patent/US10144509B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10144509B2%2Fen"
+      },
+      {
+        "publication_number": "US10272995B2",
+        "primary_language": "en",
+        "priority_date": "2012-10-05",
+        "publication_date": "2019-04-30",
+        "assignee_original": "Skykar Inc.",
+        "title": "Electrically powered personal vehicle and flight control method",
+        "patent_id": "patent/US10272995B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10272995B2%2Fen"
+      },
+      {
+        "publication_number": "US20190291862A1",
+        "primary_language": "en",
+        "priority_date": "2016-05-18",
+        "publication_date": "2019-09-26",
+        "assignee_original": "A^3 By Airbus Llc",
+        "title": "Self-piloted aircraft for passenger or cargo transportation",
+        "patent_id": "patent/US20190291862A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190291862A1%2Fen"
+      },
+      {
+        "publication_number": "US20190329868A1",
+        "primary_language": "en",
+        "priority_date": "2014-05-01",
+        "publication_date": "2019-10-31",
+        "assignee_original": "Alakai Technologies Corporation",
+        "title": "Clean fuel electric aircraft for personal air transportation and manned or unmanned operation",
+        "patent_id": "patent/US20190329868A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190329868A1%2Fen"
+      },
+      {
+        "publication_number": "US20190340934A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-07",
+        "publication_date": "2019-11-07",
+        "assignee_original": "Ian Andreas Villa",
+        "title": "Dynamic aircraft routing",
+        "patent_id": "patent/US20190340934A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190340934A1%2Fen"
+      },
+      {
+        "publication_number": "US10752372B2",
+        "primary_language": "en",
+        "priority_date": "2012-02-22",
+        "publication_date": "2020-08-25",
+        "assignee_original": "Volocopter Gmbh",
+        "title": "Aircraft",
+        "patent_id": "patent/US10752372B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10752372B2%2Fen"
+      },
+      {
+        "publication_number": "US20200307390A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-25",
+        "publication_date": "2020-10-01",
+        "assignee_original": "Beta Air Llc",
+        "title": "Systems and methods for maintaining attitude control under degraded energy source conditions using multiple propulsors",
+        "patent_id": "patent/US20200307390A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200307390A1%2Fen"
+      },
+      {
+        "publication_number": "US20200385130A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-06",
+        "publication_date": "2020-12-10",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Integrated electric propulsion assembly",
+        "patent_id": "patent/US20200385130A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200385130A1%2Fen"
+      },
+      {
+        "publication_number": "US10926874B2",
+        "primary_language": "en",
+        "priority_date": "2016-01-15",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Hybrid propulsion vertical take-off and landing aircraft",
+        "patent_id": "patent/US10926874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10926874B2%2Fen"
+      },
+      {
+        "publication_number": "US20210070179A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-05",
+        "publication_date": "2021-03-11",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Systems and methods for restricting power to a load to prevent engaging circuit protection device for an aircraft",
+        "patent_id": "patent/US20210070179A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210070179A1%2Fen"
+      },
+      {
+        "publication_number": "US20210070457A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-06",
+        "publication_date": "2021-03-11",
+        "assignee_original": "Beta Air Llc",
+        "title": "Methods and systems for altering power during flight",
+        "patent_id": "patent/US20210070457A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210070457A1%2Fen"
+      },
+      {
+        "publication_number": "US20210109547A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-09",
+        "publication_date": "2021-04-15",
+        "assignee_original": "Beta Air Llc",
+        "title": "In-flight stabilization of an aircraft",
+        "patent_id": "patent/US20210109547A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210109547A1%2Fen"
+      },
+      {
+        "publication_number": "US10994838B2",
+        "primary_language": "en",
+        "priority_date": "2012-12-07",
+        "publication_date": "2021-05-04",
+        "assignee_original": "Delorean Aerospace, Llc",
+        "title": "Vertical takeoff and landing aircraft",
+        "patent_id": "patent/US10994838B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10994838B2%2Fen"
+      },
+      {
+        "publication_number": "US20210139138A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-11",
+        "publication_date": "2021-05-13",
+        "assignee_original": "Beta Air Llc",
+        "title": "Methods and systems for reducing rotor acoustics of an aircraft",
+        "patent_id": "patent/US20210139138A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210139138A1%2Fen"
+      },
+      {
+        "publication_number": "US20210150919A1",
+        "primary_language": "en",
+        "priority_date": "2019-11-14",
+        "publication_date": "2021-05-20",
+        "assignee_original": "Volocopter Gmbh",
+        "title": "Method and apparatus for monitoring the take-off and landing procedure of an aircraft and system",
+        "patent_id": "patent/US20210150919A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210150919A1%2Fen"
+      },
+      {
+        "publication_number": "US11124304B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-05-31",
+        "publication_date": "2021-09-21",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Selectively deployable heated propulsor system",
+        "patent_id": "patent/US11124304B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11124304B2%2Fen"
+      },
+      {
+        "publication_number": "US20210313804A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-06",
+        "publication_date": "2021-10-07",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Methods and systems for altering power during flight",
+        "patent_id": "patent/US20210313804A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210313804A1%2Fen"
+      },
+      {
+        "publication_number": "US20210371123A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-09",
+        "publication_date": "2021-12-02",
+        "assignee_original": "Beta Air, Llc",
+        "title": "In-flight stabilization of an aircraft",
+        "patent_id": "patent/US20210371123A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210371123A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US9557742B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-27",
+        "publication_date": "2017-01-31",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Autonomous cargo delivery system",
+        "patent_id": "patent/US9557742B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9557742B2%2Fen"
+      },
+      {
+        "publication_number": "US11034443B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-06-12",
+        "publication_date": "2021-06-15",
+        "assignee_original": "Sunlight Aerospace Inc.",
+        "title": "Modular aircraft assembly for airborne and ground transport",
+        "patent_id": "patent/US11034443B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11034443B2%2Fen"
+      },
+      {
+        "publication_number": "AU2016433512B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-22",
+        "publication_date": "2020-07-16",
+        "assignee_original": "Kitty Hawk Corporation",
+        "title": "Distributed flight control system",
+        "patent_id": "patent/AU2016433512B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FAU2016433512B2%2Fen"
+      },
+      {
+        "publication_number": "WO2018175349A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-19",
+        "publication_date": "2018-09-27",
+        "assignee_original": "Zunum Aero, Inc.",
+        "title": "Hybrid-electric aircraft, and methods, apparatus and systems for facilitating same",
+        "patent_id": "patent/WO2018175349A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018175349A1%2Fen"
+      },
+      {
+        "publication_number": "US10599138B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-08",
+        "publication_date": "2020-03-24",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Autonomous package delivery system",
+        "patent_id": "patent/US10599138B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10599138B2%2Fen"
+      },
+      {
+        "publication_number": "US20200359550A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-05-13",
+        "publication_date": "2020-11-19",
+        "assignee_original": "Bao Tran",
+        "title": "Farm ecosystem",
+        "patent_id": "patent/US20200359550A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200359550A1%2Fen"
+      },
+      {
+        "publication_number": "CN114144740B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-24",
+        "publication_date": "2025-05-30",
+        "assignee_original": "\u7d22\u5c3c\u96c6\u56e2\u516c\u53f8",
+        "title": "Remote controller and method for autonomous flight of a modified predetermined trajectory of an unmanned aerial vehicle and system including the remote controller and the unmanned aerial vehicle",
+        "patent_id": "patent/CN114144740B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114144740B%2Fen"
+      },
+      {
+        "publication_number": "US11186384B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-19",
+        "publication_date": "2021-11-30",
+        "assignee_original": "Lockheed Martin Corporation",
+        "title": "Adaptive flight display for autonomous aircraft operations",
+        "patent_id": "patent/US11186384B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11186384B2%2Fen"
+      },
+      {
+        "publication_number": "US20220011782A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-06-30",
+        "publication_date": "2022-01-13",
+        "assignee_original": "Joby Aero, Inc.",
+        "title": "Method And System For Safely Landing A Battery Powered Electric VTOL Aircraft In A Low Charge Condition",
+        "patent_id": "patent/US20220011782A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220011782A1%2Fen"
+      },
+      {
+        "publication_number": "US11447269B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-11",
+        "publication_date": "2022-09-20",
+        "assignee_original": "Brien Aven Seeley",
+        "title": "Quiet urban air delivery system",
+        "patent_id": "patent/US11447269B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11447269B2%2Fen"
+      },
+      {
+        "publication_number": "US11945597B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-25",
+        "publication_date": "2024-04-02",
+        "assignee_original": "Archer Aviation, Inc.",
+        "title": "Systems and methods for control allocation for electric vertical take-off and landing aircraft",
+        "patent_id": "patent/US11945597B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11945597B2%2Fen"
+      },
+      {
+        "publication_number": "US11845551B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-02-26",
+        "publication_date": "2023-12-19",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Methods and system for estimating percentage torque produced by a propulsor configured for use in an electric aircraft",
+        "patent_id": "patent/US11845551B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11845551B2%2Fen"
+      },
+      {
+        "publication_number": "US12379730B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-31",
+        "publication_date": "2025-08-05",
+        "assignee_original": "Beta Air Llc",
+        "title": "Methods and systems for flight control configured for use in an electric aircraft",
+        "patent_id": "patent/US12379730B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12379730B2%2Fen"
+      },
+      {
+        "publication_number": "US11435761B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-07-23",
+        "publication_date": "2022-09-06",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System and method for distributed flight control system for an electric vehicle",
+        "patent_id": "patent/US11435761B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11435761B1%2Fen"
+      },
+      {
+        "publication_number": "US11435762B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-17",
+        "publication_date": "2022-09-06",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft",
+        "patent_id": "patent/US11435762B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11435762B1%2Fen"
+      },
+      {
+        "publication_number": "US11691730B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-28",
+        "publication_date": "2023-07-04",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Systems and methods for the remote piloting of an electric aircraft",
+        "patent_id": "patent/US11691730B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11691730B1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "Ferit, Cakici; Kemal, Leblebicioglu, Control System Design of a Vertical Take-off and Landing Fixed-Wing UAV, Aug. 9, 2016."
+    },
+    {
+      "title": "Xichen Shi, Intelligent Control for Fixed-Wing eVTOL Aircraft, Dec. 31, 2021."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20210039783A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-18",
+        "publication_date": "2021-02-11",
+        "assignee_original": "Elroy Air, Inc.",
+        "title": "Unmanned aerial vehicle optimization",
+        "patent_id": "patent/US20210039783A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210039783A1%2Fen"
+      },
+      {
+        "publication_number": "US20220185114A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-19",
+        "publication_date": "2022-06-16",
+        "assignee_original": "Zf Friedrichshafen Ag",
+        "title": "Method and controller for controlling the flow of electrical power in a working vehicle",
+        "patent_id": "patent/US20220185114A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220185114A1%2Fen"
+      },
+      {
+        "publication_number": "CN115494852A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-28",
+        "publication_date": "2022-12-20",
+        "assignee_original": "\u56fd\u7f51\u5317\u4eac\u5e02\u7535\u529b\u516c\u53f8",
+        "title": "Unmanned aerial vehicle auxiliary landing method and device, storage medium and processor",
+        "patent_id": "patent/CN115494852A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115494852A%2Fen"
+      },
+      {
+        "publication_number": "US11634232B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-30",
+        "publication_date": "2023-04-25",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Hybrid propulsion systems for an electric aircraft",
+        "patent_id": "patent/US11634232B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11634232B1%2Fen"
+      },
+      {
+        "publication_number": "US11639230B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-30",
+        "publication_date": "2023-05-02",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System for an integral hybrid electric aircraft",
+        "patent_id": "patent/US11639230B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11639230B1%2Fen"
+      },
+      {
+        "publication_number": "US20230152823A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-15",
+        "publication_date": "2023-05-18",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Systems and methods for controlling a flight boundary of an aircraft",
+        "patent_id": "patent/US20230152823A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230152823A1%2Fen"
+      },
+      {
+        "publication_number": "US20230161341A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-19",
+        "publication_date": "2023-05-25",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Apparatuses, computer-implemented methods, and computer program product to assist aerial vehicle pilot for vertical landing and/or takeoff",
+        "patent_id": "patent/US20230161341A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230161341A1%2Fen"
+      },
+      {
+        "publication_number": "USD988969S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-13",
+        "publication_date": "2023-06-13",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Aircraft",
+        "patent_id": "patent/USD988969S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD988969S1%2Fen"
+      },
+      {
+        "publication_number": "US20230348082A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-04-30",
+        "publication_date": "2023-11-02",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Hybrid propulsion systems for an electric aircraft",
+        "patent_id": "patent/US20230348082A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230348082A1%2Fen"
+      },
+      {
+        "publication_number": "CN117092961A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-19",
+        "publication_date": "2023-11-21",
+        "assignee_original": "\u5357\u4eac\u822a\u7a7a\u822a\u5929\u5927\u5b66",
+        "title": "Switching control method and system for rotorcraft transition section based on equivalent input interference",
+        "patent_id": "patent/CN117092961A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117092961A%2Fen"
+      },
+      {
+        "publication_number": "US20240012432A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-11-15",
+        "publication_date": "2024-01-11",
+        "assignee_original": "Beta Air, Llc",
+        "title": "Systems and methods for controlling a flight boundary of an aircraft",
+        "patent_id": "patent/US20240012432A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240012432A1%2Fen"
+      },
+      {
+        "publication_number": "US20240061447A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-17",
+        "publication_date": "2024-02-22",
+        "assignee_original": "Beta Air, Llc",
+        "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft",
+        "patent_id": "patent/US20240061447A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240061447A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "US20240231359A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-08-19",
+        "publication_date": "2024-07-11",
+        "assignee_original": "Merlin Labs, Inc.",
+        "title": "Advanced flight processing system and/or method",
+        "patent_id": "patent/US20240231359A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240231359A1%2Fen"
+      },
+      {
+        "publication_number": "CN119247989A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-12-06",
+        "publication_date": "2025-01-03",
+        "assignee_original": "\u56db\u5ddd\u6c83\u98de\u957f\u7a7a\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
+        "title": "Aircraft landing method, system and vertical take-off and landing aircraft",
+        "patent_id": "patent/CN119247989A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119247989A%2Fen"
+      },
+      {
+        "publication_number": "CN119668282A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-12-06",
+        "publication_date": "2025-03-21",
+        "assignee_original": "\u56db\u5ddd\u6c83\u98de\u957f\u7a7a\u79d1\u6280\u53d1\u5c55\u6709\u9650\u516c\u53f8",
+        "title": "Aircraft landing method, system and vertical take-off and landing aircraft",
+        "patent_id": "patent/CN119668282A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119668282A%2Fen"
+      },
+      {
+        "publication_number": "US20250232680A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-01-17",
+        "publication_date": "2025-07-17",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "System and method for camera assisted stable approach using sensor fusion",
+        "patent_id": "patent/US20250232680A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250232680A1%2Fen"
+      },
+      {
+        "publication_number": "US20250353590A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-05-17",
+        "publication_date": "2025-11-20",
+        "assignee_original": "The Texas A&M University System",
+        "title": "Hybrid-electric vertical take-off and landing aircraft",
+        "patent_id": "patent/US20250353590A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20250353590A1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US12105533B1",
+        "primary_language": "en",
+        "priority_date": "2023-05-08",
+        "publication_date": "2024-10-01",
+        "assignee_original": "Archer Aviation Inc.",
+        "title": "Powered lift enable and disable switch",
+        "patent_id": "patent/US12105533B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12105533B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US12276988B2",
+      "primary_language": "en",
+      "publication_date": "2025-04-15",
+      "title": "System and method for the autonomous transition of an electric vertical takeoff and landing aircraft",
+      "patent_id": "patent/US12276988B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12276988B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11530028B1",
+      "primary_language": "en",
+      "publication_date": "2022-12-20",
+      "title": "Systems and methods for the autonomous transition of an electric vertical takeoff and landing aircraft",
+      "patent_id": "patent/US11530028B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11530028B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11651703B1",
+      "primary_language": "en",
+      "publication_date": "2023-05-16",
+      "title": "Systems and methods for a mobile flight simulator of an electric aircraft",
+      "patent_id": "patent/US11651703B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11651703B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11823583B2",
+      "primary_language": "en",
+      "publication_date": "2023-11-21",
+      "title": "Systems and methods for optimization of a recharging flight plan for an electric vertical takeoff and landing aircraft",
+      "patent_id": "patent/US11823583B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11823583B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11380208B1",
+      "primary_language": "en",
+      "publication_date": "2022-07-05",
+      "title": "System and method for automated air traffic control",
+      "patent_id": "patent/US11380208B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11380208B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11417225B1",
+      "primary_language": "en",
+      "publication_date": "2022-08-16",
+      "title": "System and method for digital communication of a flight maneuver",
+      "patent_id": "patent/US11417225B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11417225B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12330770B2",
+      "primary_language": "en",
+      "publication_date": "2025-06-17",
+      "title": "System and method for flight control of an electric vertical takeoff and landing aircraft",
+      "patent_id": "patent/US12330770B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12330770B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11447244B1",
+      "primary_language": "en",
+      "publication_date": "2022-09-20",
+      "title": "System and method for airspeed estimation utilizing propulsor data in electric vertical takeoff and landing aircraft",
+      "patent_id": "patent/US11447244B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11447244B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12145724B2",
+      "primary_language": "en",
+      "publication_date": "2024-11-19",
+      "title": "Aircraft for fixed pitch lift",
+      "patent_id": "patent/US12145724B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12145724B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230229174A1",
+      "primary_language": "en",
+      "publication_date": "2023-07-20",
+      "title": "System and method for autonomous flight control with mode selection for an electric aircraft",
+      "patent_id": "patent/US20230229174A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230229174A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12372957B2",
+      "primary_language": "en",
+      "publication_date": "2025-07-29",
+      "title": "Systems and methods for the remote piloting of an electric aircraft",
+      "patent_id": "patent/US12372957B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12372957B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11623738B1",
+      "primary_language": "en",
+      "publication_date": "2023-04-11",
+      "title": "System and method for the prioritization of flight controls in an electric aircraft",
+      "patent_id": "patent/US11623738B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11623738B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11597508B2",
+      "primary_language": "en",
+      "publication_date": "2023-03-07",
+      "title": "Aircraft having reverse thrust capabilities",
+      "patent_id": "patent/US11597508B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11597508B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220402602A1",
+      "primary_language": "en",
+      "publication_date": "2022-12-22",
+      "title": "Aicraft for vectoring a plurality of propulsors",
+      "patent_id": "patent/US20220402602A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220402602A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11801944B1",
+      "primary_language": "en",
+      "publication_date": "2023-10-31",
+      "title": "System and method for monitoring and mitigating pilot actions in an electric aircraft",
+      "patent_id": "patent/US11801944B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11801944B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11691730B1",
+      "primary_language": "en",
+      "publication_date": "2023-07-04",
+      "title": "Systems and methods for the remote piloting of an electric aircraft",
+      "patent_id": "patent/US11691730B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11691730B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11667376B1",
+      "primary_language": "en",
+      "publication_date": "2023-06-06",
+      "title": "System and method for flight control compensation for component degradation",
+      "patent_id": "patent/US11667376B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11667376B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20240123864A1",
+      "primary_language": "en",
+      "publication_date": "2024-04-18",
+      "title": "System and method for speed control as a function of battery capability in an electric aircraft",
+      "patent_id": "patent/US20240123864A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240123864A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230257130A1",
+      "primary_language": "en",
+      "publication_date": "2023-08-17",
+      "title": "System and method for flight control compensation for component degradation",
+      "patent_id": "patent/US20230257130A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230257130A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11735058B1",
+      "primary_language": "en",
+      "publication_date": "2023-08-22",
+      "title": "System and method for an automated sense and avoid system for an electric aircraft",
+      "patent_id": "patent/US11735058B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11735058B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20220315207A1",
+      "primary_language": "en",
+      "publication_date": "2022-10-06",
+      "title": "Aircraft for neutralizing vertical flight",
+      "patent_id": "patent/US20220315207A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220315207A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US12486029B2",
+      "primary_language": "en",
+      "publication_date": "2025-12-02",
+      "title": "Aircraft having reverse thrust capabilities",
+      "patent_id": "patent/US12486029B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12486029B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US11594781B1",
+      "primary_language": "en",
+      "publication_date": "2023-02-28",
+      "title": "Venting assembly for battery ejecta opposite an egress",
+      "patent_id": "patent/US11594781B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11594781B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20230387544A1",
+      "primary_language": "en",
+      "publication_date": "2023-11-30",
+      "title": "Venting assembly for battery ejecta on a side different from an egress",
+      "patent_id": "patent/US20230387544A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230387544A1%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2021-08-17",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2022-08-17",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 103
+      },
+      {
+        "id": "230000007704",
+        "name": "transition",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 27
+      },
+      {
+        "id": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+        "name": "9,10-anthraquinone",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2C(=O)C3=CC=CC=C3C(=O)C2=C1",
+        "inchi_key": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000010801",
+        "name": "machine learning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 88
+      },
+      {
+        "id": "230000006870",
+        "name": "function",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 79
+      },
+      {
+        "id": "230000008569",
+        "name": "process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 56
+      },
+      {
+        "id": "238000012549",
+        "name": "training",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 46
+      },
+      {
+        "id": "230000036961",
+        "name": "partial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000000977",
+        "name": "initiatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000004422",
+        "name": "calculation algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 69
+      },
+      {
+        "id": "230000000670",
+        "name": "limiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 38
+      },
+      {
+        "id": "238000010168",
+        "name": "coupling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 26
+      },
+      {
+        "id": "230000008878",
+        "name": "coupling",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "238000005859",
+        "name": "coupling reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 15
+      },
+      {
+        "id": "230000009466",
+        "name": "transformation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "238000003860",
+        "name": "storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000013528",
+        "name": "artificial neural network",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "230000002093",
+        "name": "peripheral effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000012545",
+        "name": "processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 12
+      },
+      {
+        "id": "238000012417",
+        "name": "linear regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "238000004458",
+        "name": "analytical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "238000004088",
+        "name": "simulation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "239000012530",
+        "name": "fluid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "238000013479",
+        "name": "data entry",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000002441",
+        "name": "reversible effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 7
+      },
+      {
+        "id": "230000003287",
+        "name": "optical effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000011218",
+        "name": "segmentation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "238000012937",
+        "name": "correction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000003066",
+        "name": "decision tree",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "230000001172",
+        "name": "regenerating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "238000012706",
+        "name": "support-vector machine",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000013598",
+        "name": "vector",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910002102",
+        "name": "lithium manganese oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "VLXXBCXTUVRROQ-UHFFFAOYSA-N",
+        "name": "lithium;oxido-oxo-(oxomanganiooxy)manganese",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[O-][Mn](=O)O[Mn]=O",
+        "inchi_key": "VLXXBCXTUVRROQ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000001537",
+        "name": "neural effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000000007",
+        "name": "visual effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+        "name": "Methanol",
+        "domain": "Chemical compound",
+        "smiles": "OC",
+        "inchi_key": "OKKJLVBELUTLKV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "name": "Nickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni]",
+        "inchi_key": "PXHVJJICTQNCMI-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910000831",
+        "name": "Steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009471",
+        "name": "action",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007792",
+        "name": "addition",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007635",
+        "name": "classification algorithm",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000000875",
+        "name": "corresponding effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000009826",
+        "name": "distribution",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229910001416",
+        "name": "lithium ion",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000033001",
+        "name": "locomotion",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007477",
+        "name": "logistic regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000007637",
+        "name": "random forest analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000009467",
+        "name": "reduction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000010959",
+        "name": "steel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000001131",
+        "name": "transforming effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002023",
+        "name": "wood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "229920000049",
+        "name": "Carbon (fiber)",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004593",
+        "name": "Epoxy",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052493",
+        "name": "LiFePO4",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000004917",
+        "name": "carbon fiber",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013527",
+        "name": "convolutional neural network",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000002596",
+        "name": "correlated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013500",
+        "name": "data storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013135",
+        "name": "deep learning",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001419",
+        "name": "dependent effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011152",
+        "name": "fibreglass",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011888",
+        "name": "foil",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052744",
+        "name": "lithium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000625",
+        "name": "lithium cobalt oxide",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "GELKBWJHTRAYNV-UHFFFAOYSA-K",
+        "name": "lithium iron phosphate",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[Fe+2].[O-]P([O-])([O-])=O",
+        "inchi_key": "GELKBWJHTRAYNV-UHFFFAOYSA-K",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "BFZPBUKRYWOWDV-UHFFFAOYSA-N",
+        "name": "lithium;oxido(oxo)cobalt",
+        "domain": "Chemical compound",
+        "smiles": "[Li+].[O-][Co]=O",
+        "inchi_key": "BFZPBUKRYWOWDV-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000011068",
+        "name": "loading method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052751",
+        "name": "metal",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000002184",
+        "name": "metal",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "name": "methane",
+        "domain": "Chemical compound",
+        "smiles": "C",
+        "inchi_key": "VNWKTOKETHGBQD-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000010295",
+        "name": "mobile communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910052759",
+        "name": "nickel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "-1",
+        "name": "nickel metal hydride",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "239000011120",
+        "name": "plywood",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000000513",
+        "name": "principal component analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000002922",
+        "name": "simulated annealing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "229910000838",
+        "name": "Al alloy",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910000851",
+        "name": "Alloy steel",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "name": "Hydrogen",
+        "domain": "Chemical compound",
+        "smiles": "[H][H]",
+        "inchi_key": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "name": "Lithium",
+        "domain": "Chemical compound",
+        "smiles": "[Li]",
+        "inchi_key": "WHXSMMKQMYFTQS-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "name": "Lithium ion",
+        "domain": "Chemical compound",
+        "smiles": "[Li+]",
+        "inchi_key": "HBBGRARXTFLTSG-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "name": "Titanium",
+        "domain": "Chemical compound",
+        "smiles": "[Ti]",
+        "inchi_key": "RTAQQCXQSZGOHL-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "KFDQGLPGKXUTMZ-UHFFFAOYSA-N",
+        "name": "[Mn].[Co].[Ni]",
+        "domain": "Chemical compound",
+        "smiles": "[Mn].[Co].[Ni]",
+        "inchi_key": "KFDQGLPGKXUTMZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002253",
+        "name": "acid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000853",
+        "name": "adhesive",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001070",
+        "name": "adhesive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004931",
+        "name": "aggregating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000004075",
+        "name": "alteration",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003491",
+        "name": "array",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005452",
+        "name": "bending",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000037237",
+        "name": "body shape",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "OJIJEKBXJYRIBZ-UHFFFAOYSA-N",
+        "name": "cadmium nickel",
+        "domain": "Chemical compound",
+        "smiles": "[Ni].[Cd]",
+        "inchi_key": "OJIJEKBXJYRIBZ-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003990",
+        "name": "capacitor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002131",
+        "name": "composite material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "150000001875",
+        "name": "compounds",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004590",
+        "name": "computer program",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001276",
+        "name": "controlling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001816",
+        "name": "cooling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010219",
+        "name": "correlation analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005520",
+        "name": "cutting process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000354",
+        "name": "decomposition reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000001514",
+        "name": "detection method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011161",
+        "name": "development",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000018109",
+        "name": "developmental process",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "235000012489",
+        "name": "doughnuts",
+        "domain": "Nutrition",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008030",
+        "name": "elimination",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003379",
+        "name": "elimination reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013073",
+        "name": "enabling process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004146",
+        "name": "energy storage",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002964",
+        "name": "excitative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013213",
+        "name": "extrapolation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004744",
+        "name": "fabric",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005206",
+        "name": "flow analysis",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003292",
+        "name": "glue",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010439",
+        "name": "graphite",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910002804",
+        "name": "graphite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052739",
+        "name": "hydrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000001257",
+        "name": "hydrogen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000006698",
+        "name": "induction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002401",
+        "name": "inhibitory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003993",
+        "name": "interaction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003064",
+        "name": "k means clustering",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004973",
+        "name": "liquid crystal related substance",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007257",
+        "name": "malfunction",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007726",
+        "name": "management method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000004519",
+        "name": "manufacturing process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013178",
+        "name": "mathematical model",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005259",
+        "name": "measurement",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052987",
+        "name": "metal hydride",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000003058",
+        "name": "natural language processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013488",
+        "name": "ordinary least square regression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229920000642",
+        "name": "polymer",
+        "domain": "Polymers",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007781",
+        "name": "pre-processing",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002360",
+        "name": "preparation method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000013139",
+        "name": "quantization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000011084",
+        "name": "recovery",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002829",
+        "name": "reductive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002787",
+        "name": "reinforcement",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000012552",
+        "name": "review",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000004065",
+        "name": "semiconductor",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000008054",
+        "name": "signal transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052710",
+        "name": "silicon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010703",
+        "name": "silicon",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000007619",
+        "name": "statistical method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001360",
+        "name": "synchronised effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052861",
+        "name": "titanite",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000010936",
+        "name": "titanium",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "229910052719",
+        "name": "titanium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000844",
+        "name": "transformation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

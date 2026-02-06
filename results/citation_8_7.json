@@ -1,0 +1,2904 @@
+{
+  "search_metadata": {
+    "id": "697a34060fa72ee255c57be5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/12f70b782117e5b2/697a34060fa72ee255c57be5.json",
+    "created_at": "2026-01-28 16:06:30 UTC",
+    "processed_at": "2026-01-28 16:06:30 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US7281681B2/en",
+    "raw_html_file": "https://serpapi.com/searches/12f70b782117e5b2/697a34060fa72ee255c57be5.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US7281681B2/en"
+  },
+  "title": "Hydrogen powered aircraft",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/42/25/7a/624f1e07e64081/US7281681B2.pdf",
+  "publication_number": "US7281681B2",
+  "country": "United States",
+  "prior_art_keywords": [
+    "aircraft",
+    "fuel",
+    "reaction pressure",
+    "wing",
+    "oxidizer"
+  ],
+  "prior_art_date": "2000-04-03",
+  "application_number": "US10/600,258",
+  "inventors": [
+    {
+      "name": "Paul B. MacCready",
+      "link": "https://patents.google.com/?inventor=Paul+B.+MacCready",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Paul+B.+MacCready"
+    },
+    {
+      "name": "Bart D. Hibbs",
+      "link": "https://patents.google.com/?inventor=Bart+D.+Hibbs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Bart+D.+Hibbs"
+    },
+    {
+      "name": "Robert F. Curtin",
+      "link": "https://patents.google.com/?inventor=Robert+F.+Curtin",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Robert+F.+Curtin"
+    }
+  ],
+  "assignees": [
+    "Aerovironment Inc"
+  ],
+  "priority_date": "2000-04-03",
+  "filing_date": "2003-06-20",
+  "publication_date": "2007-10-16",
+  "worldwide_applications": {
+    "2003": [
+      {
+        "filing_date": "2003-06-20",
+        "country_code": "US",
+        "application_number": "US10/600,258",
+        "document_id": "patent/US7281681B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Lifetime",
+        "this_app": true
+      }
+    ],
+    "2004": [
+      {
+        "filing_date": "2004-06-21",
+        "country_code": "WO",
+        "application_number": "PCT/US2004/019746",
+        "document_id": "patent/WO2005084156A2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      }
+    ],
+    "2007": [
+      {
+        "filing_date": "2007-10-05",
+        "country_code": "US",
+        "application_number": "US11/973,092",
+        "document_id": "patent/US8011616B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      },
+      {
+        "filing_date": "2007-10-05",
+        "country_code": "US",
+        "application_number": "US11/973,091",
+        "document_id": "patent/US8028951B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ],
+    "2011": [
+      {
+        "filing_date": "2011-09-23",
+        "country_code": "US",
+        "application_number": "US13/200,466",
+        "document_id": "patent/US8308106B2/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Expired - Fee Related"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2001-04-03",
+      "title": "Priority claimed from US09/826,424",
+      "type": "external-priority",
+      "document_id": "patent/US6550717B2/en"
+    },
+    {
+      "date": "2003-06-20",
+      "title": "Priority to US10/600,258",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/US7281681B2/en"
+    },
+    {
+      "date": "2003-06-20",
+      "title": "Application filed by Aerovironment Inc",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Aerovironment Inc"
+    },
+    {
+      "date": "2004-03-18",
+      "title": "Assigned to AEROVIRONMENT INC.",
+      "type": "reassignment",
+      "assignee_search": "AEROVIRONMENT INC.",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: CURTIN, ROBERT F., SWANSON, KYLE D., HIBBS, BART D., MACCREADY, PAUL B."
+      ]
+    },
+    {
+      "date": "2004-06-21",
+      "title": "Priority to PCT/US2004/019746",
+      "type": "priority",
+      "document_id": "patent/WO2005084156A2/en"
+    },
+    {
+      "date": "2004-06-24",
+      "title": "Publication of US20040118969A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20040118969A1/en"
+    },
+    {
+      "date": "2007-04-02",
+      "title": "Priority to US11/732,109",
+      "type": "priority",
+      "document_id": "patent/US7802756B2/en"
+    },
+    {
+      "date": "2007-10-05",
+      "title": "Priority to US11/973,092",
+      "type": "priority",
+      "document_id": "patent/US8011616B2/en"
+    },
+    {
+      "date": "2007-10-05",
+      "title": "Priority to US11/973,091",
+      "type": "priority",
+      "document_id": "patent/US8028951B2/en"
+    },
+    {
+      "date": "2007-10-16",
+      "title": "Publication of US7281681B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US7281681B2/en"
+    },
+    {
+      "date": "2007-10-16",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2010-08-02",
+      "title": "Priority to US12/804,988",
+      "type": "priority",
+      "document_id": "patent/US9120555B2/en"
+    },
+    {
+      "date": "2011-09-23",
+      "title": "Priority to US13/200,466",
+      "type": "priority",
+      "document_id": "patent/US8308106B2/en"
+    },
+    {
+      "date": "2015-08-27",
+      "title": "Priority to US14/838,297",
+      "type": "priority",
+      "document_id": "patent/US9764819B2/en"
+    },
+    {
+      "date": "2017-09-18",
+      "title": "Priority to US15/706,807",
+      "type": "priority",
+      "document_id": "patent/US20180155005A1/en"
+    },
+    {
+      "date": "2021-02-19",
+      "title": "Assigned to BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "type": "reassignment",
+      "assignee_search": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT",
+      "description": [
+        "NOTICE OF GRANT OF SECURITY INTEREST IN PATENTS",
+        "Assignors: AEROVIRONMENT, INC."
+      ]
+    },
+    {
+      "date": "2022-01-07",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Expired - Lifetime",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PALL&s1=7281681.PN."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/10600258"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=7281681"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=7281681B2&KC=B2&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/10600258/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US7281681"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/b5/c1/4f/25286712fa1fb1/US07281681-20071016-D00000.png",
+    "https://patentimages.storage.googleapis.com/f4/c5/f7/b44ffc3f4d621a/US07281681-20071016-D00001.png",
+    "https://patentimages.storage.googleapis.com/4c/f6/83/3bbc2d0afeaffb/US07281681-20071016-D00002.png",
+    "https://patentimages.storage.googleapis.com/84/1b/8e/f6295599ac18d7/US07281681-20071016-D00003.png",
+    "https://patentimages.storage.googleapis.com/38/33/e3/399ed42316068a/US07281681-20071016-D00004.png",
+    "https://patentimages.storage.googleapis.com/7b/0b/eb/1a432b15ae31d9/US07281681-20071016-D00005.png",
+    "https://patentimages.storage.googleapis.com/36/0f/27/f7962c69411365/US07281681-20071016-D00006.png",
+    "https://patentimages.storage.googleapis.com/6e/48/73/764b4e379e2130/US07281681-20071016-D00007.png",
+    "https://patentimages.storage.googleapis.com/72/74/63/d1d1e5f9c700d0/US07281681-20071016-D00008.png"
+  ],
+  "classifications": [
+    {
+      "code": "B64U30/10",
+      "description": "Wings",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C3/10",
+      "description": "Shape of wings",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C3/14",
+      "description": "Aerofoil profile",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C39/10",
+      "description": "All-wing aircraft",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64C9/24",
+      "description": "Adjustable control surfaces or members, e.g. rudders forming slots at the front of the wing by single flap",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D37/30",
+      "description": "Fuel systems for specific fuels",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U30/40",
+      "description": "Empennages, e.g. V-tails",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/32",
+      "description": "Supply or distribution of electrical power generated by fuel cells",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U70/60",
+      "description": "Take-off or landing of UAVs from a runway using their own power",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64D2041/005",
+      "description": "Fuel cells",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2101/20",
+      "description": "UAVs specially adapted for particular uses or applications for use as communications relays, e.g. high-altitude platforms",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/10",
+      "description": "UAVs characterised by their flight controls autonomous, i.e. by navigating independently from ground or air stations, e.g. by using inertial navigation systems [INS]",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U2201/20",
+      "description": "Remote controls",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/19",
+      "description": "Propulsion using electrically powered motors",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "B64U50/31",
+      "description": "Supply or distribution of electrical power generated by photovoltaics",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/10",
+      "description": "Drag reduction",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/30",
+      "description": "Wing lift efficiency",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/40",
+      "description": "Weight reduction",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T50/60",
+      "description": "Efficient propulsion technologies, e.g. for aircraft",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02T90/40",
+      "description": "Application of hydrogen technology to transportation, e.g. using fuel cells",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "Disclosed is an aircraft, configured to have a wide range of flight speeds, consuming low levels of power for an extended period of time, while supporting a communications platform with an unobstructed downward-looking view. The aircraft includes an extendable slat at the leading edge of the wing, and a reflexed trailing edge. The aircraft comprises a flying wing extending laterally between two ends and a center point. The wing is swept and has a relatively constant chord. The aircraft also includes a power module configured to provide power via a fuel cell. The fuel cell stores liquid hydrogen as fuel, but uses gaseous hydrogen in the fuel cell. A fuel tank heater is used to control the boil-rate of the fuel in the fuel tank. The fuel cell compresses ambient air for an oxidizer, and operates with the fuel and oxidizer at pressures below one atmosphere. The aircraft of the invention includes a support structure including a plurality of supports, where the supports form a tetrahedron that affixes to the wing.",
+  "description_link": "https://serpapi.com/searches/697a34060fa72ee255c57be5/google_patents_details/description.html",
+  "claims": [
+    "1. An aircraft, comprising:\na fuel source configured to provide a fuel;\nan oxidizer source configured to provide an oxidizer;\na fuel cell configured to react the fuel with the oxidizer to operate at a given power-generation rate; and\na controller configured to regulate the reaction pressure of a reactant of the group consisting of the fuel and the oxidizer;\nwherein the controller is configured to regulate the reaction pressure to be less than one atmosphere with the aircraft at a cruise altitude and the fuel cell operating at the given power-generation rate.",
+    "2. The aircraft of claim 1, wherein the cruise altitude is in the range of 55,000 to 70,000 feet.",
+    "3. The aircraft of claim 1, wherein the reaction pressure of the reactant is not greater than 11 psia.",
+    "4. The aircraft of claim 1, wherein the reaction pressure of the fuel is not greater than 11 psia, and wherein the reaction pressure of the oxidizer is not greater than 11 psia.",
+    "5. The aircraft of claim 1, wherein the reaction pressure of the reactant is not greater than 10 psia.",
+    "6. The aircraft of claim 1, wherein the reaction pressure of the fuel is not greater than 10 psia, and wherein the reaction pressure of the oxidizer is not greater than 10 psia.",
+    "7. The aircraft of claim 1, wherein the reaction pressure of the reactant is not greater than 6 psia.",
+    "8. The aircraft of claim 1, wherein the reaction pressure of the reactant is approximately 6 psia and the cruise altitude is in the range of 55,000 to 70,000 feet.",
+    "9. The aircraft of claim 1, wherein the controller is further configured to regulate the reaction pressure of the reactant in response to the power requirements of the aircraft.",
+    "10. The aircraft of claim 1, wherein the oxidizer source comprises an inlet for ambient air and a compression mechanism configured to compress the ambient air.",
+    "11. The aircraft of claim 10, wherein the controller is further configured to regulate the reaction pressure of the oxidizer by regulating the amount by which the compression mechanism compresses the ambient air.",
+    "12. The aircraft of claim 1, wherein the fuel source comprises a hydrogen tank containing liquid hydrogen, and a heat source for controllably boiling the liquid hydrogen.",
+    "13. The aircraft of claim 12, wherein the controller is further configured to regulate the reaction pressure of the fuel by regulating the rate at which the heater boils the liquid hydrogen.",
+    "14. The aircraft of claim 1, wherein the controller is further configured to regulate the reaction pressure of the fuel to be no greater than a predetermined increment above the reaction pressure of the oxidizer.",
+    "15. The aircraft of claim 1, wherein:\nthe oxidizer source comprises an inlet for ambient air and a compression mechanism configured to compress the ambient air;\nthe fuel source comprises a hydrogen tank containing liquid hydrogen, and a heat source for controllably boiling the liquid hydrogen; and\nthe controller is further configured to regulate the reaction pressure of the oxidizer by regulating the amount by which the compression mechanism compresses the ambient air, and to regulate the reaction pressure of the fuel by regulating the rate at which the heater boils the liquid hydrogen; and\nthe controller is further configured to regulate the reaction pressures of the fuel and the oxidizer such that the power-generation rate of the fuel cell varies in response to the power requirements of the aircraft, and the reaction pressure of the fuel is no greater than a predetermined increment above the reaction pressure of the oxidizer.",
+    "16. The aircraft of claim 15, wherein, with a cruise altitude in the range of 55,000 to 70,000 feet, the reaction pressure of the oxidizer is approximately 6 psia, and the predetermined increment is approximately 4-5 psi.",
+    "17. An aircraft, comprising:\na hydrogen source including a hydrogen tank and a mechanism configured to regulate delivery of hydrogen from the hydrogen tank;\nan oxygen source including a compression mechanism configured to compress ambient air from outside of the aircraft;\na fuel cell configured to react hydrogen from the hydrogen tank with oxygen from the compression mechanism to generate power; and\na control system configured to control the operation of the hydrogen source and the oxygen source at a given aircraft flight condition such that the fuel cell reacts oxygen at a first reaction pressure with hydrogen at a second reaction pressure, wherein the first reaction pressure is less than one atmosphere, and wherein the difference between the first reaction pressure and the second reaction pressure is no greater than a predetermined limit.",
+    "18. The aircraft of claim 17, wherein the second reaction pressure is less than one atmosphere.",
+    "19. The aircraft of claim 17, wherein the control system is configured to vary the first and second pressures based on power requirements of the aircraft.",
+    "20. The aircraft of claim 19, wherein the control system is configured such that at a stratospheric flight condition, the first pressure is approximately 6 psia, and the predetermined limit is not greater than 5 psi."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US52754400A",
+      "relation_type": "Continuation-In-Part",
+      "priority_date": "2000-02-14",
+      "filing_date": "2000-03-16"
+    },
+    {
+      "application_number": "US11/732,109",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US7802756B2",
+      "primary_language": "en",
+      "priority_date": "2000-02-14",
+      "filing_date": "2007-04-02",
+      "title": "Aircraft control system"
+    },
+    {
+      "application_number": "US11/973,091",
+      "relation_type": "Division",
+      "representative_publication": "US8028951B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2007-10-05",
+      "title": "Hydrogen powered aircraft"
+    },
+    {
+      "application_number": "US11/973,092",
+      "relation_type": "Division",
+      "representative_publication": "US8011616B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2007-10-05",
+      "title": "Hydrogen powered aircraft"
+    },
+    {
+      "application_number": "US12/804,988",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US9120555B2",
+      "primary_language": "en",
+      "priority_date": "2000-02-14",
+      "filing_date": "2010-08-02",
+      "title": "Active dihedral control system for a torisionally flexible wing"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "US10/073,828",
+      "relation_type": "Continuation-In-Part",
+      "representative_publication": "US20020070313A1",
+      "primary_language": "en",
+      "priority_date": "2000-02-14",
+      "filing_date": "2002-02-11",
+      "title": "Liquid hydrogen stratospheric aircraft"
+    }
+  ],
+  "priority_applications": [
+    {
+      "application_number": "US10/600,258",
+      "representative_publication": "US7281681B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2003-06-20",
+      "title": "Hydrogen powered aircraft"
+    },
+    {
+      "application_number": "PCT/US2004/019746",
+      "representative_publication": "WO2005084156A2",
+      "primary_language": "en",
+      "priority_date": "2003-06-20",
+      "filing_date": "2004-06-21",
+      "title": "Hydrogen powered aircraft"
+    },
+    {
+      "application_number": "US11/732,109",
+      "representative_publication": "US7802756B2",
+      "primary_language": "en",
+      "priority_date": "2000-02-14",
+      "filing_date": "2007-04-02",
+      "title": "Aircraft control system"
+    },
+    {
+      "application_number": "US11/973,092",
+      "representative_publication": "US8011616B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2007-10-05",
+      "title": "Hydrogen powered aircraft"
+    },
+    {
+      "application_number": "US11/973,091",
+      "representative_publication": "US8028951B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2007-10-05",
+      "title": "Hydrogen powered aircraft"
+    },
+    {
+      "application_number": "US12/804,988",
+      "representative_publication": "US9120555B2",
+      "primary_language": "en",
+      "priority_date": "2000-02-14",
+      "filing_date": "2010-08-02",
+      "title": "Active dihedral control system for a torisionally flexible wing"
+    },
+    {
+      "application_number": "US13/200,466",
+      "representative_publication": "US8308106B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2011-09-23",
+      "title": "Hydrogen powered aircraft"
+    },
+    {
+      "application_number": "US14/838,297",
+      "representative_publication": "US9764819B2",
+      "primary_language": "en",
+      "priority_date": "2000-02-14",
+      "filing_date": "2015-08-27",
+      "title": "Active dihedral control system for a torsionally flexible wing"
+    },
+    {
+      "application_number": "US15/706,807",
+      "representative_publication": "US20180155005A1",
+      "primary_language": "en",
+      "priority_date": "2000-02-14",
+      "filing_date": "2017-09-18",
+      "title": "Active Dihedral Control System for a Torsionally Flexible Wing"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "US19413700P",
+      "priority_date": "2000-04-03",
+      "filing_date": "2000-04-03"
+    },
+    {
+      "application_number": "US24171300P",
+      "priority_date": "2000-10-18",
+      "filing_date": "2000-10-18"
+    },
+    {
+      "application_number": "US09/826,424",
+      "representative_publication": "US6550717B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2001-04-03",
+      "title": "Liquid hydrogen stratospheric aircraft"
+    },
+    {
+      "application_number": "US10/073,828",
+      "representative_publication": "US20020070313A1",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2002-02-11",
+      "title": "Liquid hydrogen stratospheric aircraft"
+    },
+    {
+      "application_number": "US10/600,258",
+      "representative_publication": "US7281681B2",
+      "primary_language": "en",
+      "priority_date": "2000-04-03",
+      "filing_date": "2003-06-20",
+      "title": "Hydrogen powered aircraft"
+    }
+  ],
+  "family_id": "34919599",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "GB375515A",
+        "primary_language": "en",
+        "priority_date": "1930-06-04",
+        "publication_date": "1932-06-30",
+        "assignee_original": "Jean Frederic Georges Marie Le",
+        "title": "Tail-less aeroplane constituted by a three-element wing",
+        "patent_id": "patent/GB375515A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB375515A%2Fen"
+      },
+      {
+        "publication_number": "DE582542C",
+        "primary_language": "en",
+        "priority_date": "1929-12-14",
+        "publication_date": "1934-01-15",
+        "assignee_original": "Alexander Lippisch",
+        "title": "Arrow-shaped wing, especially for tailless aircraft",
+        "patent_id": "patent/DE582542C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE582542C%2Fen"
+      },
+      {
+        "publication_number": "DE648122C",
+        "primary_language": "en",
+        "publication_date": "1937-07-22",
+        "assignee_original": "Versuchsanstalt Fuer Luftfahrt",
+        "title": "Wings, especially for tailless aircraft",
+        "patent_id": "patent/DE648122C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE648122C%2Fen"
+      },
+      {
+        "publication_number": "US3110631A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1960-08-01",
+        "publication_date": "1963-11-12",
+        "assignee_original": "Thompson Ramo Wooldridge Inc",
+        "title": "Fuel cell construction",
+        "patent_id": "patent/US3110631A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3110631A%2Fen"
+      },
+      {
+        "publication_number": "US3346718A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1965-07-27",
+        "publication_date": "1967-10-10",
+        "assignee_original": "Gerald J Cooley",
+        "title": "Electrically heated cryogenic liquid vaporizing apparatus",
+        "patent_id": "patent/US3346718A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3346718A%2Fen"
+      },
+      {
+        "publication_number": "US3438597A",
+        "primary_language": "en",
+        "priority_date": "1967-04-03",
+        "publication_date": "1969-04-15",
+        "assignee_original": "Witold A Kasper",
+        "title": "Aircraft",
+        "patent_id": "patent/US3438597A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3438597A%2Fen"
+      },
+      {
+        "publication_number": "US3607419A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1969-10-01",
+        "publication_date": "1971-09-21",
+        "assignee_original": "United Aircraft Corp",
+        "title": "Fuel cell system control",
+        "patent_id": "patent/US3607419A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3607419A%2Fen"
+      },
+      {
+        "publication_number": "US3941272A",
+        "primary_language": "en",
+        "priority_date": "1974-03-27",
+        "publication_date": "1976-03-02",
+        "assignee_original": "Kaiser Aluminum & Chemical Corporation",
+        "title": "Cryogenic transport",
+        "patent_id": "patent/US3941272A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3941272A%2Fen"
+      },
+      {
+        "publication_number": "US4023617A",
+        "primary_language": "en",
+        "priority_date": "1973-12-26",
+        "publication_date": "1977-05-17",
+        "assignee_original": "Continental Oil Company",
+        "title": "Construction having integral circulatory system",
+        "patent_id": "patent/US4023617A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4023617A%2Fen"
+      },
+      {
+        "publication_number": "DE2803041A1",
+        "primary_language": "en",
+        "priority_date": "1978-01-25",
+        "publication_date": "1979-08-02",
+        "assignee_original": "Dieter Paff",
+        "title": "Elliptical winged tailless aircraft - has chord increased over quarter of semi-span adjoining fuselage w.r.t corresponding theoretical elliptical chord",
+        "patent_id": "patent/DE2803041A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE2803041A1%2Fen"
+      },
+      {
+        "publication_number": "US4403755A",
+        "primary_language": "en",
+        "priority_date": "1980-02-14",
+        "publication_date": "1983-09-13",
+        "assignee_original": "Gutsche Gunter E",
+        "title": "Method and apparatus for use in harnessing solar energy to provide initial acceleration and propulsion of devices",
+        "patent_id": "patent/US4403755A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4403755A%2Fen"
+      },
+      {
+        "publication_number": "US4415133A",
+        "primary_language": "en",
+        "priority_date": "1981-05-15",
+        "publication_date": "1983-11-15",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+        "title": "Solar powered aircraft",
+        "patent_id": "patent/US4415133A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4415133A%2Fen"
+      },
+      {
+        "publication_number": "US4568442A",
+        "primary_language": "en",
+        "priority_date": "1985-02-01",
+        "publication_date": "1986-02-04",
+        "assignee_original": "The Dow Chemical Company",
+        "title": "Gas diffusion composite electrode having polymeric binder coated carbon layer",
+        "patent_id": "patent/US4568442A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4568442A%2Fen"
+      },
+      {
+        "publication_number": "US4697761A",
+        "primary_language": "en",
+        "priority_date": "1985-09-16",
+        "publication_date": "1987-10-06",
+        "assignee_original": "Long David E",
+        "title": "High altitude reconnaissance platform",
+        "patent_id": "patent/US4697761A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4697761A%2Fen"
+      },
+      {
+        "publication_number": "US4722773A",
+        "primary_language": "en",
+        "priority_date": "1984-10-17",
+        "publication_date": "1988-02-02",
+        "assignee_original": "The Dow Chemical Company",
+        "title": "Electrochemical cell having gas pressurized contact between laminar, gas diffusion electrode and current collector",
+        "patent_id": "patent/US4722773A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4722773A%2Fen"
+      },
+      {
+        "publication_number": "US4742977A",
+        "primary_language": "en",
+        "priority_date": "1986-11-03",
+        "publication_date": "1988-05-10",
+        "assignee_original": "Crowell Robert L",
+        "title": "Wing structure with self-induced camber",
+        "patent_id": "patent/US4742977A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4742977A%2Fen"
+      },
+      {
+        "publication_number": "US4768738A",
+        "primary_language": "en",
+        "priority_date": "1986-10-08",
+        "publication_date": "1988-09-06",
+        "assignee_original": "Friedrich Weinert",
+        "title": "Flexible solar skin in combination with an airplane",
+        "patent_id": "patent/US4768738A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4768738A%2Fen"
+      },
+      {
+        "publication_number": "US4863813A",
+        "primary_language": "en",
+        "priority_date": "1988-09-15",
+        "publication_date": "1989-09-05",
+        "assignee_original": "Bell Communications Research, Inc.",
+        "title": "Primary source of electrical energy using a mixture of fuel and oxidizer",
+        "patent_id": "patent/US4863813A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4863813A%2Fen"
+      },
+      {
+        "publication_number": "US4907764A",
+        "primary_language": "en",
+        "priority_date": "1988-06-08",
+        "publication_date": "1990-03-13",
+        "assignee_original": "Long David E",
+        "title": "Infrared radiation powered lightweight aircraft",
+        "patent_id": "patent/US4907764A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4907764A%2Fen"
+      },
+      {
+        "publication_number": "US5047298A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-11-13",
+        "publication_date": "1991-09-10",
+        "assignee_original": "Perry Oceanographics, Inc.",
+        "title": "Closed loop reactant/product management system for electrochemical galvanic energy devices",
+        "patent_id": "patent/US5047298A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5047298A%2Fen"
+      },
+      {
+        "publication_number": "US5106035A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1989-12-29",
+        "publication_date": "1992-04-21",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Aircraft propulsion system using air liquefaction and storage",
+        "patent_id": "patent/US5106035A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5106035A%2Fen"
+      },
+      {
+        "publication_number": "US5178968A",
+        "primary_language": "en",
+        "priority_date": "1991-03-18",
+        "publication_date": "1993-01-12",
+        "assignee_original": "International Fuel Cells Corporation",
+        "title": "Extruded fuel cell stack shunt current prevention arrangement",
+        "patent_id": "patent/US5178968A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5178968A%2Fen"
+      },
+      {
+        "publication_number": "US5216888A",
+        "primary_language": "en",
+        "priority_date": "1992-01-31",
+        "publication_date": "1993-06-08",
+        "assignee_original": "Westinghouse Electric Corp.",
+        "title": "Load transfer device for cryogenic application",
+        "patent_id": "patent/US5216888A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5216888A%2Fen"
+      },
+      {
+        "publication_number": "US5340663A",
+        "primary_language": "en",
+        "priority_date": "1988-12-22",
+        "publication_date": "1994-08-23",
+        "assignee_original": "International Fuel Cells Corporation",
+        "title": "Fuel cell power plant",
+        "patent_id": "patent/US5340663A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5340663A%2Fen"
+      },
+      {
+        "publication_number": "US5374010A",
+        "primary_language": "en",
+        "priority_date": "1993-09-23",
+        "publication_date": "1994-12-20",
+        "assignee_original": "E.G.R. Company",
+        "title": "Deflected slipstream vertical lift airplane structure",
+        "patent_id": "patent/US5374010A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5374010A%2Fen"
+      },
+      {
+        "publication_number": "US5547777A",
+        "primary_language": "en",
+        "priority_date": "1994-02-23",
+        "publication_date": "1996-08-20",
+        "assignee_original": "Richards Engineering",
+        "title": "Fuel cell having uniform compressive stress distribution over active area",
+        "patent_id": "patent/US5547777A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5547777A%2Fen"
+      },
+      {
+        "publication_number": "US5678783A",
+        "primary_language": "en",
+        "priority_date": "1994-05-05",
+        "publication_date": "1997-10-21",
+        "assignee_original": "Wong; Alfred Y.",
+        "title": "System and method for remediation of selected atmospheric conditions and system for high altitude telecommunications",
+        "patent_id": "patent/US5678783A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5678783A%2Fen"
+      },
+      {
+        "publication_number": "US5709961A",
+        "primary_language": "en",
+        "priority_date": "1996-06-06",
+        "publication_date": "1998-01-20",
+        "assignee_original": "Lynntech, Inc.",
+        "title": "Low pressure fuel cell system",
+        "patent_id": "patent/US5709961A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5709961A%2Fen"
+      },
+      {
+        "publication_number": "US5810284A",
+        "primary_language": "en",
+        "priority_date": "1995-03-15",
+        "publication_date": "1998-09-22",
+        "assignee_original": "Hibbs; Bart D.",
+        "title": "Aircraft",
+        "patent_id": "patent/US5810284A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5810284A%2Fen"
+      },
+      {
+        "publication_number": "US5839699A",
+        "primary_language": "en",
+        "priority_date": "1993-11-10",
+        "publication_date": "1998-11-24",
+        "assignee_original": "Bliesner; Wayne T.",
+        "title": "Leading edge slat/wing combination",
+        "patent_id": "patent/US5839699A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5839699A%2Fen"
+      },
+      {
+        "publication_number": "WO1999034467A2",
+        "primary_language": "en",
+        "priority_date": "1997-09-10",
+        "publication_date": "1999-07-08",
+        "assignee_original": "Lynntech, Inc.",
+        "title": "Fuel cell system for low pressure operation",
+        "patent_id": "patent/WO1999034467A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999034467A2%2Fen"
+      },
+      {
+        "publication_number": "WO1999065097A1",
+        "primary_language": "en",
+        "priority_date": "1998-06-09",
+        "publication_date": "1999-12-16",
+        "assignee_original": "Mobil Oil Corporation",
+        "title": "Method and system for supplying hydrogen for use in fuel cells",
+        "patent_id": "patent/WO1999065097A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO1999065097A1%2Fen"
+      },
+      {
+        "publication_number": "EP0967676A1",
+        "primary_language": "en",
+        "priority_date": "1998-06-25",
+        "publication_date": "1999-12-29",
+        "assignee_original": "Marconi Aerospace Limited",
+        "title": "Jet engine with integral fuel cell",
+        "patent_id": "patent/EP0967676A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP0967676A1%2Fen"
+      },
+      {
+        "publication_number": "US6178754B1",
+        "primary_language": "en",
+        "priority_date": "1998-07-01",
+        "publication_date": "2001-01-30",
+        "assignee_original": "Agence Spatiale Europeenne",
+        "title": "Cryogenic tank wall",
+        "patent_id": "patent/US6178754B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6178754B1%2Fen"
+      },
+      {
+        "publication_number": "US6296957B1",
+        "primary_language": "en",
+        "priority_date": "1998-05-15",
+        "publication_date": "2001-10-02",
+        "assignee_original": "Xcellsis Gmbh",
+        "title": "Energy supply unit on board an aircraft",
+        "patent_id": "patent/US6296957B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6296957B1%2Fen"
+      },
+      {
+        "publication_number": "US6347719B1",
+        "primary_language": "en",
+        "priority_date": "2000-07-14",
+        "publication_date": "2002-02-19",
+        "assignee_original": "Hughes Electronics Corporation",
+        "title": "Light weight hydrogen tank",
+        "patent_id": "patent/US6347719B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6347719B1%2Fen"
+      },
+      {
+        "publication_number": "US6364251B1",
+        "primary_language": "en",
+        "priority_date": "2000-05-19",
+        "publication_date": "2002-04-02",
+        "assignee_original": "James H. Yim",
+        "title": "Airwing structure",
+        "patent_id": "patent/US6364251B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6364251B1%2Fen"
+      },
+      {
+        "publication_number": "US6450447B1",
+        "primary_language": "en",
+        "priority_date": "1999-03-12",
+        "publication_date": "2002-09-17",
+        "assignee_original": "Daimlerchrysler Ag",
+        "title": "Auxiliary power unit for an aircraft",
+        "patent_id": "patent/US6450447B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6450447B1%2Fen"
+      },
+      {
+        "publication_number": "US6568633B2",
+        "primary_language": "en",
+        "priority_date": "2000-08-24",
+        "publication_date": "2003-05-27",
+        "assignee_original": "James P. Dunn",
+        "title": "Fuel cell powered electric aircraft",
+        "patent_id": "patent/US6568633B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6568633B2%2Fen"
+      },
+      {
+        "publication_number": "US20040069897A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-01-28",
+        "publication_date": "2004-04-15",
+        "assignee_original": "Corcoran William L.",
+        "title": "Zero emitting electric air vehicle with semi-annular wing",
+        "patent_id": "patent/US20040069897A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040069897A1%2Fen"
+      },
+      {
+        "publication_number": "US6931247B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-02-14",
+        "publication_date": "2005-08-16",
+        "assignee_original": "Aerovironment, Inc.",
+        "title": "Aircraft control method",
+        "patent_id": "patent/US6931247B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6931247B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "GB991581A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1962-03-21",
+        "publication_date": "1965-05-12",
+        "assignee_original": "High Temperature Materials Inc",
+        "title": "Expanded pyrolytic graphite and process for producing the same",
+        "patent_id": "patent/GB991581A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB991581A%2Fen"
+      },
+      {
+        "publication_number": "US3365897A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1966-06-17",
+        "publication_date": "1968-01-30",
+        "assignee_original": "Nasa Usa",
+        "title": "Cryogenic thermal insulation",
+        "patent_id": "patent/US3365897A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS3365897A%2Fen"
+      },
+      {
+        "publication_number": "US4520763A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1981-09-25",
+        "publication_date": "1985-06-04",
+        "assignee_original": "Ergenics Inc.",
+        "title": "Fuel injection system",
+        "patent_id": "patent/US4520763A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS4520763A%2Fen"
+      },
+      {
+        "publication_number": "US5449697A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1993-02-26",
+        "publication_date": "1995-09-12",
+        "assignee_original": "Asahi Kasei Kogyo Kabushiki Kaisha",
+        "title": "Ion exchange membrane used for a fuel cell",
+        "patent_id": "patent/US5449697A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5449697A%2Fen"
+      },
+      {
+        "publication_number": "DE19540824C2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-11-02",
+        "publication_date": "2001-02-22",
+        "assignee_original": "Xcellsis Gmbh",
+        "title": "Method for dynamically adjusting the power for a vehicle with a fuel cell",
+        "patent_id": "patent/DE19540824C2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19540824C2%2Fen"
+      },
+      {
+        "publication_number": "DE59707799D1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-06-10",
+        "publication_date": "2002-08-29",
+        "assignee_original": "Siemens Ag",
+        "title": "METHOD FOR OPERATING A PEM FUEL CELL SYSTEM",
+        "patent_id": "patent/DE59707799D1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE59707799D1%2Fen"
+      },
+      {
+        "publication_number": "DE19943248B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-09-10",
+        "publication_date": "2005-10-27",
+        "assignee_original": "Ballard Power Systems Ag",
+        "title": "Method for operating a fuel cell system and arrangement for carrying out the method",
+        "patent_id": "patent/DE19943248B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE19943248B4%2Fen"
+      },
+      {
+        "publication_number": "US7281681B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-03",
+        "publication_date": "2007-10-16",
+        "assignee_original": "Aerovironment Inc.",
+        "title": "Hydrogen powered aircraft",
+        "patent_id": "patent/US7281681B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7281681B2%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "\"What are Fuel Cells\", www.e-sources.com, pp. 1-5.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "answers.com, \"fuel cell\", pp. 1-9.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Brown, Stewart F., \"Eternal Airplane-A Solar Electric Wing Takes Off,\" Popular Science, Apr. 1994, pp. 70-75 and 100."
+    },
+    {
+      "title": "Gelfi, Sylvain; Stefanopoulou, Anna G.; Pukrushpan, Jay T.; and Peng, Huei: \"Dynamics of Low-Pressure and High-Pressure Fuel Cell Air Supply Systems,\" Proceedings of the American Control Conference, Jun. 4-6, 2003, pp. 2049-2054, Denver, Colorado, USA."
+    },
+    {
+      "title": "Mitlitsky, Fred, \"Advanced Power Systems for Exoskeletons,\" Presented at Exoskeletons for Human Performance Augmentation (EHPA) Workshop, Dulles, VA, Mar. 1-3, 2000, pp. 1-21."
+    },
+    {
+      "title": "Nice, Karim; \"How Fuel Cells Work\", www.howstuffworks.com, pp. 1-7.",
+      "examiner_cited": "*"
+    },
+    {
+      "title": "Walter, Katie, \"The Unitized Regenerative Fuel Cell,\" Science & Technology Review, May 1997, www.llnl.gov/str/05.97.html, pp. 1-5."
+    },
+    {
+      "title": "Williams, Arthur L., \"A New and Less Complex Alternative to the Handley Page Slat,\" 452 Journal of Aircraft, Mar. 1986, pp. 200-206, vol. 23, New York, USA."
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080001026A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-03",
+        "publication_date": "2008-01-03",
+        "assignee_original": "Airbus Deutschland Gmbh",
+        "title": "Supply System for the Energy Supply in an Aircraft, Aircraft and Method for Supplying an Aircraft with Energy",
+        "patent_id": "patent/US20080001026A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080001026A1%2Fen"
+      },
+      {
+        "publication_number": "US20100021778A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-07-25",
+        "publication_date": "2010-01-28",
+        "assignee_original": "Lynntech, Inc.",
+        "title": "Fuel cell emergency power system",
+        "patent_id": "patent/US20100021778A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100021778A1%2Fen"
+      },
+      {
+        "publication_number": "US20100193625A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-07-07",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Sommer Geoffrey S",
+        "title": "Modular articulated-wing aircraft",
+        "patent_id": "patent/US20100193625A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100193625A1%2Fen"
+      },
+      {
+        "publication_number": "US20100213309A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-09-14",
+        "publication_date": "2010-08-26",
+        "assignee_original": "Robert Parks",
+        "title": "Non-planar adaptive wing solar aircraft",
+        "patent_id": "patent/US20100213309A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100213309A1%2Fen"
+      },
+      {
+        "publication_number": "US20110046821A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-22",
+        "publication_date": "2011-02-24",
+        "assignee_original": "Grabowsky John F",
+        "title": "Reconfigurable aircraft",
+        "patent_id": "patent/US20110046821A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110046821A1%2Fen"
+      },
+      {
+        "publication_number": "US8448898B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-04-30",
+        "publication_date": "2013-05-28",
+        "assignee_original": "Sunlight Photonics Inc.",
+        "title": "Autonomous solar aircraft",
+        "patent_id": "patent/US8448898B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8448898B1%2Fen"
+      },
+      {
+        "publication_number": "US20140144311A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-14",
+        "publication_date": "2014-05-29",
+        "assignee_original": "Nahum Orlev",
+        "title": "Wide area neutralizer",
+        "patent_id": "patent/US20140144311A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140144311A1%2Fen"
+      },
+      {
+        "publication_number": "US9604715B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-24",
+        "publication_date": "2017-03-28",
+        "assignee_original": "Karem Aircraft, Inc.",
+        "title": "Solar powered aircraft with a variable geometry wing and telecommunications networks utilizing such aircraft",
+        "patent_id": "patent/US9604715B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9604715B2%2Fen"
+      },
+      {
+        "publication_number": "US20170327219A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-11",
+        "publication_date": "2017-11-16",
+        "assignee_original": "Sikorsky Aircraft Corporation",
+        "title": "Vertical take-off and landing aircraft with hybrid power and method",
+        "patent_id": "patent/US20170327219A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170327219A1%2Fen"
+      },
+      {
+        "publication_number": "US10005541B2",
+        "primary_language": "en",
+        "priority_date": "2015-02-24",
+        "publication_date": "2018-06-26",
+        "assignee_original": "Karem Aircraft, Inc.",
+        "title": "Methods for providing a durable solar powered aircraft with a variable geometry wing",
+        "patent_id": "patent/US10005541B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10005541B2%2Fen"
+      },
+      {
+        "publication_number": "US20210078702A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-16",
+        "publication_date": "2021-03-18",
+        "assignee_original": "Airbus Operations Sas",
+        "title": "Aircraft having support stays for wings in which hydrogen pipes or electrical conductors are arranged",
+        "patent_id": "patent/US20210078702A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210078702A1%2Fen"
+      },
+      {
+        "publication_number": "US20220081108A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-11-02",
+        "publication_date": "2022-03-17",
+        "assignee_original": "Joby Aero, Inc.",
+        "title": "Vtol aircraft using rotors to simulate rigid wing dynamics",
+        "patent_id": "patent/US20220081108A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220081108A1%2Fen"
+      },
+      {
+        "publication_number": "US20240109657A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-04-04",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "Uav with distributed propulsion and blown control surfaces",
+        "patent_id": "patent/US20240109657A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20240109657A1%2Fen"
+      },
+      {
+        "publication_number": "US12092042B2",
+        "primary_language": "en",
+        "priority_date": "2021-10-20",
+        "publication_date": "2024-09-17",
+        "assignee_original": "General Electric Company",
+        "title": "Hydrogen fuel system",
+        "patent_id": "patent/US12092042B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12092042B2%2Fen"
+      },
+      {
+        "publication_number": "US12253033B2",
+        "primary_language": "en",
+        "priority_date": "2022-10-04",
+        "publication_date": "2025-03-18",
+        "assignee_original": "General Electric Company",
+        "title": "Hydrogen fuel leak detection system for a vehicle",
+        "patent_id": "patent/US12253033B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12253033B2%2Fen"
+      },
+      {
+        "publication_number": "US12473862B2",
+        "primary_language": "en",
+        "priority_date": "2022-05-13",
+        "publication_date": "2025-11-18",
+        "assignee_original": "General Electric Company",
+        "title": "Purge system for a hydrogen fuel system",
+        "patent_id": "patent/US12473862B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12473862B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "US7281681B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-04-03",
+        "publication_date": "2007-10-16",
+        "assignee_original": "Aerovironment Inc.",
+        "title": "Hydrogen powered aircraft",
+        "patent_id": "patent/US7281681B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7281681B2%2Fen"
+      },
+      {
+        "publication_number": "DE10356012A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-11-27",
+        "publication_date": "2005-06-30",
+        "assignee_original": "Airbus Deutschland Gmbh",
+        "title": "Arrangement and method for producing water on board an aircraft",
+        "patent_id": "patent/DE10356012A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE10356012A1%2Fen"
+      },
+      {
+        "publication_number": "DE102005010399B4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-07",
+        "publication_date": "2010-08-05",
+        "assignee_original": "Airbus Deutschland Gmbh",
+        "title": "Aircraft with a fuel cell emergency system and method for external air independent emergency power supply",
+        "patent_id": "patent/DE102005010399B4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102005010399B4%2Fen"
+      },
+      {
+        "publication_number": "US7806365B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-07-05",
+        "publication_date": "2010-10-05",
+        "assignee_original": "The Boeing Company",
+        "title": "Long endurance hydrogen powered vehicle",
+        "patent_id": "patent/US7806365B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7806365B2%2Fen"
+      },
+      {
+        "publication_number": "US8128031B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-13",
+        "publication_date": "2012-03-06",
+        "assignee_original": "Aurora Flight Sciences Corporation",
+        "title": "Spar for sailwings",
+        "patent_id": "patent/US8128031B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8128031B2%2Fen"
+      },
+      {
+        "publication_number": "US8262358B1",
+        "primary_language": "en",
+        "priority_date": "2009-05-26",
+        "publication_date": "2012-09-11",
+        "assignee_original": "The Boeing Company",
+        "title": "Ultra-light weight self-lubricating propeller hub",
+        "patent_id": "patent/US8262358B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8262358B1%2Fen"
+      },
+      {
+        "publication_number": "GB0913602D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-05",
+        "publication_date": "2009-09-16",
+        "assignee_original": "Qinetiq Ltd",
+        "title": "Aircraft",
+        "patent_id": "patent/GB0913602D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB0913602D0%2Fen"
+      },
+      {
+        "publication_number": "US20110084162A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-09",
+        "publication_date": "2011-04-14",
+        "assignee_original": "Honeywell International Inc.",
+        "title": "Autonomous Payload Parsing Management System and Structure for an Unmanned Aerial Vehicle",
+        "patent_id": "patent/US20110084162A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110084162A1%2Fen"
+      },
+      {
+        "publication_number": "US9475579B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-13",
+        "publication_date": "2016-10-25",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of The National Aeronautics And Space Administration",
+        "title": "Vertical take-off and landing vehicle with increased cruise efficiency",
+        "patent_id": "patent/US9475579B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9475579B2%2Fen"
+      },
+      {
+        "publication_number": "US10071801B2",
+        "primary_language": "en",
+        "priority_date": "2013-08-13",
+        "publication_date": "2018-09-11",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of Nasa",
+        "title": "Tri-rotor aircraft capable of vertical takeoff and landing and transitioning to forward flight",
+        "patent_id": "patent/US10071801B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10071801B2%2Fen"
+      },
+      {
+        "publication_number": "GB201320988D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-11-28",
+        "publication_date": "2014-01-15",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "An aircraft",
+        "patent_id": "patent/GB201320988D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201320988D0%2Fen"
+      },
+      {
+        "publication_number": "US10807728B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-05-20",
+        "publication_date": "2020-10-20",
+        "assignee_original": "The Boeing Company",
+        "title": "Solar powered airplane",
+        "patent_id": "patent/US10807728B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10807728B2%2Fen"
+      },
+      {
+        "publication_number": "US9751614B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-20",
+        "publication_date": "2017-09-05",
+        "assignee_original": "The United States Of America As Represented By The Administrator Of Nasa",
+        "title": "Aeroelastic wing shaping using distributed propulsion",
+        "patent_id": "patent/US9751614B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9751614B1%2Fen"
+      },
+      {
+        "publication_number": "GB2536017A",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2016-09-07",
+        "assignee_original": "Stratospheric Platforms Ltd",
+        "title": "Generation and use of similar multiple beams",
+        "patent_id": "patent/GB2536017A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2536017A%2Fen"
+      },
+      {
+        "publication_number": "GB2536016A",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2016-09-07",
+        "assignee_original": "Stratospheric Platforms Ltd",
+        "title": "Means of improving data transfer",
+        "patent_id": "patent/GB2536016A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2536016A%2Fen"
+      },
+      {
+        "publication_number": "GB2536018A",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2016-09-07",
+        "assignee_original": "Stratospheric Platforms Ltd",
+        "title": "Increasing data transfer rates",
+        "patent_id": "patent/GB2536018A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2536018A%2Fen"
+      },
+      {
+        "publication_number": "GB2536015A",
+        "primary_language": "en",
+        "priority_date": "2015-03-03",
+        "publication_date": "2016-09-07",
+        "assignee_original": "Stratospheric Platforms Ltd",
+        "title": "Process and apparatus for communicating with a user antenna",
+        "patent_id": "patent/GB2536015A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2536015A%2Fen"
+      },
+      {
+        "publication_number": "US10370100B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-24",
+        "publication_date": "2019-08-06",
+        "assignee_original": "United States Of America As Represented By The Administrator Of Nasa",
+        "title": "Aerodynamically actuated thrust vectoring devices",
+        "patent_id": "patent/US10370100B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10370100B2%2Fen"
+      },
+      {
+        "publication_number": "GB201511033D0",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-05-19",
+        "publication_date": "2015-08-05",
+        "assignee_original": "Rolls Royce Plc",
+        "title": "Aircraft electrical network",
+        "patent_id": "patent/GB201511033D0/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB201511033D0%2Fen"
+      },
+      {
+        "publication_number": "GB2542163B",
+        "primary_language": "en",
+        "priority_date": "2015-09-10",
+        "publication_date": "2021-07-07",
+        "assignee_original": "Stratospheric Platforms Ltd",
+        "title": "Lightweight process and apparatus for communicating with user antenna phased arrays",
+        "patent_id": "patent/GB2542163B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2542163B%2Fen"
+      },
+      {
+        "publication_number": "CN105416596A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-03",
+        "publication_date": "2016-03-23",
+        "assignee_original": "\u4e0a\u6d77\u5965\u79d1\u8d5b\u98de\u673a\u6709\u9650\u516c\u53f8",
+        "title": "Fixed wing aircraft driven by hydrogen fuel",
+        "patent_id": "patent/CN105416596A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105416596A%2Fen"
+      },
+      {
+        "publication_number": "US10518863B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-04-22",
+        "publication_date": "2019-12-31",
+        "assignee_original": "Rolls-Royce Plc",
+        "title": "Aircraft electrical network",
+        "patent_id": "patent/US10518863B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10518863B2%2Fen"
+      },
+      {
+        "publication_number": "CN106628203B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-09-28",
+        "publication_date": "2019-12-13",
+        "assignee_original": "\u4e2d\u7535\u79d1\u829c\u6e56\u901a\u7528\u822a\u7a7a\u4ea7\u4e1a\u6280\u672f\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+        "title": "Method for displaying endurance parameters of extended-range hybrid power aircraft",
+        "patent_id": "patent/CN106628203B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106628203B%2Fen"
+      },
+      {
+        "publication_number": "ES2756340T3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-14",
+        "publication_date": "2020-04-27",
+        "assignee_original": "Airbus Operations Gmbh",
+        "title": "Method for adapting and integrating a fuel cell unit in a vehicle",
+        "patent_id": "patent/ES2756340T3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FES2756340T3%2Fen"
+      },
+      {
+        "publication_number": "US20180297693A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-04-13",
+        "publication_date": "2018-10-18",
+        "assignee_original": "Facebook, Inc.",
+        "title": "Wing and Propeller Design for Aircraft",
+        "patent_id": "patent/US20180297693A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180297693A1%2Fen"
+      },
+      {
+        "publication_number": "US10928837B2",
+        "primary_language": "en",
+        "priority_date": "2017-04-13",
+        "publication_date": "2021-02-23",
+        "assignee_original": "Facebook, Inc.",
+        "title": "Banked yet straight flight",
+        "patent_id": "patent/US10928837B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10928837B2%2Fen"
+      },
+      {
+        "publication_number": "US11358715B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-11-28",
+        "publication_date": "2022-06-14",
+        "assignee_original": "Abe Karem",
+        "title": "Devices and methods for modifying width of rotor aircraft during operational flight",
+        "patent_id": "patent/US11358715B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11358715B2%2Fen"
+      },
+      {
+        "publication_number": "FR3077269A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-02-01",
+        "publication_date": "2019-08-02",
+        "assignee_original": "Airbus Operations",
+        "title": "AIRCRAFT ASSEMBLY COMPRISING A PRIMARY STRUCTURE OF A COUPLING MAT FIXED TO A SAILBOX USING A BOLT CONNECTION",
+        "patent_id": "patent/FR3077269A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3077269A1%2Fen"
+      },
+      {
+        "publication_number": "US10933970B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-28",
+        "publication_date": "2021-03-02",
+        "assignee_original": "The Boeing Company",
+        "title": "Aircraft with strut-braced wing system",
+        "patent_id": "patent/US10933970B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10933970B2%2Fen"
+      },
+      {
+        "publication_number": "US11453513B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-26",
+        "publication_date": "2022-09-27",
+        "assignee_original": "Skydio, Inc.",
+        "title": "Autonomous aerial vehicle hardware configuration",
+        "patent_id": "patent/US11453513B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11453513B2%2Fen"
+      },
+      {
+        "publication_number": "GB2580686A",
+        "primary_language": "en",
+        "priority_date": "2019-01-24",
+        "publication_date": "2020-07-29",
+        "assignee_original": "Stratospheric Platforms Ltd",
+        "title": "Fuel storage systems for unmanned aircraft",
+        "patent_id": "patent/GB2580686A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2580686A%2Fen"
+      },
+      {
+        "publication_number": "DE102019205152A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-10",
+        "publication_date": "2020-10-15",
+        "assignee_original": "Rolls-Royce Deutschland Ltd & Co Kg",
+        "title": "Electric propulsion system for an aircraft with minimal yaw moment",
+        "patent_id": "patent/DE102019205152A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019205152A1%2Fen"
+      },
+      {
+        "publication_number": "FR3097202B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-14",
+        "publication_date": "2024-02-23",
+        "assignee_original": "Airbus",
+        "title": "AUTONOMOUS PROPULSION SYSTEM FOR AN AIRCRAFT, SAID AUTONOMOUS PROPULSION SYSTEM COMPRISING A FUEL CELL",
+        "patent_id": "patent/FR3097202B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3097202B1%2Fen"
+      },
+      {
+        "publication_number": "GB2584891A",
+        "primary_language": "en",
+        "priority_date": "2019-06-20",
+        "publication_date": "2020-12-23",
+        "assignee_original": "Stratospheric Platforms Ltd",
+        "title": "A fleet of high altitude platforms comprising antennas and method of positioning thereof",
+        "patent_id": "patent/GB2584891A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2584891A%2Fen"
+      },
+      {
+        "publication_number": "DE102019209069A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-06-24",
+        "publication_date": "2020-12-24",
+        "assignee_original": "Siemens Aktiengesellschaft",
+        "title": "Attachment of power semiconductor components on curved surfaces",
+        "patent_id": "patent/DE102019209069A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE102019209069A1%2Fen"
+      },
+      {
+        "publication_number": "FR3098649B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-07-12",
+        "publication_date": "2022-01-21",
+        "assignee_original": "Airbus",
+        "title": "ELECTRICAL PRODUCTION SYSTEM FOR AN AIRCRAFT COMPRISING A FUEL CELL",
+        "patent_id": "patent/FR3098649B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FFR3098649B1%2Fen"
+      },
+      {
+        "publication_number": "GB2594706A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-29",
+        "publication_date": "2021-11-10",
+        "assignee_original": "Gkn Aerospace Services Ltd",
+        "title": "Motor drive system",
+        "patent_id": "patent/GB2594706A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FGB2594706A%2Fen"
+      },
+      {
+        "publication_number": "CN113232869A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-13",
+        "publication_date": "2021-08-10",
+        "assignee_original": "\u4e2d\u7535\u79d1\u829c\u6e56\u901a\u7528\u822a\u7a7a\u4ea7\u4e1a\u6280\u672f\u7814\u7a76\u9662\u6709\u9650\u516c\u53f8",
+        "title": "Integrated hydrogen energy aircraft power system and electric aircraft",
+        "patent_id": "patent/CN113232869A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113232869A%2Fen"
+      },
+      {
+        "publication_number": "US12091155B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-06-29",
+        "publication_date": "2024-09-17",
+        "assignee_original": "The Boeing Company",
+        "title": "Structural arrangement for strut-braced wing assembly of an aircraft",
+        "patent_id": "patent/US12091155B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12091155B2%2Fen"
+      },
+      {
+        "publication_number": "US12168521B2",
+        "primary_language": "en",
+        "priority_date": "2022-04-28",
+        "publication_date": "2024-12-17",
+        "assignee_original": "Jetzero, Inc.",
+        "title": "Systems and methods for a blended wing body aircraft with permanent tanks",
+        "patent_id": "patent/US12168521B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12168521B2%2Fen"
+      },
+      {
+        "publication_number": "US12338008B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-17",
+        "publication_date": "2025-06-24",
+        "assignee_original": "Singapore University Of Technology And Design",
+        "title": "Monocopter",
+        "patent_id": "patent/US12338008B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12338008B2%2Fen"
+      },
+      {
+        "publication_number": "US11724799B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-17",
+        "publication_date": "2023-08-15",
+        "assignee_original": "Blended Wing Aircraft, Inc.",
+        "title": "Aircraft having a controllable center of gravity and method of use",
+        "patent_id": "patent/US11724799B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11724799B2%2Fen"
+      },
+      {
+        "publication_number": "US12017789B2",
+        "primary_language": "en",
+        "priority_date": "2021-10-05",
+        "publication_date": "2024-06-25",
+        "assignee_original": "General Electric Company",
+        "title": "Onboard liquid hydrogen storage for a hydrogen aircraft",
+        "patent_id": "patent/US12017789B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12017789B2%2Fen"
+      },
+      {
+        "publication_number": "USD1061394S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-29",
+        "publication_date": "2025-02-11",
+        "assignee_original": "Whisper Aero Inc.",
+        "title": "Jet",
+        "patent_id": "patent/USD1061394S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD1061394S1%2Fen"
+      },
+      {
+        "publication_number": "USD1076764S1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-06-29",
+        "publication_date": "2025-05-27",
+        "assignee_original": "Whisper Aero Inc.",
+        "title": "Jet",
+        "patent_id": "patent/USD1076764S1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUSD1076764S1%2Fen"
+      },
+      {
+        "publication_number": "US11891164B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-30",
+        "publication_date": "2024-02-06",
+        "assignee_original": "Wing Aviation Llc",
+        "title": "UAV with distributed propulsion for short takeoffs and landings",
+        "patent_id": "patent/US11891164B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11891164B1%2Fen"
+      },
+      {
+        "publication_number": "CN115723954B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-09",
+        "publication_date": "2024-05-31",
+        "assignee_original": "\u5317\u4eac\u822a\u5929\u8bd5\u9a8c\u6280\u672f\u7814\u7a76\u6240",
+        "title": "Spherical storage tank for unmanned aerial vehicle",
+        "patent_id": "patent/CN115723954B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115723954B%2Fen"
+      },
+      {
+        "publication_number": "US12384546B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-10-02",
+        "publication_date": "2025-08-12",
+        "assignee_original": "The Boeing Company",
+        "title": "Ice protection system for a truss-braced wing of an aircraft",
+        "patent_id": "patent/US12384546B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12384546B2%2Fen"
+      },
+      {
+        "publication_number": "CN118907490B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2024-10-09",
+        "publication_date": "2025-01-21",
+        "assignee_original": "\u5317\u4eac\u6df3\u4e00\u822a\u7a7a\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "A fixed-wing unmanned aerial vehicle and a flight energy supply method based on the fixed-wing unmanned aerial vehicle",
+        "patent_id": "patent/CN118907490B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN118907490B%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US7281681B2",
+      "primary_language": "en",
+      "publication_date": "2007-10-16",
+      "title": "Hydrogen powered aircraft",
+      "patent_id": "patent/US7281681B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7281681B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US6550717B2",
+      "primary_language": "en",
+      "publication_date": "2003-04-22",
+      "title": "Liquid hydrogen stratospheric aircraft",
+      "patent_id": "patent/US6550717B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6550717B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US5810284A",
+      "primary_language": "en",
+      "publication_date": "1998-09-22",
+      "title": "Aircraft",
+      "patent_id": "patent/US5810284A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5810284A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US9272783B2",
+      "primary_language": "en",
+      "publication_date": "2016-03-01",
+      "title": "Long endurance aircraft",
+      "patent_id": "patent/US9272783B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9272783B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8322650B2",
+      "primary_language": "en",
+      "publication_date": "2012-12-04",
+      "title": "Aircraft",
+      "patent_id": "patent/US8322650B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8322650B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3286077B1",
+      "primary_language": "en",
+      "publication_date": "2022-06-22",
+      "title": "Solar-powered aircraft",
+      "patent_id": "patent/EP3286077B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3286077B1%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "3363206006818556539",
+      "scholar_authors": "Youngblood et al.",
+      "publication_date": "1984",
+      "title": "Design of long-endurance unmanned airplanes incorporating solar and fuel cell propulsion",
+      "patent_id": "scholar/3363206006818556539",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F3363206006818556539"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN206068150U",
+      "primary_language": "en",
+      "publication_date": "2017-04-05",
+      "title": "Combined type layout vertically taking off and landing flyer",
+      "patent_id": "patent/CN206068150U/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN206068150U%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "6101324047823856375",
+      "scholar_authors": "Youngblood et al.",
+      "publication_date": "1982",
+      "title": "Solar-powered airplane design for long-endurance, high-altitude flight",
+      "patent_id": "scholar/6101324047823856375",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F6101324047823856375"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN115158674B",
+      "primary_language": "en",
+      "publication_date": "2024-08-23",
+      "title": "Supporting wing new energy unmanned aerial vehicle considering layout of hydrogen storage device",
+      "patent_id": "patent/CN115158674B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115158674B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN116477088A",
+      "primary_language": "en",
+      "publication_date": "2023-07-25",
+      "title": "A multi-wing flying wing solar unmanned aerial vehicle",
+      "patent_id": "patent/CN116477088A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116477088A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN119389475B",
+      "primary_language": "en",
+      "publication_date": "2025-09-19",
+      "title": "Portable solar unmanned aerial vehicle of distributed power fixed point take off and land",
+      "patent_id": "patent/CN119389475B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN119389475B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN117208260A",
+      "primary_language": "en",
+      "publication_date": "2023-12-12",
+      "title": "Tilting wing solar unmanned aerial vehicle",
+      "patent_id": "patent/CN117208260A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN117208260A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2004-03-18",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "AEROVIRONMENT INC., CALIFORNIA"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MACCREADY, PAUL B.;HIBBS, BART D.;SWANSON, KYLE D.;AND OTHERS;REEL/FRAME:014444/0527;SIGNING DATES FROM 20040308 TO 20040315"
+        }
+      ]
+    },
+    {
+      "date": "2007-09-26",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2010-12-03",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAT HOLDER NO LONGER CLAIMS SMALL ENTITY STATUS, ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: STOL); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2011-02-25",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2015-04-15",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2019-06-03",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-21",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "11.5 YR SURCHARGE- LATE PMT W/IN 6 MO, LARGE ENTITY (ORIGINAL EVENT CODE: M1556); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2019-10-21",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-19",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "BANK OF AMERICA, N.A., AS ADMINISTRATIVE AGENT, TEXAS"
+        },
+        {
+          "label": "Free format text",
+          "value": "NOTICE OF GRANT OF SECURITY INTEREST IN PATENTS;ASSIGNOR:AEROVIRONMENT, INC.;REEL/FRAME:055343/0926"
+        },
+        {
+          "label": "Effective date",
+          "value": "20210219"
+        }
+      ]
+    }
+  ],
+  "concepts": {
+    "match": [
+      {
+        "id": "239000001257",
+        "name": "hydrogen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 55
+      },
+      {
+        "id": "229910052739",
+        "name": "hydrogen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 55
+      },
+      {
+        "id": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "name": "Hydrogen",
+        "domain": "Chemical compound",
+        "smiles": "[H][H]",
+        "inchi_key": "UFHFLCQGNIYNRP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "title",
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 53
+      },
+      {
+        "id": "239000000446",
+        "name": "fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 100
+      },
+      {
+        "id": "239000007788",
+        "name": "liquid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 25
+      },
+      {
+        "id": "239000007800",
+        "name": "oxidant agent",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 22
+      },
+      {
+        "id": "239000012080",
+        "name": "ambient air",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "abstract",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "238000006243",
+        "name": "chemical reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 45
+      },
+      {
+        "id": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "name": "atomic oxygen",
+        "domain": "Chemical compound",
+        "smiles": "[O]",
+        "inchi_key": "QVGXLLKOCUKJST-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000001301",
+        "name": "oxygen",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "229910052760",
+        "name": "oxygen",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "239000000376",
+        "name": "reactant",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 17
+      },
+      {
+        "id": "230000006835",
+        "name": "compression",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000007906",
+        "name": "compression",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "230000007246",
+        "name": "mechanism",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000010248",
+        "name": "power generation",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "238000009835",
+        "name": "boiling",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 8
+      },
+      {
+        "id": "230000001105",
+        "name": "regulatory effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "150000002431",
+        "name": "hydrogen",
+        "domain": "Chemical class",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000004044",
+        "name": "response",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "claims",
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "239000002828",
+        "name": "fuel tank",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 16
+      },
+      {
+        "id": "238000004891",
+        "name": "communication",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "abstract",
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "210000004027",
+        "name": "cell",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 41
+      },
+      {
+        "id": "238000013461",
+        "name": "design",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 14
+      },
+      {
+        "id": "230000000694",
+        "name": "effects",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 13
+      },
+      {
+        "id": "230000008901",
+        "name": "benefit",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 11
+      },
+      {
+        "id": "239000003570",
+        "name": "air",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 10
+      },
+      {
+        "id": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "name": "aluminium",
+        "domain": "Chemical compound",
+        "smiles": "[Al]",
+        "inchi_key": "XAGFODPZIPBFFR-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "229910052782",
+        "name": "aluminium",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 9
+      },
+      {
+        "id": "241000272517",
+        "name": "Anseriformes",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000007423",
+        "name": "decrease",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 6
+      },
+      {
+        "id": "230000004907",
+        "name": "flux",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 5
+      },
+      {
+        "id": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "name": "Carbon",
+        "domain": "Chemical compound",
+        "smiles": "[C]",
+        "inchi_key": "OKTJSMMVPCPJKN-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013459",
+        "name": "approach",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "229910052799",
+        "name": "carbon",
+        "domain": "Inorganic materials",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "230000008859",
+        "name": "change",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "238000013016",
+        "name": "damping",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 4
+      },
+      {
+        "id": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+        "name": "9,10-anthraquinone",
+        "domain": "Chemical compound",
+        "smiles": "C1=CC=C2C(=O)C3=CC=CC=C3C(=O)C2=C1",
+        "inchi_key": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "230000003247",
+        "name": "decreasing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005516",
+        "name": "engineering process",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 3
+      },
+      {
+        "id": "238000005452",
+        "name": "bending",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000033228",
+        "name": "biological regulation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005484",
+        "name": "gravity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012986",
+        "name": "modification",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000004048",
+        "name": "modification",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000005855",
+        "name": "radiation",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000011514",
+        "name": "reflex",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000001172",
+        "name": "regenerating effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "230000003319",
+        "name": "supportive effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "238000012546",
+        "name": "transfer",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "name": "water",
+        "domain": "Substances",
+        "smiles": "O",
+        "inchi_key": "XLYOFNOQVPJJNP-UHFFFAOYSA-N",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 2
+      },
+      {
+        "id": "241001155430",
+        "name": "Centrarchus",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000002411",
+        "name": "adverse",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003466",
+        "name": "anti-cipated effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000003190",
+        "name": "augmentative effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009286",
+        "name": "beneficial effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005540",
+        "name": "biological transmission",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "210000000170",
+        "name": "cell membrane",
+        "domain": "Anatomy",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000009194",
+        "name": "climbing",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000002485",
+        "name": "combustion reaction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010276",
+        "name": "construction",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001276",
+        "name": "controlling effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010586",
+        "name": "diagram",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000005611",
+        "name": "electricity",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000001747",
+        "name": "exhibiting effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000010006",
+        "name": "flight",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000002803",
+        "name": "fossil fuel",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000010438",
+        "name": "heat treatment",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000463",
+        "name": "material",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000012528",
+        "name": "membrane",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000000034",
+        "name": "method",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000000203",
+        "name": "mixture",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "238000005457",
+        "name": "optimization",
+        "domain": "Methods",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "244000045947",
+        "name": "parasite",
+        "domain": "Species",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003208",
+        "name": "petroleum",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000007787",
+        "name": "solid",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000003381",
+        "name": "stabilizer",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "230000000087",
+        "name": "stabilizing effect",
+        "domain": "Effects",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      },
+      {
+        "id": "239000005437",
+        "name": "stratosphere",
+        "domain": "Substances",
+        "similarity": 0.0,
+        "sections": [
+          "description"
+        ],
+        "count": 1
+      }
+    ]
+  }
+}

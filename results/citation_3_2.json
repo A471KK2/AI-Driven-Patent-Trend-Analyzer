@@ -1,0 +1,802 @@
+{
+  "search_metadata": {
+    "id": "697a3a56acb3e46643a662d9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4d1db31abc3c5214/697a3a56acb3e46643a662d9.json",
+    "created_at": "2026-01-28 16:33:26 UTC",
+    "processed_at": "2026-01-28 16:33:26 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/WO2018097312A1/en",
+    "raw_html_file": "https://serpapi.com/searches/4d1db31abc3c5214/697a3a56acb3e46643a662d9.html",
+    "total_time_taken": 1.41
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/WO2018097312A1/en"
+  },
+  "title": "Composite of fiber and inorganic particles",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/f7/8f/4e/86aab3755e5a43/WO2018097312A1.pdf",
+  "publication_number": "WO2018097312A1",
+  "country": "WIPO (PCT)",
+  "prior_art_keywords": [
+    "fibers",
+    "inorganic particles",
+    "composite",
+    "fiber",
+    "product"
+  ],
+  "prior_art_date": "2016-11-28",
+  "application_number": "PCT/JP2017/042614",
+  "inventors": [
+    {
+      "name": "\u76f4\u4e4b \u83c5\u539f",
+      "link": "https://patents.google.com/?inventor=%E7%9B%B4%E4%B9%8B+%E8%8F%85%E5%8E%9F",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E7%9B%B4%E4%B9%8B+%E8%8F%85%E5%8E%9F"
+    },
+    {
+      "name": "\u6b63\u6df3 \u5927\u77f3",
+      "link": "https://patents.google.com/?inventor=%E6%AD%A3%E6%B7%B3+%E5%A4%A7%E7%9F%B3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E6%AD%A3%E6%B7%B3+%E5%A4%A7%E7%9F%B3"
+    },
+    {
+      "name": "\u840c \u6e15\u702c",
+      "link": "https://patents.google.com/?inventor=%E8%90%8C+%E6%B8%95%E7%80%AC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E8%90%8C+%E6%B8%95%E7%80%AC"
+    },
+    {
+      "name": "\u5fb9 \u4e2d\u8c37",
+      "link": "https://patents.google.com/?inventor=%E5%BE%B9+%E4%B8%AD%E8%B0%B7",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BE%B9+%E4%B8%AD%E8%B0%B7"
+    },
+    {
+      "name": "\u5f8c\u85e4\u3000\u81f3\u8aa0",
+      "link": "https://patents.google.com/?inventor=%E5%BE%8C%E8%97%A4%E3%80%80%E8%87%B3%E8%AA%A0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E5%BE%8C%E8%97%A4%E3%80%80%E8%87%B3%E8%AA%A0"
+    }
+  ],
+  "assignees": [
+    "Nippon Paper Industries Co Ltd",
+    "Jujo Paper Co Ltd"
+  ],
+  "priority_date": "2016-11-28",
+  "filing_date": "2017-11-28",
+  "publication_date": "2018-05-31",
+  "worldwide_applications": {
+    "2017": [
+      {
+        "filing_date": "2017-11-28",
+        "country_code": "WO",
+        "application_number": "PCT/JP2017/042614",
+        "document_id": "patent/WO2018097312A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-12-28",
+      "title": "Priority claimed from JP2016255144A",
+      "type": "external-priority",
+      "document_id": "patent/JP2018104624A/en"
+    },
+    {
+      "date": "2017-02-02",
+      "title": "Priority claimed from JP2017017509A",
+      "type": "external-priority",
+      "document_id": "patent/JP2018090939A/en"
+    },
+    {
+      "date": "2017-11-28",
+      "title": "Application filed by Nippon Paper Industries Co Ltd, Jujo Paper Co Ltd",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Nippon Paper Industries Co Ltd"
+    },
+    {
+      "date": "2017-11-28",
+      "title": "Priority to CN201780073162.XA",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN110023558A/en"
+    },
+    {
+      "date": "2017-11-28",
+      "title": "Priority to US16/464,014",
+      "type": "priority",
+      "document_id": "patent/US20200385547A1/en"
+    },
+    {
+      "date": "2017-11-28",
+      "title": "Priority to EP17873231.9A",
+      "type": "priority",
+      "document_id": "patent/EP3546640A4/en"
+    },
+    {
+      "date": "2018-05-31",
+      "title": "Publication of WO2018097312A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/WO2018097312A1/en"
+    },
+    {
+      "date": "2019-05-28",
+      "title": "Anticipated expiration",
+      "type": "legal-status",
+      "critical": true
+    },
+    {
+      "date": "Status",
+      "title": "Ceased",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2018097312A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/WIPO/PCTJP2017042614/1"
+    },
+    {
+      "text": "PatentScope",
+      "link": "https://patentscope.wipo.int/search/en/WO2018097312"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/WO2018097312A1"
+    }
+  ],
+  "images": [
+    "https://patentimages.storage.googleapis.com/4a/aa/4f/ddbd1bba7356cd/JPOXMLDOC01-appb-D000002.png",
+    "https://patentimages.storage.googleapis.com/e2/42/ee/38978e63675e72/JPOXMLDOC01-appb-D000003.png",
+    "https://patentimages.storage.googleapis.com/cd/bb/95/0e7ef96b39f68c/JPOXMLDOC01-appb-D000004.png",
+    "https://patentimages.storage.googleapis.com/29/c4/c9/16e50726b4e757/JPOXMLDOC01-appb-D000005.png",
+    "https://patentimages.storage.googleapis.com/82/f1/f6/a01ae35626976a/JPOXMLDOC01-appb-D000006.png",
+    "https://patentimages.storage.googleapis.com/20/03/31/a0c811bfeef2bb/JPOXMLDOC01-appb-D000007.png",
+    "https://patentimages.storage.googleapis.com/2f/1c/3a/8032cfff12e995/JPOXMLDOC01-appb-D000008.png",
+    "https://patentimages.storage.googleapis.com/7e/14/62/ebc3ac4d2540be/JPOXMLDOC01-appb-D000009.png",
+    "https://patentimages.storage.googleapis.com/91/cf/55/a0f4d13d3b3f0f/JPOXMLDOC01-appb-D000010.png",
+    "https://patentimages.storage.googleapis.com/b9/eb/38/a30c374384ac31/JPOXMLDOC01-appb-D000011.png"
+  ],
+  "classifications": [
+    {
+      "code": "C01F5/24",
+      "description": "Magnesium carbonates",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C08L1/02",
+      "description": "Cellulose; Modified cellulose",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D04H1/413",
+      "description": "Non-woven fabrics formed wholly or mainly of staple fibres or like relatively short fibres from fleeces or layers composed of fibres without existing or potential cohesive properties containing granules other than absorbent substances",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D06M11/76",
+      "description": "Treating fibres, threads, yarns, fabrics or fibrous goods made from such materials, with inorganic substances or complexes thereof; Such treatment combined with mechanical treatment, e.g. mercerising with carbon or compounds thereof with carbon oxides or carbonates",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "D21H17/70",
+      "description": "Inorganic compounds forming new compounds in situ, e.g. within the pulp or paper, by chemical reaction with other substances added separately",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention addresses the problem of providing products comprising a fiber composite of inorganic particles and fiber. The present invention provides products comprising a fiber composite of inorganic particles and fiber, said products being in the form of an aqueous suspension, pulp, sheet, powder, microsphere grains, granules, pellets, mold, yarn or foam.",
+  "description_link": "https://serpapi.com/searches/697a3a56acb3e46643a662d9/google_patents_details/description.html",
+  "claims": [
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u7e4a\u7dad\u8907\u5408\u4f53\u3092\u542b\u307f\u3001\u6c34\u6027\u61f8\u6fc1\u6db2\u3001\u30d1\u30eb\u30d7\u3001\u30b7\u30fc\u30c8\u3001\u7c89\u4f53\u3001\u5fae\u5c0f\u7403\u5f62\u7c92\u3001\u9846\u7c92\u3001\u30da\u30ec\u30c3\u30c8\u3001\u30e2\u30fc\u30eb\u30c9\u3001\u7cf8\u3001\u307e\u305f\u306f\u3001\u767a\u6ce1\u4f53\u306e\u5f62\u614b\u3067\u3042\u308b\u88fd\u54c1\u3002\n\nA product that contains a fiber composite of fibers and inorganic particles and is in the form of an aqueous suspension, pulp, sheet, powder, microsphere, granule, pellet, mold, thread, or foam.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u6c34\u6027\u61f8\u6fc1\u6db2\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product of claim 1, wherein the product is an aqueous suspension.",
+    "\u3000\u524d\u8a18\u6c34\u6027\u61f8\u6fc1\u6db2\u306e\u6c34\u5206\u7387\u304c\uff19\uff10\u8cea\u91cf\uff05\u4ee5\u4e0a\uff19\uff19\uff05\u8cea\u91cf\u4ee5\u4e0b\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff12\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 2, wherein the water content of the aqueous suspension is 90% by mass or more and 99% by mass or less.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u30d1\u30eb\u30d7\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product of claim 1, wherein the product is pulp.",
+    "\u3000\u524d\u8a18\u30d1\u30eb\u30d7\u306e\u6c34\u5206\u7387\u304c\uff11\uff10\u8cea\u91cf\uff05\u4ee5\u4e0a\uff19\uff10\u8cea\u91cf\uff05\u672a\u6e80\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff14\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 4, wherein the moisture content of the pulp is 10% by mass or more and less than 90% by mass.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u30b7\u30fc\u30c8\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 1, wherein the product is a sheet.",
+    "\u3000\u524d\u8a18\u30b7\u30fc\u30c8\u306e\u6c34\u5206\u7387\u304c\uff11\uff10\u8cea\u91cf\uff05\u672a\u6e80\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff16\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 6, wherein the moisture content of the sheet is less than 10% by mass.",
+    "\u3000\u524d\u8a18\u30b7\u30fc\u30c8\u304c\u524d\u8a18\u8907\u5408\u4f53\u3092\u914d\u5408\u3057\u305f\u7d19\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff16\u307e\u305f\u306f\uff17\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 6 or 7, wherein the sheet is a paper containing the composite.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u7c89\u4f53\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 1, wherein the product is a powder.",
+    "\u3000\u524d\u8a18\u7c89\u4f53\u306e\u5e73\u5747\u7c92\u5b50\u5f84\u304c\uff11\uff10\uff10\u03bc\uff4d\u672a\u6e80\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff19\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 9, wherein the powder has an average particle size of less than 100 \u03bcm.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u5fae\u5c0f\u7403\u5f62\u7c92\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 1, wherein the product is a microspherical particle.",
+    "\u3000\u524d\u8a18\u5fae\u5c0f\u7403\u5f62\u7c92\u306e\u5e73\u5747\u7c92\u5b50\u5f84\u304c\uff11\uff10\uff10\u03bc\uff4d\u4ee5\u4e0a\u3001\uff11\uff10\uff10\uff10\u03bc\uff4d\u672a\u6e80\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 11, wherein an average particle diameter of the microspherical particles is 100 \u00b5m or more and less than 1000 \u00b5m.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u9846\u7c92\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 1, wherein the product is a granule.",
+    "\u3000\u524d\u8a18\u9846\u7c92\u306e\u5e73\u5747\u7c92\u5b50\u5f84\u304c\uff11\uff0e\uff10\uff4d\uff4d\u4ee5\u4e0a\u3001\uff11\uff10\uff4d\uff4d\u672a\u6e80\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff13\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 13, wherein the average particle diameter of the granules is 1.0 mm or more and less than 10 mm.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u30da\u30ec\u30c3\u30c8\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product of claim 1, wherein the product is a pellet.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u306e\u30da\u30ec\u30c3\u30c8\u5f84\u304c\uff11\uff10\uff4d\uff4d\u4ee5\u4e0a\u3001\uff15\uff10\uff4d\uff4d\u4ee5\u4e0b\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff15\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 15, wherein the pellet diameter of the product is 10 mm or more and 50 mm or less.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u30e2\u30fc\u30eb\u30c9\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product of claim 1, wherein the product is a mold.",
+    "\u3000\u524d\u8a18\u30e2\u30fc\u30eb\u30c9\u306e\u76f4\u5f84\u304c\uff15\uff43\uff4d\u4ee5\u4e0a\u3001\uff11\uff10\uff10\uff43\uff4d\u4ee5\u4e0b\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff17\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 17, wherein the mold has a diameter of 5 cm or more and 100 cm or less.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u7cf8\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 1, wherein the product is a yarn.",
+    "\u3000\u524d\u8a18\u7cf8\u306e\u7e4a\u7dad\u5f84\u304c\uff11\uff4d\uff4d\u4ee5\u4e0a\u3001\uff11\uff10\uff4d\uff4d\u4ee5\u4e0b\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff19\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 19, wherein the fiber diameter of the yarn is 1 mm or more and 10 mm or less.",
+    "\u3000\u524d\u8a18\u88fd\u54c1\u304c\u767a\u6ce1\u4f53\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product of claim 1, wherein the product is a foam.",
+    "\u3000\u524d\u8a18\u767a\u6ce1\u4f53\u306e\u5bc6\u5ea6\u304c\uff10\uff0e\uff10\uff11\uff5e\uff10\uff0e\uff11\uff47\uff0f\uff43\uff4d\uff13\u4ee5\u4e0b\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff12\uff11\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\nThe product according to claim 21, wherein the density of the foam is 0.01 to 0.1 g / cm 3 or less.",
+    "\u3000\u524d\u8a18\u7121\u6a5f\u7c92\u5b50\u306e\u5e73\u5747\u4e00\u6b21\u7c92\u5b50\u5f84\u304c\uff12\uff10\uff10\uff4e\uff4d\u4ee5\u4e0b\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff5e\uff12\uff12\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to any one of claims 1 to 22, wherein the average primary particle diameter of the inorganic particles is 200 nm or less.",
+    "\u3000\u524d\u8a18\u7121\u6a5f\u7c92\u5b50\u306e\u5c11\u306a\u304f\u3068\u3082\u4e00\u90e8\u304c\u3001\u30ab\u30eb\u30b7\u30a6\u30e0\u3001\u30de\u30b0\u30cd\u30b7\u30a6\u30e0\u307e\u305f\u306f\u30d0\u30ea\u30a6\u30e0\u306e\u91d1\u5c5e\u5869\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff16\uff5e\uff18\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to any one of claims 6 to 8, wherein at least a part of the inorganic particles is a metal salt of calcium, magnesium or barium.",
+    "\u3000\u524d\u8a18\u7121\u6a5f\u7c92\u5b50\u306e\u5c11\u306a\u304f\u3068\u3082\u4e00\u90e8\u304c\u3001\u30b1\u30a4\u9178\u3001\u307e\u305f\u306f\u30a2\u30eb\u30df\u30cb\u30a6\u30e0\u306e\u91d1\u5c5e\u5869\u3001\u3042\u308b\u3044\u306f\u30c1\u30bf\u30f3\u3001\u9285\u3001\u9280\u3001\u9244\u3001\u30de\u30f3\u30ac\u30f3\u307e\u305f\u306f\u4e9c\u925b\u3092\u542b\u3080\u91d1\u5c5e\u7c92\u5b50\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff5e\uff15\u3001\uff19\uff5e\uff12\uff13\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nAt least a part of the inorganic particles are metal particles containing silicic acid or a metal salt of aluminum, or titanium, copper, silver, iron, manganese or zinc. Product listed.",
+    "\u3000\u524d\u8a18\u7e4a\u7dad\u304c\u3001\u5316\u5b66\u7e4a\u7dad\u3001\u518d\u751f\u7e4a\u7dad\u307e\u305f\u306f\u5929\u7136\u7e4a\u7dad\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff5e\uff12\uff15\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to any one of claims 1 to 25, wherein the fiber is a chemical fiber, a recycled fiber, or a natural fiber.",
+    "\u3000\u524d\u8a18\u7e4a\u7dad\u304c\u3001\u6728\u6750\u7531\u6765\u306e\u30bb\u30eb\u30ed\u30fc\u30b9\u7e4a\u7dad\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff12\uff16\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to claim 26, wherein the fiber is a cellulose fiber derived from wood.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u91cd\u91cf\u6bd4\u304c\uff15\uff0f\uff19\uff15\uff5e\uff19\uff15\uff0f\uff15\u3067\u3042\u308b\u3001\u8acb\u6c42\u9805\uff11\uff5e\uff12\uff17\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3002\n\nThe product according to any one of claims 1 to 27, wherein the weight ratio of the fibers to the inorganic particles is 5/95 to 95/5.",
+    "\u3000\u8acb\u6c42\u9805\uff11\uff5e\uff12\uff18\u306e\u3044\u305a\u308c\u304b\u306b\u8a18\u8f09\u306e\u88fd\u54c1\u3092\u542b\u3080\u6df7\u5408\u7269\u3002\n\nA mixture containing the product according to any one of claims 1 to 28.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u88fd\u54c1\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u7e4a\u7dad\u306e\u5b58\u5728\u4e0b\u3067\u3001\u6eb6\u6db2\u4e2d\u3067\u7121\u6a5f\u7c92\u5b50\u3092\u5408\u6210\u3057\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u5408\u6210\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u6c34\u5206\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u3092\u542b\u3080\u4e0a\u8a18\u65b9\u6cd5\u3002\nA method for producing a product containing a composite of fibers and inorganic particles,  Synthesizing inorganic particles in a solution in the presence of fibers to synthesize a composite of fibers and inorganic particles;  Adjusting the moisture content of the composite of fibers and inorganic particles,  Including the above method.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u6c34\u6027\u61f8\u6fc1\u6db2\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u6c34\u5206\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u306b\u304a\u3044\u3066\u3001\u6c34\u5206\u7387\u3092\uff19\uff10\u8cea\u91cf\uff05\u4ee5\u4e0a\u3001\uff19\uff19\u8cea\u91cf\uff05\u4ee5\u4e0b\u306b\u8abf\u6574\u3059\u308b\u3001\n\u3000\u8acb\u6c42\u9805\uff13\uff10\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\nA method for producing an aqueous suspension containing a composite of fibers and inorganic particles,  In the step of adjusting the moisture content of the composite of fibers and inorganic particles, the moisture content is adjusted to 90% by mass or more and 99% by mass or less.  The method of claim 30.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u30d1\u30eb\u30d7\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u6c34\u5206\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u306b\u304a\u3044\u3066\u3001\u6c34\u5206\u7387\u3092\uff11\uff10\u8cea\u91cf\uff05\u4ee5\u4e0a\u3001\uff19\uff10\u8cea\u91cf\uff05\u672a\u6e80\u306b\u8abf\u6574\u3059\u308b\u3001\n\u3000\u8acb\u6c42\u9805\uff13\uff10\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\nA method for producing a pulp containing a composite of fibers and inorganic particles,  In the step of adjusting the moisture of the composite of fibers and inorganic particles, the moisture content is adjusted to 10% by mass or more and less than 90% by mass;  The method of claim 30.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u30b7\u30fc\u30c8\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u4e2d\u306e\u6c34\u5206\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u306b\u304a\u3044\u3066\u3001\u6c34\u5206\u7387\uff11\uff10\u8cea\u91cf\uff05\u672a\u6e80\u306b\u8abf\u6574\u3059\u308b\u3001\n\u3000\u8acb\u6c42\u9805\uff13\uff10\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\nA method for producing a sheet containing a composite of fibers and inorganic particles,  In the step of adjusting the moisture in the composite of fibers and inorganic particles, the moisture content is adjusted to less than 10% by mass,  The method of claim 30.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u88fd\u54c1\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u7e4a\u7dad\u306e\u5b58\u5728\u4e0b\u3067\u3001\u6eb6\u6db2\u4e2d\u3067\u7121\u6a5f\u7c92\u5b50\u3092\u5408\u6210\u3057\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u5408\u6210\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u7c92\u5b50\u5f84\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u3092\u542b\u3080\u4e0a\u8a18\u65b9\u6cd5\u3002\nA method for producing a product containing a composite of fibers and inorganic particles,  Synthesizing inorganic particles in a solution in the presence of fibers to synthesize a composite of fibers and inorganic particles;  Adjusting the particle size of the composite of fibers and inorganic particles,  Including the above method.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u7c89\u4f53\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u7c92\u5b50\u5f84\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u306b\u304a\u3044\u3066\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u5e73\u5747\u7c92\u5b50\u5f84\u3092\uff11\uff10\uff10\u03bc\uff4d\u672a\u6e80\u306b\u8abf\u6574\u3059\u308b\u3001\n\u3000\u8acb\u6c42\u9805\uff13\uff14\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\nA method for producing a powder containing a composite of fibers and inorganic particles,  In the step of adjusting the particle diameter of the composite of fibers and inorganic particles, the average particle diameter of the composite of fibers and inorganic particles is adjusted to less than 100 \u03bcm.  35. The method of claim 34.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u5fae\u5c0f\u7403\u5f62\u7c92\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u7c92\u5b50\u5f84\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u306b\u304a\u3044\u3066\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u5e73\u5747\u7c92\u5b50\u5f84\u3092\uff11\uff10\uff10\u03bc\uff4d\u4ee5\u4e0a\u3001\uff11\uff10\uff10\uff10\u03bc\uff4d\u672a\u6e80\u3067\u306b\u8abf\u6574\u3059\u308b\u3001\n\u3000\u8acb\u6c42\u9805\uff13\uff14\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\nA method for producing microspherical particles containing a composite of fibers and inorganic particles,  In the step of adjusting the particle diameter of the composite of fibers and inorganic particles, the average particle diameter of the composite of fibers and inorganic particles is adjusted to 100 \u03bcm or more and less than 1000 \u03bcm.  35. The method of claim 34.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u9846\u7c92\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u524d\u8a18\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u7c92\u5b50\u5f84\u3092\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u306b\u304a\u3044\u3066\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u5e73\u5747\u7c92\u5b50\u5f84\u3092\uff11\uff0e\uff10\uff4d\uff4d\u4ee5\u4e0a\u3001\uff11\uff10\uff4d\uff4d\u672a\u6e80\u306b\u8abf\u6574\u3059\u308b\u3001\n\u3000\u8acb\u6c42\u9805\uff13\uff14\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\nA method for producing granules containing a composite of fibers and inorganic particles,  In the step of adjusting the particle size of the composite of fibers and inorganic particles, the average particle size of the composite of fibers and inorganic particles is adjusted to 1.0 mm or more and less than 10 mm.  35. The method of claim 34.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u30da\u30ec\u30c3\u30c8\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u7e4a\u7dad\u306e\u5b58\u5728\u4e0b\u3067\u3001\u6eb6\u6db2\u4e2d\u3067\u7121\u6a5f\u7c92\u5b50\u3092\u5408\u6210\u3057\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u5408\u6210\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u30da\u30ec\u30c3\u30c8\u5316\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u3092\u542b\u3080\u4e0a\u8a18\u65b9\u6cd5\u3002\nA method for producing a pellet containing a composite of fibers and inorganic particles,  Synthesizing inorganic particles in a solution in the presence of fibers to synthesize a composite of fibers and inorganic particles;  A step of pelletizing a composite of fibers and inorganic particles;  Including the above method.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u306e\u6c34\u5206\u7387\u3092\u56fa\u6db2\u5206\u96e2\u88c5\u7f6e\u306b\u3066\u56fa\u6db2\u5206\u96e2\u3057\u3001\uff14\uff15\u8cea\u91cf\uff05\u4ee5\u4e0a\uff18\uff10\u8cea\u91cf\uff05\u306b\u8abf\u6574\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u3092\u542b\u3080\u3001\u8acb\u6c42\u9805\uff13\uff18\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\nA step of solid-liquid separation of the moisture content of the composite of fibers and inorganic particles in a solid-liquid separation device, and adjusting to 45 to 80% by mass;  40. The method of claim 38, comprising:",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u30e2\u30fc\u30eb\u30c9\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u7e4a\u7dad\u306e\u5b58\u5728\u4e0b\u3067\u3001\u6eb6\u6db2\u4e2d\u3067\u7121\u6a5f\u7c92\u5b50\u3092\u5408\u6210\u3057\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u5408\u6210\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u92f3\u578b\u306b\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u6d41\u3057\u8fbc\u3093\u3067\u8131\u6c34\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u3092\u542b\u3080\u3001\u4e0a\u8a18\u65b9\u6cd5\u3002\nA method for producing a mold containing a composite of fibers and inorganic particles,  Synthesizing inorganic particles in a solution in the presence of fibers to synthesize a composite of fibers and inorganic particles;  A process of pouring a composite of fibers and inorganic particles into a mold to dehydrate,  Including the above method.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u7cf8\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u7e4a\u7dad\u306e\u5b58\u5728\u4e0b\u3067\u3001\u6eb6\u6db2\u4e2d\u3067\u7121\u6a5f\u7c92\u5b50\u3092\u5408\u6210\u3057\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u5408\u6210\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u7cf8\u52a0\u5de5\u3059\u308b\u5de5\u7a0b\u3092\u542b\u3080\u3001\u4e0a\u8a18\u65b9\u6cd5\u3002\nA method for producing a yarn containing a composite of fibers and inorganic particles,  Synthesizing inorganic particles in a solution in the presence of fibers to synthesize a composite of fibers and inorganic particles;  The said method including the process of carrying out the yarn process of the composite of a fiber and an inorganic particle.",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u7cf8\u52a0\u5de5\u3059\u308b\u5de5\u7a0b\u306e\u524d\u306b\u3001\u6c34\u5206\u7387\uff11\uff10\u8cea\u91cf\uff05\u672a\u6e80\u306b\u8abf\u6574\u3057\u305f\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u3080\u30b7\u30fc\u30c8\u3092\u30b9\u30ea\u30c3\u30c8\u52a0\u5de5\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u3092\u542b\u3080\u3001\u8acb\u6c42\u9805\uff14\uff11\u306b\u8a18\u8f09\u306e\u4e0a\u8a18\u65b9\u6cd5\u3002\nA step of slitting a sheet containing a composite of fibers and inorganic particles adjusted to a moisture content of less than 10% by weight before the step of processing the composite of fibers and inorganic particles;  42. The method of claim 41, comprising:",
+    "\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u542b\u6709\u3059\u308b\u767a\u6ce1\u4f53\u306e\u88fd\u9020\u65b9\u6cd5\u3067\u3042\u3063\u3066\u3001\n\u3000\u7e4a\u7dad\u306e\u5b58\u5728\u4e0b\u3067\u3001\u6eb6\u6db2\u4e2d\u3067\u7121\u6a5f\u7c92\u5b50\u3092\u5408\u6210\u3057\u3001\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u5408\u6210\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u7e4a\u7dad\u3068\u7121\u6a5f\u7c92\u5b50\u306e\u8907\u5408\u4f53\u3092\u652a\u62cc\u6a5f\u3067\u64b9\u62cc\u3059\u308b\u5de5\u7a0b\u3001\n\u3000\u3092\u542b\u3080\u3001\u4e0a\u8a18\u65b9\u6cd5\u3002\nA method for producing a foam containing a composite of fibers and inorganic particles,  Synthesizing inorganic particles in a solution in the presence of fibers to synthesize a composite of fibers and inorganic particles;  A step of stirring the composite of fibers and inorganic particles with a stirrer;  Including the above method.",
+    "\u3000\u767a\u6ce1\u3055\u305b\u305f\u6ce1\u3092\u4e7e\u71e5\u3055\u305b\u308b\u5de5\u7a0b\u3092\u3055\u3089\u306b\u542b\u3080\u3001\u8acb\u6c42\u9805\uff14\uff13\u306b\u8a18\u8f09\u306e\u65b9\u6cd5\u3002\n\n44. The method according to claim 43, further comprising the step of drying the foamed foam."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201780073162.XA",
+      "representative_publication": "CN110023558A",
+      "primary_language": "en",
+      "priority_date": "2016-11-28",
+      "filing_date": "2017-11-28",
+      "title": "The complex of fiber and inorganic particulate"
+    },
+    {
+      "application_number": "US16/464,014",
+      "representative_publication": "US20200385547A1",
+      "primary_language": "en",
+      "priority_date": "2016-11-28",
+      "filing_date": "2017-11-28",
+      "title": "Complexes of fibers and inorganic particles"
+    },
+    {
+      "application_number": "EP17873231.9A",
+      "representative_publication": "EP3546640A4",
+      "primary_language": "en",
+      "priority_date": "2016-11-28",
+      "filing_date": "2017-11-28",
+      "title": "Composite of fiber and inorganic particles"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2016230128",
+      "filing_date": "2016-11-28"
+    },
+    {
+      "application_number": "JP2016-230128",
+      "filing_date": "2016-11-28"
+    },
+    {
+      "application_number": "JP2016-255144",
+      "filing_date": "2016-12-28"
+    },
+    {
+      "application_number": "JP2016255144A",
+      "representative_publication": "JP2018104624A",
+      "primary_language": "en",
+      "priority_date": "2016-12-28",
+      "filing_date": "2016-12-28",
+      "title": "Foam containing complex of inorganic particle and fiber, and method for producing the same"
+    },
+    {
+      "application_number": "JP2017017509A",
+      "representative_publication": "JP2018090939A",
+      "primary_language": "en",
+      "priority_date": "2016-11-28",
+      "filing_date": "2017-02-02",
+      "title": "Complex of fiber and inorganic particle"
+    },
+    {
+      "application_number": "JP2017-017509",
+      "filing_date": "2017-02-02"
+    }
+  ],
+  "family_id": "62195092",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "JPS606619A",
+        "primary_language": "en",
+        "priority_date": "1983-06-27",
+        "publication_date": "1985-01-14",
+        "assignee_original": "Kyowa Chem Ind Co Ltd",
+        "title": "Remedy for hypoferremia and its preparation",
+        "patent_id": "patent/JPS606619A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS606619A%2Fen"
+      },
+      {
+        "publication_number": "JPH06158585A",
+        "primary_language": "en",
+        "priority_date": "1992-04-07",
+        "publication_date": "1994-06-07",
+        "assignee_original": "Aussedat Rey",
+        "title": "Novel composite products based on fibers and fillers and process for making such new products",
+        "patent_id": "patent/JPH06158585A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH06158585A%2Fen"
+      },
+      {
+        "publication_number": "US5679220A",
+        "primary_language": "en",
+        "priority_date": "1995-01-19",
+        "publication_date": "1997-10-21",
+        "assignee_original": "International Paper Company",
+        "title": "Process for enhanced deposition and retention of particulate filler on papermaking fibers",
+        "patent_id": "patent/US5679220A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5679220A%2Fen"
+      },
+      {
+        "publication_number": "JP2004339650A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-05-16",
+        "publication_date": "2004-12-02",
+        "assignee_original": "Toray Ind Inc",
+        "title": "Spun yarn and woven or knitted fabric",
+        "patent_id": "patent/JP2004339650A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004339650A%2Fen"
+      },
+      {
+        "publication_number": "JP2005048351A",
+        "primary_language": "en",
+        "priority_date": "2003-07-16",
+        "publication_date": "2005-02-24",
+        "assignee_original": "Weyerhaeuser Co",
+        "title": "Reducing odor in absorbent product",
+        "patent_id": "patent/JP2005048351A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005048351A%2Fen"
+      },
+      {
+        "publication_number": "JP2006503997A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-24",
+        "publication_date": "2006-02-02",
+        "assignee_original": "\u30a2\u30e0\u30fc\u30ec\u30a2\u30eb  \u30aa\u30b5\u30b1  \u30e6\u30ad\u30c1\u30e5\u30a2  \u30e6\u30eb\u30ad\u30cd\u30f3",
+        "title": "Textile manufacturing method",
+        "patent_id": "patent/JP2006503997A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006503997A%2Fen"
+      },
+      {
+        "publication_number": "JP2007262145A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-27",
+        "publication_date": "2007-10-11",
+        "assignee_original": "Toshiba Corp",
+        "title": "Foam molded body, method for producing the same, and method for regenerating the same",
+        "patent_id": "patent/JP2007262145A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007262145A%2Fen"
+      },
+      {
+        "publication_number": "JP2011506789A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-12",
+        "publication_date": "2011-03-03",
+        "assignee_original": "\u30aa\u30e0\u30e4  \u30c7\u30a3\u30d9\u30ed\u30d7\u30e1\u30f3\u30c8  \u30a2\u30fc\u30b2\u30fc",
+        "title": "Surface mineralized organic fiber",
+        "patent_id": "patent/JP2011506789A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2011506789A%2Fen"
+      },
+      {
+        "publication_number": "WO2012002390A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-06-29",
+        "publication_date": "2012-01-05",
+        "assignee_original": "\u82b1\u738b\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nanofiber laminate sheet",
+        "patent_id": "patent/WO2012002390A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012002390A1%2Fen"
+      },
+      {
+        "publication_number": "JP2012007247A",
+        "primary_language": "en",
+        "priority_date": "2010-06-22",
+        "publication_date": "2012-01-12",
+        "assignee_original": "Oji Paper Co Ltd",
+        "title": "Composite sheet of fine fibrous cellulose and inorganic compound nanoparticles",
+        "patent_id": "patent/JP2012007247A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012007247A%2Fen"
+      },
+      {
+        "publication_number": "JP2015199655A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-03-31",
+        "publication_date": "2015-11-12",
+        "assignee_original": "\u65e5\u672c\u88fd\u7d19\u682a\u5f0f\u4f1a\u793e",
+        "title": "Composite of calcium carbonate fine particle and fiber, and production method thereof",
+        "patent_id": "patent/JP2015199655A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2015199655A%2Fen"
+      },
+      {
+        "publication_number": "WO2017043580A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-08",
+        "publication_date": "2017-03-16",
+        "assignee_original": "\u65e5\u672c\u88fd\u7d19\u682a\u5f0f\u4f1a\u793e",
+        "title": "Complex of fibers and magnesium carbonate microparticles, and production method therefor",
+        "patent_id": "patent/WO2017043580A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017043580A1%2Fen"
+      },
+      {
+        "publication_number": "WO2017057154A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-30",
+        "publication_date": "2017-04-06",
+        "assignee_original": "\u65e5\u672c\u88fd\u7d19\u682a\u5f0f\u4f1a\u793e",
+        "title": "Compound material of cellulose fibers and inorganic particles",
+        "patent_id": "patent/WO2017057154A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017057154A1%2Fen"
+      }
+    ]
+  },
+  "non_patent_citations": [
+    {
+      "title": "See also references of EP3546640A4",
+      "examiner_cited": "*"
+    }
+  ],
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "JP2019210384A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-05",
+        "publication_date": "2019-12-12",
+        "assignee_original": "\u82b1\u738b\u682a\u5f0f\u4f1a\u793e",
+        "title": "Asphalt composition",
+        "patent_id": "patent/JP2019210384A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019210384A%2Fen"
+      },
+      {
+        "publication_number": "US20200308359A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2020-10-01",
+        "assignee_original": "The United States Of America, As Represented By The Secretary Of Agriculture",
+        "title": "Compositions and processes for renewable rigid foam",
+        "patent_id": "patent/US20200308359A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200308359A1%2Fen"
+      },
+      {
+        "publication_number": "CN111893801A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-07-16",
+        "publication_date": "2020-11-06",
+        "assignee_original": "\u82cf\u5dde\u5fb7\u5c14\u8d5b\u7535\u5b50\u6709\u9650\u516c\u53f8",
+        "title": "High-liquid-absorption negative ion dry-method industrial wiping raw paper and process",
+        "patent_id": "patent/CN111893801A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111893801A%2Fen"
+      },
+      {
+        "publication_number": "CN112516685A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-11-17",
+        "publication_date": "2021-03-19",
+        "assignee_original": "\u534e\u4e1c\u5e08\u8303\u5927\u5b66\u91cd\u5e86\u7814\u7a76\u9662",
+        "title": "Visible light photocatalysis air purification glass fiber filter element and preparation method thereof",
+        "patent_id": "patent/CN112516685A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112516685A%2Fen"
+      },
+      {
+        "publication_number": "JPWO2021054312A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-20",
+        "publication_date": "2021-03-25",
+        "patent_id": "patent/JPWO2021054312A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPWO2021054312A1%2Fen"
+      },
+      {
+        "publication_number": "WO2021145278A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-01-16",
+        "publication_date": "2021-07-22",
+        "assignee_original": "\u6771\u6d0b\u88fd\u7f50\u30b0\u30eb\u30fc\u30d7\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+        "title": "Gas barrier molded body and manufacturing method therefor",
+        "patent_id": "patent/WO2021145278A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2021145278A1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "JP6516854B2",
+      "primary_language": "en",
+      "publication_date": "2019-05-22",
+      "title": "Composite of cellulose fiber and inorganic particles",
+      "patent_id": "patent/JP6516854B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6516854B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6661644B2",
+      "primary_language": "en",
+      "publication_date": "2020-03-11",
+      "title": "Composite of magnesium carbonate fine particles and fiber, and method for producing the same",
+      "patent_id": "patent/JP6661644B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6661644B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6833699B2",
+      "primary_language": "en",
+      "publication_date": "2021-02-24",
+      "title": "Complex of calcium phosphate fine particles and fiber, and its manufacturing method",
+      "patent_id": "patent/JP6833699B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6833699B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3546641B1",
+      "primary_language": "en",
+      "publication_date": "2023-01-25",
+      "title": "Method for producing composite body of fibers and inorganic particles, and laminate containing composite body of fibers and inorganic particles",
+      "patent_id": "patent/EP3546641B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3546641B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2018097312A1",
+      "primary_language": "en",
+      "publication_date": "2018-05-31",
+      "title": "Composite of fiber and inorganic particles",
+      "patent_id": "patent/WO2018097312A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018097312A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20200385547A1",
+      "primary_language": "en",
+      "publication_date": "2020-12-10",
+      "title": "Complexes of fibers and inorganic particles",
+      "patent_id": "patent/US20200385547A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200385547A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6786745B2",
+      "primary_language": "en",
+      "publication_date": "2020-11-18",
+      "title": "Composite fiber of cellulose fiber and inorganic particles and its manufacturing method",
+      "patent_id": "patent/JP6786745B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6786745B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2018090939A",
+      "primary_language": "en",
+      "publication_date": "2018-06-14",
+      "title": "Complex of fiber and inorganic particle",
+      "patent_id": "patent/JP2018090939A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018090939A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6713891B2",
+      "primary_language": "en",
+      "publication_date": "2020-06-24",
+      "title": "Composite of barium sulfate and fiber and method for producing the same",
+      "patent_id": "patent/JP6713891B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6713891B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP6411934B2",
+      "primary_language": "en",
+      "publication_date": "2018-10-24",
+      "title": "Method for producing calcium carbonate fine particles",
+      "patent_id": "patent/JP6411934B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6411934B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2018119220A",
+      "primary_language": "en",
+      "publication_date": "2018-08-02",
+      "title": "Processed paper",
+      "patent_id": "patent/JP2018119220A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018119220A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2018039696A",
+      "primary_language": "en",
+      "publication_date": "2018-03-15",
+      "title": "Method for producing inorganic carbonate",
+      "patent_id": "patent/JP2018039696A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2018039696A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2020165058A",
+      "primary_language": "en",
+      "publication_date": "2020-10-08",
+      "title": "Manufacturing method of composite",
+      "patent_id": "patent/JP2020165058A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2020165058A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2019137948A",
+      "primary_language": "en",
+      "publication_date": "2019-08-22",
+      "title": "Flame resistant composite fiber and manufacturing method therefor",
+      "patent_id": "patent/JP2019137948A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019137948A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2019049063A",
+      "primary_language": "en",
+      "publication_date": "2019-03-28",
+      "title": "Composite fiber of metal ferrocyanide compound and fiber and method for producing the same",
+      "patent_id": "patent/JP2019049063A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2019049063A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "WO2017043588A1",
+      "primary_language": "en",
+      "publication_date": "2017-03-16",
+      "title": "Production method for magnesium carbonate microparticles",
+      "patent_id": "patent/WO2017043588A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017043588A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7123178B2",
+      "primary_language": "en",
+      "publication_date": "2022-08-22",
+      "title": "Composite fiber of cellulose fiber and inorganic particles and method for producing the same",
+      "patent_id": "patent/JP7123178B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7123178B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7737836B2",
+      "primary_language": "en",
+      "publication_date": "2025-09-11",
+      "title": "Method for producing a solid material containing composite fibers of fibers and inorganic particles",
+      "patent_id": "patent/JP7737836B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7737836B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7608347B2",
+      "primary_language": "en",
+      "publication_date": "2025-01-06",
+      "title": "Granules containing composite fibers of fibers and inorganic particles",
+      "patent_id": "patent/JP7608347B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7608347B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7592397B2",
+      "primary_language": "en",
+      "publication_date": "2024-12-02",
+      "title": "Method for preparing composite fiber of cellulose fiber and inorganic particles",
+      "patent_id": "patent/JP7592397B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7592397B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2024051717A",
+      "primary_language": "en",
+      "publication_date": "2024-04-11",
+      "title": "X-ray contrast material containing composite fiber of inorganic particles and fiber",
+      "patent_id": "patent/JP2024051717A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024051717A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2023140486A",
+      "primary_language": "en",
+      "publication_date": "2023-10-05",
+      "title": "Composite of fiber and inorganic particle",
+      "patent_id": "patent/JP2023140486A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023140486A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2023150971A",
+      "primary_language": "en",
+      "publication_date": "2023-10-16",
+      "title": "Preparation method of composite fiber of cellulose fiber and inorganic particle",
+      "patent_id": "patent/JP2023150971A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2023150971A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2024093260A",
+      "primary_language": "en",
+      "publication_date": "2024-07-09",
+      "title": "Method for producing a sheet from a composite fiber of cellulose fiber and barium sulfate",
+      "patent_id": "patent/JP2024093260A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024093260A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP2022156677A",
+      "primary_language": "en",
+      "publication_date": "2022-10-14",
+      "title": "Method for storing composite fibers of fibers and inorganic particles",
+      "patent_id": "patent/JP2022156677A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2022156677A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2018-11-28",
+      "code": "121",
+      "title": "Ep: the epo has been informed by wipo that ep was designated in this application",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "17873231"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Kind code of ref document",
+          "value": "A1"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-29",
+      "code": "NENP",
+      "title": "Non-entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref country code",
+          "value": "DE"
+        }
+      ]
+    },
+    {
+      "date": "2019-07-05",
+      "code": "ENP",
+      "title": "Entry into the national phase",
+      "attributes": [
+        {
+          "label": "Ref document number",
+          "value": "2017873231"
+        },
+        {
+          "label": "Country of ref document",
+          "value": "EP"
+        },
+        {
+          "label": "Effective date",
+          "value": "20190628"
+        }
+      ]
+    }
+  ]
+}

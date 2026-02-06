@@ -1,0 +1,515 @@
+{
+  "search_metadata": {
+    "id": "697a363395a6945a60f01f85",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0a2a013587e7d2a1/697a363395a6945a60f01f85.json",
+    "created_at": "2026-01-28 16:15:47 UTC",
+    "processed_at": "2026-01-28 16:15:47 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/CN106305227A/en",
+    "raw_html_file": "https://serpapi.com/searches/0a2a013587e7d2a1/697a363395a6945a60f01f85.html",
+    "total_time_taken": 0.71
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/CN106305227A/en"
+  },
+  "title": "Method for preventing and controlling aphids by breeding syrphidae",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/3d/61/a5/e9c35df7413581/CN106305227A.pdf",
+  "publication_number": "CN106305227A",
+  "country": "China",
+  "prior_art_keywords": [
+    "aphids",
+    "shed",
+    "seedlings",
+    "fly",
+    "breeding"
+  ],
+  "prior_art_date": "2016-08-23",
+  "application_number": "CN201610706396.0A",
+  "inventors": [
+    {
+      "name": "\u9ad8\u555f\u8363",
+      "link": "https://patents.google.com/?inventor=%E9%AB%98%E5%95%9F%E8%8D%A3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%AB%98%E5%95%9F%E8%8D%A3"
+    },
+    {
+      "name": "\u9ad8\u4e16\u5fb7",
+      "link": "https://patents.google.com/?inventor=%E9%AB%98%E4%B8%96%E5%BE%B7",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%AB%98%E4%B8%96%E5%BE%B7"
+    },
+    {
+      "name": "\u9ad8\u4e16\u884d",
+      "link": "https://patents.google.com/?inventor=%E9%AB%98%E4%B8%96%E8%A1%8D",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=%E9%AB%98%E4%B8%96%E8%A1%8D"
+    }
+  ],
+  "assignees": [
+    "Individual"
+  ],
+  "priority_date": "2016-08-23",
+  "filing_date": "2016-08-23",
+  "publication_date": "2017-01-11",
+  "worldwide_applications": {
+    "2016": [
+      {
+        "filing_date": "2016-08-23",
+        "country_code": "CN",
+        "application_number": "CN201610706396.0A",
+        "document_id": "patent/CN106305227A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn",
+        "this_app": true
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2016-08-23",
+      "title": "Application filed by Individual",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Individual"
+    },
+    {
+      "date": "2016-08-23",
+      "title": "Priority to CN201610706396.0A",
+      "type": "priority",
+      "critical": true,
+      "document_id": "patent/CN106305227A/en"
+    },
+    {
+      "date": "2017-01-11",
+      "title": "Publication of CN106305227A",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/CN106305227A/en"
+    },
+    {
+      "date": "Status",
+      "title": "Withdrawn",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=106305227A&KC=A&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/CN/201610706396/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/CN106305227A"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "A01G13/00",
+      "description": "Protection of plants",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "A01K67/30",
+      "description": "Rearing or breeding invertebrates",
+      "leaf": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The invention discloses a method for preventing and controlling aphids by breeding syrphidae and belongs to a biological control technology. The aphid preventing and controlling method comprises the following steps of planting aphid breeding crops in a greenhouse to breed aphids; then introducing the syrphidae from wild into the greenhouse; regulating and controlling the temperature and the humidity, and enabling the syrphidae to freely prey the aphids in the greenhouse, develop, grow and propagate on a large scale. When field crops encounter aphid damage, the batch syrphidae can be fed into a field for killing the aphids. The method is good in prevention and control effect, and low in consumption; no pesticide is used, and the problem of pesticide residue is solved, so the method is a better aphid controlling method.",
+  "description_link": "https://serpapi.com/searches/697a363395a6945a60f01f85/google_patents_details/description.html",
+  "claims": [
+    "1.\u80b2\u6b96\u98df\u869c\u8747\u9632\u6cbb\u869c\u866b\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5305\u62ec\u5982\u4e0b\u6b65\u9aa4\uff1a1. breeding and breeding hoverfly control aphid method, it is characterized in that, comprises the steps:\n      \n      \n         \u2474\u642d\u5efa\u5927\u68da\uff1a\u4ee5\u7af9\u3001\u6728\u6216\u94a2\u6750\u642d\u5efa\u6210\u68da\u67b6\uff0c\u8499\u88ab\u4e0a\u5851\u6599\u819c\u3001\u906e\u9634\u7f51\u548c\u5851\u7eb1\u7f51\u6784\u6210\u4e00\u4e2a\u79cd\u869c\u68da\u3001\u4e00\u4e2a\u79cd\u8747\u68da\u548c\u4e00\u4e2a\u6269\u8747\u68da\uff1a\u2474Building a greenhouse: build a scaffold with bamboo, wood or steel, cover the quilt with plastic film, shade net and plastic gauze net to form an aphid seeding shed, a fly seeding shed and a fly expansion shed:\n      \n      \n         \u2475\u690d\u80b2\u869c\u4f5c\u7269\uff1a\u5206\u522b\u5728\u4e09\u4e2a\u5927\u68da\u5185\u79cd\u690d\u5929\u9ebb\u82d7\u6216\u6652\u70df\u82d7\u4f5c\u4e3a\u80b2\u6b96\u869c\u866b\u7684\u5bbf\u4e3b\u690d\u682a\uff1a\u2475 Planting aphid crops: Plant Gastrodia elata seedlings or sun-dried tobacco seedlings in three greenhouses as host plants for breeding aphids:\n      \n      \n         \u2476\u6269\u7e41\u869c\u866b\uff1a\u5c06\u7ecf\u8fc7\u8131\u6bd2\u7684\u5065\u58ee\u869c\u866b\u5148\u540e\u5206\u522b\u63a5\u79cd\u5230\u4e09\u4e2a\u5927\u68da\u7684\u5929\u9ebb\u82d7\u6216\u6652\u70df\u82d7\u4e0a\uff0c\u63a7\u6e2912\u201430\u2103\uff0c\u63a7\u6e7f29\u201450\uff05\uff0c\u4f7f\u869c\u866b\u5c3d\u91cf\u7e41\u6b96\uff1b(3) Propagation of aphids: Inoculate the detoxified and robust aphids on Gastrodia elata seedlings or sun-dried tobacco seedlings in three greenhouses, control the temperature at 12-30\u00b0C, and control the humidity at 29-50%, so that the aphids can reproduce as much as possible;\n      \n      \n         \u2477\u91c7\u6295\u98df\u869c\u8747\uff1a\u5143\u6708\u4e0b\u65ec\u5f53\u79cd\u8747\u68da\u5185\u869c\u866b\u5bc6\u5ea6\u8fbe\u5230300\u2014400 \u5934/\u682a\u65f6\uff0c\u53ef\u4ece\u91ce\u5916\u91c7\u96c6\u98df\u869c\u8747\u6210\u866b\u3001\u5e7c\u866b\u548c\u86f9\uff0c\u53ca\u65f6\u6295\u653e\u5230\u79cd\u8747\u68da\u5185\uff0c\u5e7c\u866b\u53ca\u86f9\u653e\u5230\u5929\u9ebb\u82d7\u6216\u6652\u70df\u82d7\u869c\u866b\u5bc6\u805a\u7684\u53f6\u7247\u4e0a\uff0c\u8ba9\u5e7c\u866b\u6355\u98df\u869c\u866b\uff0c2\u5929\u540e\u6210\u86f9\uff0c\u518d3\u5929\u7fbd\u5316\u6210\u8747\uff0c\u5728\u6355\u98df\u869c\u866b\u7684\u540c\u65f6\u5b8c\u6210\u4ea4\u914d\u3001\u4ea7\u5375\u3001\u7e41\u80b2\u540e\u4ee3\u7684\u53d1\u80b2\u751f\u957f\u8fc7\u7a0b\uff0c\u4fdd\u6301\u68da\u6e2912\u201430\u2103\uff0c\u6e7f\u5ea6\u63a7\u4e8e29\u201450\uff05\uff1b(4) Harvesting and throwing hoverflies: When the density of aphids in the planting shed reaches 300-400 heads/plant in late January, adults, larvae and pupae of hoverflies can be collected from the field and put into the planting shed in time. Put it on the leaves of Gastrodia elata seedlings or sun-dried tobacco seedlings where aphids are densely packed, let the larvae prey on the aphids, become pupae after 2 days, and emerge into flies after 3 days, and complete the development and growth process of mating, laying eggs, and breeding offspring while preying on aphids. The shed temperature is 12-30\u00b0C, and the humidity is controlled at 29-50%;\n      \n      \n         \u2478\u84c4\u4fdd\u8747\u79cd\uff1a\u6bcf\u5e748\u6708\u81f3\u6b21\u5e74\u5143\u6708\u671f\u95f4\u5bf9\u98df\u869c\u8747\u65bd\u884c\u4fdd\u79cd\uff0c\u6ce8\u610f\u63a7\u5236\u79cd\u8747\u68da\u5185\u6e29\u5ea6\u3001\u6e7f\u5ea6\uff0c\u5e76\u901a\u8fc7\u79cd\u869c\u68da\u4e2d\u80b2\u6b96\u6709\u869c\u866b\u7684\u5bbf\u4e3b\u690d\u7269\u4fdd\u8bc1\u968f\u65f6\u63d0\u4f9b\u5145\u8db3\u7684\u5bcc\u805a\u869c\u866b\u7684\u5929\u9ebb\u6216\u6652\u70df\u690d\u682a\uff0c\u6210\u8747\u4ea7\u5375\u540e\u4ee55\uff05\u7cd6\u6c34\u3001\u871c\u6c34\u9002\u91cf\u55b7\u6d12\u690d\u682a\u53f6\u9762\u5bf9\u98df\u869c\u8747\u8fdb\u884c\u8865\u9972\uff0c\u4ee5\u589e\u52a0\u4f53\u529b\u53ca\u4ea7\u5375\u7387\uff0c\u5e76\u5ef6\u957f\u5176\u751f\u547d\uff1b\u2478 Storage and protection of fly species: from August to January of the next year, the species of hoverflies shall be preserved, and attention shall be paid to controlling the temperature and humidity in the fly planting shed, and the host plants with aphids in the aphid planting shed shall be bred to ensure sufficient supply at any time. Gastrodia elata or sun-cured tobacco plants that are rich in aphids, after the adult flies lay eggs, spray the leaves of the plants with 5% sugar water and honey water for supplementary feeding, so as to increase physical strength and egg laying rate, and prolong their life;\n      \n      \n         \u2479\u6269\u7e41\u98df\u869c\u8747\uff1a\u6b21\u5e74\u5143\u6708\u4e2d\u4e0b\u65ec\u5f00\u59cb\uff0c\u5c06\u79cd\u8747\u68da\u5185\u98df\u869c\u8747\u7684\u6210\u866b\u3001\u5e7c\u866b\u3001\u86f9\u6295\u653e\u5230\u6269\u8747\u68da\u5185\uff0c\u6269\u8747\u68da\u5185\u5df2\u4e8b\u5148\u5728\u6652\u70df\u82d7\u3001\u5929\u9ebb\u82d7\u63a5\u79cd\u5e76\u7e41\u80b2\u5927\u91cf\u869c\u866b\uff0c\u8ba9\u98df\u869c\u8747\u81ea\u7531\u6355\u98df\u3001\u80b2\u6b96\u3001\u6269\u7e41\uff1b(6) Expansion of hoverflies: From the middle and late January of the next year, put the adults, larvae, and pupae of hoverflies in the fly-growing shed into the fly-expanding shed, which has been inoculated with sun-dried tobacco seedlings and Gastrodia elata seedlings in advance And breed a large number of aphids, allowing hoverflies to prey, breed and multiply freely;\n      \n      \n         \u247a\u653e\u8747\u706d\u869c\uff1a\u6536\u96c6\u6269\u8747\u68da\u5185\u7684\u98df\u869c\u8747\u6210\u866b\u3001\u5e7c\u866b\u3001\u86f9\uff0c\u6295\u653e\u5230\u869c\u866b\u5371\u5bb3\u7684\u5927\u7530\uff0c\u6309\u6bcf\u4ea9\u6cb9\u83dc\u6295\u653e100\u2014150\u5934\uff0c\u5176\u5b83\u4f5c\u7269\u6bcf\u4ea9\u6295\u653e50\u5934\uff0c\u6295\u653e\u6210\u8747\u987b\u5728\u4e0a\u98ce\uff0c\u8ba9\u8747\u987a\u98ce\u5165\u7530\uff0c\u653e\u86f9\u3001\u5e7c\u866b\u987b\u653e\u5728\u4f5c\u7269\u53f6\u7247\u4e0b\u65b9\uff0c\u653e\u8747\u65f6\u8981\u6ce8\u610f\u907f\u5f00\u96e8\u96ea\u971c\u5929\u6c14\u3002\u247a Release flies and eliminate aphids: Collect the adults, larvae and pupae of hoverflies in the fly expansion shed, and put them in the field where aphids are harmful. Put 100-150 heads per mu of rapeseed, put 50 heads per mu of other crops, and put adult fly whiskers In the upwind, let the flies enter the field with the wind, put the pupae and larvae under the crop leaves, and pay attention to avoid rain, snow and frost when releasing the flies.",
+    "2.\u6309\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u80b2\u6b96\u98df\u869c\u8747\u9632\u6cbb\u869c\u866b\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u79cd\u869c\u68da\u53ca\u79cd\u8747\u68da\u90fd\u7528\u7eb1\u7f51\u5206\u9694\u6210\u591a\u95f4\u683c\u30022. The method for breeding and breeding hoverflies to prevent and control aphids according to claim 1 is characterized in that, a kind of aphid shed and a kind of fly shed are all separated into many compartments with gauze.",
+    "3.\u6309\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u80b2\u6b96\u98df\u869c\u8747\u9632\u6cbb\u869c\u866b\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u79cd\u869c\u68da\u3001\u79cd\u8747\u68da\u5185\u90fd\u4ee5\u591a\u4e2a\u76db\u6709\u914d\u5236\u8425\u517b\u571f\u7684\u82b1\u76c6\u5355\u682a\u79cd\u690d\u5929\u9ebb\u82d7\u6216\u6652\u70df\u82d7\uff1b\u6269\u8747\u68da\u5185\u4ee5\u5730\u5892\u79cd\u690d\u5929\u9ebb\u82d7\u6216\u6652\u70df\u82d7\u30023. by breeding and breeding hoverflies control aphid method according to claim 1, it is characterized in that, all plant Gastrodia elata seedlings or sun-cured tobacco with a plurality of flower pots that are filled with the preparation nutrient soil in the aphid shed and the fly shed Seedlings; Gastrodia elata seedlings or sun-dried tobacco seedlings are planted in the expanded fly shed with soil moisture.",
+    "4.\u6309\u6743\u5229\u8981\u6c421\u6240\u8ff0\u7684\u80b2\u6b96\u98df\u869c\u8747\u9632\u6cbb\u869c\u866b\u6cd5\uff0c\u5176\u7279\u5f81\u5728\u4e8e\uff0c\u5929\u9ebb\u82d7\u957f\u81f3\u4e24\u53f0\u679d\u676112\u7247\u53f6\u65f6\u53ef\u63a5\u79cd\u869c\u866b\uff0c\u6bcf\u682a12\u5934\uff0c\u6652\u70df\u82d7\u957f\u81f36\u53f62\u5fc3\u65f6\u53ef\u63a5\u79cd\u869c\u866b\uff0c\u6bcf\u682a6\u5934\u30024. according to the described method of breeding hoverflies to control aphids according to claim 1, it is characterized in that aphids can be inoculated when Gastrodia elata seedlings grow to 12 leaves of two branches, 12 per strain, and sun-cured tobacco seedlings grow to 6 leaves 2 Aphids can be inoculated when the heart is ready, 6 heads per plant."
+  ],
+  "priority_applications": [
+    {
+      "application_number": "CN201610706396.0A",
+      "representative_publication": "CN106305227A",
+      "primary_language": "en",
+      "priority_date": "2016-08-23",
+      "filing_date": "2016-08-23",
+      "title": "Method for preventing and controlling aphids by breeding syrphidae"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "CN201610706396.0A",
+      "representative_publication": "CN106305227A",
+      "primary_language": "en",
+      "priority_date": "2016-08-23",
+      "filing_date": "2016-08-23",
+      "title": "Method for preventing and controlling aphids by breeding syrphidae"
+    }
+  ],
+  "family_id": "57742023",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "CN101455190A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-30",
+        "publication_date": "2009-06-17",
+        "assignee_original": "\u4e91\u5357\u7701\u70df\u8349\u516c\u53f8\u7389\u6eaa\u5e02\u516c\u53f8",
+        "title": "Aphidius gifuensis Ashmaed scale propagation technique",
+        "patent_id": "patent/CN101455190A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101455190A%2Fen"
+      },
+      {
+        "publication_number": "CN101664017A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-30",
+        "publication_date": "2010-03-10",
+        "assignee_original": "\u4e91\u5357\u7701\u70df\u8349\u519c\u4e1a\u79d1\u5b66\u7814\u7a76\u9662",
+        "title": "Method for propagating sulzer braconid flies",
+        "patent_id": "patent/CN101664017A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101664017A%2Fen"
+      },
+      {
+        "publication_number": "CN102301982A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-19",
+        "publication_date": "2012-01-04",
+        "assignee_original": "\u4e91\u5357\u7701\u70df\u8349\u516c\u53f8\u66f2\u9756\u5e02\u516c\u53f8",
+        "title": "Method for propagating Aphidius gifuensis by pea aphids",
+        "patent_id": "patent/CN102301982A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102301982A%2Fen"
+      },
+      {
+        "publication_number": "CN103478083A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-29",
+        "publication_date": "2014-01-01",
+        "assignee_original": "\u4efb\u4f1f",
+        "title": "Large-scale breeding method for breeding mummified aphids and adult bees of aphidiusgifuensis by yellow-green myzuspersicae",
+        "patent_id": "patent/CN103478083A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103478083A%2Fen"
+      },
+      {
+        "publication_number": "CN104222008A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-21",
+        "publication_date": "2014-12-24",
+        "assignee_original": "\u738b\u4f2f\u660e",
+        "title": "Method for artificial mass production of hoverflies",
+        "patent_id": "patent/CN104222008A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104222008A%2Fen"
+      },
+      {
+        "publication_number": "CN104585135A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-21",
+        "publication_date": "2015-05-06",
+        "assignee_original": "\u8fbd\u5b81\u7701\u70df\u8349\u516c\u53f8\u671d\u9633\u5e02\u516c\u53f8",
+        "title": "Overwintering breeding method for aphidiusgifuensis in northern area",
+        "patent_id": "patent/CN104585135A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104585135A%2Fen"
+      },
+      {
+        "publication_number": "CN105165733A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-25",
+        "publication_date": "2015-12-23",
+        "assignee_original": "\u9ed4\u5357\u5dde\u70df\u8349\u516c\u53f8\u74ee\u5b89\u53bf\u5206\u516c\u53f8",
+        "title": "Overwintering breeding method for aphidius gifuensis population",
+        "patent_id": "patent/CN105165733A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105165733A%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "CN112471082A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-12-17",
+        "publication_date": "2021-03-12",
+        "assignee_original": "\u6e56\u5357\u7701\u70df\u8349\u516c\u53f8\u957f\u6c99\u5e02\u516c\u53f8",
+        "title": "Broad-band optimized aphid fly breeding method",
+        "patent_id": "patent/CN112471082A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112471082A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "CN103385220B",
+      "primary_language": "en",
+      "publication_date": "2014-10-29",
+      "title": "Scale breeding method for encarsia formosa",
+      "patent_id": "patent/CN103385220B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103385220B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104303939A",
+      "primary_language": "en",
+      "publication_date": "2015-01-28",
+      "title": "Planting method of ecological pear",
+      "patent_id": "patent/CN104303939A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104303939A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109220465B",
+      "primary_language": "en",
+      "publication_date": "2020-09-01",
+      "title": "Method for cultivating and trimming pepper trees",
+      "patent_id": "patent/CN109220465B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109220465B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104756698B",
+      "primary_language": "en",
+      "publication_date": "2018-07-10",
+      "title": "A kind of yield-increasing cultivation method of polygonum capitatum",
+      "patent_id": "patent/CN104756698B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104756698B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102972188B",
+      "primary_language": "en",
+      "publication_date": "2014-06-25",
+      "title": "Greenhouse cultivation method for small-size watermelons",
+      "patent_id": "patent/CN102972188B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102972188B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102986437A",
+      "primary_language": "en",
+      "publication_date": "2013-03-27",
+      "title": "Method for cultivating radix zanthoxyli artificially",
+      "patent_id": "patent/CN102986437A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102986437A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105766308A",
+      "primary_language": "en",
+      "publication_date": "2016-07-20",
+      "title": "Method for high yield of organic tomatoes",
+      "patent_id": "patent/CN105766308A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105766308A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104604511A",
+      "primary_language": "en",
+      "publication_date": "2015-05-13",
+      "title": "Cultivation method for melons in greenhouse",
+      "patent_id": "patent/CN104604511A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104604511A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102334468A",
+      "primary_language": "en",
+      "publication_date": "2012-02-01",
+      "title": "High-efficiency floating seedling Aphidius gifuensis propagation method",
+      "patent_id": "patent/CN102334468A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102334468A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105660100A",
+      "primary_language": "en",
+      "publication_date": "2016-06-15",
+      "title": "Method for high yield cultivation of phyllostachys angusta",
+      "patent_id": "patent/CN105660100A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105660100A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103355092A",
+      "primary_language": "en",
+      "publication_date": "2013-10-23",
+      "title": "Healthy cowpea cultivating method based on disease, pest and pollution prevention and control",
+      "patent_id": "patent/CN103355092A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103355092A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103503688A",
+      "primary_language": "en",
+      "publication_date": "2014-01-15",
+      "title": "Artificial cultivation method for traditional Chinese medicine himalayan teasel root",
+      "patent_id": "patent/CN103503688A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103503688A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105165518A",
+      "primary_language": "en",
+      "publication_date": "2015-12-23",
+      "title": "Clonal tea tree breeding method",
+      "patent_id": "patent/CN105165518A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105165518A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104770264A",
+      "primary_language": "en",
+      "publication_date": "2015-07-15",
+      "title": "Tea tree cultivation method for increasing yield of tea seeds",
+      "patent_id": "patent/CN104770264A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104770264A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR100614533B1",
+      "primary_language": "en",
+      "publication_date": "2006-08-22",
+      "title": "How to induce a compact suit of potatoes",
+      "patent_id": "patent/KR100614533B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100614533B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN101156527A",
+      "primary_language": "en",
+      "publication_date": "2008-04-09",
+      "title": "Neuter breed cultivation method for fibraurea recisa pierre",
+      "patent_id": "patent/CN101156527A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN101156527A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102550492B",
+      "primary_language": "en",
+      "publication_date": "2013-07-24",
+      "title": "Artificial mass raising method for agasicles hygrophila",
+      "patent_id": "patent/CN102550492B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102550492B%2Fen"
+    },
+    {
+      "is_scholar": true,
+      "scholar_id": "5915626799949924344",
+      "scholar_authors": "Lim",
+      "publication_date": "1990",
+      "title": "Sericulture training manual",
+      "patent_id": "scholar/5915626799949924344",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=scholar%2F5915626799949924344"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104381074A",
+      "primary_language": "en",
+      "publication_date": "2015-03-04",
+      "title": "Winter jujube culture method",
+      "patent_id": "patent/CN104381074A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104381074A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN110140575A",
+      "primary_language": "en",
+      "publication_date": "2019-08-20",
+      "title": "A kind of pomegranate downgrades clump and plants or pomegranate minimum facility cultural method",
+      "patent_id": "patent/CN110140575A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110140575A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN109329126B",
+      "primary_language": "en",
+      "publication_date": "2021-06-01",
+      "title": "Farming and pasturing coupling type ecological organic dry farming agricultural land arrangement and planting and breeding mode and method",
+      "patent_id": "patent/CN109329126B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109329126B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN103190265A",
+      "primary_language": "en",
+      "publication_date": "2013-07-10",
+      "title": "Planting method of horse chestnut",
+      "patent_id": "patent/CN103190265A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103190265A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN105638358A",
+      "primary_language": "en",
+      "publication_date": "2016-06-08",
+      "title": "Cultivation method of sweet-scented osmanthus seedlings",
+      "patent_id": "patent/CN105638358A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105638358A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN104429430A",
+      "primary_language": "en",
+      "publication_date": "2015-03-25",
+      "title": "Method for planting taxuschinensis tea in garden",
+      "patent_id": "patent/CN104429430A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104429430A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN107079773A",
+      "primary_language": "en",
+      "publication_date": "2017-08-22",
+      "title": "The non-irrigated plateau fruit tree in Weihe north and weeds aquaponic method",
+      "patent_id": "patent/CN107079773A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107079773A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2017-01-11",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2017-01-11",
+      "code": "PB01",
+      "title": "Publication"
+    },
+    {
+      "date": "2017-02-08",
+      "code": "C10",
+      "title": "Entry into substantive examination"
+    },
+    {
+      "date": "2017-02-08",
+      "code": "SE01",
+      "title": "Entry into force of request for substantive examination"
+    },
+    {
+      "date": "2019-05-17",
+      "code": "WW01",
+      "title": "Invention patent application withdrawn after publication",
+      "attributes": [
+        {
+          "label": "Application publication date",
+          "value": "20170111"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-17",
+      "code": "WW01",
+      "title": "Invention patent application withdrawn after publication"
+    }
+  ]
+}
