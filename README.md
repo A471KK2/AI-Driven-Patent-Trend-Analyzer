@@ -5,7 +5,7 @@ A powerful agentic AI system for patent trend analysis and future technology pre
 
 ## Overview
 
-This system analyzes patent data to identify trends and predict future innovations in specific technology areas (with a focus on lithium battery technology). It uses a multi-agent approach with specialized roles for research direction, patent retrieval, data analysis, and innovation forecasting.
+This system analyzes patent data to identify trends and predict future innovations for any technology topic provided through the search interface. Using a multi-agent architecture with specialized roles for research direction, patent retrieval, data analysis, and innovation forecasting, the system retrieves relevant patents, analyzes coverage across sub-domains, and generates structured reports highlighting technology areas with limited or no existing patents, enabling gap analysis and opportunity identification
 
 ## System Architecture
 
