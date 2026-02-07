@@ -1,4 +1,4 @@
-# AI-Driven-Trend-Analyzer
+# AI-Driven-Patent-Trend-Analyzer
 
 A powerful agentic AI system for patent trend analysis and future technology prediction using Ollama, OpenSearch, and CrewAI.
 
